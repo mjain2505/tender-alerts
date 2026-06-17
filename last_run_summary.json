@@ -1,107 +1,188 @@
 {
-  "checked_at_utc": "2026-06-17 12:09:04",
+  "checked_at_utc": "2026-06-17 12:11:42",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Maintenance of AP/Odisha Border to Narasannapeta via Saravakota  from KM 0/0 to 41/979 ",
+        "2. Mobile Phone",
+        "3. Maintenance of NSSC DDA"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Janpad Balrampur ke Vikas Khand Balrampur evm Sriduttganj me bibhinn 5 sthano per R.O. ",
+        "2. Work of carriage of damaged transformers  in IPDS town and RAPDRP under the  jurisdicti",
+        "3. Work of carriage of damaged transformers  in IPDS town and RAPDRP under the  jurisdicti"
+      ]
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Hiring of 1 NO. Utility Vehicles at G1 and G2 Chowki for 4 (Four) Month for day to day ",
+        "2. Construction of Sakav on Road from Karavandewasti towards Dalit wast at Kalhat Tal Mava",
+        "3. Construction and gravel surfacing of a 1 km Matoshri Farm Access Road Panand Road from "
+      ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Shifting of electric poles and transformers, obstructing the construction of CC road in",
+        "2. Electrical work for Digitalization of office records in the hall on the first floor of ",
+        "3. \tNOTICE INVITING TENDERS FOR SUPPLY OF CATTLE FEED RAW MATERIALS TO CATTLE FEED PLANT, "
+      ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. plantation under women for trees and amrut mitra initiative 1. supply of fruit plant sa",
+        "2. (Package 03) Construction of Govt. School Building against Dilaptidated Primary School ",
+        "3. Statistical Package for Social Science Software and Hardware"
+      ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. WBIW/EE/MSCD/ NIT- 04(e) /2026-27",
+        "2.  \t03/e-NIT/EE/CSD/E and AM/KMDA of 2026-27, Date-11/06/2026",
+        "3. Appointment of Chartered Accountants Firm / Cost Accountants Firm as Internal Auditor o"
+      ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. PROCUREMENT OF SURFACE SIZING AGENT FOR BOARD MACHINE CCK OF TNPL UNIT II TO CONDUCT PL",
+        "2. Transportation of Paper Board in Reels/Bundles/Pallets from TNPL Unit-II at Mondipatti ",
+        "3. Removal of  silt in RCC Channel using Poclain and Tipper at Karumariamman Kovil street "
+      ]
     },
     {
       "name": "Punjab",
       "state": "Punjab",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Entrance gate in Haibowal ward no. 67",
+        "2. P/Laying RMC M-30 in Telephone exchange street and st.no.2 Durgapuri ward no. 67",
+        "3. P/Laying RMC M-30  in street no. 7,8,9 and Links in Raghubir park ward no. 67"
+      ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTRUCTION OF 2 LANE ROB IN LIEU OF LC NO. 20 AT RAILWAY KM. 32/12-14 ON DLI-UMB SECT",
+        "2. Provision of 5 Nos. Tubewell bore by DTH Machine (Small DTH for narrow streets) at vari",
+        "3. Special repair of all roads..."
+      ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. CC ROAD IN FRONT PORTION OF THE CAMPUS AT KVK DHENKANAL",
+        "2. CONSTRUCTION OF SALES COUNTER AT KVK DHENKANAL",
+        "3. MOORUM ROAD CONNECTING QPM UNIT TO MAIN ROAD AT KVK DHENKANAL"
+      ]
     },
     {
       "name": "Jharkhand",
       "state": "Jharkhand",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction  of PCC road of colony premises at  220/132 KV G/S/S, Hatia-II",
+        "2. Area Development in the campus of store shed at 132/33 KV G/S/S, Kamdara.",
+        "3. e-NIT No.-259/PR/JUSNL/26-27"
+      ]
     },
     {
       "name": "Himachal Pradesh",
       "state": "Himachal Pradesh",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Repair and Maintenance of Nerwa to Kiri road km. 0/0 to 8/0",
+        "2. Repair and Maintenance of Sainj Chopal Nerwa Fediz road Km. 20/0 to 90/0",
+        "3. Periodic Renewal and Periodic maintenance of Sainj Chopal Nerwa Fediz road km 20/0 to 9"
+      ]
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. eTender for Statutory Auditor Appointment for FY 2025-26",
+        "2. Construction work of the road from Dade Dhani Chayur Tok Gram Panchayat of Gangolihat d",
+        "3. Construction work of CC from the main road to the fields of Shri Deepak Singh Negi, Shr"
+      ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8daca4e490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))"
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f692d4869d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of 11 KV spur Line  Installation of 11 0.433 KV 315 KVA  Pad Mounted SS  i",
+        "2. Supply of items for SNCU NICU and KMCU of Dhubri Medical College and Hospital on Rate C",
+        "3. Supply and Installation of Compute Solution III"
+      ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. DP KKD 2025-26 Proj. 997/26 Koolikkunnu Bhajanamadam Choyimadam Road Hand Rail - Velom ",
+        "2. Traco- Re tender of tender for Iinviting EOI for dismantling of cable manufacturing mac",
+        "3. Vehicle Hiring in Kanjeettukara Day Care Center"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
       "tenders_seen": 23,
-      "status": "ok"
+      "status": "ok",
+      "sample_titles": [
+        "1. Revamping Renovation of Various Receiving Stns in respect of STD Udhampur Elect Works",
+        "2. General Maintenance/Up-keeping of below mentioned roads during the year 2025-26 1. Marh",
+        "3. Balance work of slaughter Houses at Gujjar Nagar and Dogra Hall, Jammu"
+      ]
     }
   ],
   "new_matches_found": 0
