@@ -1,0 +1,25 @@
+{
+  "_comment": "Each entry is one government tender portal. 'app_url' is checked automatically. 'verified' = true means it was confirmed working when this file was built (June 2026); false means best-effort based on standard naming, may need a small fix later.",
+
+  "portals": [
+    { "name": "CPPP - Central Government (all ministries)", "state": "Central", "app_url": "https://eprocure.gov.in/eprocure/app", "verified": true },
+    { "name": "Uttar Pradesh", "state": "Uttar Pradesh", "app_url": "https://etender.up.nic.in/nicgep/app", "verified": true },
+    { "name": "Maharashtra", "state": "Maharashtra", "app_url": "https://mahatenders.gov.in/nicgep/app", "verified": true },
+    { "name": "Rajasthan", "state": "Rajasthan", "app_url": "https://eproc.rajasthan.gov.in/nicgep/app", "verified": true },
+    { "name": "Madhya Pradesh", "state": "Madhya Pradesh", "app_url": "https://mptenders.gov.in/nicgep/app", "verified": true },
+    { "name": "West Bengal", "state": "West Bengal", "app_url": "https://wbtenders.gov.in/nicgep/app", "verified": true },
+    { "name": "Tamil Nadu", "state": "Tamil Nadu", "app_url": "https://tntenders.gov.in/nicgep/app", "verified": true },
+
+    { "name": "Punjab", "state": "Punjab", "app_url": "https://eproc.punjab.gov.in/nicgep/app", "verified": false },
+    { "name": "Haryana", "state": "Haryana", "app_url": "https://etenders.hry.nic.in/nicgep/app", "verified": false },
+    { "name": "Bihar", "state": "Bihar", "app_url": "https://eproc.bihar.gov.in/nicgep/app", "verified": false },
+    { "name": "Odisha", "state": "Odisha", "app_url": "https://tendersorissa.gov.in/nicgep/app", "verified": false },
+    { "name": "Jharkhand", "state": "Jharkhand", "app_url": "https://jharkhandtenders.gov.in/nicgep/app", "verified": false },
+    { "name": "Himachal Pradesh", "state": "Himachal Pradesh", "app_url": "https://hptenders.gov.in/nicgep/app", "verified": false },
+    { "name": "Uttarakhand", "state": "Uttarakhand", "app_url": "https://uktenders.gov.in/nicgep/app", "verified": false },
+    { "name": "Chhattisgarh", "state": "Chhattisgarh", "app_url": "https://eproc.cgstate.gov.in/nicgep/app", "verified": false },
+    { "name": "Assam", "state": "Assam", "app_url": "https://assamtenders.gov.in/nicgep/app", "verified": false },
+    { "name": "Kerala", "state": "Kerala", "app_url": "https://etenders.kerala.gov.in/nicgep/app", "verified": false },
+    { "name": "Jammu and Kashmir", "state": "Jammu and Kashmir", "app_url": "https://jktenders.gov.in/nicgep/app", "verified": false }
+  ]
+}
