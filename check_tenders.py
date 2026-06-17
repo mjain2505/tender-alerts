@@ -86,9 +86,10 @@ def fetch_latest_tenders(portal):
 
     results = []
     error = None
+    diag = {}
     try:
         # Visit homepage first to pick up a session cookie, like a browser would.
-        session.get(app_url, timeout=REQUEST_TIMEOUT)
+        home_resp = session.get(app_url, timeout=REQUEST_TIMEOUT)
 
         listing_url = app_url + "?page=FrontEndLatestActiveTenders&service=page"
         resp = session.get(listing_url, timeout=REQUEST_TIMEOUT)
@@ -96,6 +97,16 @@ def fetch_latest_tenders(portal):
 
         soup = BeautifulSoup(resp.text, "html.parser")
         links = soup.find_all("a", href=lambda h: h and "DirectLink" in h)
+
+        # Diagnostics in case we get 0 links, so we can tell what page we actually got.
+        title_tag = soup.find("title")
+        diag = {
+            "final_url": resp.url,
+            "status_code": resp.status_code,
+            "html_length": len(resp.text),
+            "page_title": title_tag.get_text(strip=True) if title_tag else None,
+            "html_snippet": resp.text[:300].replace("\n", " "),
+        }
 
         for link in links:
             title = link.get_text(strip=True)
@@ -114,7 +125,7 @@ def fetch_latest_tenders(portal):
         error = str(exc)
         print(f"  [warn] Could not check '{portal['name']}': {exc}")
 
-    return results, error
+    return results, error, diag
 
 
 # ---------------------------------------------------------------------------
@@ -228,14 +239,17 @@ def main():
 
     for portal in portals:
         print(f"Checking: {portal['name']} ...")
-        tenders, error = fetch_latest_tenders(portal)
+        tenders, error, diag = fetch_latest_tenders(portal)
         print(f"  Found {len(tenders)} listed tender(s).")
-        portal_summary.append({
+        entry = {
             "name": portal["name"],
             "state": portal["state"],
             "tenders_seen": len(tenders),
             "status": "ok" if len(tenders) > 0 else (error or "0 results (check URL / site structure)"),
-        })
+        }
+        if len(tenders) == 0 and diag:
+            entry["diagnostic"] = diag
+        portal_summary.append(entry)
 
         for tender in tenders:
             kw = find_matching_keyword(tender["title"])
