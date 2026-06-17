@@ -1,59 +1,122 @@
 {
-  "checked_at_utc": "2026-06-17 11:56:45",
+  "checked_at_utc": "2026-06-17 12:01:08",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://eprocure.gov.in/eprocure/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 33459,
+        "page_title": "eProcurement System Government of India",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of India</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=UT"
+      }
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://etender.up.nic.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 32866,
+        "page_title": "eProcurement System Government of Uttar Pradesh",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Uttar Pradesh</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;ch"
+      }
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 34001,
+        "page_title": "eProcurement System Government of Maharashtra",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Maharashtra</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;char"
+      }
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 35069,
+        "page_title": "eProcurement System Government of Rajasthan",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Rajasthan</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charse"
+      }
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://mptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 32774,
+        "page_title": "eProcurement System Government of Madhya Pradesh",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Madhya Pradesh</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;c"
+      }
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://wbtenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 32767,
+        "page_title": "eProcurement System of Government of West Bengal",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System of Government of West Bengal</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;c"
+      }
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://tntenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 35048,
+        "page_title": "eProcurement System Government of Tamil Nadu",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Tamil Nadu</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;chars"
+      }
     },
     {
       "name": "Punjab",
       "state": "Punjab",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://eproc.punjab.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 33048,
+        "page_title": "eProcurement System Government of Punjab",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Punjab</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=U"
+      }
     },
     {
       "name": "Haryana",
       "state": "Haryana",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://etenders.hry.nic.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 32764,
+        "page_title": "eProcurement System Government of Haryana",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Haryana</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset="
+      }
     },
     {
       "name": "Bihar",
@@ -71,43 +134,85 @@
       "name": "Jharkhand",
       "state": "Jharkhand",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://jharkhandtenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 32502,
+        "page_title": "eProcurement System Government of Jharkhand",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Jharkhand</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charse"
+      }
     },
     {
       "name": "Himachal Pradesh",
       "state": "Himachal Pradesh",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://hptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 32973,
+        "page_title": "eProcurement System Government of Himachal Pradesh",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Himachal Pradesh</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html"
+      }
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://uktenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 34201,
+        "page_title": "eProcurement System Government of Uttarakhand",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Uttarakhand</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;char"
+      }
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8975a7a390>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))"
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7febf48ee750>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))"
     },
     {
       "name": "Assam",
       "state": "Assam",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://assamtenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 35453,
+        "page_title": "eProcurement System Government of Assam",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Assam</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=UT"
+      }
     },
     {
       "name": "Kerala",
       "state": "Kerala",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://etenders.kerala.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 37254,
+        "page_title": "eTendering System Government of Kerala",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eTendering System Government of Kerala</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=UTF"
+      }
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)"
+      "status": "0 results (check URL / site structure)",
+      "diagnostic": {
+        "final_url": "https://jktenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+        "status_code": 200,
+        "html_length": 32408,
+        "page_title": "eProcurement System Government of Jammu And Kashmir",
+        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Jammu And Kashmir</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/htm"
+      }
     }
   ],
   "new_matches_found": 0
