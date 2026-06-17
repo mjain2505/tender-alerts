@@ -100,12 +100,18 @@ def fetch_latest_tenders(portal):
 
         # Diagnostics in case we get 0 links, so we can tell what page we actually got.
         title_tag = soup.find("title")
+        all_links = soup.find_all("a", href=True)
+        sample_links = [
+            {"text": a.get_text(strip=True)[:80], "href": a["href"][:120]}
+            for a in all_links[:15]
+        ]
         diag = {
             "final_url": resp.url,
             "status_code": resp.status_code,
             "html_length": len(resp.text),
             "page_title": title_tag.get_text(strip=True) if title_tag else None,
-            "html_snippet": resp.text[:300].replace("\n", " "),
+            "total_links_on_page": len(all_links),
+            "sample_links": sample_links,
         }
 
         for link in links:
