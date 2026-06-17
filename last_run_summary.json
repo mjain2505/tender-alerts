@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-17 12:01:08",
+  "checked_at_utc": "2026-06-17 12:04:29",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,9 +9,71 @@
       "diagnostic": {
         "final_url": "https://eprocure.gov.in/eprocure/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 33459,
+        "html_length": 33381,
         "page_title": "eProcurement System Government of India",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of India</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=UT"
+        "total_links_on_page": 32,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/eprocure/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/eprocure/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/eprocure/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/eprocure/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/eprocure/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Bid Awards",
+            "href": "/eprocure/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "CPPP Home",
+            "href": "http://eprocure.gov.in/cppp/"
+          },
+          {
+            "text": "",
+            "href": "/eprocure/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/eprocure/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/eprocure/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/eprocure/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/eproc/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/eprocure/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/eprocure/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/eprocure/app?page=FrontEndTendersByClassification&service=page"
+          }
+        ]
       }
     },
     {
@@ -22,9 +84,71 @@
       "diagnostic": {
         "final_url": "https://etender.up.nic.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 32866,
+        "html_length": 32926,
         "page_title": "eProcurement System Government of Uttar Pradesh",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Uttar Pradesh</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;ch"
+        "total_links_on_page": 31,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/up/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"
+          },
+          {
+            "text": "Tenders in Archive",
+            "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"
+          }
+        ]
       }
     },
     {
@@ -35,9 +159,71 @@
       "diagnostic": {
         "final_url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 34001,
+        "html_length": 34141,
         "page_title": "eProcurement System Government of Maharashtra",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Maharashtra</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;char"
+        "total_links_on_page": 34,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "« From 15th August 2024 application fees of Rs 500 per bid shall be charged from",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#388"
+          },
+          {
+            "text": "« Bidders who are using SB MOPS other banks Internet Banking are requested to ma",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#77"
+          },
+          {
+            "text": "« For online Payment related issues, kindly send an email with Bank Reference Nu",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#107"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/maha/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          }
+        ]
       }
     },
     {
@@ -48,9 +234,71 @@
       "diagnostic": {
         "final_url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 35069,
+        "html_length": 35269,
         "page_title": "eProcurement System Government of Rajasthan",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Rajasthan</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charse"
+        "total_links_on_page": 39,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "« Correspondence address of e-Procurement cell",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#242"
+          },
+          {
+            "text": "« Revision in RISL Processing Fees",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#208"
+          },
+          {
+            "text": "« Order regarding implementation of e-procurement dated 30-09-2011",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#198"
+          },
+          {
+            "text": "« Circular Dated 27-04-2020 regarding deposit of bid document fees, bid security",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#159"
+          },
+          {
+            "text": "« Reduction in threshold limit for e-procurement from 01 September, 2016",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#70"
+          },
+          {
+            "text": "« Department Users are recommended to select 2 of 4 Bid Openers option in tender",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#120"
+          }
+        ]
       }
     },
     {
@@ -61,9 +309,71 @@
       "diagnostic": {
         "final_url": "https://mptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 32774,
+        "html_length": 32778,
         "page_title": "eProcurement System Government of Madhya Pradesh",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Madhya Pradesh</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;c"
+        "total_links_on_page": 31,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/mp/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"
+          },
+          {
+            "text": "Tenders in Archive",
+            "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"
+          }
+        ]
       }
     },
     {
@@ -74,9 +384,71 @@
       "diagnostic": {
         "final_url": "https://wbtenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 32767,
+        "html_length": 33013,
         "page_title": "eProcurement System of Government of West Bengal",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System of Government of West Bengal</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;c"
+        "total_links_on_page": 31,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/wb/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"
+          },
+          {
+            "text": "Tenders in Archive",
+            "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"
+          }
+        ]
       }
     },
     {
@@ -87,9 +459,71 @@
       "diagnostic": {
         "final_url": "https://tntenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 35048,
+        "html_length": 35228,
         "page_title": "eProcurement System Government of Tamil Nadu",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Tamil Nadu</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;chars"
+        "total_links_on_page": 35,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "« eBG to be the only acceptable form of bank guarantee for receiving EMD from 01",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#318"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "TN Tenders Act",
+            "href": "https://tntenders.gov.in//TNTIT_Act_Amt_upto_09.07.2024.pdf"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/tn/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          }
+        ]
       }
     },
     {
@@ -100,9 +534,71 @@
       "diagnostic": {
         "final_url": "https://eproc.punjab.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 33048,
+        "html_length": 33446,
         "page_title": "eProcurement System Government of Punjab",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Punjab</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=U"
+        "total_links_on_page": 33,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "« Intimation Regarding Bidder Registration Charges",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#176"
+          },
+          {
+            "text": "« Intimation Regarding Payment through NEFT / RTGS Mode",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#85"
+          },
+          {
+            "text": "« Intimation Regarding Payment of Online Fees",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#75"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/pb/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          }
+        ]
       }
     },
     {
@@ -113,9 +609,71 @@
       "diagnostic": {
         "final_url": "https://etenders.hry.nic.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 32764,
+        "html_length": 32990,
         "page_title": "eProcurement System Government of Haryana",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Haryana</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset="
+        "total_links_on_page": 31,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/hry/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"
+          },
+          {
+            "text": "Tenders in Archive",
+            "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"
+          }
+        ]
       }
     },
     {
@@ -138,9 +696,71 @@
       "diagnostic": {
         "final_url": "https://jharkhandtenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 32502,
+        "html_length": 32394,
         "page_title": "eProcurement System Government of Jharkhand",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Jharkhand</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charse"
+        "total_links_on_page": 30,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/jhr/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"
+          },
+          {
+            "text": "Tenders in Archive",
+            "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"
+          }
+        ]
       }
     },
     {
@@ -151,9 +771,71 @@
       "diagnostic": {
         "final_url": "https://hptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 32973,
+        "html_length": 32907,
         "page_title": "eProcurement System Government of Himachal Pradesh",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Himachal Pradesh</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html"
+        "total_links_on_page": 31,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/hp/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"
+          },
+          {
+            "text": "Tenders in Archive",
+            "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"
+          }
+        ]
       }
     },
     {
@@ -164,16 +846,78 @@
       "diagnostic": {
         "final_url": "https://uktenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 34201,
+        "html_length": 34221,
         "page_title": "eProcurement System Government of Uttarakhand",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Uttarakhand</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;char"
+        "total_links_on_page": 36,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "« STANDARD BID DOCUMENT FOR PROCUREMNET OF WORKS",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#214"
+          },
+          {
+            "text": "« REQUEST FOR PROPOSAL FOR PROCUREMENT OF CONSULTANCY SERVICES",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#215"
+          },
+          {
+            "text": "« Procurement Rules 2025",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#216"
+          },
+          {
+            "text": "« STANDARD BIDDING DOCUMENT FOR PROCUREMENT OF OF GOODS",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#213"
+          },
+          {
+            "text": "« Guidelines regarding Standard Bidding Document (SBD) for works e-tenders up to",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#212"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          }
+        ]
       }
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7febf48ee750>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))"
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff85e692150>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))"
     },
     {
       "name": "Assam",
@@ -183,9 +927,71 @@
       "diagnostic": {
         "final_url": "https://assamtenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 35453,
+        "html_length": 35569,
         "page_title": "eProcurement System Government of Assam",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Assam</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=UT"
+        "total_links_on_page": 39,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "« Assam Tenders Portal new email id assam-tenders@assam.gov.in",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#260"
+          },
+          {
+            "text": "« Technical issues redressal mechanism",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#259"
+          },
+          {
+            "text": "« Second Appellate Authority of all Administrative Departments of Govt. of Assam",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#238"
+          },
+          {
+            "text": "« Instruction to Bidders for Pending Bid Security/EMD (Refund)",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#218"
+          },
+          {
+            "text": "« PROCEDURE TO CANCEL NEFT/RTGS TRANSACTION",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#214"
+          },
+          {
+            "text": "« Bidder Manual for Online Payment of Tender related Fees in eProcurement Portal",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#191"
+          }
+        ]
       }
     },
     {
@@ -196,9 +1002,71 @@
       "diagnostic": {
         "final_url": "https://etenders.kerala.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 37254,
+        "html_length": 37118,
         "page_title": "eTendering System Government of Kerala",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eTendering System Government of Kerala</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=UTF"
+        "total_links_on_page": 45,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "« Fee Collection Implementation in e-Procurement Portal",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#304"
+          },
+          {
+            "text": "« Kind attention is invited to the GO No.159/2025/ITD dated 11.07.25 where in sa",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#303"
+          },
+          {
+            "text": "« G.O. (Ms)No. 13-2015-ITD dated 12-05-2015  Slab to Rs 5 Lakh",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#284"
+          },
+          {
+            "text": "« Kind Attention TIAs -Regarding Status updation of pending tenders",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#282"
+          },
+          {
+            "text": "« Kind Attention Dept Officials regarding the guideline issued by PRD on window ",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#267"
+          },
+          {
+            "text": "« Steps for Payment Verification when amount is debited from account and not ref",
+            "href": "/nicgep/app?page=WebAnnouncements&service=page#265"
+          }
+        ]
       }
     },
     {
@@ -209,9 +1077,71 @@
       "diagnostic": {
         "final_url": "https://jktenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
         "status_code": 200,
-        "html_length": 32408,
+        "html_length": 32428,
         "page_title": "eProcurement System Government of Jammu And Kashmir",
-        "html_snippet": "<head>\r \t<base target=\"_self\">\r \t<title>eProcurement System Government of Jammu And Kashmir</title>\r </head>\r <!-- BEGIN: HEADER -->\r <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> <html> <head> <meta http-equiv=\"Content-Type\" content=\"text/htm"
+        "total_links_on_page": 30,
+        "sample_links": [
+          {
+            "text": "Screen Reader Access",
+            "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"
+          },
+          {
+            "text": "Search",
+            "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"
+          },
+          {
+            "text": "Active Tenders",
+            "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"
+          },
+          {
+            "text": "Tenders by Closing Date",
+            "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"
+          },
+          {
+            "text": "Corrigendum",
+            "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"
+          },
+          {
+            "text": "Results of Tenders",
+            "href": "/nicgep/app?page=ResultOfTenders&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=SiteMap&service=page"
+          },
+          {
+            "text": "",
+            "href": "/nicgep/app?page=Home&service=page"
+          },
+          {
+            "text": "MIS Reports",
+            "href": "https://gepnicreports.gov.in/eprocreports/jnk/"
+          },
+          {
+            "text": "Tenders by Location",
+            "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"
+          },
+          {
+            "text": "Tenders by Organisation",
+            "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"
+          },
+          {
+            "text": "Tenders by Classification",
+            "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"
+          },
+          {
+            "text": "Tenders in Archive",
+            "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"
+          }
+        ]
       }
     }
   ],
