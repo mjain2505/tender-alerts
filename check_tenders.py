@@ -253,6 +253,7 @@ def main():
             "tenders_seen": len(tenders),
             "status": "ok" if len(tenders) > 0 else (error or "0 results (check URL / site structure)"),
         }
+        entry["sample_titles"] = [t["title"][:90] for t in tenders[:3]]
         if len(tenders) == 0 and diag:
             entry["diagnostic"] = diag
         portal_summary.append(entry)
