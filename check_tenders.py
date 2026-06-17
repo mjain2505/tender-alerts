@@ -88,11 +88,11 @@ def fetch_latest_tenders(portal):
     error = None
     diag = {}
     try:
-        # Visit homepage first to pick up a session cookie, like a browser would.
-        home_resp = session.get(app_url, timeout=REQUEST_TIMEOUT)
-
-        listing_url = app_url + "?page=FrontEndLatestActiveTenders&service=page"
-        resp = session.get(listing_url, timeout=REQUEST_TIMEOUT)
+        # The homepage itself shows a "Latest Tenders" widget with real entries.
+        # Deep-linking straight to the "FrontEndLatestActiveTenders" page tends to
+        # bounce back to a generic shell page on these session-based government
+        # sites, so we read tenders directly off the homepage response instead.
+        resp = session.get(app_url, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
 
         soup = BeautifulSoup(resp.text, "html.parser")

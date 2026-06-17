@@ -12,8 +12,7 @@
 
     { "name": "Punjab", "state": "Punjab", "app_url": "https://eproc.punjab.gov.in/nicgep/app", "verified": false },
     { "name": "Haryana", "state": "Haryana", "app_url": "https://etenders.hry.nic.in/nicgep/app", "verified": false },
-    { "name": "Bihar", "state": "Bihar", "app_url": "https://eproc.bihar.gov.in/nicgep/app", "verified": false },
-    { "name": "Odisha", "state": "Odisha", "app_url": "https://tendersorissa.gov.in/nicgep/app", "verified": false },
+    { "name": "Odisha", "state": "Odisha", "app_url": "https://tendersodisha.gov.in/nicgep/app", "verified": false },
     { "name": "Jharkhand", "state": "Jharkhand", "app_url": "https://jharkhandtenders.gov.in/nicgep/app", "verified": false },
     { "name": "Himachal Pradesh", "state": "Himachal Pradesh", "app_url": "https://hptenders.gov.in/nicgep/app", "verified": false },
     { "name": "Uttarakhand", "state": "Uttarakhand", "app_url": "https://uktenders.gov.in/nicgep/app", "verified": false },
