@@ -32,6 +32,7 @@ KEYWORDS = [
     "Misting system for cooling",
     "Musical fountain",
     "Musical Fountain with Multimedia",
+    "Construction",  # TEMPORARY — proves the real match+alert pipeline works end to end, will be removed right after
 ]
 
 STOP_WORDS = {"for", "with", "and", "the", "of", "a", "an", "to", "system", "systems"}
