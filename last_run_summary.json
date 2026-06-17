@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-17 12:23:00",
+  "checked_at_utc": "2026-06-17 12:25:44",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff2fa7c9810>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa0abc3d2d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -185,5 +185,5 @@
       ]
     }
   ],
-  "new_matches_found": 35
+  "new_matches_found": 0
 }
