@@ -85,6 +85,7 @@ def fetch_latest_tenders(portal):
     session.headers.update(HEADERS)
 
     results = []
+    error = None
     try:
         # Visit homepage first to pick up a session cookie, like a browser would.
         session.get(app_url, timeout=REQUEST_TIMEOUT)
@@ -110,9 +111,10 @@ def fetch_latest_tenders(portal):
             })
 
     except Exception as exc:
+        error = str(exc)
         print(f"  [warn] Could not check '{portal['name']}': {exc}")
 
-    return results
+    return results, error
 
 
 # ---------------------------------------------------------------------------
@@ -133,6 +135,12 @@ def save_seen(seen):
 
 def tender_key(portal_name, title):
     return f"{portal_name}::{title.strip().lower()}"
+
+
+def save_run_summary(summary):
+    path = os.path.join(os.path.dirname(__file__), "last_run_summary.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(summary, f, indent=2, ensure_ascii=False)
 
 
 # ---------------------------------------------------------------------------
@@ -216,11 +224,18 @@ def main():
 
     seen = load_seen()
     new_matches = []
+    portal_summary = []
 
     for portal in portals:
         print(f"Checking: {portal['name']} ...")
-        tenders = fetch_latest_tenders(portal)
+        tenders, error = fetch_latest_tenders(portal)
         print(f"  Found {len(tenders)} listed tender(s).")
+        portal_summary.append({
+            "name": portal["name"],
+            "state": portal["state"],
+            "tenders_seen": len(tenders),
+            "status": "ok" if len(tenders) > 0 else (error or "0 results (check URL / site structure)"),
+        })
 
         for tender in tenders:
             kw = find_matching_keyword(tender["title"])
@@ -246,6 +261,11 @@ def main():
         print("\nNo new matching tenders this run.")
 
     save_seen(seen)
+    save_run_summary({
+        "checked_at_utc": time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()),
+        "portals": portal_summary,
+        "new_matches_found": len(new_matches),
+    })
 
 
 if __name__ == "__main__":
