@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-17 19:54:31",
+  "checked_at_utc": "2026-06-18 11:58:08",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing approach pathway from Shiv Temple to Rani Mahal and repairing of approach pat",
-        "2. Development of Tourist facilities like sitting area, toilet block, dustbins, direction ",
-        "3. NHIDCL/ROImphal/Lokchao/26"
+        "1. Improvement and upgradation of room no 604 (DIG ADM) of block no. 10 CGO Complex under ",
+        "2. Improvement and Up gradation of room no 805 and 806 of block no 10 CGO Complex under FH",
+        "3. M/o completed scheme finishing and furnishing i/c T.C. etc. complete at Vikas Sadan."
       ]
     },
     {
@@ -18,17 +18,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 3 NPP Chandausi me Ward No 12 Panju ke makan se Anand ke makan tak interlocking sadak e",
-        "2. Annual Maintenance of Street Light at Noida-Greater Noida Expressway (From  Sector-14 A",
-        "3. 2 NPP Chandausi me Ward No 13 Bipin ke makan se Shivcharan ke makan tak interlocking sa"
+        "1. Supply And Installation of 80 lit. water cooler with plate form and Safety cover at   V",
+        "2. Construction of C.C. Road work at Vill. Chandpur in Amarpal House to Sanjay House (Vidh",
+        "3. Work-01 Construction of an athletic track on the footpath in Central Park Ward-84 Rajna"
       ]
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='mahatenders.gov.in', port=443): Failed to resolve 'mahatenders.gov.in' ([Errno -3] Temporary failure in name resolution)\"))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTRUCTION AND BUETIFICATION OF UDYN",
+        "2. Constructing Virangula Kendra for Jetha Nagarik At Village KODID Tal . Shirpur Dist.Dhu",
+        "3.  Increasing height of chambers and  repairs to road from Naleshwar Mandir to Alkapuri r"
+      ]
     },
     {
       "name": "Rajasthan",
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of garbage collection center in Devikheda",
-        "2. Construction of garbage collection center in Bisalpur (Ratanpura)",
-        "3. Construction of garbage collection center in Ramsagar"
+        "1. Construction of SHC Building at Khanpur, Distt. Dausa",
+        "2. Repair of Handpumps installed by KDA in Scheme and Non Scheme Area of KDA Kota",
+        "3. MANPOWER SERVICES FOR MGGS UNDER OFFICE OF ADPC, SMSA, JAIPUR"
       ]
     },
     {
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction Of Drain in Nehru Nagar Colony at Sardar Ballabh Bhai Patel Ward Under Zon",
-        "2. Construction of RCC culvert and drain from Mahavir Park towards the main road near Jain",
-        "3. Raising the height of the boundary wall and carrying out other necessary works to preve"
+        "1. AR, SR and Renovation Work at Lokayukta office 1st Floor  H ble Legal Advisor Lokayukt ",
+        "2. Repair renovation and deposit work for non residential building under construction sub ",
+        "3. Various civil horticulture work at Chinar Park, Bhopal"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 01/15TH CFC/G.P-10/2(2026-27)",
-        "2. WBPHED/AE/KSD/01of26_27_sl1",
-        "3. POND(TANK) SIDE EMBANKMENT WITH BULLA FOR PROTECTION OF WATER BODY BESIDE BISHNUPUR SAN"
+        "1. Construction of Cement Concreate road from NH-16 to Niranjan Das house at Dwarikapur.",
+        "2. Construction of Guardwall at Road side near Biswajit Hanra house to Madan Hanra house a",
+        "3. Construction of Cement Concreate road from Gour Layek house to Lalita Gantait house at "
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Laying of Wearing coat on Northern side of the Nungambakkam subway in Division-109, Zon",
-        "2. Laying of Wearing coat on Southern side of the Nungambakkam subway in Division-109, Zon",
-        "3. Annual Tender 2026-27 Perungulam Town Panchayat"
+        "1. Reconstruction of Damage RCC roof at Sulphur burner area with existing column",
+        "2. Procurement of Acrylic Binder-1 for Board Machine for TNPL - Unit II, Mondipatti",
+        "3. Provision of one no. petrol/diesel driven Van/Equivalent                      vehicle o"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/LAYING KERB STONE, PAINTING AND OTHER REMAINING CIVIL WORK ON BOTH SIDE ROADS OF CHIE",
-        "2. REPAIR AND RENOVATION OF TOILET BLOCKS SITUATED AT DIFFERENT PLACES IN NANGAL TOWNSHIP.",
-        "3. S/E OF TOWER LIGHTS IN BBMB CRICKET GROUND WITH O AND M FOR 5 YEARS."
+        "1. Construction of Veternary Hospital at Vill. Dudhan Sadhan, Block Bhunerheri, Distt. Pat",
+        "2. Proposed Rural water supply scheme for 4 No village Dhani Phus Mandi Tibbi Hari Singh S",
+        "3. Canal Water Based Water Supply Project for Construction of 4.00 MLD Water Treatment Pla"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Engagement of an agency for providing Street Sweeping, Drain Cleaning, and Bush Uprooti",
-        "2. Engagement of an agency for providing Street Sweeping, Drain Cleaning, and Bush Uprooti",
-        "3. Engagement of an agency for providing Street Sweeping, Drain Cleaning, and Bush Uprooti"
+        "1. Running, Operation and Maintenance of Water supply tube wells for outsourcing in Ward N",
+        "2. Annual repair for Main Store building at Gohana in Sonepat Distt. for the year 2026-27.",
+        "3. Special repair balance work in Govt. College Rithoj, Distt. Gurugram (CM Announcement N"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RD road to Suninda road__Renewal coat SDBC and Side shoulder with WBM-III Patches0.000 ",
-        "2. RD road to Khaparkhai__Renewal coat SDBC and Side shoulder with WBM-III Patches0.000 to",
-        "3. RD road to Nischintpur__Renewal coat SDBC and Side shoulder0.000 to 2.000"
+        "1. ANNUAL RATE CONTRACT FOR SUPPLY, OPERATION and MAINTENANCE OF ELECTRIC VEHICLES/ FUEL B",
+        "2. Construction of paver block road from Mohanty babu house towards Badadanda Sahi in W.No",
+        "3. Construction of paver block road from Jyotsna Dalei house to Chagu Behera house in W.No"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1. Construction of 5 ACR  in R.K. PLUS 2 HS NAGARUNTARI    2. Construction of 8  ACR  i",
-        "2. Construction of 17 ACR in RAJKIYEKRIT PLUS 2 H.S TARHASI in Palamu District of Palamu D",
-        "3. 1- Construction of 4 ACR  in Govt UPG H S Soh 2- Construction of 4 ACR  in PLUS 2 H S G"
+        "1. Repair of Anganwadi Centre at Hethpochara Madhay Village Hethpochara GP Hethpochara, Bl",
+        "2. 1. Const. of 02 ACR in UPG Govt HS Baliyajor  2. Const. of 02 ACR in UPG Govt HS Tingin",
+        "3. 1. Const. of 02 ACR in Govt Secondary School Saldega  2. Const. of 02 ACR in Govt Secon"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. IED-15/2026-27",
-        "2. IED-12/2026-27",
-        "3. IED-13/2026-27"
+        "1. Tender for providing and fixing of 22KV GO Switch in Local Feeder Reckong Peo under Ele",
+        "2. HDPE Pipes (ISI Marked) under Item Code - C-33",
+        "3. Restoration of Rain Damages on Various roads under HPPWD. Sub Division Kotla (Section N"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E Tender No 15/EDC(K)/2026-27",
-        "2. E Tender No 17/EDC(K)/2026-27",
-        "3. E Tender No 18/EDC(K)/2026-27"
+        "1. Under Honble Chief Ministers Announcement No 38-2018 FY 2021-22 construction of Piplago",
+        "2. Supply Installation Testing and Commissioning of Public Information Display Screens (LE",
+        "3. Procurement of Construction of Tube Well and Pump House Rising Main Distribution SITC o"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6e4f01bed0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7b0626ab90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DESIGN,SUPPLY , INSTALLATION, TESTING AND COMMISSIONING OF ALL MACHINERIES FOR MRF UNDE",
-        "2. Construction of 11 KV spur Line  Installation of 11 0.433 KV 315 KVA  Pad Mounted SS  i",
-        "3. Supply of items for SNCU NICU and KMCU of Dhubri Medical College and Hospital on Rate C"
+        "1. Settlement of Beel Fisheries",
+        "2. Annual Operational Maintenance of PWD IB, Office Building and AC Bus stand at Amingaon ",
+        "3. Annual Operational-Maintenance of PWD IB and Office Building at Amingaon for the period"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Kaviyoor Devaswom in Thiruvalla group- temple pond maintenance  RETENDER",
-        "2. Changankari devaswom in Ambalappuzha group-Providing pathway and maintenance to Ayyappa",
-        "3. DEPOSIT- Replacement of 1 no. damaged 8.5TR compressor unit of AC installed in the Orth"
+        "1. CONSTRUCTION OF STEEL STAIR STRUCTURE FOR OVERHEAD TANK",
+        "2. Tirurangadi Municipality Construction of Handrail for Kakkunnathpara road in div 4-S003",
+        "3. Construction of Parking Shed and Roofing Over the Open Terrace at the DFO Camp Office K"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For all Panchayats Block  Uri",
-        "2. Procurement of Key Materials for MGNREGA Works For  all Panchayats ( Except Panchayat H",
-        "3. Procurement of Key Materials for MGNREGA Works For all Panchayats Block Parenpillan"
+        "1. Providing, Laying, Installation, Testing and Commissioning of 630 mm sq. single core XL",
+        "2. Providing,  and Topping of High Grade Transformer oil of  Reputed  OMC like Indian oil ",
+        "3. Outsourcing the Operation and Management of Garden Cafeteria at Cheshmashahi Srinagar"
       ]
     }
   ],
