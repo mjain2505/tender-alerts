@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-18 20:45:04",
+  "checked_at_utc": "2026-06-19 12:35:23",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Consultancy Services for AE for supervision of Imp. and upgradation to 2 lane with PS c",
-        "2. Dismantling and shifting of existing LT Panels and restoration of power supply at 3rd f",
-        "3. Road marking painting"
+        "1. Construction of SPT structure i.e Jawan barrack , BOP Comdr Office cum residence ,QG an",
+        "2. Mechanized Cleaning and Housekeeping of Entire Diamond Jubilee Complex",
+        "3. Consultancy Services for Assessment of Load Carrying Capacity and Structural Soundness "
       ]
     },
     {
@@ -18,21 +18,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TNO.24/EDC2MT/2026-27",
-        "2. Construction of CC road and drain teliyarganj back side of avtar talkies indramani shuk",
-        "3. APPOINTMENT OF CONSULTANT FOR  VARANASI MASTER PLAN-2031 ROAD RATIONALIZATION PROJECT"
+        "1. 1-NP GAWAN ME BABRALA CHAURAHE KE PAS OTARI KE MAKAN SE HARIBABA INTERCOLLEGE TAK CC RO",
+        "2. CONSTRUCTION OF SEED STORAGE GODOWN AT. SHRI NAGLA, PATIYALI IN DISTRICT KASGANJ (U.P.)",
+        "3. Construction of c.c road and drain from h/o Shivdyal to p/o Jhamman lal ward no. 02"
       ]
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. JJH/Micro/Reagent/T.No.2/2026",
-        "2. Hiring of Vehicles and Driver Services for MJP for one year",
-        "3. CONSTRUCTION OF A CEMENT CONCRETE ROAD AND DRAIN  FROM MATA MANDIR, SWATI GARMENTS TO M"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='mahatenders.gov.in', port=443): Failed to resolve 'mahatenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Rajasthan",
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF DECORATIVE PLANTS",
-        "2. SUPPLY WORK OF CONSTRUCTION MATERIAL UNDER MAHATMA GANDHI NREGA, VIKASIT BHARAT ROZGAR ",
-        "3. SUPPLY OF FLOWER BUCKET AND FLOWER BUNCH ON V.I.P AND V.V.I.P. ARRIVAL"
+        "1. Construction of interlocking Kharanja with drains, Lunasar",
+        "2. TENDER For VIDHAN SABHA AREA BANDIKUI ME 50 DISABLE PERSON KO SCOOTY VITARAN KARYA  Pan",
+        "3. Electrical Maintenance Work in Community Buildings of UDA. (ARC). 2314"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. On turnkey basis Construction of Badhreta Stop Dam for DRDO water supply scheme",
-        "2.  Procurement of Seal Kit for Feeder Outlet Gate Power Cylinder installed at  STPS ,MPPG",
-        "3. Tender for hiring of 1 No Utility Pickup (LCV) TATA 207 or equivalent Vehicle of latest"
+        "1. Selection of Agency for Supply, Erection, Commissioning and O and M of Wood/Horticultur",
+        "2. Construction of C.C. Road with Nali  from Bhokheri Rou through the boundary wall of Rew",
+        "3. Construction of C.C. Road from Bedar to Imalia at Janpad Panchayat Bankhedi Dist Narmad"
       ]
     },
     {
@@ -62,21 +58,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WB/PHED/AE/BSD/NIeT2/26-27Sl16",
-        "2. WB/PHED/AE/BSD/NIeT2/26-27Sl18",
-        "3. WB/PHED/AE/BSD/NIeT2/26-27Sl14"
+        "1. 02/KSD of 2026-2027 sl 21",
+        "2. CONSTRUCTION  OF CONCRETE DRAIN SLAB FROM CHHEDI SHAW HOUSE TO SRIDAM ROY HOUSE AT SANS",
+        "3. 02/KSD of 2026-2027 sl 32"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. TURIP 2025-26",
-        "2. TURIP 2025-26",
-        "3. ENGAGING DATA ENTRY OPERATOR FOR CIVIL ENGINEERING ON DAILY BASIS FOR THE PERIOD OF 1 Y"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='tntenders.gov.in', port=443): Failed to resolve 'tntenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Punjab",
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for construction of concrete lining of Attalan Minor from RD 55030-63880 and l",
-        "2. Estimate for Reconstruction of Drainage Crossing at RD 21800 of Balbera Minor and Lifti",
-        "3. ESTIMATE FOR LAYING OF U/G RCC PIPELINE AT OUTLET RD 28976/L OF KHERI MALLAN MINOR."
+        "1. General Horticulture works for various parks and installation of polyhouse for Rose Gar",
+        "2. Providing and installation of Pop-ups in Dadi Poti Park and Maintenance of existing pop",
+        "3. Providing and installing submersible pumps in various parks of Bathinda"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of CC street Diggi wala road in jurisdiction of M.C. Bahadurgarh.",
-        "2. BHUDA KHERA Various Rural ...",
-        "3. JOBNO.HSVP/AMB/2026-27/E-206"
+        "1. Estimate Providing and laying of water supply and sewer line and repairing of damaged-I",
+        "2. A/mtc of water supply schem...",
+        "3. A/mtc of water supply schem..."
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Sub Centre Building at Barapalli",
-        "2. Construction of Day Care Sub Centre Building at Alasu",
-        "3. Construction of Sub centre building at Baruda"
+        "1. Improvement such as widening and strengthening of Pipili-Jatani road                   ",
+        "2. Improvement of Hatadihi-Samana via Jambhira Habaleswar road from 0/000 km to 5/900 km, ",
+        "3. SITC of Fire Fighting System including Aerosol based Suppression System and Lightning A"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rate contract of LED street light under RMC",
-        "2. 159/PR/JBVNL/2026-27",
-        "3. Installation of Jalminar at Yadav Mohallah under Tantri Panchayat."
+        "1. Repair of  hostel constructed by  Welfare Department on the premises of Jharkhand Inter",
+        "2. RENOVATION OF URBAN HEALTH AND WELLNESS CENTRE AT WARD NO-29 (DHARIYADIH)UNDER MUNICIPA",
+        "3. Sinking of one no 125/115 mm dia tube well and allied  woks at 33/11 KV P/S/S, Sarkoni "
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual repair and maintenance of MRBU road km. 0/00 to 3/835. (SH- Construction of V-sh",
-        "2. JED-08/2026-27",
-        "3. C/O Path near Dev Balakameshar Temple Bari, W.No. 9, Mandi (H.P.). (SH- C/O R/wall at R"
+        "1. HPSEBL/LPH/CMDT/DB-8/2026-024",
+        "2. Construction of LWSS Lahal in GP Khani Tehsil Bharmour Distt Chamba",
+        "3. Restoration of rain damages on link road to village Dhanwin road km 0 0 to 0 385"
       ]
     },
     {
@@ -139,16 +131,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Reconstruction and Improvement work from km 6 to km 11  Kamand Thouldhar motor road  in",
-        "2. Replacement of 11 KV Bare conductor by AAAC Conductor at Branch Guptkashi Feeder on Sem",
-        "3. Replacement of existing 11 KV ACSR Weasel Conductor with 11 KV AAAC AL-59,99 Sq.m Cover"
+        "1. Work of Tin Structures, Tin Barricading and Tin sheds etc. under Kumbh Mela- 2027. ( On",
+        "2. Work of 08 numbers Temporary Night Shelters etc. under Kumbh Mela-2027.  (On rental bas",
+        "3. SUPPLY OF 11Meter Long Steel Tubular Pole SP-55 ( Bottom Portion Hot Dip Galvanized) 8,"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd6c5282ed0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0bbcc55f50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +149,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Hitesh Deka path Hajalpara Chowk to Betna post office road with Soil St",
-        "2. Vertical extension of SLET Commission Building Second floor, Third and Fourth Floor and",
-        "3. Construction of Village Knowledge Centre near Basudev Than under Dhemaji District under"
+        "1. REMEDIATION OF DUMPING GROUND",
+        "2. Printing and Supply of Personalized Letters, Window Envelope and Presentation Box",
+        "3. Project Management Consultancy services for Construction of Sainik School at Langvoku K"
       ]
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DEPOSIT-Orthodontic Dental College-Renovation works in the staff rooms, corridors and p",
-        "2. Selection of IT firm to Design, Development, Implementation, Operations and Continued M",
-        "3.  LAC ADS KIP RB Canal road maintenance Renovation and Reconstruction of KIP canal bank "
+        "1. 250 KLD STP and RO Plant  Electrification Works, Technopark Phase I Campus",
+        "2. Revenue Recovery office, Vadakara-LAN-Supply and installation of Network switch and acc",
+        "3. GENERAL-Ram Mohan Palace compound - Rectification of damaged electrical cable of the Di"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of broken wall as well as residential quarter of Munsiff Bani.",
-        "2. Repair and Renovation of Range Office Building Basohli,  District Kathua    (Under Cape",
-        "3. Major Repair of Govt. Higher Secondary School Plassi  PAB 2025-26 Under Samagra Shiksha"
+        "1. Repair/Renovation of Govt Qtr. No. 15A at Gandhi Nagar Jammu. CNO-93 NP",
+        "2. Macadamisation of Thal Kwath link road Km 7th and  Km 9th (Under Cities and Towns (C an",
+        "3. MID/J/30"
       ]
     }
   ],
