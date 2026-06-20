@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-20 15:26:42",
+  "checked_at_utc": "2026-06-20 21:58:38",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o Various Schemes under Nazul A/c-II (East Zone)S.H.Dewatering of low-lying areas in ",
-        "2. Catering and Allied Services for Canteen Serving Limited Veg Meals Thali B Block at IIS",
-        "3. TENDER FORCATERINGANDALLIEDSERVICES FOR DINING HALL NORTH INDIAN AT IISERTIRUPATI"
+        "1. TENDER FORCATERINGANDALLIEDSERVICES FOR DINING HALL SOUTH INDIAN AT IISERTIRUPATI",
+        "2. TENDER FORCATERINGANDALLIEDSERVICES FOR DINING HALL NORTH INDIAN AT IISERTIRUPATI",
+        "3. Catering and Allied Services for Canteen Serving Limited Veg Meals Thali B Block at IIS"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LINE 011  NARPATNAGAR DUNDAWALA KE WARD NO 07 HALWAI WALE MOHALLE MEIN VEERAN KE DUKAN ",
-        "2. Nagar Nigam Prayagraj seemantargat Karbala Chakiya Chauraha par Bhagwan Chitragupt Ji k",
-        "3. LINE 09  NARPATNAGAR DUNDAWALA KE WARD NO 11 MEIN KABRISTAN SE LAIK KE MAKAN TAK CC ROA"
+        "1. LINE 015  NARPATNAGAR DUNDAWALA KE WARD NO 10 MEIN SWAR BAJPUR ROAD PULIYA SE AHSAN KI ",
+        "2. LINE 022  NARPATNAGAR DUNDAWALA KE WARD NO 10 MEIN IBLE HASAN KE MAKAN SE PEEPALSANE KI",
+        "3. Ekikrit Vikas Yojnantargat Janpad Deoria Ke Vikas Khand- Gauribazar, Gram- Pandey Bhisw"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. BEAT NO. 209",
-        "2. BEAT NO. 209",
-        "3. SUPPLY INSTALLATION TESTING COMMISSIOING OF FULLY AUTOMATIC CLEANING AND GRADING 4 TPH "
+        "2. SUPPLY INSTALLATION TESTING COMMISSIOING OF FULLY AUTOMATIC CLEANING AND GRADING 4 TPH ",
+        "3. BEAT NO. 209"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Misc. Materials Supply in Gram Panchayat Kharnal under MGNrega /VB-G-RAM-G and  All Sch",
-        "2. Medicine and surgical sutures",
-        "3. Construction of Sub Health Center Building at Rodwa Kalla Block Kalyanpur District Balo"
+        "1. Medicine and surgical sutures",
+        "2. Material supply in GP Ragha Chhoti for financial year 2026-27 for Mnarega and other sch",
+        "3. Misc. Materials Supply in Gram Panchayat Kharnal under MGNrega /VB-G-RAM-G and  All Sch"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair of moorum road  form Kartik Manna House to Harichand Guruchand Mondir at Deulbar",
-        "2. Repair of moorum road  form Ajit Datta House to Arjun Jana House at Reripur Purba",
-        "3. Repair of moorum road  form Binod Shyamal House to Arjun Murmu House at Janardanpur"
+        "2. Repair of moorum road  form Amal Shit House to Kinkar Sahoo House at Adampur",
+        "3. Repair of moorum road  form Ajit Datta House to Arjun Jana House at Reripur Purba"
       ]
     },
     {
@@ -73,8 +73,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of  RCC Culvert  at  Ward No.13.Sivanpadai Veethi in Walajabad Town Pancha",
-        "2. Construction compound wall and Additional improvement at Thippu Nagar ICDS Center in Wa",
+        "1. Operation and Maintenance of borewell,water supply pumping and distribution pipe lines ",
+        "2. Construction of PCC retaining wall at ittery road south side 3rd part in Ward No 91, So",
         "3. Reconstructions of storm water drain at Brindavan circle south (S to N) in Ward No 87, "
       ]
     },
@@ -130,7 +130,7 @@
       "sample_titles": [
         "1. Restration to rain damages to varios Wter Suply Scheme WSS under JSV Sub-Division Saloo",
         "2. Restoration of Rain damages on Thaltukhod to Graman road Km 0/00 to 5/00. (PDNA-2023)",
-        "3. Operation, repair and maintenance of sewerage scheme to Solan Town in Tehsil and Distt "
+        "3. R/M of WSS Tahliwal in Tehsil Haroli Distt. Una(HP).(SH Drilling, lowering of assembly "
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fef64c3a910>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fe907a3a710>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Urwan",
-        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Hakripora",
-        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Nowpora Nowgam"
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Sangerwani A",
+        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Khaigam",
+        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Reshipora"
       ]
     }
   ],
