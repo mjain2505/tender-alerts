@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-21 11:34:59",
+  "checked_at_utc": "2026-06-21 17:13:58",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o Completed scheme of Nazul A/C-II under SWZ.sh-Maintenance Work of Granite, Dholpur ",
-        "2. TENDER FORCATERINGANDALLIEDSERVICES FOR DINING HALL SOUTH INDIAN AT IISERTIRUPATI",
-        "3. Catering and Allied Services for Canteen Serving Limited Veg Meals Thali B Block at IIS"
+        "1. M/o Various Schemes  under NA.II (EZ)S.H.-   Day to Day cleaning of toilet, pantries, s",
+        "2. M/o Various Schemes under Nazul A/c-II (East Zone)S.H.Dewatering of low-lying areas in ",
+        "3. M/o Completed scheme of Nazul A/C-II under SWZ.sh-Maintenance Work of Granite, Dholpur "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Under District Sultanpur, Construction of road from Shahpur West Patti to Padan Basti u",
-        "2. Under District Sultanpur, Construction of Interlocking road from the house of Shri Ramt",
-        "3. Under District Sultanpur, Construction of road from Bhatwara border to Majhowa in Dhanp"
+        "1. Under District Sultanpur, Construction of Interlocking Road from Surjan Purwa link road",
+        "2. Under District Sultanpur, Construction of Interlocking Road from Surjan Purwa link road",
+        "3. Under District Sultanpur, Construction of Interlocking Road from Block Kadipur Malapur "
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY INSTALLATION TESTING COMMISSIOING OF FULLY AUTOMATIC CLEANING AND GRADING 4 TPH ",
+        "1. BEAT NO. 209",
         "2. BEAT NO. 209",
-        "3. BEAT NO. 209"
+        "3. SUPPLY INSTALLATION TESTING COMMISSIOING OF FULLY AUTOMATIC CLEANING AND GRADING 4 TPH "
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of road from Bhadsui via the canal to Dhisri via Fatehpur",
-        "2. Repair work under the guarantee period from Kundse Harsoli",
-        "3. Repair work under the guarantee period from Majrawata to Jatkheda"
+        "1. Repair and Mtc work of Quarter Type 1st and IInd Dn Nagaur",
+        "2. Various Repair work at Residential Building Dn Nagaur",
+        "3. Repair work of various Non Residential Building Dn Nagaur"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of moorum road  form Nehari Mor to Amal Ghose House at Parulda Dakshin",
-        "2. Electrification of 16 nos ICDS under Saria GP as per approved list",
-        "3. 6/MKT OF 2026-27"
+        "1. Repair of moorum road  form  Rajpur Nabarun Club to Bidyut Shit House at Rajpur",
+        "2. Construction of Community Sanitary Complex at Kagay Christian Church, Gendong, Within K",
+        "3. Repair of moorum road  form Rath Moydan Chandi Mandir to Bankim Das Mini at Dangarpara"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PURCHASE OF FRONT END BACKHOE LOADER VEHICLE IN TIRUVALLUR MUNICIPALITY",
-        "2. PURCHASE OF SKID STEER LOADER (Mini Excavator)at MUNICIPAL OFFICE IN TIRUVALLUR MUNICIP",
-        "3. Tiruppur City Municipal Corporation_Providing of Water supply Distribution main 250 mm "
+        "1. PURCHASE OF SKID STEER LOADER (Mini Excavator)at MUNICIPAL OFFICE IN TIRUVALLUR MUNICIP",
+        "2. PURCHASE OF FRONT END BACKHOE LOADER VEHICLE IN TIRUVALLUR MUNICIPALITY",
+        "3. Tiruppur City Municipal Corporation_Construction of  SWD and Rcc Culvert slab at Thiruk"
       ]
     },
     {
@@ -84,8 +84,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/Fixing I/tiles in various Streets of Golden Evenue W No.07",
-        "2. Renovation of Playground opp Mundian School W No.24",
+        "1. Renovation of Playground opp Mundian School W No.24",
+        "2. P/Fixing I/tiles in various Streets of Golden Evenue W No.07",
         "3. Hiring of staff for function of beldar /work mistary/mate/gauge reader in mech sub divi"
       ]
     },
@@ -97,7 +97,7 @@
       "sample_titles": [
         "1. Demolition and Complete Removal of Existing Overhead Service Reservoir (OHT) near Karun",
         "2. Fabrication and laying of platform for newly constructed sumpwells in village Ransika a",
-        "3. Special repair and maintenance of 13 no. shallow tubewell in W.S. Mech. Sub Division, P"
+        "3. Testing and minor repair of switch, starter panel for operating 33 no. EP Sets 10-50 HP"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f63aa8aa210>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f149d8634d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Aglar A",
-        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Achgoze",
-        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Abhama"
+        "1. Permanent Restoration of  Jankhar More to village Jankhar upto PMGSY road under Capex B",
+        "2. Constrtuction of drain at Gali road from the house of Gh Nabi Dar Feroz Ahmad Dar to ma",
+        "3. Construction of bathroom at Hussainia Colony near Masjid Sharief Chattergam"
       ]
     }
   ],
