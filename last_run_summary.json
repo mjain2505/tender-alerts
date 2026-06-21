@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-20 21:58:38",
+  "checked_at_utc": "2026-06-21 11:34:59",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,8 +7,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TENDER FORCATERINGANDALLIEDSERVICES FOR DINING HALL SOUTH INDIAN AT IISERTIRUPATI",
-        "2. TENDER FORCATERINGANDALLIEDSERVICES FOR DINING HALL NORTH INDIAN AT IISERTIRUPATI",
+        "1. M/o Completed scheme of Nazul A/C-II under SWZ.sh-Maintenance Work of Granite, Dholpur ",
+        "2. TENDER FORCATERINGANDALLIEDSERVICES FOR DINING HALL SOUTH INDIAN AT IISERTIRUPATI",
         "3. Catering and Allied Services for Canteen Serving Limited Veg Meals Thali B Block at IIS"
       ]
     },
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LINE 015  NARPATNAGAR DUNDAWALA KE WARD NO 10 MEIN SWAR BAJPUR ROAD PULIYA SE AHSAN KI ",
-        "2. LINE 022  NARPATNAGAR DUNDAWALA KE WARD NO 10 MEIN IBLE HASAN KE MAKAN SE PEEPALSANE KI",
-        "3. Ekikrit Vikas Yojnantargat Janpad Deoria Ke Vikas Khand- Gauribazar, Gram- Pandey Bhisw"
+        "1. Under District Sultanpur, Construction of road from Shahpur West Patti to Padan Basti u",
+        "2. Under District Sultanpur, Construction of Interlocking road from the house of Shri Ramt",
+        "3. Under District Sultanpur, Construction of road from Bhatwara border to Majhowa in Dhanp"
       ]
     },
     {
@@ -29,8 +29,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. BEAT NO. 209",
-        "2. SUPPLY INSTALLATION TESTING COMMISSIOING OF FULLY AUTOMATIC CLEANING AND GRADING 4 TPH ",
+        "1. SUPPLY INSTALLATION TESTING COMMISSIOING OF FULLY AUTOMATIC CLEANING AND GRADING 4 TPH ",
+        "2. BEAT NO. 209",
         "3. BEAT NO. 209"
       ]
     },
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Medicine and surgical sutures",
-        "2. Material supply in GP Ragha Chhoti for financial year 2026-27 for Mnarega and other sch",
-        "3. Misc. Materials Supply in Gram Panchayat Kharnal under MGNrega /VB-G-RAM-G and  All Sch"
+        "1. Construction of road from Bhadsui via the canal to Dhisri via Fatehpur",
+        "2. Repair work under the guarantee period from Kundse Harsoli",
+        "3. Repair work under the guarantee period from Majrawata to Jatkheda"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of moorum road  form Kartik Manna House to Harichand Guruchand Mondir at Deulbar",
-        "2. Repair of moorum road  form Amal Shit House to Kinkar Sahoo House at Adampur",
-        "3. Repair of moorum road  form Ajit Datta House to Arjun Jana House at Reripur Purba"
+        "1. Repair of moorum road  form Nehari Mor to Amal Ghose House at Parulda Dakshin",
+        "2. Electrification of 16 nos ICDS under Saria GP as per approved list",
+        "3. 6/MKT OF 2026-27"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation and Maintenance of borewell,water supply pumping and distribution pipe lines ",
-        "2. Construction of PCC retaining wall at ittery road south side 3rd part in Ward No 91, So",
-        "3. Reconstructions of storm water drain at Brindavan circle south (S to N) in Ward No 87, "
+        "1. PURCHASE OF FRONT END BACKHOE LOADER VEHICLE IN TIRUVALLUR MUNICIPALITY",
+        "2. PURCHASE OF SKID STEER LOADER (Mini Excavator)at MUNICIPAL OFFICE IN TIRUVALLUR MUNICIP",
+        "3. Tiruppur City Municipal Corporation_Providing of Water supply Distribution main 250 mm "
       ]
     },
     {
@@ -128,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restration to rain damages to varios Wter Suply Scheme WSS under JSV Sub-Division Saloo",
-        "2. Restoration of Rain damages on Thaltukhod to Graman road Km 0/00 to 5/00. (PDNA-2023)",
-        "3. R/M of WSS Tahliwal in Tehsil Haroli Distt. Una(HP).(SH Drilling, lowering of assembly "
+        "1. Annual Repair and Maintenance and servicing of 8 passenger lift elevator installed at J",
+        "2. Restration to rain damages to varios Wter Suply Scheme WSS under JSV Sub-Division Saloo",
+        "3. Restoration of Rain damages on Thaltukhod to Graman road Km 0/00 to 5/00. (PDNA-2023)"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fe907a3a710>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f63aa8aa210>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Sangerwani A",
-        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Khaigam",
-        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Reshipora"
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Aglar A",
+        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Achgoze",
+        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Abhama"
       ]
     }
   ],
