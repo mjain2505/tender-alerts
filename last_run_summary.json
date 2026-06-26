@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-26 16:34:40",
+  "checked_at_utc": "2026-06-26 21:58:59",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Cleaning of septic tanks and chambers located at the Dam Office Complex of CPS-1",
-        "2. STMC to NH 217 (old NH 62) from km 53.600 to km 63.000 (L-9.4 km) and 92.000 to 107.000",
-        "3. STMC to  NH-217 (Old NH-62) from km 158.000 to km 182.000 (TL - 25Km) for the year 2026"
+        "2. Annual maintenance contract for Hochiki make addressable fire alarm system installed at",
+        "3. Engagement of Agency for providing Catering Services at NID MP"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. (LINE 03) Ward no 04 (Mohalla Dhaap) me Faeem ke makaan se Babu ke makaan tak dono side",
-        "2. (LINE 04) Ward no 14 (Mohalla Kasim Nagar) me Khursheed ke makaan se Naeem ke makaan ta",
-        "3. (LINE 05) Ward no 14 (Mohalla Kasim Nagar) me Furkan ke makaan se Dr. Junaid ke makaan "
+        "1. GUARDING OF POLYTHENE AND LINES ON POLES WORK IN VIEW OF KAVAD YATRA IN AREA OF AE7 UND",
+        "2. (LINE 03) Ward no 04 (Mohalla Dhaap) me Faeem ke makaan se Babu ke makaan tak dono side",
+        "3. GUARDING OF POLYTHENE AND LINES ON POLES WORK IN VIEW OF KAVAD YATRA IN AREA OF AE9 UND"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Re-tender For Supply of Non Woven Bag For Pooja Prasad",
-        "2. Request for Proposal (RFP) for Selection of Agencies for Licensed Surveyor for The Depa",
-        "3. Repair Gate To Z.P. School At Village Kulkuli"
+        "2. Repair Gate To Z.P. School At Village Kulkuli",
+        "3. Request for Proposal (RFP) for Selection of Agencies for Licensed Surveyor for The Depa"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MATARIAL SUPPLY FOR NREGA AND OTHER SCHEMES WORKS IN GP SIRMOLI",
+        "1. Work No. 03",
         "2. Work No. 04",
-        "3. Supply of Various Material at Gram Panchayat MUSHI Panchayat Samiti Banera 2026-27 (Yea"
+        "3. Work No. 01"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "sample_titles": [
         "1. Thematic mural and beautification painting works at Sri Sri Taraknath Temple precinct a",
         "2. Construction of Cement concrete road from Marfat Mondal house to Megol Sk house Sn i",
-        "3. Beautification and Interior Decoration of Meeting Hall of Sadvab Mondap(First Floor)wit"
+        "3. Construction of Drain from HO Sushil Sarkar to HO Sankar Pasman at 152(109069907)"
       ]
     },
     {
@@ -84,17 +84,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender regarding outsourcing of Maize Drying Centre Kapurthala situated at Market Commi",
-        "2. Tender for Lease of Pack House under Market Committee, Kapurthala for five years (01-05",
+        "1. Tender for Lease of Pack House under Market Committee, Kapurthala for five years (01-05",
+        "2. Tender regarding outsourcing of Maize Drying Centre Kapurthala situated at Market Commi",
         "3. Request for Proposal for Development of integrated solid waste management (collection, "
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://etenders.hry.nic.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Procurement of Dual Desks for Classes I-XII in Government Schools in Haryana.",
+        "2. Annual repair for Rest House now SDE Ganaur office building in PWD office campus in Son",
+        "3. Recall Construction of Nala from N..."
+      ]
     },
     {
       "name": "Odisha",
@@ -104,7 +108,7 @@
       "sample_titles": [
         "1. NH-42 to Hatibari Health Home_Road_Renewal coat SDBC,Bush cutting, raincut,signages0.00",
         "2. RD road to Mulasahi Road__WMM, PMC,Seal Coat , Shoulder repair and CC overlaying, Earth",
-        "3. Repair to Boxcell Bridge on Bajarpur to Patrapur_Road_Wearing coat ,Stone packing and A"
+        "3. RD Road Katana Chhaka to Diangiri__Pot hole,WBM GR-II,PMC, Seal Coat2.200 to 2.900"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages on Tarlochan Kothi Glade via Chail Banurka road",
-        "2. Restoration of rain damages on Tarlochan Kothi Glade via Chail Banurka road",
-        "3. Restoration of rain damages on  Nounu to Ropari road"
+        "1. RR Damages on Dabrog Yoh Bakarta Gadhyani Bhawani Kalahu",
+        "2. Restoration of rain damages on  Nounu to Ropari road",
+        "3. Restoration of rain damages on Tarlochan Kothi Glade via Chail Banurka road"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f500dcf6490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8d961ce890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NP202627 main canal  0 to 7 NameboardscaleKmstones",
-        "2. Annual Plan-VALAVANNUR GP 2026-27(P.NO.16/27)Alinchuvadu Kakkankuzhiyil RoadImprovement",
-        "3. Annual Plan-VALAVANNUR GP 2026-27(P.NO.59/27)-Variyath Paramp GMLP School RoadImproveme"
+        "1. GENERAL-CPP-NP-2026-27-Eng Man Mazdoor Arampadam",
+        "2. Mayyerichira Malapparamp Road Retarring2026-27(P.NO.61/27)",
+        "3. GENERALCPP-NP202627MLISanal"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of wornout pipe line in Bhore Kullian in Chatha Section under JMC Capex New",
-        "2. Improvement Upgradation of Water supply dirty water at places from Anand Enterprises to",
-        "3. Improvement of water supply Old Mohalla Channi behind Gouri Shanker Temple Sector 3 Cha"
+        "1. Improvement of water supply to Pacca Talab Bahu Fort under JMC capex New works.",
+        "2. Augmentation Improfvement of Water supply in different Lanes Greater Kailash under JMC ",
+        "3. Improvement of Water supply to Sector 5 Masjid Surya Chowk Channi Himmat under New Work"
       ]
     }
   ],
