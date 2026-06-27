@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-27 09:21:37",
+  "checked_at_utc": "2026-06-27 15:56:51",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EXPRESSION OF INTEREST (EOI) FOR  ENLISTMENT OF CONTRACTORS FOR LASER SCANNING AND 3D M",
-        "2. Supply and Deployment of Security Personnel for Safety and Security at R.O., Terminal, ",
-        "3. M/O TPT Centre of Rohtak Road and Azad Pur"
+        "1. M/O completed scheme under NA-II Narela Zone.",
+        "2. M/O Completed scheme under Nazul A/C II Narela Zone.",
+        "3. M/O completed scheme under NA-II Narela Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work Description Selection of Agency for Operation of Themed Food Trucks at Identified ",
-        "2. GRAM BASTHANWA ME SWASTHYA UPKENDRA KA NIRMAAN KARYA  LOT-2",
-        "3. GRAM AMODHA KHAS ME SWASTHYA UPKENDRA KA NIRMAAN KARYA  LOT-6"
+        "1. SURVEY FOR THE LILO ARRANGEMEBNT OF THE 220 KV METRO DEPOT JALPURA LINE UNDER ETD II NO",
+        "2. PURANA RAMNAGAR ME MINA DEVI KE MAKAN SE MADAN SETH KE MAKAN O RADHA SAHANI KE MAKAN TK",
+        "3. TD-535/26"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Constrution of Otta at Satana and Sushobhikaran of Dr.Babasahen Ambedkar Statue at Sata",
-        "2. Grampanchayat Kalpathari",
-        "3. Construction of Cement Concrete Road"
+        "1. Improvement of Passage and Drainage line in Beat No 213 in E ward.",
+        "2. SUPPLY OF MATERIAL FOR CONSTRUCTION OF CEMENT CONCRETE ROAD AT POHA TQ.KARANJA DIST.WAS",
+        "3. e-Tender Notice No.01/2026-27"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MNREGA Supply of Construction Material and Providing Equipment in Gram Panchayat BALANA",
-        "2. Construction of C.C. Road in Kosana Village (Kosana Main Market to Talab)",
-        "3. Construction of CD Work At Arjun singh Khet to Agadawa Border Km 1/600"
+        "1. Tender for supply of construction material used in all works under MNREGA scheme GP Rai",
+        "2. Annual Rate Contract of Handpump and Tubewell Construction and Installation Under Grami",
+        "3. Tender for Supply of Material used in all the schemes of RD and PRD GP Raisar"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. ZONAL CONTRACT FOR MAINTANANCE OF PWD  ROADS UNDER  SUB-DIVISIONS OF MANASA  DIVISION N",
+        "2. Hiring of Vehicle Type E Air- Conditioned Jeep Category SUV with min. engine capacity 1",
+        "3. Empanelment of Agencies for Restoration of Distribution Infrastructure during Emergency"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMC/C-ICMP(S)/24/A417/2026-27",
-        "2. KMC/WS/STPBPS/26-27/01",
-        "3. KMC/WS/W80-23/T-02/26-27"
+        "1. KMC/IGWTP/012/26-27, DT-25/06/2026",
+        "2. Construction of concrete road from Basudeb Pakhira house to Rash Danga at Maligram Madh",
+        "3. Construction of Cover Drain from GP Office to Medical Shop of Tapan Jana near Maligram "
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ASSISTANT DIRECTOR OF TOWN PANCHAYAT OPERATION AND MAINTENANCE OF DESLUDING VEHICLES 4 ",
-        "2. PROVIDING GALVANISED SHEET BARRIGADING WORK AT GURUVAPPA STREET IN  DIV-97, UNIT-21  ,Z",
-        "3. M.E.D.C.C.D.C.No.C1/209/2026"
+        "1. Providing Distribution Main pipe line at WARD No 3 Gandhi Sathukkam in madukkarai  Muni",
+        "2. Providing Distribution Main pipe line at WARD No 24 from Convay Tech Road to Police Spr",
+        "3. Repair to compound wall  at chettipalayam road MCC  in Ward No 23 in Madukkarai Municip"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ward No 13 front of easy day Tanda",
-        "2. Sri Anandpur Sahib road Garhshankar",
-        "3. P/L Interlocking Tiles 60 mm Thick ISI Marked in Street Peerkhana, Ward No. 7, Bariwala"
+        "1. Estimate for Clearance of Booti ,Weed , Jala Sarkanda etc from Sultanpur Drain in Betwe",
+        "2.   Leasing Canal Rest House of Sariana.",
+        "3.  Leasing Canal Rest House of Chakmir Pur."
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF TRAINING CE...",
-        "2. Construction of Silt Catcher at Various Places in ward no 1 to 14 in MC Radaur for Inte",
-        "3. Completion of Community Centre in ward no.01"
+        "1. Rough cost estimate for cle...",
+        "2. Annual Maintenance and Upke...",
+        "3. RFP FOR SELECTION OF AGENCY FOR DOOR-TO-DOOR COLLECTION, SEGREGATION OF MUNICIPAL SOLID"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PWD Road to Badamanga Road__Pothole repair , WBM, PMC and SC ,Berm repair8.000 to 9.000",
-        "2. Repair to Bridge over local Nalla on RD road to Aragal_Road_ CC overlaying and guard po",
-        "3. RD Road to Petapada_Road_ CC overlaying and renovation of Boxcell -1x3x3- 2.000 to 2.20"
+        "1. RD road to Goudpali via Rengalkani_Road_Renewal coat SDBC,Bush cutting,raincut,signages",
+        "2. Construction of 2nos F type Quarter Building at PHC Pabitranagar for the year 2023-24 i",
+        "3. RD road to Khasapali_Road_Renewal coat SDBC,Bush cutting,raincut,signages0.000 to 1.200"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Selection of agency for Operation and Maintenance of Arunodya Guest House-cum-Deputy Co",
-        "2. Online Tender for different types of Vehicle",
-        "3. Construction of RCC bridge at Village Allounjakalan Panchayat Allounjakhurd under Block"
+        "1. Construction of PCC road from house of Lildhari saw to land of Baikunth paswan and cons",
+        "2. Construction of RCC drain from house of Lildhari saw to Baikunth paswan AND Constructio",
+        "3. Construction of guard wall at nawa aahar AND Construction of rcc drain with cover from "
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 10/26-27/Green/Misc/P.Pur",
-        "2. 01/26-27/Green/Misc/FRA/Dehra",
-        "3. Restoration of Rain Damages on Gazta Darkoti road 0/00 to 6/000  Construction of R/wall"
+        "1. HPSEBL/BED/DB-Tender JOB No.08/26-27",
+        "2. RR Damage to link road",
+        "3. Restoration of Rain Damage under PDNA Damaged Scheme Sr. No. 361 GWSS Rajgarh 8044 date"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Various type of OandM and office related work to be executed by outsourcing agency for ",
-        "2. Kuda Vaahan Uplabdh Krane ke Sambandh Mein",
-        "3. Renewal by BC under Annual Maintenance Year 2026 27 in Km. 05, 06, Km. 08 to 11 and Km."
+        "1. Rajya Yozna ke antargat janpad pauri garhwal ke vidhansabha Chatra Chubattakhal ke Vika",
+        "2. Arboriculture/Horticulture work at Raj Rajeshwari vihar phase 03 danda khudane walaat",
+        "3. Arboriculture/Horticulture work at kandoli park near police colony,Dehradun"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4a4e3ada90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fad603ce6d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Echo absorber, acoustic panel wall ceiling light etc. at Gauripur Public Libr",
-        "2. Const of RCC Bridge No 1 on Road from GTB Road towards Mela Maidan Dhubri under 15th FC",
-        "3. AVFCCL"
+        "1. Rates for repairing of Distribution Transfromers",
+        "2. Providing Echo absorber, acoustic panel wall ceiling light etc. at Gauripur Public Libr",
+        "3. Construction of Boundary Wall with Iron gate at Daobhangi Dumping gorund under Rupsi De"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Clearing Touching from LT lines of Transformers of Poothotta feeder, MLA feeder and Put",
-        "2. GENERAL-Budget work 2025 26  Improvements to Manathana  Odenthode road  from ch 0/000 2",
-        "3. MGNREGS Material Supply"
+        "1. MP-LADS-Construction of Ayanikkad- Villoonikkunn Road, Division 38-MP-LADS Sri ET Muham",
+        "2. 382/25-26-THRISSUR CORPORATION AYYANTHOLE ZONAL2025-26 DIVISION 48 R E C O N S T R U C ",
+        "3. DEPOSIT-Renovation of store room Prosthodontics Dental College-DEPOSIT-Urgent repairs t"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of  Watch and Ward Hut at Watlab Sopore.",
-        "2. Repair/ renovation of Quarter No. A12 block-H at Channi Himmat Jammu under Account Head",
-        "3. Repair/ renovation of Quarter No. 10 block-G at Channi Himmat Jammu under Account Head "
+        "1. Development of Water Sports Centre Cum Boat Club at Wullar Lake",
+        "2. Servicing (oil change)/repairing to departmental vehicle bearing no JK01AL-8039 (pick u",
+        "3. Repairs to 1.6 MVA 33kv/440v Transformer of OLD VT Station of WSS Doodhganga"
       ]
     }
   ],
