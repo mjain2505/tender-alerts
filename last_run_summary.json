@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-28 16:41:53",
+  "checked_at_utc": "2026-06-28 21:47:08",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/O Completed scheme under Nazul A/C II, Narela Zone.",
+        "1. M/O Completed scheme under Nazul A/C II Narela Zone.",
         "2. M/O completed scheme under NA-II Narela Zone.",
-        "3. M/O Completed scheme under Nazul A/C II Narela Zone."
+        "3. M/O completed scheme under NA-II Narela Zone."
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. 09/EDCKD/2026-27",
-        "2. 08/EDCKD/2026-27",
-        "3. EDCH-18/2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -30,8 +26,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing and erecting Banner Hording For Ashadhi Vari 2026   at various stations",
-        "2. Supply of Tractor (60 HP), BBF Planter, Rotavator, Trolley and Boom Sprayer (400 ltr)",
-        "3. Publicity Awareness  Event Management for Ashadi Wari 2026"
+        "2. Supply, Installation, Commissioning And Testing of Cleaning And Grading Machinery (2 TP",
+        "3. Supply of Tractor (60 HP), BBF Planter, Rotavator, Trolley and Boom Sprayer (400 ltr)"
       ]
     },
     {
@@ -52,8 +48,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair Materials of Equipment",
-        "2. Purchages Grain",
-        "3. Electric Fence (AMC)"
+        "2. Electric Fence (AMC)",
+        "3. Purchages Grain"
       ]
     },
     {
@@ -63,8 +59,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of  Single Storied Anganwadi Centre At Barabendya (Awc No.19339100425)with",
-        "2. Construction of  Single Storied Anganwadi Centre At Chakoltore-II (Awc No.19339100725) ",
-        "3. Supply of Materials for Construction of Cement Concrete Roads for Community from Maligr"
+        "2. Construction of  Single Storied Anganwadi Centre At Dumurpal (Awc No.199339100827) with",
+        "3. KMC/IGWTP/011/26-27, DT-25/06/2026"
       ]
     },
     {
@@ -74,8 +70,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing Distribution Main pipe line at WARD No 3 Gandhi Sathukkam in madukkarai  Muni",
-        "2. Providing Distribution Main pipe line at WARD No 24 from Convay Tech Road to Police Spr",
-        "3. Repair to compound wall  at chettipalayam road MCC  in Ward No 23 in Madukkarai Municip"
+        "2. Repair to compound wall  at chettipalayam road MCC  in Ward No 23 in Madukkarai Municip",
+        "3. Providing Distribution Main pipe line at WARD No 24 from Convay Tech Road to Police Spr"
       ]
     },
     {
@@ -85,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Estimate for Clearance of Booti ,Weed , Jala Sarkanda etc from Sultanpur Drain in Betwe",
-        "2.   Leasing Canal Rest House of Sariana.",
-        "3.  Leasing Canal Rest House of Chakmir Pur."
+        "2.  Leasing Canal Rest House of Chakmir Pur.",
+        "3.   Leasing Canal Rest House of Sariana."
       ]
     },
     {
@@ -106,8 +102,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 2nos F type Quarter Building at PHC Handapa for the year 2023-24 in the",
-        "2. Dhalpal to Laida_Road_Renewal coat SDBC,Bush cutting,raincut,signages0.000 to 1.250",
+        "1. Dhalpal to Laida_Road_Renewal coat SDBC,Bush cutting,raincut,signages0.000 to 1.250",
+        "2. Construction of 2nos F type Quarter Building at PHC Pabitranagar for the year 2023-24 i",
         "3. Construction of 2nos F type Quarter Building at PHC Angapada for the year 2023-24 in th"
       ]
     },
@@ -130,7 +126,7 @@
       "sample_titles": [
         "1. Periodical renewal of MDR Bharwain Chintpurni Kandrori Damtal road AMP for the year 202",
         "2. Improvement of Una Rampur Haroli Jaijon road from Rampur Chowk to Jal Shakti Vibhag Res",
-        "3. Restoration of Rain Damage under PDNA Damaged Scheme Sr. No. 361 GWSS Rajgarh 8044 date"
+        "3. RR Damage to link road"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f131bd62350>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f45d7e21fd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
