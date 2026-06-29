@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-06-28 21:47:08",
+  "checked_at_utc": "2026-06-29 14:42:06",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/O Completed scheme under Nazul A/C II Narela Zone.",
-        "2. M/O completed scheme under NA-II Narela Zone.",
-        "3. M/O completed scheme under NA-II Narela Zone."
+        "1. O and M of CIC Building",
+        "2. SUPPLY OF ASHOK LEYLAND MARINE DIESEL ENGINES WITH GEAR BOX AT KOCHI",
+        "3. Repairs and conservation of front (02) Minarets of the main mausoleum of Bibi-Ka-Maqbar"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. S/F of 02 Nos. 12.50 Mtr High Mast Pole along with 16 Sq. mm 4 core cable, LED Flood li",
+        "2. S/F of 70 Nos. 110 Watt and 30 Nos 90 Watt LED Street Light Fitting along with G.I. bra",
+        "3.  S/F of 20 Nos. 7.00 mtr. Long pole SP-3 along with 10X2 armoured cable, LED fitting, S"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and erecting Banner Hording For Ashadhi Vari 2026   at various stations",
-        "2. Supply, Installation, Commissioning And Testing of Cleaning And Grading Machinery (2 TP",
-        "3. Supply of Tractor (60 HP), BBF Planter, Rotavator, Trolley and Boom Sprayer (400 ltr)"
+        "1. Repairs to metal  locker for SWM labours in A ward",
+        "2. Improvement of Pathway and drainage system at Ganu Narayan chawl opp.  Shivsena shakha,",
+        "3. Construction of Internal CC Road and Drain At Village Dhawalkewadi Tanda (GP Dhawalkewa"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Electrification work in Additional room and Garrage in Existing Type III Residential Ac",
-        "2. Electric Repair and Maintenance work in Non Residential Building Distt HQ Dholpur.",
-        "3. SITC of Industrial Plug, Socket Other Electrical Polytechnic College Ucchain Distt Bhar"
+        "1. Replacement of Old Pumping  Machinery at SFS And Sector 9, Pump  Houses Mansarovar unde",
+        "2. Remaining electrification and fire safety work in plug and play building EPIP Sitapura,",
+        "3. Tender for catching black and red-faced monkeys"
       ]
     },
     {
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair Materials of Equipment",
-        "2. Electric Fence (AMC)",
-        "3. Purchages Grain"
+        "1. Supply of ALUMINA FERRIC Grade-4 for water treatment",
+        "2. Rehabilitation and Improvement work of the Dam at Kaka Saheb Gadgil Sagar Tank under DR",
+        "3. Supply of vegitable Item at Sub Jail Burhar Distt Shahdol"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of  Single Storied Anganwadi Centre At Barabendya (Awc No.19339100425)with",
-        "2. Construction of  Single Storied Anganwadi Centre At Dumurpal (Awc No.199339100827) with",
-        "3. KMC/IGWTP/011/26-27, DT-25/06/2026"
+        "1. Arrangement of Furniture for GGC SSK (Nabagram G.P)",
+        "2. UPGRADATION AND RENOVATION OF METTING HALL AT FRIST FLOOR OF RAINA-I PANCHAYAT SAMITY O",
+        "3. Repairing and Renovation of CL Jambad AWC under Pandabeswar Dev. Block."
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Distribution Main pipe line at WARD No 3 Gandhi Sathukkam in madukkarai  Muni",
-        "2. Repair to compound wall  at chettipalayam road MCC  in Ward No 23 in Madukkarai Municip",
-        "3. Providing Distribution Main pipe line at WARD No 24 from Convay Tech Road to Police Spr"
+        "1. Supply and Delivery of HP Laser Printer to Madukkarai Municipality",
+        "2. Procurement of Cryogenic Treated Drum Chipper Fly Knives as per drawing no  TNPL-A3-153",
+        "3. Providing Distribution Main pipe line at WARD No 26 MLA Stret, Sivasakthi Nagar   in Ma"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for Clearance of Booti ,Weed , Jala Sarkanda etc from Sultanpur Drain in Betwe",
-        "2.  Leasing Canal Rest House of Chakmir Pur.",
-        "3.   Leasing Canal Rest House of Sariana."
+        "1. Laying of RCC Underground Pipeline Works",
+        "2. Laying of RCC Underground Pipeline Works",
+        "3. Const. of Dog shelter in NP Lohian Khas"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Public Toilets and standing Urinals at Ward No. 27, Zone-VI, Municipal ",
-        "2. Construction of Public Toilets and standing Urinals at Ward No. 29, Zone-IV, Municipal ",
-        "3. Rough cost estimate for cle..."
+        "1. A/mtc of L/s work in Pet Park sector-1 MDC, Panchkula for the year 2026-27.(Supply and ",
+        "2. A/mtc of L/s work in sector-32, karnal for the year 2026-27.(Pruning and Trimming of pl",
+        "3. A/mtc of L/s work in Sector-24 and 6 MDC, Panchkula for the year 2026-27.(Repair of hyd"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dhalpal to Laida_Road_Renewal coat SDBC,Bush cutting,raincut,signages0.000 to 1.250",
-        "2. Construction of 2nos F type Quarter Building at PHC Pabitranagar for the year 2023-24 i",
-        "3. Construction of 2nos F type Quarter Building at PHC Angapada for the year 2023-24 in th"
+        "1. Chandaka Bazar to Similipatna _Road_CC Overlaying0.200 to 0.300 2.200 to 2.300",
+        "2. PWD road to Bhagabatipur_Road_ Pothole Depression filling ,Grouting , SDBC and CC road3",
+        "3. NH-16 Bhuasuni Temple to Jatani road via Bhuasuni Nagar_Road_Paver Block 0.000 to 0.825"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of PCC road and cover slab from house of Chintu singh to Rajkumar rana AND",
-        "2. Laying of paver block from main road to HO Uday Mehta and construction of PCC road from",
-        "3. Construction of brick work drain and RCC drain from beside utri panchayat and north sid"
+        "1. RATE CONTRACT FOR STATIONARY ITEMS",
+        "2. Annual operation and Preventive maintenance works, Emergency Maintenance work of 220/33",
+        "3. Construction of Aganwadi Centre in Rajkiye Utramit Middle School Nawadih South (Nawadih"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Periodical renewal of MDR Bharwain Chintpurni Kandrori Damtal road AMP for the year 202",
-        "2. Improvement of Una Rampur Haroli Jaijon road from Rampur Chowk to Jal Shakti Vibhag Res",
-        "3. RR Damage to link road"
+        "1. RR Damages on Beoth Dharan road KM. 0.000 to 4.200 SH C.o B.Wall at RD 3.945 to 3.965 U",
+        "2. R.R. Damages on Kharela to Karangla road Km. 0.000 to 7.500 SH C.o  B.wall  in PCC at R",
+        "3. RR Damages on   Bhutti Kharan road Km 0.000 to 12.000. Sub head  Construction of  Retai"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rajya Yozna ke Antargat Janpad Pauri Garhwal ke  Vidhansabha Chatra Chubattakhal ke Vik",
-        "2. Rajya Yozna ke Antargat Janpad Pauri Garhwal ke Vidhansaba Chatra chubattakhal ke Anata",
-        "3. Rajya Yozna ke antargat janpad pauri garhwal ke vidhansabha Chatra Chubattakhal ke Vika"
+        "1. supply of 11kv XLPE cable 3x50 sqmm",
+        "2. Supply of Fully Automatic Star-Delta Starter Pannel at Central Store Tubewell Division ",
+        "3. Supply of Medicine"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f45d7e21fd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f053a0ae8d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rates for repairing of Distribution Transfromers",
-        "2. Providing Echo absorber, acoustic panel wall ceiling light etc. at Gauripur Public Libr",
-        "3. Construction of Boundary Wall with Iron gate at Daobhangi Dumping gorund under Rupsi De"
+        "1. Operation and Management of Souvenir Shop at Assam Bhawan, S.P. Marg, Chanakyapuri, New",
+        "2. Modernization and Renovation of Co-District Library, Murkongselek Tribal Development Bl",
+        "3. Engagement of CA"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 382/25-26-THRISSUR CORPORATION AYYANTHOLE ZONAL2025-26 DIVISION 48 R E C O N S T R U C ",
-        "2. MP-LADS-Construction of Ayanikkad- Villoonikkunn Road, Division 38-MP-LADS Sri ET Muham",
-        "3. DEPOSIT-Renovation of store room Prosthodontics Dental College-DEPOSIT-Urgent repairs t"
+        "1. 310 26 Odupara WSS maintenance",
+        "2. Construction of feeder tank for 1 MLD Water Treatment Plant near Nila Building in Techn",
+        "3. Annual Plan-PRO. NO 82/26-IRrinjalakuda Municipality -Anganwadi maintanance in ward 21 "
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Water Sports Centre Cum Boat Club at Wullar Lake",
-        "2. Servicing (oil change)/repairing to departmental vehicle bearing no JK01AL-8039 (pick u",
-        "3. Repairs to 1.6 MVA 33kv/440v Transformer of OLD VT Station of WSS Doodhganga"
+        "1. C/O P-BUND NHO SHABIR AH. TANTRAY SIO GH. QADIR TANTRAY AT POORU NEAR ZIARAT SHARIF WAR",
+        "2. C/O TILE PATH FROM MAIN ROAD TO H/O BASHIR AHMAD SHEIKH, SHOWKAT AH. SHEIKH AND OTHERS ",
+        "3. CIO TILE PATH NHO ALI MOHD TANTRAY WARD NO.2 BLOCK SAGAM"
       ]
     }
   ],
