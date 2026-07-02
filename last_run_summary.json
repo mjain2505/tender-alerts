@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-02 16:19:42",
+  "checked_at_utc": "2026-07-02 21:54:36",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o Completed scheme at UER-I, II and III.",
-        "2. Provision of Maintenance Services at Residential Area at DRDO Estates at CVRDE, Avadi t",
-        "3. General maintenance and watch and ward of unallotted flats."
+        "1. General maintenance and watch and ward of unallotted flats.",
+        "2. M/o Completed scheme at UER-I, II and III.",
+        "3. Provision of Maintenance Services at Residential Area at DRDO Estates at CVRDE, Avadi t"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Inter Locking and Nali At Bharetha Bhathha me kandhai house to prakash ",
-        "2. Ward sankhya-57 chhittoopur khaas mein jagannaath pradhaan ke ghar se vaishno nagar mei",
-        "3. 33 KV FAULT LOCATOR MACHINE"
+        "1. Transformer Carriage EDD-HAPUR",
+        "2. 11 KV FAULT LOCATOR MACHINE",
+        "3. Construction of Inter Locking and Nali At Gram Khedua Damar Road to CC Road"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. BNC1/2026-2027/TN-04/31-30",
-        "2. Construction of R.C.C. drain from Chandu Kamthe to Suresh Nagoses house in Mahatma Phul",
-        "3. Chakan Industrial Area Ph-II M and R to W.S.SchemeReplacement of old 250 mm dia. DI wat"
+        "1.  Construction Of Sabhamandap  In War No. 1, At Chinchpuri Hanuman Mandir for Nagar panc",
+        "2. BNC1/2026-2027/TN-04/31-30",
+        "3. BNC1/2026-2027/TN-04/27-30"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rate Contract for Construction Material and Equipments for VB-JI-RAM-JI and Other Panch",
-        "2. Rate Contract for Construction Material and Equipments for VB-JI-RAM-JI and Other Panch",
-        "3. SUPPLY AND INSTALLATION OF 15 MTR. INDIAN FLAG MAST IN PANCHAYAT SAMITI CAMPUS BHOPALGA"
+        "1. NIT No. 22/2026-27",
+        "2. Supply of motor pumps, starters, and other materials for drinking water works, and repa",
+        "3. protection wall construction work on road situated near gangana pond"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. T-924/MPPHSCL/4K VIDEO ENDOSCOPY CAMERA SYSTEM/QC/2026 Dated-02-07-2026",
+        "2. Construction of Shopping Complex in front of Muktidham in Ram Ward, Nagar Palika Parish",
+        "3. Function of amplifier hooter in corporation owned vehicles"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. HIDCO/AGM-III/NIT-40/26-27",
+        "1. WBPHED/EE/NMD-II/NIeT- 04 OF 2026-27",
         "2. WBIW/EE/MEMD/eSNIT-02/2026-27",
-        "3. WBPHED/EE/NMD-II/NIeT- 04 OF 2026-27"
+        "3. NIT01 SL1"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance and service of Computer for Mech. Dept. AUTOCAD Lab.",
-        "2. Providing Cement Concrete Flooring at Bango street 2nd Cross  in ward no 18 North Zone",
-        "3. Supply of Torsion Testing Motorized Machine for Civil Dept."
+        "1. Providing Cement Concrete Flooring at Bango street 2nd Cross  in ward no 18 North Zone",
+        "2. Engagement of Legal Firms for handling Arbitration cases in CMWSSB for a period of 3 ye",
+        "3. Providing Cement Concrete Flooring at Bango street  in ward no 18 North Zone"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Replanting, up gradation and Beautification of DSC, 97Acre and C Block in Ranjit Avenue",
+        "1. Sanitation and Lifting of Garbage in Panchayat  Naushera Kalan, Naushera Khurd, Ekroop ",
         "2. Sanitation and Lifting of Garbage in Different Panchayat of Central  Constituency, Amri",
-        "3. PL CC Flooring and interlocking tiles in various streets of ward no 12,13,and 14 North "
+        "3. RE-LAYING OF OLD INTERLOCKING TILES,P/F OF NEW INTERLOCKING TILES AND PAINTING OF CENTR"
       ]
     },
     {
@@ -92,20 +96,16 @@
       "status": "ok",
       "sample_titles": [
         "1. 19946 Nos. of condemned LDPE Black Covers Lying at various Warehouses (Godowns) through",
-        "2. 664841 Nos. of condemned Aluminum Flasks Lying at various Warehouses (Godowns) througho",
-        "3. 34161 Nos. of condemned MLCL Tarpaulins Covers Lying at various Warehouses (Godowns) th"
+        "2. 12314 Nos. of condemned MECL Blue Covers Lying at various Warehouses (Godowns) througho",
+        "3. 664841 Nos. of condemned Aluminum Flasks Lying at various Warehouses (Godowns) througho"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Special Repair to Onslow Institution to Railway Colony via New Police line Bireswar Tem",
-        "2. Special Repair to Jarada Jaugada road such as pothole repair jungle cleaning  and flank",
-        "3. Special Repair to Achuli to Kodala via Soma Road such as pothole repair flank dressing "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='tendersodisha.gov.in', port=443): Failed to resolve 'tendersodisha.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
@@ -144,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f582fa15590>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1340e9d410>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AMC for AC/FRP/Polymer/Metallic sheet Roofing and Re-Roofing works in plant and Non-pla",
+        "1. AMC for Civil works in Plant Building and Structures 2026-2027",
         "2. Annual Contract for painting of Plant and Non plant buildings 2026-27",
-        "3. AMC for Civil works in Plant Building and Structures 2026-2027"
+        "3. AMC for AC/FRP/Polymer/Metallic sheet Roofing and Re-Roofing works in plant and Non-pla"
       ]
     },
     {
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Consultancy services for Preparation of detailed Project Reports including de",
-        "2. Rendering of Service for Providing of Structural  Drawing and Design  duly  vetted by G",
-        "3. Providing Fixing of Tent Items and other Items on Item Rate Bases (per unit bases) for "
+        "1. Construction of Synthetic Volleyball Court at Village Lower Jamola Block Budhal old",
+        "2. Construction of Synthetic Volleyball Court at Village Shahpur Larkuti Block Budhal",
+        "3. Rendering of Service for Providing of Structural  Drawing and Design  duly  vetted by G"
       ]
     }
   ],
