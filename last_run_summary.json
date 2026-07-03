@@ -1,27 +1,19 @@
 {
-  "checked_at_utc": "2026-07-03 10:17:01",
+  "checked_at_utc": "2026-07-03 17:05:28",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Providing Electrical installation at new shed area of Baribaramnah for proposed RMS Jam",
-        "2. Annual Maintenance Contract of railway siding at BC Dhuri under district Sangrur for th",
-        "3. ARMO work at FSD Sawombung, FSD Thoubal and FSD Bishnupur for the year 2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. RETENDER THANA NAGAL BIJNOR TYPE 02 AWASH 01 KE SOCHALYE KI MRAMMAT WORK",
-        "2. RETENDER THANA KOTWALI CITY ME AWASH 05 TYPE 03 KI ROOF KI MRAMMAT WORK",
-        "3. Construction of Interlocking Road and Drain at Gram-  Kanwapur me shailendra singh ke d"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +21,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Minor civil repair work of ward no 43 44 on 4th floor",
-        "2. RATE CONTRACT OF BUILDING MATERIAL FOR FINANCIAL YEAR 2026-27 AT GRAMPANCHAYAT VAIRAGAD",
-        "3. SUPPLY MATERIAL FOR ANNUAL CONSTRUCTION FOR 2026-27 AT GP DHURKHEDA (SECOND TIME)"
+        "1. Improvements of SH-71 Waghapur Devgaon Nimgaon Tembhi Shripur Modhalwadi Pimpalgaon Dep",
+        "2. Repairs to Z P Primary school Building at waghotan No 1 tal Devgad",
+        "3. Various work at Traffic island (Gavdevi chowk, kankraj mehta chowk, Krushnkant Gyvat Ma"
       ]
     },
     {
@@ -40,21 +32,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Samudayik Bhawan Nirman Kallakhedi Patiya GP Gunjol",
-        "2. SHAKEER CHAND KE AAGE SE NAGAR-PAHADI ROAD KI TARAF C.C. ROAD NIRMAN KARYA",
-        "3. Construction of CC road around Dau Dayal Joshi Park"
+        "1. RAJKIYA UCHH MADHYAMIK VIDHYALYA BHAGWANPURA ME PRARTHNA STHAL PAR DOM NIRMAN KARYA",
+        "2. RAJKIYA UCHH MADHYAMIK VIDHYALYA BADOULIGHATA ME DOM NIRMAN KARYA",
+        "3. MAHATMA GANDHI RAJKIYA RAJKIYA VIDHYALYA MANGROL DOM NIRMAN KARYA"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. 50 Nos. Resistivity Survey Work in Indore District",
-        "2. Annual Repair Work in Sub Division Dhar",
-        "3. Annual work in Sub Division Indore"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +50,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. e-NIT No. 03/JGP/2026-27, SL01",
-        "2. e-NIT No. 03/JGP/2026-27, SL02",
-        "3. Service Contract for Refurbishment of Yoke of 8.5E9 Coal Mill, Unit#5, BTPS"
+        "1. Construction of  Raised Platform for Kitchen at ICDS Centre Under Barabani GP ( 18 Nos)",
+        "2. Construction of  Raised Platform for Kitchen at ICDS Centre Under Domohani GP ( 16 Nos)",
+        "3. Construction of  Raised Platform for Kitchen at ICDS Centre Under Panuria GP (  34 Nos)"
       ]
     },
     {
@@ -73,9 +61,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF TISSUE PAPER",
-        "2. SUPPLY OF CUVETTE",
-        "3. Transportation of chemical gypsum from M/s. Greenstar Fertilizers Ltd to ACW"
+        "1. Providing Cement Concrete  Patches  at Subbanaikanputhur  Nanjegoundan puthur Urumandam",
+        "2. Clearing jungles and removal of fallen earth and debris from L.S.0.000 Km to 4.300 Km o",
+        "3. Clearing Scrub jungles, Removal of fallen earth and debris in distributary and its bran"
       ]
     },
     {
@@ -84,9 +72,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of various types of Labour and Supply of Material of electrical services for Ann",
-        "2. Repair of false ceiling, Sprinklers system and bathrooms in Guru Gobind Singh Stadium",
-        "3. To carryout the work of Animal Birth Control/Anti-Rabies vaccination of Stray Dogs in M"
+        "1. REQUEST FOR PROPOSALS (RFP) Setting Up Production Plants for Supply of Take Home Ration",
+        "2. REPAIR AND RAISING OF EMBANKMENT AND CONNECTING IT WITH ALREADY EXISTING BANK AND PROVI",
+        "3. Earth work of Desilting for clearance open Nalla             Nerhu chowk to jode Pump a"
       ]
     },
     {
@@ -95,9 +83,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of AC Taxies for Two years",
-        "2. Creation of 01 no  66 kV li...",
-        "3. Providing additional 25/31...."
+        "1. tender for providing consumable i.e. antistatic masketc.",
+        "2. Job Work for comprehensive ...",
+        "3. tender for providing consumable i.e. serum IgE etc."
       ]
     },
     {
@@ -106,9 +94,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Day care PHC building at Kundukela of Sadar block XV FC for the year 20",
-        "2. Construction of Day care PHC building at Pithabhuin of Tangarpali block XV FC for the y",
-        "3. CONSTRUCTION OF GPLF OFFICE BUILDING  WITH MARKET COMPLEX AT GP LEVEL UNDER ATHAGADAPAT"
+        "1. Rugudikasada to Lungajhar Road_Road_Pothole repair,Fixing of Sign Boards, KM stones, ot",
+        "2. Repair to bridge over Hanumantia Nallah at 1st km on Telkoi to Barhadevta Road_Road_Rep",
+        "3. Murusuan To Tribo_Road_SDBC,Road Furniture_0.000 to 2.000"
       ]
     },
     {
@@ -117,9 +105,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CNP/04/2026-27/QUOTATION",
-        "2. construction of pavers block  road with guard wall from house of Gopi das to house of c",
-        "3. Construction of urdu library kulipada in ward no 14 under nagar parishad sahibganj"
+        "1. CONSTRUCTION OF RCC DRAIN AND PAVER  BLOCK ROAD SHIV MANDIR POKHARIYA TO PANKAJ JHA HOU",
+        "2. Supply of Fry Catching Net",
+        "3. construction of pavers block road  from  satya paswan house via Santosh tanti house to "
       ]
     },
     {
@@ -128,9 +116,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/O rain damages on SKRN road in km 94/00 to 102/180 (SH C/O damaged culvert and wire c",
-        "2. R/R damages on Lehi Ghared road in km 0/0 to 9/100 (SH C/O R/wall at Km 2/600 to 2/630)",
-        "3. R/R damages on SAKB road in km 70/00 to 79/400 (SH C/O wire crate at RD 70/700 to 70/72"
+        "1. Repairs and Rehabilitation of 19.75 metre span RCC T-Beam Bridge over Pangola Nalah on ",
+        "2. GED-34/2026-27",
+        "3. Restoration of ram damages on various roads under Sub-Division No. IV HP PWD Mandi (Maj"
       ]
     },
     {
@@ -139,16 +127,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of Devbhoomi Rajat Jayanti Park in Nagar Palika Parishad Rudraprayag.",
-        "2. ENERGY EFFICIENCY IMPROVEMENT AND EFFECTIVE REMOTE MONITORING BY SCADA SYSTEM OF W/S SC",
-        "3. ENERGY EFFICIENCY IMPROVEMENT AND EFFECTIVE REMOTE MONITORING BY SCADA SYSTEM OF W/S SC"
+        "1. Construction of Borewells, U/G Water Storage Tanks, Water Haurvesting System (with borw",
+        "2. E-Tender for preparing soundproofing room including soundproofing equipment for the stu",
+        "3. Dev Bhoomi Rajat Jayanti Park construction work, NPP Narendra Nagar"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa278f99590>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa520a158d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +145,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and renovation of Faculty room Room 006, Spectra lab Room 027 and Corsika lab Gr",
-        "2. Construction of Netaji Subhas Chandra Bose Park",
-        "3. FRESH WASTE DUMPSITE REMEDIATION"
+        "1. Engagement of CERT-In Empaneled Information Security  Auditor for Comprehensive Cyber S",
+        "2. Empanelment Of Travel Agency(S) For Hiring Passenger Vehicles under Assam State Disaste",
+        "3. TO PROCURE THE SERVICES OF TRAVEL AGENCY(S)FOR HIRING PASSENGER VEHICLES THROUGH RATE C"
       ]
     },
     {
@@ -168,9 +156,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF 3 RD/4TH DRYER BOTTOM SCREEN",
-        "2. GENERAL-Construction of new building for smart village office, ottoor-Electronics Works",
-        "3. Annual Plan-MULIYAR GPIRIYANNI CHEMBILANGAI ROAD TARRING-PROJECT NO379/25-26"
+        "1. Annual Plan-Malappuram DP (2026-27), Project No 473-27 -Women Rest Room For Kavanur Ghs",
+        "2. Annual Plan-Malappuram DP (2026-27), Project No 287-27 -Renovation of Perinthalmanna Di",
+        "3. Annual Plan-Malappuram DP (2026-27), Project No 190-27 -Improvements for Koottilangadi "
       ]
     },
     {
@@ -179,9 +167,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Illumination and Decoration at MHEP Pahalgam for National Festivals, includin",
-        "2. Construction of High School Devbugh (Dilapidated Secondary).",
-        "3. AS PER BOQ"
+        "1. Improvement/Upgradation of road from Panja Chowk to Kheora Rajouri Rs 29.14 lacs Gujjar",
+        "2. CONSTRUCTION OF R WALL FROM THE HOUSE OF BASHIR AHMAD DAR TO MOHD SHABAN DAR AND OTHERS",
+        "3. Establishment and maintenance of plantation through planting 12000 Nos of departmental "
       ]
     }
   ],
