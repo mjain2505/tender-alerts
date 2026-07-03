@@ -1,19 +1,27 @@
 {
-  "checked_at_utc": "2026-07-03 17:05:28",
+  "checked_at_utc": "2026-07-03 21:46:09",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. JP/B957-999-PK-T-9501/1031 - COMPOSITE WORKS FOR UTILITIES AND OFF-SITES (PART-A AND B)",
+        "2. EXPRESSION OF INTEREST FOR ENLISTMENT OF SUPPLIERS FOR AUTOMATIC STORAGE AND RETRIEVAL ",
+        "3. REPAIRING OF ROADS AT DIFFERENT LOCATIONS UNDER INDUSTRIAL ZONE OF HALDIA  DOCK COMPLEX"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Beautification of lal Bangla Shivkatra Chauraha ward 28 under zone02",
+        "2. Khevasipur mein ring road se vishraam ke ghar tak sadak nirmaan kaary.",
+        "3. Korauta mein patel chauraha se manna ke ghar tak sadak nirmaan kaary."
+      ]
     },
     {
       "name": "Maharashtra",
@@ -21,28 +29,28 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvements of SH-71 Waghapur Devgaon Nimgaon Tembhi Shripur Modhalwadi Pimpalgaon Dep",
-        "2. Repairs to Z P Primary school Building at waghotan No 1 tal Devgad",
-        "3. Various work at Traffic island (Gavdevi chowk, kankraj mehta chowk, Krushnkant Gyvat Ma"
+        "1. Various work at Traffic island (Gavdevi chowk, kankraj mehta chowk, Krushnkant Gyvat Ma",
+        "2. Improvements of SH-71 to Waghapur Devgaon Nimgaon Tembhi Shirapur Modhalwadi Pimpalgaon",
+        "3.  Improvement to MDR 26 to Waghapur Kankapur Ozar Bu. Shedgaon to Ashwi Khu. Road (MDR. "
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. RAJKIYA UCHH MADHYAMIK VIDHYALYA BHAGWANPURA ME PRARTHNA STHAL PAR DOM NIRMAN KARYA",
-        "2. RAJKIYA UCHH MADHYAMIK VIDHYALYA BADOULIGHATA ME DOM NIRMAN KARYA",
-        "3. MAHATMA GANDHI RAJKIYA RAJKIYA VIDHYALYA MANGROL DOM NIRMAN KARYA"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction work of C.C. Road at ward no 02 trinching groud to jatrapura road vidisha",
+        "2. Construction work of Asphalt road at ward no 33 aambali colony smadhi  to govt.School v",
+        "3. Construction work of  C.C. Road at Ward no 33 mirzapur halke singh dhangi  house to mat"
+      ]
     },
     {
       "name": "West Bengal",
@@ -50,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of  Raised Platform for Kitchen at ICDS Centre Under Barabani GP ( 18 Nos)",
-        "2. Construction of  Raised Platform for Kitchen at ICDS Centre Under Domohani GP ( 16 Nos)",
-        "3. Construction of  Raised Platform for Kitchen at ICDS Centre Under Panuria GP (  34 Nos)"
+        "1. SERI/PURU/NIQ/08/2026-27/Sl1",
+        "2. Construction of  Raised Platform for Kitchen at ICDS Centre Under Punchra GP (  15 Nos)",
+        "3. Memo No.  86/IX-5(SS DHFWS/GTA-2026                           Dated 01/07/2026"
       ]
     },
     {
@@ -61,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Cement Concrete  Patches  at Subbanaikanputhur  Nanjegoundan puthur Urumandam",
-        "2. Clearing jungles and removal of fallen earth and debris from L.S.0.000 Km to 4.300 Km o",
-        "3. Clearing Scrub jungles, Removal of fallen earth and debris in distributary and its bran"
+        "1. Construction of Storm Water Drain at thukinar street giriamman kovil street ward no 27.",
+        "2. Construction of Storm Water Drain at Anjugam Nagar Cross Road  2 in Ward no 03, North z",
+        "3. Maintenance and Repair work at Bharathi park  in Ward No 13, North zone,"
       ]
     },
     {
@@ -84,8 +92,8 @@
       "status": "ok",
       "sample_titles": [
         "1. tender for providing consumable i.e. antistatic masketc.",
-        "2. Job Work for comprehensive ...",
-        "3. tender for providing consumable i.e. serum IgE etc."
+        "2. tender for providing consumable i.e. serum IgE etc.",
+        "3. Operation and Maintenance for 200mm to 900mm i.d, S.W. pipe, RCC Pipe Sewer, Brick Circ"
       ]
     },
     {
@@ -94,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rugudikasada to Lungajhar Road_Road_Pothole repair,Fixing of Sign Boards, KM stones, ot",
-        "2. Repair to bridge over Hanumantia Nallah at 1st km on Telkoi to Barhadevta Road_Road_Rep",
-        "3. Murusuan To Tribo_Road_SDBC,Road Furniture_0.000 to 2.000"
+        "1. Repair to bridge over Hanumantia Nallah at 1st km on Telkoi to Barhadevta Road_Road_Rep",
+        "2. Selection of Manpower Agency for providing Technical / Non Technical Manpower at the of",
+        "3. PWD Road to Panasuan_Road_SDBC,Road Furniture_0.000 to 5.500"
       ]
     },
     {
@@ -117,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repairs and Rehabilitation of 19.75 metre span RCC T-Beam Bridge over Pangola Nalah on ",
-        "2. GED-34/2026-27",
-        "3. Restoration of ram damages on various roads under Sub-Division No. IV HP PWD Mandi (Maj"
+        "2. Tender for Polymer based Water Proofing of RCC slab roof covered with brick bat coba on",
+        "3. Providing Subheads Lift irrigation Components including Distribution System at TWIS Bab"
       ]
     },
     {
@@ -136,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa520a158d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0f44578ed0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -156,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Malappuram DP (2026-27), Project No 473-27 -Women Rest Room For Kavanur Ghs",
+        "1. Annual Plan-Malappuram DP (2026-27), Project No 178-27 -Improvement for Mottammal Kolap",
         "2. Annual Plan-Malappuram DP (2026-27), Project No 287-27 -Renovation of Perinthalmanna Di",
-        "3. Annual Plan-Malappuram DP (2026-27), Project No 190-27 -Improvements for Koottilangadi "
+        "3. Annual Plan-Malappuram DP (2026-27), Project No 341-27 -Improvement of Puthan Thottinga"
       ]
     },
     {
@@ -167,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement/Upgradation of road from Panja Chowk to Kheora Rajouri Rs 29.14 lacs Gujjar",
-        "2. CONSTRUCTION OF R WALL FROM THE HOUSE OF BASHIR AHMAD DAR TO MOHD SHABAN DAR AND OTHERS",
-        "3. Establishment and maintenance of plantation through planting 12000 Nos of departmental "
+        "1. Auction of Lorry Adda at Ghou Manhasan",
+        "2. Establishment and maintenance of plantation through planting 12000 Nos of departmental ",
+        "3. Improvement/Upgradation of road from Panja Chowk to Kheora Rajouri Rs 29.14 lacs Gujjar"
       ]
     }
   ],
