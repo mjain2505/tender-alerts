@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-04 09:11:13",
+  "checked_at_utc": "2026-07-04 15:48:00",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation, Repair and Maintenance of Sub Station, Transformers, HT Panel and DG sets MM",
-        "2. Open Tender for Procurement of Laptop (PAC Basis)",
-        "3. Replacement of damaged water supply line at GM F PAF building Aliganj Lucknow"
+        "1. M/o various schemes under NA.II (EZ).SH-    Providing, fixing and installation of piezo",
+        "2. M/o Various Schemes under NA.II (EZ)S.H.-Replacement of existing G.S. sheet roof AND pa",
+        "3. M/o Various schemes under NA.II (EZ) Sub-Head- Day to day Cleaning and scavenging of  2"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Bhelupur zone ke antargat ward no-25 durgakund me durgakund pokhra ke pas se nawabganj ",
-        "2. Bhelupur zone ke antargat ward no -51 bhelupur me pustkalay se ram janki mandir tak roa",
-        "3. Ward No. 04 Shastri Nagar Me 10 HP Samarsubul Adhisthapan Awam Pump House Nirman Ka Kar"
+        "1. TD-538/26",
+        "2. Development of Meditation Park at Model Town Park in Kanpur City",
+        "3. Interlocking construction work commencing from Sushil Pandey residence located in the G"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Bhavan Rachna Vibhag kadil prakalpakarita zaminicha survey karane",
-        "2. PRABHAG KR.14 K MADHYE RASTE VISHAYAK KAME KARANE.",
-        "3. Pune mahanagerpalikechya vividh khaytyatil record jatan karne sathi adyavat vartikal st"
+        "1.  E Tender Notice No.01 for 2026_27_01",
+        "2. Repairs to Ceiling Plaster Bldg No 1 5 6 9 and  20 Sahakar Nagar Municipal Colony in Be",
+        "3. Providing and laying in situ seven course water proofing treatment with APP  at  Bldg N"
       ]
     },
     {
@@ -40,21 +40,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R and M of Residential  and Non Residential buildings at 132 KV GSS Kaman",
-        "2. Repair of M.T. Branch, Misc. Store and CPC canteen at Police Line Pali",
-        "3. (MGNREGA/VBGRAMG) Construction Material Supply works in GP Modi"
+        "1. Construct ion of Pacca Anicut lamina  CCT, MPT MJSA Third phase area Bhim",
+        "2. Construction of DSMP, ECD with waste weir in MJSA Second Phase area Bhim",
+        "3. Construction of CCT and DSMP in MJSA Third Phase area Deogarh"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Zonal Work Group 2 for 14 Roads under MPRDC Shahdol Chhindwara Division 2nd Call",
-        "2. Construction of  CC Road beside bramhakumari kendra, near dwarka parisar under banarsi ",
-        "3. Construction of covered RCC drain from Raju Tyre to Ram Lakhyani Ji house via Divyanshi"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMC/DCE_PS/IV/38/01/26-27",
-        "2. KMC/ROADS/2025-2026/794",
-        "3. 05/EE/CD/SWM/KMDA of 2026-2027(Sl-1)(2nd call) Dated 29.06.2026"
+        "1. CONSTRUCTION OF CEMENT CONCRETE ROAD FROM PANDAT PICH RASTA TO PANDAT PRY SCHOOL VIA BA",
+        "2. Providing catering services/Running Canteen services for Jogyashree Civil Services Coac",
+        "3. Job of fencing work around the CT Basin of Unit 7"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Storm Water Drain and Culvert at Anna Nagar Main Road 080017R257 Anna nagar n",
-        "2. Desilting and Minor Repairs Work to Existing Storm Water Drain at Various street in div",
-        "3. Supply and Fixing of EB Pole  and LED light at  Ward 11 , Aadam Nagar Main Road Annasal"
+        "1. Providing canteen services in Students Amenities Centre, located at CEG Campus, Anna Un",
+        "2.  \tKAMUTHI Sintex Tank With Ringwell",
+        "3. PROCUREMENT OF DSR CHEMICAL FOR PAPER MACHINE 3 AT UNIT I"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E-tender for sodium alginate and xanthan gum",
-        "2. job contract of Feeding of Rice Husk into Boiler (by Manpower), Transportation of Husk ",
-        "3. Prov of silent Generator sets for disposals in Zone-B on hiring basis."
+        "1. Existing WS Scheme Kalsian Kalan and Theh Nuahsera, Block Bhikhiwind, Distt. Tarm Taran",
+        "2. Integrated Rainwater Runoff management system at Gurudwara Pheruman Sahib Millerganj Dh",
+        "3. Integrated Rainwater Runoff management system at Dholewal Chowk to Vishkarma Chowk Manj"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender for supply  of Seamless Pipe",
-        "2. Tender for supply of S.S Pin for Rack carrier Chain with Nylock Nut (as per drawing)",
-        "3. Engagement 42 Nos. Beldars Casual Labour for special day and night watching during floo"
+        "1. Replacement and painting of 04 no. gates with platform at RD 27000 of main Gurgaon Cana",
+        "2. DNIT of Maint. of Rohtak Range",
+        "3. EXCAVATION OF EXTRA DEPTH OF KACHA POND FOR STORAGE OF WATER FOR FLAMINGO SPECIES IN SU"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. S/R such as Comprehensive annual Electrical maintenance for wiring and electrical  acce",
-        "2. Appointment of transport contractor for transportation of Paddy from PPC to Rice Mill f",
-        "3. Improvement such as widening and strengthening to Katia-Baispan road from 9/500 km to 2"
+        "1. Construction of Nijigarh Tapanga  RD Road  to Baghaitangi  via Adivasi sahi Road in the",
+        "2. Const of RD road from Gambharimunda Godijhara  to Sunakhala  Ayatpur PWD road via Haric",
+        "3. Construction of Narangarh  RD road  Kanchilo PMGSY  road in the District of Khurda unde"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF RCC GUARDWALL AND PAVER BLOCK ROAD FROM H0 OF RAJU SHARMA TO SANJAY TEN",
-        "2. Quotation through e-tender Quotation for reate of Materials as per NIQ Under Road Divis",
-        "3. e Quotation are invited for Rate of Materials"
+        "1. work (2) Installation of New Lift in C.B.I. Building at Civil Court, Ranchi",
+        "2. Supply, fitting and fixing of vision glass panels      (IGU 8-12-8mm) on the Tarmic sid",
+        "3. Construction of Road from Sagarmore to Gadiyal Road (L-3.900 Km.)"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender  for  shifting of  3 Phase  line Passing over the plot of Smt Geeta Devi w/o Lab",
-        "2. Repair and Maintenance of Mini Secretariat Building at Kangra",
-        "3. C/o Farmer Advisory cum E Kisan Bhawan and Deputy Director of Agriculture Office at Dev"
+        "1. A.R and M.O. NH.05 Km 236.00 to 368.00 SH Providing and laying Cement Grouted Bituminou",
+        "2. Restoration to Rain  damages to NH 05 Km 23.00 to 368.00  SH Hiring of excavator cum lo",
+        "3. A R and M O NH 305 Km 0.00 to 97.00  SH Providing and laying Cement Grouted Bituminous "
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of JCB Machines for the Slip and Boulder Clearance at Satpuli-Kandakhal- Sisildi",
-        "2. Purchase of ortho and Dental Implant",
-        "3. Work of Installation of New Transformers (06 No. 250 KVA and Increasing Capacity of Sit"
+        "1. Renewal of road and construction of footpath  from Shankaracharya Chowk to Deshrakshak ",
+        "2. Renewal by B.C. and construction of  footpath work on the internal roads of Shankaracha",
+        "3. Construction of Ring Road in Clement Town Cantt under the Dharampur Constituency of Deh"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4cf22ee450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6e4505d450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation and Maintenance of 60 nos of High mast lights in 60 ward of Guwahati city",
-        "2. Construction of Boundary wall, concrete bed or Windrows pad, Drain and remaining work f",
-        "3. OPU (Oil Pressure Unit) Oil Pump along with unloader valves and other associated necess"
+        "1. Short e Tender Notice for Printing and Supply of Personalized Letter, Window Envelopes ",
+        "2. Providing P2P or MPLS connectivity",
+        "3. Advancing term loan from intending Financial Institution."
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OSM 2026-27 PROJECT NO 132/27 KHADHI BOARD ROAD RENNOVATION",
-        "2. roject No-S0557/26 Constructing a Shopping complex at Manjodi in ward 17-Fire Protectio",
-        "3.  IMPROVEMENTS OF PAREPALLY-KUZHIYAR ROAD IN WARD 6-PROJECT NO 18/2026-27"
+        "1. GENERAL-AMC main substation MCH,Tvpm-AMC of Transformer,DG ,VCB and ACB panel installed",
+        "2. GENERAL-Annual Maintenance Contract of ductable air conditioning unit of cardiology ICU",
+        "3. Supply of iMac M4"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Running of College Canteen at GCW Nawakadal",
-        "2. Providing Water Supply connection to JNV  Kulgam, Construction of Spring protection wor",
-        "3. AS PER BOQ"
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Kadlabal Pulpar",
+        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Kasbiyar A",
+        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Shar Shali B"
       ]
     }
   ],
