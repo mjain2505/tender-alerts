@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-03 21:46:09",
+  "checked_at_utc": "2026-07-04 09:11:13",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. JP/B957-999-PK-T-9501/1031 - COMPOSITE WORKS FOR UTILITIES AND OFF-SITES (PART-A AND B)",
-        "2. EXPRESSION OF INTEREST FOR ENLISTMENT OF SUPPLIERS FOR AUTOMATIC STORAGE AND RETRIEVAL ",
-        "3. REPAIRING OF ROADS AT DIFFERENT LOCATIONS UNDER INDUSTRIAL ZONE OF HALDIA  DOCK COMPLEX"
+        "1. Operation, Repair and Maintenance of Sub Station, Transformers, HT Panel and DG sets MM",
+        "2. Open Tender for Procurement of Laptop (PAC Basis)",
+        "3. Replacement of damaged water supply line at GM F PAF building Aliganj Lucknow"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Beautification of lal Bangla Shivkatra Chauraha ward 28 under zone02",
-        "2. Khevasipur mein ring road se vishraam ke ghar tak sadak nirmaan kaary.",
-        "3. Korauta mein patel chauraha se manna ke ghar tak sadak nirmaan kaary."
+        "1. Bhelupur zone ke antargat ward no-25 durgakund me durgakund pokhra ke pas se nawabganj ",
+        "2. Bhelupur zone ke antargat ward no -51 bhelupur me pustkalay se ram janki mandir tak roa",
+        "3. Ward No. 04 Shastri Nagar Me 10 HP Samarsubul Adhisthapan Awam Pump House Nirman Ka Kar"
       ]
     },
     {
@@ -29,17 +29,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Various work at Traffic island (Gavdevi chowk, kankraj mehta chowk, Krushnkant Gyvat Ma",
-        "2. Improvements of SH-71 to Waghapur Devgaon Nimgaon Tembhi Shirapur Modhalwadi Pimpalgaon",
-        "3.  Improvement to MDR 26 to Waghapur Kankapur Ozar Bu. Shedgaon to Ashwi Khu. Road (MDR. "
+        "1. Bhavan Rachna Vibhag kadil prakalpakarita zaminicha survey karane",
+        "2. PRABHAG KR.14 K MADHYE RASTE VISHAYAK KAME KARANE.",
+        "3. Pune mahanagerpalikechya vividh khaytyatil record jatan karne sathi adyavat vartikal st"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. R and M of Residential  and Non Residential buildings at 132 KV GSS Kaman",
+        "2. Repair of M.T. Branch, Misc. Store and CPC canteen at Police Line Pali",
+        "3. (MGNREGA/VBGRAMG) Construction Material Supply works in GP Modi"
+      ]
     },
     {
       "name": "Madhya Pradesh",
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of C.C. Road at ward no 02 trinching groud to jatrapura road vidisha",
-        "2. Construction work of Asphalt road at ward no 33 aambali colony smadhi  to govt.School v",
-        "3. Construction work of  C.C. Road at Ward no 33 mirzapur halke singh dhangi  house to mat"
+        "1. Zonal Work Group 2 for 14 Roads under MPRDC Shahdol Chhindwara Division 2nd Call",
+        "2. Construction of  CC Road beside bramhakumari kendra, near dwarka parisar under banarsi ",
+        "3. Construction of covered RCC drain from Raju Tyre to Ram Lakhyani Ji house via Divyanshi"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SERI/PURU/NIQ/08/2026-27/Sl1",
-        "2. Construction of  Raised Platform for Kitchen at ICDS Centre Under Punchra GP (  15 Nos)",
-        "3. Memo No.  86/IX-5(SS DHFWS/GTA-2026                           Dated 01/07/2026"
+        "1. KMC/DCE_PS/IV/38/01/26-27",
+        "2. KMC/ROADS/2025-2026/794",
+        "3. 05/EE/CD/SWM/KMDA of 2026-2027(Sl-1)(2nd call) Dated 29.06.2026"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Storm Water Drain at thukinar street giriamman kovil street ward no 27.",
-        "2. Construction of Storm Water Drain at Anjugam Nagar Cross Road  2 in Ward no 03, North z",
-        "3. Maintenance and Repair work at Bharathi park  in Ward No 13, North zone,"
+        "1. Providing Storm Water Drain and Culvert at Anna Nagar Main Road 080017R257 Anna nagar n",
+        "2. Desilting and Minor Repairs Work to Existing Storm Water Drain at Various street in div",
+        "3. Supply and Fixing of EB Pole  and LED light at  Ward 11 , Aadam Nagar Main Road Annasal"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REQUEST FOR PROPOSALS (RFP) Setting Up Production Plants for Supply of Take Home Ration",
-        "2. REPAIR AND RAISING OF EMBANKMENT AND CONNECTING IT WITH ALREADY EXISTING BANK AND PROVI",
-        "3. Earth work of Desilting for clearance open Nalla             Nerhu chowk to jode Pump a"
+        "1. E-tender for sodium alginate and xanthan gum",
+        "2. job contract of Feeding of Rice Husk into Boiler (by Manpower), Transportation of Husk ",
+        "3. Prov of silent Generator sets for disposals in Zone-B on hiring basis."
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. tender for providing consumable i.e. antistatic masketc.",
-        "2. tender for providing consumable i.e. serum IgE etc.",
-        "3. Operation and Maintenance for 200mm to 900mm i.d, S.W. pipe, RCC Pipe Sewer, Brick Circ"
+        "1. Tender for supply  of Seamless Pipe",
+        "2. Tender for supply of S.S Pin for Rack carrier Chain with Nylock Nut (as per drawing)",
+        "3. Engagement 42 Nos. Beldars Casual Labour for special day and night watching during floo"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair to bridge over Hanumantia Nallah at 1st km on Telkoi to Barhadevta Road_Road_Rep",
-        "2. Selection of Manpower Agency for providing Technical / Non Technical Manpower at the of",
-        "3. PWD Road to Panasuan_Road_SDBC,Road Furniture_0.000 to 5.500"
+        "1. S/R such as Comprehensive annual Electrical maintenance for wiring and electrical  acce",
+        "2. Appointment of transport contractor for transportation of Paddy from PPC to Rice Mill f",
+        "3. Improvement such as widening and strengthening to Katia-Baispan road from 9/500 km to 2"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF RCC DRAIN AND PAVER  BLOCK ROAD SHIV MANDIR POKHARIYA TO PANKAJ JHA HOU",
-        "2. Supply of Fry Catching Net",
-        "3. construction of pavers block road  from  satya paswan house via Santosh tanti house to "
+        "1. CONSTRUCTION OF RCC GUARDWALL AND PAVER BLOCK ROAD FROM H0 OF RAJU SHARMA TO SANJAY TEN",
+        "2. Quotation through e-tender Quotation for reate of Materials as per NIQ Under Road Divis",
+        "3. e Quotation are invited for Rate of Materials"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairs and Rehabilitation of 19.75 metre span RCC T-Beam Bridge over Pangola Nalah on ",
-        "2. Tender for Polymer based Water Proofing of RCC slab roof covered with brick bat coba on",
-        "3. Providing Subheads Lift irrigation Components including Distribution System at TWIS Bab"
+        "1. Tender  for  shifting of  3 Phase  line Passing over the plot of Smt Geeta Devi w/o Lab",
+        "2. Repair and Maintenance of Mini Secretariat Building at Kangra",
+        "3. C/o Farmer Advisory cum E Kisan Bhawan and Deputy Director of Agriculture Office at Dev"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Borewells, U/G Water Storage Tanks, Water Haurvesting System (with borw",
-        "2. E-Tender for preparing soundproofing room including soundproofing equipment for the stu",
-        "3. Dev Bhoomi Rajat Jayanti Park construction work, NPP Narendra Nagar"
+        "1. Hiring of JCB Machines for the Slip and Boulder Clearance at Satpuli-Kandakhal- Sisildi",
+        "2. Purchase of ortho and Dental Implant",
+        "3. Work of Installation of New Transformers (06 No. 250 KVA and Increasing Capacity of Sit"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0f44578ed0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4cf22ee450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Engagement of CERT-In Empaneled Information Security  Auditor for Comprehensive Cyber S",
-        "2. Empanelment Of Travel Agency(S) For Hiring Passenger Vehicles under Assam State Disaste",
-        "3. TO PROCURE THE SERVICES OF TRAVEL AGENCY(S)FOR HIRING PASSENGER VEHICLES THROUGH RATE C"
+        "1. Operation and Maintenance of 60 nos of High mast lights in 60 ward of Guwahati city",
+        "2. Construction of Boundary wall, concrete bed or Windrows pad, Drain and remaining work f",
+        "3. OPU (Oil Pressure Unit) Oil Pump along with unloader valves and other associated necess"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Malappuram DP (2026-27), Project No 178-27 -Improvement for Mottammal Kolap",
-        "2. Annual Plan-Malappuram DP (2026-27), Project No 287-27 -Renovation of Perinthalmanna Di",
-        "3. Annual Plan-Malappuram DP (2026-27), Project No 341-27 -Improvement of Puthan Thottinga"
+        "1. OSM 2026-27 PROJECT NO 132/27 KHADHI BOARD ROAD RENNOVATION",
+        "2. roject No-S0557/26 Constructing a Shopping complex at Manjodi in ward 17-Fire Protectio",
+        "3.  IMPROVEMENTS OF PAREPALLY-KUZHIYAR ROAD IN WARD 6-PROJECT NO 18/2026-27"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Auction of Lorry Adda at Ghou Manhasan",
-        "2. Establishment and maintenance of plantation through planting 12000 Nos of departmental ",
-        "3. Improvement/Upgradation of road from Panja Chowk to Kheora Rajouri Rs 29.14 lacs Gujjar"
+        "1. Running of College Canteen at GCW Nawakadal",
+        "2. Providing Water Supply connection to JNV  Kulgam, Construction of Spring protection wor",
+        "3. AS PER BOQ"
       ]
     }
   ],
