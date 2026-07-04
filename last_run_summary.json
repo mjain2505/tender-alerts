@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-04 15:48:00",
+  "checked_at_utc": "2026-07-04 21:17:41",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o various schemes under NA.II (EZ).SH-    Providing, fixing and installation of piezo",
-        "2. M/o Various Schemes under NA.II (EZ)S.H.-Replacement of existing G.S. sheet roof AND pa",
-        "3. M/o Various schemes under NA.II (EZ) Sub-Head- Day to day Cleaning and scavenging of  2"
+        "1. M/o Various Schemes underNA.II (EZ).S.H.-Repair AND maintenance of QAC Zonal Lab i/c pa",
+        "2. M/o various schemes under NA.II (EZ).SH-    Providing, fixing AND installation of piezo",
+        "3. M/o Various Schemes under NA.II (EZ)S.H.-Replacement of existing G.S. sheet roof AND pa"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TD-538/26",
-        "2. Development of Meditation Park at Model Town Park in Kanpur City",
-        "3. Interlocking construction work commencing from Sushil Pandey residence located in the G"
+        "1. Construction of work of science museum Geo science Space science aquatic science in Gor",
+        "2. Construction of Way Bridge Room in NMY Ait",
+        "3. Interlocking construction work is underway in Gram Sabha Yarna specifically on the pave"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  E Tender Notice No.01 for 2026_27_01",
+        "1. Providing and laying in situ seven course water proofing treatment with APP  at  Bldg N",
         "2. Repairs to Ceiling Plaster Bldg No 1 5 6 9 and  20 Sahakar Nagar Municipal Colony in Be",
-        "3. Providing and laying in situ seven course water proofing treatment with APP  at  Bldg N"
+        "3.  E Tender Notice No.01 for 2026_27_01"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construct ion of Pacca Anicut lamina  CCT, MPT MJSA Third phase area Bhim",
-        "2. Construction of DSMP, ECD with waste weir in MJSA Second Phase area Bhim",
-        "3. Construction of CCT and DSMP in MJSA Third Phase area Deogarh"
+        "1. Construction of Recharge Shaft in Aquifer in MJSA Third Phase area Deogarh",
+        "2. Mitti bharav va gravel sadak nirman karya Mahaveer mali ke nohre se Gopal mali ke khet ",
+        "3. Construct ion of Pacca Anicut lamina  CCT, MPT MJSA Third phase area Bhim"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of WBM Road from Narmada Mandir Dharamshala to Aaganwadi in Patel Ward, Na",
+        "2. Construction of C.C. Road from Dharmendra Tiwari to Singhwahini Mandir in Patel Ward, N",
+        "3. Construction of Drain in New Sastri Nagar Old Sastri Nagar And Gupta Nagar And CC Road "
+      ]
     },
     {
       "name": "West Bengal",
@@ -69,8 +73,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing canteen services in Students Amenities Centre, located at CEG Campus, Anna Un",
-        "2.  \tKAMUTHI Sintex Tank With Ringwell",
+        "1.  \tKAMUTHI Sintex Tank With Ringwell",
+        "2. Providing canteen services in Students Amenities Centre, located at CEG Campus, Anna Un",
         "3. PROCUREMENT OF DSR CHEMICAL FOR PAPER MACHINE 3 AT UNIT I"
       ]
     },
@@ -81,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Existing WS Scheme Kalsian Kalan and Theh Nuahsera, Block Bhikhiwind, Distt. Tarm Taran",
-        "2. Integrated Rainwater Runoff management system at Gurudwara Pheruman Sahib Millerganj Dh",
-        "3. Integrated Rainwater Runoff management system at Dholewal Chowk to Vishkarma Chowk Manj"
+        "2. To carry out the work of housekeeping such as cleaning, sweeping and gardening of vario",
+        "3. Integrated Rainwater Runoff management system at Gurudwara Pheruman Sahib Millerganj Dh"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Replacement and painting of 04 no. gates with platform at RD 27000 of main Gurgaon Cana",
-        "2. DNIT of Maint. of Rohtak Range",
-        "3. EXCAVATION OF EXTRA DEPTH OF KACHA POND FOR STORAGE OF WATER FOR FLAMINGO SPECIES IN SU"
+        "1. DNIT of Maint. of Meham Range",
+        "2. EXCAVATION OF EXTRA DEPTH OF KACHA POND FOR STORAGE OF WATER FOR FLAMINGO SPECIES IN SU",
+        "3. Replacement and painting of 04 no. gates with platform at RD 27000 of main Gurgaon Cana"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Nijigarh Tapanga  RD Road  to Baghaitangi  via Adivasi sahi Road in the",
+        "1. Construction of Driving training Institute of Transport Deptt Govt. of Odisha at Deulip",
         "2. Const of RD road from Gambharimunda Godijhara  to Sunakhala  Ayatpur PWD road via Haric",
-        "3. Construction of Narangarh  RD road  Kanchilo PMGSY  road in the District of Khurda unde"
+        "3. Construction of Maruti Residency entire road Raghunathpur Jally  in the District of Khu"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. work (2) Installation of New Lift in C.B.I. Building at Civil Court, Ranchi",
-        "2. Supply, fitting and fixing of vision glass panels      (IGU 8-12-8mm) on the Tarmic sid",
-        "3. Construction of Road from Sagarmore to Gadiyal Road (L-3.900 Km.)"
+        "1. Supply, fitting and fixing of vision glass panels      (IGU 8-12-8mm) on the Tarmic sid",
+        "2. Construction of Road from Sagarmore to Gadiyal Road (L-3.900 Km.)",
+        "3. work (2) Installation of New Lift in C.B.I. Building at Civil Court, Ranchi"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6e4505d450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1b099fa610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,8 +169,8 @@
       "status": "ok",
       "sample_titles": [
         "1. GENERAL-AMC main substation MCH,Tvpm-AMC of Transformer,DG ,VCB and ACB panel installed",
-        "2. GENERAL-Annual Maintenance Contract of ductable air conditioning unit of cardiology ICU",
-        "3. Supply of iMac M4"
+        "2. Supply of iMac M4",
+        "3. GENERAL-Annual Maintenance Contract of ductable air conditioning unit of cardiology ICU"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Kadlabal Pulpar",
-        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Kasbiyar A",
-        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Shar Shali B"
+        "1. Establishment and maintenance of plantation through planting 10000 Nos protection and a",
+        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Krenchoo",
+        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Wuyan Bala"
       ]
     }
   ],
