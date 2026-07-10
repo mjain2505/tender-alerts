@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-10 16:39:32",
+  "checked_at_utc": "2026-07-10 21:40:29",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,8 +7,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Widening of existing Dwarka Circle - Upanagar Naka - Datta Mandir Chowk section of NH-6",
-        "2. SUPPLY OF KNOW-HOW / LICENSE, BASIC ENGINEERING DESIGN PACKAGE (BEDP), CATALYST AND OTH",
+        "1. SUPPLY OF KNOW-HOW / LICENSE, BASIC ENGINEERING DESIGN PACKAGE (BEDP), CATALYST AND OTH",
+        "2. Widening of existing Dwarka Circle - Upanagar Naka - Datta Mandir Chowk section of NH-6",
         "3. Misc. civil repair works in Room No. 425, P and D Section and 427, Architect at Dak Bha"
       ]
     },
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Block Bharthana GP Devrasai ke Nagla Dhara me Damar Road to Shri Kayam Singh ke ghar ta",
-        "2. WARD NO- 10 SHIVPURAWA ME SADHANA SINGH AAWAS SE RANGAI-PUTAI AVAM MARAMMAT KA KARY",
-        "3. Ward 09 KRISHNA HOME TO DEEPAK FOJI HOME CEMENT CONCRETE ROAD AND DRAIN WORK"
+        "1. WARD NO- 10 SHIVPURAWA ME SADHANA SINGH AAWAS SE RANGAI-PUTAI AVAM MARAMMAT KA KARY",
+        "2. Ward 11 KAMAL MUNIM HOME TO KALADHARI BAGICHI CEMENT CONCRETE ROAD AND DRAIN WORK",
+        "3. Ward 11 CHARAT HOME TO KAPPO PANDIT HOME CEMENT CONCRETE ROAD AND DRAIN WORK"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ratnagiri division under.. Proposed Wadi Khurd industrial area survey and demarcation u",
-        "2. Providing and Fixing Hand Railing at Agarwada at Namdeo Koli Marg in Beat No 172 in F/N",
-        "3. Chikhali GC Indl Area M and R to Roads chikhali GC for THE YEAR 2026 2027"
+        "1. Repairs to 15 seated Gents Toilet and Drainage system near Wageshwari Wani Chawl,Adanwa",
+        "2. Sale of MULBERRY SILK COCOON WASTAGE Items(B.V. Blade Cut Cocoons) at Gadhinglaj Dist. ",
+        "3. Providing and Fixing Hand Railing at Agarwada at Namdeo Koli Marg in Beat No 172 in F/N"
       ]
     },
     {
@@ -40,21 +40,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Electric Repair work in Nari Niketan under Social Justice and Empowerment Department at",
-        "2. SITC of Compressor and Gas Filling in VRV System at SIAM Auditorium Tonk",
-        "3. construction of balance  cc road at Shanti nagar  word no 21"
+        "1. Cleaning work GP Derwala",
+        "2. Work of removing of the Acacia (Juli Flora) and broken tree trunks, wood etc. from all ",
+        "3. Supply of Construction Material Scheme MNREGA, SFC , FFC and other scheme for Financial"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Selection of Agency to Provide Technical Assistance for Implementation of Waste Managem",
-        "2. Procurement of Annual Rate for Various type of Tools, Materials, Machinery parts, Miner",
-        "3. RCA for Procurement of  11 KV (70 KN) and 33 KV (90 KN) Strain Hardware Fittings (BandS"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -63,8 +59,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Installation of New LED TV at Fultala More .",
-        "2. Installation of Tube well at Sultan Para under Domohani Gram Panchayat",
-        "3. Maintenance and Up gradation of Building and Hall at Domohani under Domohani GP"
+        "2. Procurement of and maintenance of Computer , Pinter, UPS",
+        "3. Installation of  Submersible Pump at Amdiha Village under Itapara Gram Panchayat"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Transformer oil filtration test and Earth pit test",
-        "2. Madurai Corporation Zone -5 Jaihindpuram MPS 100 HP ,Kovalpotal pumping 50 hp ,Villapur",
-        "3. Karur City Municipal Corporation_KFW Scheme_Providing Under Ground Sewerage Scheme to t"
+        "1. Karur City Municipal Corporation_KFW Scheme_Providing Under Ground Sewerage Scheme to t",
+        "2. Madurai CorporatioN Zone 5 Palanghanatham 35 Hp , Muniyandi Puram 5 Hp Submersible Moto",
+        "3. Construction of Mini CSC near ADW PUPS School at Periyanesalur Panchayat"
       ]
     },
     {
@@ -85,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. CONST. OF MARKET COMMITTEE OFFICE BUILDING MC KHANOURI DISTT. SANGRUR (MC FUNDS 2025-26",
-        "2. Estimate for filling of EC Bags for sensitive points falling under the jurisdiction of ",
-        "3. Estimate for Repair/renovation of Nabha Sub Division Office at Baladkoti"
+        "2. Estimate for Repair/renovation of Nabha Sub Division Office at Baladkoti",
+        "3. Estimate for filling of EC Bags for sensitive points falling under the jurisdiction of "
       ]
     },
     {
@@ -95,8 +91,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Demolition of existing buildings located at Forest Complex, Gurugram (besides PWD Rest ",
-        "2. Engagement of Consultant for Preparation of Detailed Project Report For preparation of ",
+        "1. Engagement of Consultant for Preparation of Detailed Project Report For preparation of ",
+        "2. Demolition of existing buildings located at Forest Complex, Gurugram (besides PWD Rest ",
         "3. Beautification of City Center Park in Sector 10, Kurukshetra (Construction of rain shel"
       ]
     },
@@ -107,8 +103,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Bagulapari to Bhutapada_Road_WBM-IIII, PMC, seal coat and Toe wall-100 mtr-2.300 to 2.9",
-        "2. Construction of disabled-friendly toilet for Pwd students (both Male and Female) for Pa",
-        "3. L072-Algum PWD road to Padansahi_Road_WBM-III,PMC and SC0.600 to 0.900"
+        "2. Parakena Padmapur_Road_WBM-III,SDBC and 900 mm dia S.R HPC,600 mm dia S.R HPC,1.000 to ",
+        "3. NH-203 to Sadanandapur_Road_WBM-III, PMC, seal coat0.000 to 0.500"
       ]
     },
     {
@@ -130,7 +126,7 @@
       "sample_titles": [
         "1. e Tend Procurement Receiving Handling  Transportation of 35 Kg Apple Bags at Apple Coll",
         "2. eTender Notice  for Renting out Controlled Atmosphere Store and Grading and Packing Fac",
-        "3. R/R damages on various roads in Shamtha  Section under PIU Sub-Division Nerwa"
+        "3. R/R damages on various roads in Nerwa-II  Section under Shallu Sub-Division Nerwa"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f71357b08d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f90fe3c7050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -170,7 +166,7 @@
       "sample_titles": [
         "1. Running Edarikkode Textiles on Job Work",
         "2. Others- Deposit work-Leak rectification at Panaveli-Vettikkavala by laying 150mm GI Pip",
-        "3. MPLADS 2025-26 CONSTRUCTION Of  PANDIKKAD PALLIPADI -PETROL PUMP  PANDIKKAD  GP(WC.1299"
+        "3. GENERAL-Cheeerakuzhy-Urgent repair works to Cheerakuzhi Regulator shutters under irriga"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Protection Bund near main Road to Nund Bab Sahab and Protection Wall to",
-        "2. Improvement of Paristan Khul/Putkhah Khul from Zahoor Ah Rather to Astan under ADP (PRI",
-        "3. Direct Ophthalmoscope"
+        "1. Road from Dassal to Dassal Seerian",
+        "2. Constt.of Pacca path from kote sildhar to Bowlie ward no. 9 Pyt  Block Mahore under cap",
+        "3. Construction of Fencing of Sheikh Mohalla and Malik Mohalla Graveyard ( Rs1.30 Lakhs ) "
       ]
     }
   ],
