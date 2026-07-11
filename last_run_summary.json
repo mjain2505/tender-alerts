@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-10 21:40:29",
+  "checked_at_utc": "2026-07-11 07:24:20",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF KNOW-HOW / LICENSE, BASIC ENGINEERING DESIGN PACKAGE (BEDP), CATALYST AND OTH",
-        "2. Widening of existing Dwarka Circle - Upanagar Naka - Datta Mandir Chowk section of NH-6",
-        "3. Misc. civil repair works in Room No. 425, P and D Section and 427, Architect at Dak Bha"
+        "1. Term contract works B R residential and non residential bldg at Bn HQ Tuensang Nagaland",
+        "2. Supplying and Laying of 3Cx120 sq.mm 11kV HT  UG cable to RCHW Colony Transformer Centr",
+        "3. Term contract works B R residential and nonresidential bldg at Bn HQ Tuensang Nagaland"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WARD NO- 10 SHIVPURAWA ME SADHANA SINGH AAWAS SE RANGAI-PUTAI AVAM MARAMMAT KA KARY",
-        "2. Ward 11 KAMAL MUNIM HOME TO KALADHARI BAGICHI CEMENT CONCRETE ROAD AND DRAIN WORK",
-        "3. Ward 11 CHARAT HOME TO KAPPO PANDIT HOME CEMENT CONCRETE ROAD AND DRAIN WORK"
+        "1. Beautification work of the park near Sanjeev Pratap house in Niranjankunj",
+        "2. Beautification work of the park near the railway line close to Ram Singh house in Tirup",
+        "3. Beautification work of the park near Dr Rajendra house in Godavari State Colony"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairs to 15 seated Gents Toilet and Drainage system near Wageshwari Wani Chawl,Adanwa",
-        "2. Sale of MULBERRY SILK COCOON WASTAGE Items(B.V. Blade Cut Cocoons) at Gadhinglaj Dist. ",
-        "3. Providing and Fixing Hand Railing at Agarwada at Namdeo Koli Marg in Beat No 172 in F/N"
+        "1. Call for All Kind of Building Material at Fulchurtola",
+        "2. Repair of Hydraulic Steering Gear Box and Pump and Rear Brake Chamber for Refuse Compac",
+        "3. E-Tender No.10-2026 Providing Internal Electrification to Skill Training Lab in Extensi"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Cleaning work GP Derwala",
-        "2. Work of removing of the Acacia (Juli Flora) and broken tree trunks, wood etc. from all ",
-        "3. Supply of Construction Material Scheme MNREGA, SFC , FFC and other scheme for Financial"
+        "1. Construction work of Sub District Hospital Bijaynagar Distt. Beawar (H.V.A.C. Work)",
+        "2. Swachta Hetu Punjilal Nathu Ke Ghar Se Panghat Tak Nali Niryam Karya GP Kunwa",
+        "3. Forest Protection work"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTRUCTION OF  RCC DRAIN GOPI SONI TO DHEERAJ SONEKAR TO BABA RAGDE HOUSE IN GANDHI W",
+        "2. CONSTRUCTION OF CC ROAD JAGDISH MAHALE TO ASHISH RATHORE HOUSE IN AMBEDKAR WARD BETUL",
+        "3. CONSTRUCTION OF RCC DRAIN WITH SLEB ANDSUPPLY AND FIXING PAVING BLOCK  DONGRE TO YESHUR"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of New LED TV at Fultala More .",
-        "2. Procurement of and maintenance of Computer , Pinter, UPS",
-        "3. Installation of  Submersible Pump at Amdiha Village under Itapara Gram Panchayat"
+        "1. DRINKING WATER PLANT",
+        "2. DRINKING WATER PLANT",
+        "3. DRINKING WATER PLANT"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Karur City Municipal Corporation_KFW Scheme_Providing Under Ground Sewerage Scheme to t",
-        "2. Madurai CorporatioN Zone 5 Palanghanatham 35 Hp , Muniyandi Puram 5 Hp Submersible Moto",
-        "3. Construction of Mini CSC near ADW PUPS School at Periyanesalur Panchayat"
+        "1. Salem Corporation Ammapet ward office Allikuttai lake maintenance and Fee Collection pu",
+        "2. Civil maintenance work in Paper Machine No.1, 2 and 3, CCK, Finishing House and Paper G",
+        "3. Supply of PP Woven bags at ACW"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONST. OF MARKET COMMITTEE OFFICE BUILDING MC KHANOURI DISTT. SANGRUR (MC FUNDS 2025-26",
-        "2. Estimate for Repair/renovation of Nabha Sub Division Office at Baladkoti",
-        "3. Estimate for filling of EC Bags for sensitive points falling under the jurisdiction of "
+        "1. Estimate for Relining /Reconstruction of Watercourse of Outlet at RD 13100/L of Fazilka",
+        "2. Estimate for Relining /Reconstruction of Watercourse of Outlet at RD 4126/L of Fazilka ",
+        "3. Estimate for Relining /Reconstruction of Watercourse of Outlet at RD 7318/R of Fazilka "
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Engagement of Consultant for Preparation of Detailed Project Report For preparation of ",
-        "2. Demolition of existing buildings located at Forest Complex, Gurugram (besides PWD Rest ",
-        "3. Beautification of City Center Park in Sector 10, Kurukshetra (Construction of rain shel"
+        "1. consumables for bpsgmc for women,khanpur kalan",
+        "2. SELECTION OF AGENCY For MECHANIZED AND MANUAL SWEEPING OF ROADS IN ZONE/AREA OF PATAUDI",
+        "3. Engagement of Consultant for Preparation of Detailed Project Report For preparation of "
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Bagulapari to Bhutapada_Road_WBM-IIII, PMC, seal coat and Toe wall-100 mtr-2.300 to 2.9",
-        "2. Parakena Padmapur_Road_WBM-III,SDBC and 900 mm dia S.R HPC,600 mm dia S.R HPC,1.000 to ",
-        "3. NH-203 to Sadanandapur_Road_WBM-III, PMC, seal coat0.000 to 0.500"
+        "1. Chakiamatha - Tarata_Road_SDBC _2.100 to 4.500",
+        "2. P.K road to Ambiligaon_Road_Dismataling damaged CC and Reworking GSB, WBM-II and III, S",
+        "3. Kopara to Ambligaon_Road_SDBC_1.500 to 3.271"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Design, Engineering, Supply of materials equipment, Erection, Testing  commissioning of",
-        "2. Renovation of ST Boys Hostel Bano",
-        "3. Renovation of ST Girls Hostel at Lachragarh, Block-Kolebira, Simdega."
+        "1. Rate Contract of Haemophilia Medicine",
+        "2. Tender for Fish Feed",
+        "3. Tender for Fish Net"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. e Tend Procurement Receiving Handling  Transportation of 35 Kg Apple Bags at Apple Coll",
-        "2. eTender Notice  for Renting out Controlled Atmosphere Store and Grading and Packing Fac",
-        "3. R/R damages on various roads in Nerwa-II  Section under Shallu Sub-Division Nerwa"
+        "1. Supply and installation Repair and Replacement of defective Online UPS with faulty DC b",
+        "2. Restoration work at T 07 220 kV Transmission Line Karian Rajera",
+        "3. Balance work of Panchayat comm. Centre P.Ghar GP Theli Chakti Dev. Block Nankhari Distt"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of road using BM and SDBC from Municipal Corporation Bridge to Sapna Puliy",
-        "2. Construction of internal roads using CC interlocking tiles and construction of drains i",
-        "3. Construction work of internal roads of Kaveri Kunj and Purvavali of Roorkee assembly co"
+        "1. Construction of the approach road for a 95 meter span motorable bridge over the Alaknan",
+        "2. Supply fixing maintaining replacing (if required) of Electrical items during  kumbhMela",
+        "3. Supply fixing maintaining replacing (if required) of Electrical items during kumbhMela "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f90fe3c7050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f59eb341410>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,21 +157,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROCUREMENT OF LIVESTOCK AND POULTRY FEED",
-        "2. Construction of remaining portion of RCC Market Building 1st Floor at Gokul Pathak Bus ",
-        "3. Additional estimate for Construction of DEOC Building, Kamrup, Amingaon with Base Isola"
+        "1. Construction of 2 Nos. RCC Box culvert",
+        "2. Supply, Installation and Commissioning of IVUS and Cardiac OCT for Assam Medical Colleg",
+        "3. PROCUREMENT OF LIVESTOCK AND POULTRY FEED"
       ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Running Edarikkode Textiles on Job Work",
-        "2. Others- Deposit work-Leak rectification at Panaveli-Vettikkavala by laying 150mm GI Pip",
-        "3. GENERAL-Cheeerakuzhy-Urgent repair works to Cheerakuzhi Regulator shutters under irriga"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Road from Dassal to Dassal Seerian",
-        "2. Constt.of Pacca path from kote sildhar to Bowlie ward no. 9 Pyt  Block Mahore under cap",
-        "3. Construction of Fencing of Sheikh Mohalla and Malik Mohalla Graveyard ( Rs1.30 Lakhs ) "
+        "1. Const. of water well near Shiv Mandir W. No. 04, Pyt Sansoo, Block Udhampur, Dist Udham",
+        "2. Const. of Tile work from main road to badrinath house at pyt. kawa lower , Pyt. Kawa Lo",
+        "3. Improvement of lane drain from excise building towards house of Sat master Pyt Chari Bl"
       ]
     }
   ],
