@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-11 15:35:04",
+  "checked_at_utc": "2026-07-11 20:33:02",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,20 +8,16 @@
       "status": "ok",
       "sample_titles": [
         "1. PROVISION OF MANAGEMENT SERVICES TO DRDO OFFICERS TRANSIT FACILITY AND DRDO NGO TRANSIT",
-        "2. PROVISION OF MANAGEMENT SERVICES TO DRDO OFFICERS TRANSIT FACILITY AT ALMORA, AULI JOSH",
-        "3. Repair/ maint of JCOs/ OR toilets /bathroom of MT Platoon, P-85 / combined bathroom nea"
+        "2. Term contract for welcome wash for Offrs married and single accn at Laitkor Grn",
+        "3. Repair/ maint of cook house SP-15, Happy Valley"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Repairing of plate form and structure from reputed Contractors",
-        "2. Ward No 4 Mohalla Kila Nai Basti mein Abdul Wahab ke makan munsi haseen ke  Gher tak C.",
-        "3. Ward No 10 Mohalla Dodiyan mein Tasleem ki dukan se Imran ke makan tak C.C Road and Nal"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Anganwadi Building No 57 ,At Prabhag No. 17 Kochar Ward, Beside of Naga",
+        "1. e Tender Notice No 3 For 2026-27",
         "2. Construction of Anganwadi Building No-52 ,At Prabhag No.5 Sant.Tukdoji Ward, in Premise",
-        "3. e Tender Notice No 3 For 2026-27"
+        "3. Construction of Anganwadi Building No 37 At Prabhag No.20 Sant.Kabir Ward, in the Premi"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. gravel mitti nirman karya Rameshwar Jat ke khet se Gopal Gora ke kuve ki taraf gram Akh",
+        "1. Installation of a new 75 HP motor at the Guru Nanak Basti pump house, including connect",
         "2. Beautification painting work at various locations under the SBM scheme during the clean",
-        "3. Gram Gogas me Dhansingh ke makan se school ke pass tak C.C. sadak nirman karya GP JAWAL"
+        "3. Construction of soak pits/compost pits/leach pits in the Gram Panchayats under Panchaya"
       ]
     },
     {
@@ -51,17 +47,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Various Printing Works for FY 2026-27 of Nagar Palika Parishad, Narsinghpur - 2nd Call",
+        "1. Supply of Electric items for FY 2026-27 in Nagar Palika Parishad, Narsinghpur",
         "2. Supply of Furniture items for FY 2026-27 in Nagar Palika Parishad, Narsinghpur",
-        "3. Wall Writing/Painting Work/Colour Washing and Other Work at Nagar Palika Parishad Narsi"
+        "3. Supply of Computer items and Service for FY 2026-27 in Nagar Palika Parishad, Narsinghp"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTRUCTION OF COVER AT ASMAT SK HOUSE TO URFAN SK HOUSE IN MADHUPUR GP UNDER NOWDA PS",
+        "2. CONSTRUCTION OF COVERED DRAIN AT DEY PARA PS SEAT NO 28 IN CHANDPUR GP UNDER NOWDA PS",
+        "3. NIT No- 187/PWD/ROAD/BMC (2nd Call) of 150/PWD/ROAD/BMC , Dated- 11/07/2026"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,8 +69,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supplying and Delivery of GI Pipe and Specials to Kotagiri Municipality",
-        "2. Supplying and Delivery of street light electrical materials to Kotagiri Municipality",
+        "1. Supplying and Delivery of street light electrical materials to Kotagiri Municipality",
+        "2. Melathanur/EB Surplus -2025-26/Pakage-1",
         "3. \tMelathanur/EB Surplus -2025-26/Pakage-2"
       ]
     },
@@ -82,7 +82,7 @@
       "sample_titles": [
         "1. Selection of Vendor for Ward Navigation Digital Guide Maps for one ward in Bathinda cit",
         "2. Estimate for Strengthening of Machinery of Exiting Main Water Works of Bathinda City.",
-        "3. Earth filling in Silver City some portion of Street No. 1 Ward No. 27 Zone No. 8"
+        "3. P/L 20mm thick Premix Carpet on Sirki Bazar and Purana Thana Ward No. 25 Zone No. 1 (On"
       ]
     },
     {
@@ -92,7 +92,7 @@
       "status": "ok",
       "sample_titles": [
         "1. SELECTION OF AGENCY For Mechanized Road Sweeping in Zone-VIII, MC Gurugram area for a t",
-        "2. 1.\t SCADA Integration of 13 No 33 kV GIS bays in the existing SIFANG Make SAS SCADA at ",
+        "2. SELECTION OF AGENCY For Mechanized Road Sweeping in Zone-V, MC Gurugram area for a time",
         "3. SELECTION OF AGENCY For Mechanized Road Sweeping in Zone-IV, MC Gurugram area for a tim"
       ]
     },
@@ -113,8 +113,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of a 15x15 ft shed near Marpathan under Singra Panchayat (2) Construction ",
-        "2. Dargama SVS Group of Scheme Under Block Khunti",
+        "1. Khijur Toli SVS Group of Scheme Under Block- Torpa",
+        "2. Construction of a 15x15 ft shed near Marpathan under Singra Panchayat (2) Construction ",
         "3. Cleaning of Nutan Talab and construction of a ghat in front of Dheeraj Bhatt house unde"
       ]
     },
@@ -144,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f97140576d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f35c60d7610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Pinglena",
-        "2. Elisa Washer",
-        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Inder"
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Inder",
+        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Chandrigam",
+        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Wahibugh"
       ]
     }
   ],
