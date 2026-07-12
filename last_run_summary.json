@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-12 18:12:14",
+  "checked_at_utc": "2026-07-12 23:39:51",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. PROVISION OF MANAGEMENT SERVICES TO DRDO OFFICERS TRANSIT FACILITY AND DRDO NGO TRANSIT",
-        "2. Term contract for welcome wash for Offrs married and single accn at Laitkor Grn",
-        "3. Repair/ maint of JCOs/ OR toilets /bathroom of MT Platoon, P-85 / combined bathroom nea"
+        "2. Repair/ maint of cook house SP-15, Happy Valley",
+        "3. Term contract for welcome wash for Offrs married and single accn at Laitkor Grn"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ward number 1 ganna society ke pass brahmdev ke pass inter loging breaks V nale per RCC",
+        "1. Ward number 4 Anand ke Makan se Gokul ke Makan Tak CC road Manali Nirman karya 57.50 me",
         "2. Replacement  and Repair of Damaged Truss Purling and AC sheet of the Roof of Boiler Qwa",
-        "3. Ward No 10 Mohalla Dodiyan mein Tasleem ki dukan se Imran ke makan tak C.C Road and Nal"
+        "3. Ward No 06 Mohalla Gadan mein Mahmood ke Plot se Faiyaj ke Plot tak C.C Road and Nali N"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Material",
-        "2. Construction of Anganwadi Building No 57 ,At Prabhag No. 17 Kochar Ward, Beside of Naga",
-        "3. e Tender Notice No 3 For 2026-27"
+        "1. Construction of Anganwadi Building No 37 At Prabhag No.20 Sant.Kabir Ward, in the Premi",
+        "2. e Tender Notice No 3 For 2026-27",
+        "3. Renovation of Dashakriya Vidhi Shed at Rajurbahula Tal Dist Nashik"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "sample_titles": [
         "1. Ducting  Insulation work in Trauma Center at SMS Hospital , Jaipur",
         "2. Ducting and Piping  work in Trauma Center OTS at SMS Hospital, Jaipur",
-        "3. 3. Repair/ Restoration/ Construction of CC Road, drain,interlocking tiles,pipe etc. as "
+        "3. 1. Repair/ Restoration/ Construction of CC Road, drain,interlocking tiles,pipe etc. as "
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF COVERED DRAIN AT PS SEAT NO 12 IN MADHUPUR GP UNDER NOWDA PS",
-        "2. CONSTRUCTION OF COVER AT ASMAT SK HOUSE TO URFAN SK HOUSE IN MADHUPUR GP UNDER NOWDA PS",
-        "3. CONSTRUCTION OF COVER  DRAIN AT PS SEAT NO 8 IN RAIPUR GP UNDER NOWDA PS."
+        "1. CONSTRUCTION OF COVER AT RAHID BISWAS HOUSE TO RAIHAN BISWAS HOUSE IN MADHUPUR GP UNDER",
+        "2. INSTALLATION OF MARK-II TUBE WELL AT PS SEAT NO 1 IN KEDARCHANDPUR-I GP UNDER NOWDA PS",
+        "3. CONSTRUCTION OF COVER AT ASMAT SK HOUSE TO URFAN SK HOUSE IN MADHUPUR GP UNDER NOWDA PS"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "ok",
       "sample_titles": [
         "1.  Supplying and Delivery and laying of GI pipe to Periyar Nagar to Kotagiri Municipality",
-        "2. Operation and Maintenance of Bio methanisation of 2 TPD Bio gas plant for Amma Unavagam",
-        "3. Supply and delivery of Computer and Laptop for office use in Colachel Municipality"
+        "2. Supply and delivery of Computer and Laptop for office use in Colachel Municipality",
+        "3. Operation and Maintenance of Bio methanisation of 2 TPD Bio gas plant for Amma Unavagam"
       ]
     },
     {
@@ -95,7 +95,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Transportation of Municipal Solid Waste from secondary collection point of Zone No. 1 t",
+        "1. Operation and Maintenance of 05 Litter Picker Machines for a Period of 24 Months comple",
         "2. Transportation of Municipal Solid Waste from secondary collection point of Zone No. 7 t",
         "3. Transportation of Municipal Solid Waste from secondary collection point of Zone-6 to Ba"
       ]
@@ -118,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Dargama SVS Group of Scheme Under Block Khunti",
-        "2. Cleaning of Nutan Talab and construction of a ghat in front of Dheeraj Bhatt house unde",
-        "3. Khijur Toli SVS Group of Scheme Under Block- Torpa"
+        "2. Khijur Toli SVS Group of Scheme Under Block- Torpa",
+        "3. Construction of a 15x15 ft shed near Marpathan under Singra Panchayat (2) Construction "
       ]
     },
     {
@@ -128,8 +128,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C.O proposed bailey bridge over Ganvi Khad at Ganvi Bus Stand on road Intake to Forebay",
-        "2. C.O 5.7 mtr. Wide road from Thalla to Pataina Km. 0.000 to 0.700",
+        "1. C.O 5.7 mtr. Wide road from Thalla to Pataina Km. 0.000 to 0.700",
+        "2. C.O proposed bailey bridge over Ganvi Khad at Ganvi Bus Stand on road Intake to Forebay",
         "3. C.O Bailey Bridge over Ganvi Khad at Ganvi on link road to PHC Ganvi in Tehsil Rampur D"
       ]
     },
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc8ccf1d6d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff23fe1d510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Laboratory Glassware (Test Tubes and  Petri Dishes)",
-        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Inder",
-        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Parigam A"
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Lethpora B",
+        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Puchal",
+        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Pinglena"
       ]
     }
   ],
