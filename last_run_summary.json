@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-13 11:43:53",
+  "checked_at_utc": "2026-07-13 18:21:16",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair/maint of signal center bldg No 12 IB/ 1981 and SM residence at ARASU, Happy Vall",
-        "2. Classroom partition work in porta cabin building in the college.",
-        "3. ARMO works at RO Bhopal for the year 2026 27 SH  Internal painting for I floor, III flo"
+        "1. Providing and Fixing Power Sockets with Modular Boxes, Wiring, Cabling and Associated E",
+        "2. SUPPLY OF CARBON STEEL COATED SEAMLESS PIPES - IV - PACKAGE 1",
+        "3. I.11016/Q/CHT-05/2026-27"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work of Providing a dual source of power supply to the offices of SE, ETC-I and ETC-II,",
-        "2. W/S WORK OF GHORAWAL TAHSIL LINK ROAD FROM RG ROAD",
-        "3. DEVELOPMENT OF GREENFIELD MULTI MODAL LOGISTICS HUB (MMLH) ON DESIGN, BUILD, FINANCE,OP"
+        "1. Supply and stacking of bhusa  and green fooder for two year jewer banger  gaushala . ye",
+        "2. Work of Genral Maintenance Non Residential and Residential Buildings (office Buildings)",
+        "3. 38/2026-27"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Laying 250 mm dia SWG Drainage Line in Swapnanagri Prabhag 27 (ward No.96",
-        "2. Providing Furniture for the Pre-School on the Transferred First and Second Floors at R.",
-        "3. Renovation, repair, and attractive painting of the transferred premises on the Second  "
+        "1. IMP OF PASSAGE AND DRAINAGE AT NEAR RTO OFFICE KANDARPADA DAHISAR WEST BEAT NO.1 R/N WA",
+        "2. IMP OF PASSAGE AND DRAINAGE NEAR NERU HOUSE SAIBABA NAGAR DAHISAR WEST BEAT NO.1 R/N WA",
+        "3. Request for Proposal RFP for Selection of Transaction Advisor for Conceptualization, La"
       ]
     },
     {
@@ -40,32 +40,24 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of CC Road/Paver Block Work in Div.-II 3003",
-        "2. Construction of Drainage in Various Converted Colonies Zone-I in Div-II. 3002",
-        "3. Construction of drain from Sher Mohammad Rangrez house to Ahmed Rangrez house in Ward N"
+        "1. Suppy, Delivery, Commissioning and Releated Services of 12650 Emergency Responder Kit (",
+        "2. Development Work at Mandhata Balaji, Bundi",
+        "3. Providing Manpower logistic support on job task basis lab operator"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Purchase of Forestry Materials works",
-        "2. Supply of Material Aggregates Karakbel Section Under Sub. Division Gotegoan.",
-        "3. Dhanmandi Shopping Complex, Shop No. 07 (Ground Floor)"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Memo No -  4540  /E-1423900/EE-E/ NKDA/Elect /2026-27- Replacement of unserviceable cab",
-        "2. KMC/EE(C)/Br- XV/139/003/2026-2027/R",
-        "3. WB/NPG/MINAKHAN/ET-21/25-26 15th FC/13"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing 0.55 MLD of Water Supply to SIPCOT at Sengipatti in Thanjavur District",
-        "2. Specification No. CE/IT and RAPDRP-05/2026-27 for Procurement of 8 Nos of Ethernet Swit",
-        "3. Execution of Capital Improvement and DCW Works in Maharajanagar Perumalpuram and Shanth"
+        "1. Construction of    Compost pit Near  Seashore area in Kovalam villagae  panchayat  Agas",
+        "2. Z.O.XIV.C.No.E1/1901/2025\t RESTORATION OF METRO WATER (CMWSSB/C.E. (P)-II/SE(P0-III) B.",
+        "3. Providing Composit pit at Swamiyarmadam Market in Kattathurai  Vpt"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/C Estimate For Repair Of Park No 1 Phase 11 SAS Nagar.",
-        "2. Rough Cost Estimate for Replacement of old damaged storm line along with construction o",
-        "3. R/C Estimate for Bus Que Shelter near Judical Complex in MC SAS Nagar  (Ward no.40) MC "
+        "1. Supply of Rice Husk",
+        "2. GIS based Comprehensive Right of Way Sweeping and Washing Services including Mechanized",
+        "3. Estimate for washroom in Lehlan Ziledar office"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New raising of plants and Maintenance in Nursery Saral Block",
-        "2. Raising and maint. of Plants in Badhra Block Nursery",
-        "3. New raising of plants and Maintenance in Nursery Tosham Block"
+        "1. Maintenance of NHAI Scheme  Plantation Work in Uchana Block of Narwana Range under Jind",
+        "2. Maintenance of NHAI Scheme  Plantation Work in Dhamtan Block of Narwana Range under Jin",
+        "3. Maintenance of Plantation Work in Safidon 2nd Block of Safidon Range under Jind Forest "
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Implementation of Civil Works under Godabarisha Mishra Adarsha Prathamika Vidyalaya Sch",
-        "2. Procurement of Strawberry Plantlets for the Year-2026-27",
-        "3. Comprehensive Annual Maintenance Contract of Air conditioning system at Unnati Bhawan"
+        "1. Construction of Boundary Wall for Additional 04 Acres Govt. Land of Govt. ITI, Paradeep",
+        "2. RD road to Sathuakera Road",
+        "3. Selection and appointment of Transport Contractor for transportation of CMR from Mill p"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of RCC drain with cover slab in Vill.- Paltanganj, Block Taljhari, Distric",
-        "2. Outsourcing for supplying vehicles Tracker Jeep or any other suitable vehicle and Labou",
-        "3. Construction of Bridge Across Local Nala Between Rahmat Nagar Panchayat Sachiwalaya to "
+        "1. Construction of 4 ACR  in UPG MS DUDHIMATI , Village- Dudhimati,G.P- Ledhpa, Block- Cha",
+        "2. Special Repair (Seepage Treatment) of Inspection Bunglow, Adityapur, Repair, Denting, P",
+        "3. GOBARDHAN Scheme (Swachh Bharat Mission - Gramin), Jharkhand  to Installation  of Bio-G"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing  WSS to ITBP Post kota in village kuno GP Charang Tehsil Moorang Distt Kinnau",
-        "2. Restoration of rain damage on Shahpur Sihunta Chowari road Km 0/0 to 53/00",
-        "3. PDNA work for LWSS Paisa Intake structure"
+        "1. Development of Civil and Electrical Charging Infrastructure for operation of electric b",
+        "2. Periodical maintenance on Bhagwanpur to Chachiot road km. 0/00 to 3/200 (SH P/L 30 mm B",
+        "3. RRD of LWSS Chintpurni (Amokla Pritam), Tehsil Amb, District Una (H.P)"
       ]
     },
     {
@@ -139,16 +131,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation and Uninstallation of Weighbridge at outcentre",
-        "2. SITC Of LED Video screen (LED VIDEO WALL MANAGEMENT SYSTEM) at MDDA areas",
-        "3. Improvement of road in Madkote market of Dharchula constituency under the state plan at"
+        "1. Rental of 32 Seater Bus",
+        "2. Providing of Service 02 Nos. Electricians for maintenance of Atal Bihari Vajpayee State",
+        "3. SALECTION OF DIGITAL MARKETING AGENCY FOR UCDF"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fdaf2f7ac90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f30ff772e50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +149,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 12 nos. Tongi Ghar",
-        "2. Goshala Krishnanagara PWSS",
-        "3. Amgaon Nandan Path (Mini) PWSS (Top hill side)"
+        "1. Construction of Hostel at Machkhhowa Higher Secondary School under Dharti Aaba Janajati",
+        "2. Construction of Hostel at Dudhnoi High School, Dudhnoi under Dharti Aaba Janajati Gram ",
+        "3. Construction of Hostel at Boko High School, Boko, District-Kamrup under DAJGUA during t"
       ]
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. One Panchayath One Playground -Development of Jai Hind Stadium in Njarackal Grama Panch",
-        "2. Kalliasseri Block Panchayath-SITC of 8 Mtr Mini High mast light with 5 nos of 150W LED ",
-        "3. GENERALBudget work 202627 Investigation work  Sky Walk in Kottayam Town Total Station s"
+        "1. Running Prabhuram Mills on Job Work",
+        "2. DEPOSIT-Neuro and Nephro SAT-SITC of Air conditioning system in the Neuro and Nephro La",
+        "3. HIRING OF VEHICLE"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairs/replacements to the all types of HT/LT  Distribution Transformers installed at ",
-        "2. PROVIDING PROTECTION WORK FOR TOWER  LOCATION NO. 29 and 41  OF  132KV S/C  DRABA - CHA",
-        "3. Day to Day Maintenance Of hospital block GMCH Jammu for the Year 2026-27"
+        "1. Construction of P/work Near Farooq Pyt. Jarranwali Gali Block Balakote Under PRI Grant ",
+        "2. Construction of p work with concrete near L/O  Lal Hussain ward no.8  Panchayat Kallar ",
+        "3. Construction of Graveyard Moh. Domala W No. 01 Pyt. Naka Manjhari Lower Block Balakote "
       ]
     }
   ],
