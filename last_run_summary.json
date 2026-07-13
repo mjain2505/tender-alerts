@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-13 18:21:16",
+  "checked_at_utc": "2026-07-13 23:40:14",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. Providing and Fixing Power Sockets with Modular Boxes, Wiring, Cabling and Associated E",
         "2. SUPPLY OF CARBON STEEL COATED SEAMLESS PIPES - IV - PACKAGE 1",
-        "3. I.11016/Q/CHT-05/2026-27"
+        "3. Provision of Ramp and Rail at Shankarpur PO building under Basti Division."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and stacking of bhusa  and green fooder for two year jewer banger  gaushala . ye",
-        "2. Work of Genral Maintenance Non Residential and Residential Buildings (office Buildings)",
-        "3. 38/2026-27"
+        "1. Construction of a 50.00 m CC tile road and drain in Village Bhadgava, extending from th",
+        "2. 38/2026-27",
+        "3. Ekikrit Vikas Yojnantargat Janpad Kushinagar Ke Vikas Khand-  Nebua Naurangiya, Gram- S"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. IMP OF PASSAGE AND DRAINAGE AT NEAR RTO OFFICE KANDARPADA DAHISAR WEST BEAT NO.1 R/N WA",
-        "2. IMP OF PASSAGE AND DRAINAGE NEAR NERU HOUSE SAIBABA NAGAR DAHISAR WEST BEAT NO.1 R/N WA",
-        "3. Request for Proposal RFP for Selection of Transaction Advisor for Conceptualization, La"
+        "2. Improvement of passage and drainage System at Plot No. 18 2 Raj Laxmi, RAK Road, Wadala",
+        "3. Clearing the Land of All Vegetation at Plot Bearing CS No 10/116 in Beat No.180 in F/No"
       ]
     },
     {
@@ -48,16 +48,24 @@
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of road  between coal stock pile yard stage-I and stage-II.",
+        "2. Procurement of Spare OTI, WTI Gauge installed in Unit Auxiliary Transformers, Switchyar",
+        "3. REPAIRING OF SHOPS WORK AT SHRIMANT MADHAVRAO SCINDIA VYAPAR MELA PARISAR GWALIOR (M.P."
+      ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Day to day Guarding arrangment including Round -O-Clock  guarding  at Water Treatment P",
+        "2. WBPHED/10_10/EE/BOLMD/2026-27",
+        "3. WBPHED/10_27/EE/BOLMD/2026-27"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -87,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance of NHAI Scheme  Plantation Work in Uchana Block of Narwana Range under Jind",
+        "1. Maintenance of Plantation Work in Safidon 2nd Block of Safidon Range under Jind Forest ",
         "2. Maintenance of NHAI Scheme  Plantation Work in Dhamtan Block of Narwana Range under Jin",
-        "3. Maintenance of Plantation Work in Safidon 2nd Block of Safidon Range under Jind Forest "
+        "3. Maintenance of   Plantation Work in Safidon 1st Block of Safidon Range under Jind Fores"
       ]
     },
     {
@@ -120,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Civil and Electrical Charging Infrastructure for operation of electric b",
-        "2. Periodical maintenance on Bhagwanpur to Chachiot road km. 0/00 to 3/200 (SH P/L 30 mm B",
-        "3. RRD of LWSS Chintpurni (Amokla Pritam), Tehsil Amb, District Una (H.P)"
+        "1. DB-Tender-No-18(Prov. , Fixing of GO Switch ESD Sainj)/2026-27.",
+        "2. Development of civil and Electrical charging infrastructure for operation of Electric b",
+        "3. Periodical maintenance on Bhagwanpur to Chachiot road km. 0/00 to 3/200 (SH P/L 30 mm B"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f30ff772e50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9323bdda90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of P/work Near Farooq Pyt. Jarranwali Gali Block Balakote Under PRI Grant ",
-        "2. Construction of p work with concrete near L/O  Lal Hussain ward no.8  Panchayat Kallar ",
-        "3. Construction of Graveyard Moh. Domala W No. 01 Pyt. Naka Manjhari Lower Block Balakote "
+        "1. Construction of P/work with concrete  near H/O Babli kallar mohra Ward no.4 Pyt. Kallar",
+        "2. Construction of Drain Mohallah. Bajarian W.no 01 Pyt. Jarranwali Gali Block Balakote Un",
+        "3. Construction of P/Work R/Wall Moh. Madan Khalabhat, Panchayat Kallar Mohrah  Pyt. Kalla"
       ]
     }
   ],
