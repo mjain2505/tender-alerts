@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-16 15:21:19",
+  "checked_at_utc": "2026-07-16 21:47:07",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Provision of maintenance work of sewer pipeline at RTC Hostel Postal Colony Roopnagar J",
-        "2. Construction of Commando Obstacles at CTC SSB Srinagar",
-        "3. Comprehensive Architectural and  Structural Design and Project Management for the Const"
+        "2. Comprehensive Architectural and  Structural Design and Project Management for the Const",
+        "3. Construction of Commando Obstacles at CTC SSB Srinagar"
       ]
     },
     {
@@ -18,8 +18,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Facade Lighting work at Gandhi Ji Samadhi Sthal, Rampur",
-        "2. BASAWANPUR KHANJE SE DHANECHE TAK MARMMAT KARAYA",
+        "1. Construction work of RCC drain from Chandel Chauraha Neeraj General Store to near Tunnu",
+        "2. DETAILED DESIGN, SUPPLY, INSTALLATION, TESTING, COMMISSIONING, OPERATION AND MAINTENANC",
         "3. Development work of 7 percent Abadi plots of village- Acchheja Bujurg Situated at Doong"
       ]
     },
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Minor repairs to Motisha lane Dispensary at Love Lane in Beat no. 210  E Ward",
-        "2. REQUEST FOR QUALIFICATION OF CONSULTANTS / CONSULTANCY FIRMS FOR EMPANELMENT UNDER VARI",
-        "3. Providing and laying of HT cable For Electrical Supply to Auditorium Sec-5 Airoli."
+        "1. E-Tender 01/2026-27",
+        "2. Improvement of Common  Toilet at Noor Banu mension,Vishnu Ganesh Pingale Marg in  E War",
+        "3. Improvment of Roof Work at Batliboy Compound Dispensary, A.G.Pawar Lane in E Ward."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Kalyanpura charagh me Miyabaki Plantation and plants distribution work",
-        "2. Miyawaki Pasture Development work at asind",
-        "3. Empanelment of Architectural cum Structural Consultants at Jaipur Dairy"
+        "1. E Tender",
+        "2. Material Supply in Gram Panchayat Richanda, P.S. Ataru Under MGNREGA/VB-G RAM G, RD, PR",
+        "3. Kalyanpura charagh me Miyabaki Plantation and plants distribution work"
       ]
     },
     {
@@ -59,9 +59,13 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTRUCTIO N OF CC ROAD FROM IRRIGATION BAND TOWARDS THE HOUSE OF AMIR HAJI WAKTIA MAS",
+        "2. NSTALLATION OF SUBMARSHAL WITH SOKPIT NEAR THE HOUSE OF HASEN SANSAD X 12 code 10955043",
+        "3. INSTRALLATION OF SUB MARSHAL WITH SOKPIT NEAR THE HOUSE OF RAHIM ALI SANSAD NO II 3 UND"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Modern Kitchen Building for Government Head Quarters Hospital at Cuddal",
-        "2. Renovation of Swimming Pool in Anna Stadium at Nagercoil in Kanniyakumari District",
-        "3. Construction Of Pump room And Extension of  Pipe Line in near  Iyyanar Kovil OHT Devang"
+        "1. Construction of Toilet, Kitchen and Computer Room for Sport Girls Hostel in Anna Stadiu",
+        "2. Replacement of damaged DI distribution pipes and specials, HSCs at Arcot Road  from Aav",
+        "3. Renovation of Swimming Pool in Anna Stadium at Nagercoil in Kanniyakumari District"
       ]
     },
     {
@@ -81,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Filling of cavities behind CC lining slabs by coarse sand grouting from RD 10643 M to R",
-        "2. Construction of Play Ground at Village Kaire  Block Mehal Kalan District Barnala.",
-        "3. Construction of Play Ground at Village Bikasooch Patti  Block And District Barnala."
+        "2. Purcahse of Raw Ingredients",
+        "3. Construction of Play Ground at Village Kaire  Block Mehal Kalan District Barnala."
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Manufacturing and Supply of Iron Tree Guards with Material Complete in All Respects",
-        "2. Plantation and Its  Maintenance works",
-        "3. Manufacturing and Supply of Cement Tree Guards with Material Complete in All Respects"
+        "1. Forestry Work State creation",
+        "2. Manufacturing and Supply of Cement Tree Guards with Material Complete in All Respects",
+        "3. Plantation and Its  Maintenance works"
       ]
     },
     {
@@ -104,7 +108,7 @@
       "sample_titles": [
         "1. Repair and Maintenance of PWD Road to Khilapadar Road in the district of Rayagada for t",
         "2. Repair and Maintenance of PS Road - Tabalaguda Road in the district of Rayagada for the",
-        "3. Repair and Maintenance of RD Road - Tarangisingi Road in the district of Rayagada for t"
+        "3. Construction of 100 Seated Girls Hostel Building to plus 2 College at Kotpad of Kotpad "
       ]
     },
     {
@@ -113,8 +117,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of R.C.C. drain from Culvert towards Md. Kamruddin house and construction ",
-        "2. NREP/DMK/DMFT/12/26-27 gr 03",
+        "1. NREP/DMK/DMFT/12/26-27 gr 03",
+        "2. Construction of R.C.C. drain from Culvert towards Md. Kamruddin house and construction ",
         "3. Construction of R.C.C. drain from Rita Hansda house towards Gidhni road Culvert. Ward N"
       ]
     },
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f63aecae210>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5906139510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -166,7 +170,7 @@
       "sample_titles": [
         "1. GENERAL- GTDMCH-Providing direct entrance facility to Autism centre from west side of G",
         "2. DEPOSIT JJM Deposit 2024 25 Restoration of Trenching done by KWA in Thiruvachoor Chenga",
-        "3. Cost of Providing Food and Minerals to the six tigers kept in Animal Hospice Centre at "
+        "3. GENERAL Overhead Fire Tank at Vazhoor Press Overhead Fire Tank at Vazhoor Press General"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of drain with R/wall from L/O Nazir Ahmad Lone to L/o Ab Ahad Wani at Wayi",
-        "2. Permanent Restoration of water supply schemes under SASCI of PHE Sub Division Khour",
-        "3. SPINE LAMINECTOMY SET"
+        "1. SPINE LAMINECTOMY SET",
+        "2. Construction of damaged R/Wall on road  connecting to old Busstand Rajouri.",
+        "3. Permanent Restoration of water supply schemes under SASCI of PHE Sub Division Khour"
       ]
     }
   ],
