@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-17 12:50:16",
+  "checked_at_utc": "2026-07-17 16:14:52",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Brazilian Split Tensile Strength Test for Admixture Stabilized Soils",
-        "2. Special Repairs and Maintenance of Lighthouse Tower and Reconstruction of Powerhouse Bu",
-        "3. Repair to Roof of Rajkot Circle Office Building"
+        "1. Repair/ maint of CGI sheet roof  replacement and periodical services Bldg No  AR-152 (B",
+        "2. Appointment of Project Management Consultant (PMC) for Minor Works (FY 26 27) Under SAI",
+        "3. Tender for Supply of MOP in bulk"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of interlocking from Shrikant Mishra house to Paramhans Mishra house in Wa",
-        "2. LINK ROAD MARUFPUR RAMNAGAR  SE KANPURIYA TAK ROAD REPAIR WORK 05 YEAR DEFECT LABILITY ",
-        "3. SUPPLY AND  INSTALLATION OF  92  NOS 6X170-200  WATT LED SEMI HIGH MAST LIGHT WITH 09 M"
+        "1. T-72/ECC(D)/K/2026-27",
+        "2. Road Repair work of Govt. Medical College Saharanpur in District Saharanpur",
+        "3. T-71/ECC(D)/K/2026-27"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Extention and Repairs of Distribution System and Conctruction of Concrete Paver Road",
-        "2. STP Electrical work NPW.",
-        "3. Supply of Various Types Construction Material"
+        "1. Construction Of Internal C.C. Drain At Village Chikhali Tq.Kandhar Dist.Nanded ( SC/ ST",
+        "2. CONSTRUCTION OF Z.P.CLASSROOM AT MAHATI, TQ. MUDKHED, DIST. NANDED.(MLA FUND)",
+        "3. Improvement of Passage and Drainage line in Beat no. 213 in E ward."
       ]
     },
     {
@@ -40,21 +40,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Urgetn Patch Repair work on SH 26 from Kekri to Nasirabad",
-        "2. Supply of Xray, ECG, Sonography and Blood Bank  Items at PMO office Baran",
-        "3. STORE-E-BID-03-2026-27 WORK NO 01"
+        "1. SUPPLY OF VARIOUS MATERIALS AND EQUIPMENTS IN ALL SCHEMES OF PANCHAYATI RAJ DEPARTMENT ",
+        "2. Installation and construction of handpumps/tubewells in Panchayat Samiti Andhi and its ",
+        "3. SUPPLY OF VARIOUS MATERIALS AND EQUIPMENTS IN ALL SCHEMES OF PANCHAYATI RAJ DEPARTMENT "
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Installation and operating 10 MT Electronic Weigh bridge at Mandi Yard RAMNAGAR Distt. ",
-        "2. HIGHMAST LIGHT",
-        "3. Hiring For Vehicles"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Cement Concrete Roads for Community from Padmapukur Faruk Karkhana to K",
-        "2. Electrification for construction for PWM unit under Taldangra Dev. Block",
-        "3. Construction community toilet at Paika Bustand under Khalgram GP."
+        "1. PHE/SWSD/EE/NIeT-03 OF 2026-27 (SL.NO. 72)",
+        "2. PHE/SWSD/EE/NIeT-03 OF 2026-27 (SL.NO. 37)",
+        "3. SL - 01"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of  PP Bag for Power Bond Cement Packing Size 29.3 X 20.5 INCH",
-        "2. El.D.C.No.SMII/P10/2762/2026 Supply of 1000 nos. of 100A fuse unit required for mainten",
-        "3. TN/VPM/Vlm/MPLAD/26-27/P1"
+        "1. Providing Public Water Supply with FHTC at Kovilure Panchayat",
+        "2. Replacement of damaged DI distribution pipes and specials, HSCs at Arcot Road from Aavi",
+        "3. Repair and Maintenance Work at 19.50m level Roof Top and Power House South side Wall of"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and installing of traffic Light",
-        "2. P/L READY MIX CONCRETE FROM HOUSE NO 301 TO WATER SUPPLY PUMP IN SHIVALIK AVENUE PHASE ",
-        "3. Construction of Play Ground at Village Jandwala Mira Sangla Distt Fazilka"
+        "1. Construction of Library in Ward No. 20",
+        "2. Development and Construction of sports area and library in ward no. 15",
+        "3. P/Fixing I/tiles in various Streets of Rishi Nagar and Punjabi Bagh W No.14"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New Plantation work at Nahar Block",
-        "2. Hansi Block NH-9 plantation mts works",
-        "3. tender for spinal needle for BPSGMC for Women Khanpur Kalan Sonepat"
+        "1. Mtc.of Plantation work in Balouti Block, Panchkula Range",
+        "2. New Plantation work at Dharuhera Block",
+        "3. New Plantation work at Nahar Block"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of Bridge over local nallah on PWD Road Dambasora to Loba via BulusundaRoadin th",
-        "2. Supply  and  Installation of Aerosol based Fire Fighting Equipment to Paediatrics PG De",
-        "3. RD road to Mulakumari"
+        "1. RD road to Fatkara_Road_SDBC0.000 to 1.200",
+        "2. NH 201 to laderbahal_Road_SDBC0.000 to 1.410",
+        "3. B.K Road to Beherapali_Road_SDBC0.000 to 0.900"
       ]
     },
     {
@@ -119,7 +115,7 @@
       "sample_titles": [
         "1. Land development and allied civil woks at proposed TRW, Chhatarpur under Electric Suppl",
         "2. Construction of culvert on the road leading to school in village Banpurwa of Garhwa Blo",
-        "3. Construction of RCC culvert in Bhansidhar nagar utari nagar panchyat in village Raksha "
+        "3. Construction of 1 span RCC culvert over pandi nala at Sugvadamer, Block- Kandi, under G"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. A/R and M/O LIS Mehri Kathla  in Tehsil Ghumarwin District Bilaspur (SH Repair of 70 HP",
-        "2. Provision of fans and electrical fittings in Auction Platform at Terminal Market Parwan",
-        "3. GED-40/2026-27"
+        "1. CAD under Flow Irrigation Scheme Rani di Kuhl Maang Kuhl Gran di Kuhl Maniyara Tappa Ku",
+        "2. Restoration of Road damages on NH70 New NH03 km 124450 to 137450 SH Balance of Patch wo",
+        "3. Restoration of Road damages on NH70 New NH03 in Km 124450 to 137450 SH Construction of "
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fb328ef18d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0850ca4390>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Installation and Commissioning of Phase-II Ophthalmology Equipment for Center o",
-        "2. Construction of 33KV underground line both side of BVFCL Railway line to crossing of 33",
-        "3. Repairing of Fire Personnel living room at 200 TPD Formalin Plant, Boitamari, Bongaigao"
+        "1. Supply Tender",
+        "2. Supply, Installation and Commissioning of Phase-II Ophthalmology Equipment for Center o",
+        "3. Construction of 33KV underground line both side of BVFCL Railway line to crossing of 33"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DEPOSIT-Changing damaged HT meter board at GST office complex Poothole Thrissur-Mainten",
-        "2. GENERAL_MONSOON PREPAREDNESS 2026_2027_Pyip_Emergency Cutting and removal of damaged an",
-        "3. Jal Jeevan Mission WSS to Chungathara Pothukallu Edakkara and Vazhikadavu Grama Panchay"
+        "1. Quotation- LAC-ADS-2024-25 - Dharmadam LAC, Sri. Pinarayi Vijayan, MLA-Upgradation of V",
+        "2. GENERAL-CSIND - Providing BC Overlay to  Thannermukkom 1st and 2nd stages of bund  road",
+        "3. WARD 14 - RETARRING OF LITTLE FLOWER ROAD WITHIN THE JURISDICTION OF ALUVA MUNICIPALITY"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Fixation of rate contract for supply of Key Construction Material for various works of ",
-        "2. Repair and renovation old Panchayat Ghar Allah Ward No. 2 Block Arnia under PRI Capex f",
-        "3. Constt of lane with protection work from main road to Moh Vikram Singh S/o Gian Chand P"
+        "1. Construction of Protection Wall Nr. H/o Younis Kohli W.No. 04 Pyt. Kalai  Block Lassana",
+        "2. Construction of P/Work Graveyard at W.No.  03 Umar Ayoub Pyt. Fazlabad Lower-A Block Bu",
+        "3. Construction of P/Work Graveyard W.No. 04 Moh. Hill Khatana Nr. L/o Abdul Ghani Pyt Dod"
       ]
     }
   ],
