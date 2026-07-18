@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-18 19:01:40",
+  "checked_at_utc": "2026-07-18 21:48:49",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o various colonies under Nazul A/c-II, Dwarka Zone.",
-        "2. M/o works pertaining to complete/closed scheme Dwarka Zone.",
-        "3. M/o Completed scheme under N/A-II Hort. Zone."
+        "1. M/o Completed scheme under N/A-II Hort. Zone.",
+        "2. M/o Completed scheme under N/A-II Hort. Zone",
+        "3. M/o works pertaining to complete/closed scheme Dwarka Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 23 - Mohalla chamri, Arjun Nagar, Meerut road avn Modinagar road per sthit vibhinn dama",
-        "2. VIKAS KHAND LAXMANPUR ME SAHABGANJ GAURA DAND MARG SE BABU SANT BAKH DEGREE COLLEGE HOT",
-        "3. CIVIL WORKS"
+        "1. TRANSPORT WORK AT PADDY/WHEAT PURCHASE CENTER MANDI SECOND SULTANPUR IN AGENCY FCS",
+        "2. Supply of spares and various work of CTR make Nitrogen Injection Fire Protection System",
+        "3. VIKAS KHAND LAXMANPUR ME SAHABGANJ GAURA DAND MARG SE BABU SANT BAKH DEGREE COLLEGE HOT"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TENDER NOTICE 2026/2027-07",
+        "1. Improvement of Passage and Drainage line at Sanaswadi, Dr.B.A Road in E ward",
         "2. e Tender Notice No 2 For 2026-27",
         "3. Improvement of Passage and Drainage System at April Shower Bldg, Meghraj Shethi Marg in"
       ]
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Garm Panchayat ke sabhi Gavon mein Ghar-Ghar(Residential and Commercial) se Kachara San",
-        "2. computer operator man with machine",
+        "1. computer operator man with machine",
+        "2. Construction of Drain Work In GP Tesgawan",
         "3. Garm Panchayat ke sabhi Gavon mein Ghar-Ghar(Residential and Commercial) se Kachara San"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Dismantling work of 96 Residential Quarters at Old Police Line, Bhind.",
+        "2. Tender for Total Fuel Management including Diesel Procurement Operation and Maintenance",
+        "3. Procurement of Portable Self Oscillating Ground water monitor with jet cum spray Nozzle"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF CC ROAD FROM MOBIL HOUSE TO IBRAHIM HOUSE IN KEDARCHANDPUR I GP UNDER N",
-        "2. MERIGAUNGE 1",
-        "3. PCC ROAD FROM HOUSE OF NAJIBUL HAQUE TO PARUL IDGAH AT PS-142 OF SRIRAMPUR GP UNDER PUR"
+        "1. GP TENDER FOR JALABERIA 1",
+        "2. DEULBARI DEBIPUR",
+        "3. PCC ROAD FROM PRAMANIK PARA TRANSFORMA TO H/O SANATAN PRAMANIK AT PS 128 OF SRIRAMPUR G"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Nagapattinam Municipality - Construction of Kitchen at Samanthanpettai Middle School in",
-        "2. Nagapattinam Municipality - Repair and Maintenance of STP Mechanical and Electrical Sys",
-        "3. Construction of paver Block,3 seater,light Pole and plantation at Nethaji nagar main Ro"
+        "1. Nagapattinam Municipality - Repair and Maintenance of Water supply Motors in Nagapattin",
+        "2. Nagapattinam Municipality - MAINTENANCE AND REPAIR THE EXISTING WATER SUPPLY DISTRIBUTI",
+        "3. Construction  of Storm Water  Drain in krishnankovil street w no 20 in Manamadurai Muni"
       ]
     },
     {
@@ -99,9 +103,13 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. PWD road to Punasia road",
+        "2. R.I. Office -cum-Residence at Tangabilla_building",
+        "3. Forest road to Nikhirda Road"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -111,7 +119,7 @@
       "sample_titles": [
         "1. Kush Marg near Kutchery Chowk 222m Hardscape and Softscape Development of street and Re",
         "2. Supply of Statue Dr. Bhim Raw Ambedkar Ji All Fitting And Fixing-6 Feet Height (Marbel ",
-        "3. CONSTRUCTION OF BOUNDRYWALL, 1. UPG.P.S.BAHERA TOLA, CHANGER, At-Vill-BAHERA TOLA, CHAN"
+        "3. CONSTRUCTION OF BOUNDRYWALL, 1. UPG.P.S.KHACHADABAR, At-Vill-KHACHADABAR, GP-DEWARIA, B"
       ]
     },
     {
@@ -120,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RR Damage to TKHR road",
-        "2. Repair and maintenance of Type-II quarter set no. 10,12 and 17 Tank road at Solan (Deps",
-        "3. Repair and maintenance of Assistant Engineers Residential building at Sub Division Kand"
+        "1. Repair and maintenance of Type-II quarter set no. 10,12 and 17 Tank road at Solan (Deps",
+        "2. RR Damage to TKHR road",
+        "3. RR Damage to Dalgaon"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f70e2963a90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0be9dddb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-2025-2026 Project No.529- ANASWARA VAYANASALA BUILDING CONSTRUCTION IN WARD",
-        "2. FDR-2025-2026-Esahajippadi - Dubaipadi road in ward 8 of Perinthalmanna Municipality- G",
-        "3. Retender Karivellur Peralam GP Jalam sulabham Renovation of  Kookkanam Khadi centre Kul"
+        "1. Annual Plan-2026-27-PROJECT NO 107- GOVINDHAN NAMBYAR -MUTTUNGAL VAYANASALA ROAD DRAINA",
+        "2. Retender Karivellur Peralam GP Jalam sulabham Renovation of  Kookkanam Khadi centre Kul",
+        "3. Annual Plan-2025-26- Project No 568- Construction of Drainage in Vetti Adivaram road in"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Macadamisation / Upgradation of various links of Gandbal.",
-        "2. Construction of Boundary Wall at Boys Middle School Lower Gorihajin Chattibandi.",
-        "3. Construction of P Bund near the H o Shabir Ahmad Rather and Others at Gotpora Block Soi"
+        "1. Construction of 01 ACR at GOVT Boys Primary School Kohli Mohallah Pannar Zone Bandipora",
+        "2. Development of Community Hall at Takipora Panchayat Budina Budgam",
+        "3. Construction of Iron Foot Bridge near H O Syed Shabir Moosvi and Others at Mahwara Budg"
       ]
     }
   ],
