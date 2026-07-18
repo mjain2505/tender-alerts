@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-18 13:08:44",
+  "checked_at_utc": "2026-07-18 15:55:43",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MAINTENANCE SERVICES TO DRDO OTF, EXTENSION OF OTF AND NGO GUEST HOUSE AT DIHAR LEH THR",
-        "2. Multimodal Transportation Contract for movement of bagged fertilizer in containers from",
-        "3. MC and EW (CAM) Special Repairs to Hazara Ramachandra Temple (Pathway and Stone Floorin"
+        "1. M/o various colonies under Nazul A/c-II, Dwarka Zone.",
+        "2. SS/C050-1P39A-RA-MR-6008/1504 - POLYMERISER REACTOR SYSTEM for Polypropylene Unit (PPU)",
+        "3. M/o Completed scheme under N/A-II Hort. Zone"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Patch Repair work of  Village Roads in Block Bahadurpur",
-        "2. Patch Repair work of  Village Roads in Block Tiloi",
-        "3. Bamnoi men sooeyavir ke gate se interlocking marg nirman karya."
+        "1. TRANSPORT WORK AT PADDY/WHEAT PURCHASE CENTER B PAX USMANPUR  BARABANKI IN AGENCY UPCU",
+        "2. TRANSPORT WORK AT PADDY/WHEAT PURCHASE CENTER B PAX CHHANDWAL BARABANKI IN AGENCY UPSS",
+        "3. TRANSPORT WORK AT PADDY/WHEAT PURCHASE CENTER LAMBHUA FIRST SULTANPUR IN AGENCY FCS"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TENDER NOTICE 2026/2027-05",
-        "2. APMC/AMBAD/ET/01/2026-27",
-        "3. ET/nagrisuvidhaworks/01/2026"
+        "1. Suppy and Fixing Roller blind,Staff Table and Low Back Chair at various location in E W",
+        "2. Improvement of Passage and Drainage line at Sanaswadi, Dr.B.A Road in E ward",
+        "3. CONSTRUCTION OF  BRIDGE TO MOZARI POTI AT ROAD  ODR-37 IN KM- 1/000 TA. HINGANGHAT DIST"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF C.C. ROAD WORK BEHIND PARVATI GARDEN IN WARD NO. 29, 31 IN MUNCIPAL LIM",
-        "2. REPAIR OF NALA NALI AT DIFFERENT PLACES IN ZONE NO. 01 AND 02 MUNICIPAL AREA CHITTORGAR",
-        "3. CONSTRUCTION OF C.C. ROAD WORK AT VARIOUS PLACES IN ZONE NO. 02 IN MUNICIPAL LIMIT CHIT"
+        "1. Garm Panchayat ke sabhi Gavon mein Ghar-Ghar(Residential and Commercial) se Kachara San",
+        "2. Garm Panchayat ke sabhi Gavon mein Ghar-Ghar(Residential and Commercial) se Kachara San",
+        "3. computer operator man with machine"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. HIRING OF VEHICLE",
-        "2. Shop on Lease Ward No. 16 Indore bhopal road in front of Dargah Shoping Complex Shop No",
-        "3. Construction work of Chokidar Room, Office Room with Toilet Block, Construction work of"
+        "1. Dismantling work of 96 Residential Quarters at Old Police Line, Bhind.",
+        "2. Tender for Total Fuel Management including Diesel Procurement Operation and Maintenance",
+        "3. Procurement of Portable Self Oscillating Ground water monitor with jet cum spray Nozzle"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Purchase of Computers",
-        "2. CONSTRUCTION OF COVERED DRAIN FROM GP OFFICE TO NITAI DAS HOUSE JL 118 SANSAD XI  ID NO",
-        "3. CONSTRUCTION OF TOILET IN GP OFFICE JL 118 SANSAD XI ID 110479036"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Collection, Loading and Transportation of Waste Paper from various Districts of Tamil N",
-        "2. Ramanathapuram Municipality Operation and Maintenance of Under Ground Sewerage collecti",
-        "3. Removal,servicing and re-erection of Motor (15HP)dislocated from the motor bed and serv"
+        "1. Nagapattinam Municipality - Repair and Maintenance of STP Mechanical and Electrical Sys",
+        "2. Nagapattinam Municipality - Repair and Maintenance of Water supply Motors in Nagapattin",
+        "3. Construction of paver Block,3 seater,light Pole and plantation at Nethaji nagar main Ro"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROVIDING And Laying Pipe Line Along Link Road Benra to Kakarwal in MC Dhuri Halqa Dhur",
-        "2. RC ESTIMATE FOR THE INSTALLATION OF 200 MM ID STRAIGHT BORE TUBEWELL IN AMAN NAGAR MC P",
-        "3. Request for Proposal for Selection of Service Provider for Personalization of Registrat"
+        "1. Sweeping, washing and cleaning of internal roads (streets) in Ludhiana for 3 years and ",
+        "2. PROVIDING And Laying Pipe Line Along Link Road Benra to Kakarwal in MC Dhuri Halqa Dhur",
+        "3. RC ESTIMATE FOR THE INSTALLATION OF 200 MM ID STRAIGHT BORE TUBEWELL IN AMAN NAGAR MC P"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Selection of Event Management Agency for Weekend Event Series of Subhadrashakti Bazar",
-        "2. Provision of Lightning protection system and Earthing installation at different locatio",
-        "3. Safety related Electrical works of Guali Iron Ore Mines in the district of Keonjhar"
+        "1. Khuntapal to Gambharia Road",
+        "2. Mohanpur chhaka to Gholamuhan village via Bangaon, Itapokhari Road",
+        "3. SR to R.I office cum residence at Durdura_building"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Statue Dr. Bhim Raw Ambedkar Ji All Fitting And Fixing-6 Feet Height (Marbel ",
-        "2. CONSTRUCTION OF BOUNDRYWALL, 1. UPG.P.S.BHAGWANDAS, At-Vill-BHAGWANDAS, GP-PARADIH, Blo",
-        "3. CONSTRUCTION OF BOUNDRYWALL, 1. UPG.P.S.BAHERA TOLA, CHANGER, At-Vill-BAHERA TOLA, CHAN"
+        "1. Kush Marg near Kutchery Chowk 222m Hardscape and Softscape Development of street and Re",
+        "2. Supply of Statue Dr. Bhim Raw Ambedkar Ji All Fitting And Fixing-6 Feet Height (Marbel ",
+        "3. CONSTRUCTION OF BOUNDRYWALL, 1. UPG.P.S.BHUIYAN TOLI, PARADIH, At-Vill-BHUIYAN TOLI, PA"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and maintenance of Govt. Polytechnic for women at Kandaghat in Tehsil Kandaghat ",
-        "2. Repair and maintenance of Circuit House at Chambaghat Solan",
-        "3. Annual repair and maintenance of Non Residential E.E Office building at Solan"
+        "1. RR Damage to Dalgaon",
+        "2. Annual repair and maintenance of Assistant Engineers Office building at Sub Division Ka",
+        "3. RR Damage to TKHR road"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fcfc7cfe850>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3a8720e890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SYE1/2043903/2024 COMPLETION OF RENOVATION WORK FOR NELSON MANDELA ROAD IN DIDVISION 64",
-        "2. RKI Improved Infrastructural facilities in Thrissur Ponnani kole lands  P3-Improvmnts t",
-        "3. SYE1/337130/2026 CONSTRUCTION OF DRAIN WITH COVERING SLAB AT KOCHUPIDIKA LANE IN DIVISI"
+        "1. FDR-2025-2026-Esahajippadi - Dubaipadi road in ward 8 of Perinthalmanna Municipality- G",
+        "2. Annual Plan-2025-2026 Project No.529- ANASWARA VAYANASALA BUILDING CONSTRUCTION IN WARD",
+        "3. Annual Plan-Malappuram Municipality Annual Plan 2025-26-Side protection work at Spinnin"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Slope Stabilization and toe protection of left protection embankment of river Jehlum at",
-        "2. Repairs to masonary wall by way of RCC Jacketing on left side of Kut-Khul D/S Tankipora",
-        "3. Development of Irrigation Khul at  bongam Khonmah B"
+        "1. Construction of Drain near the H o Noor Mohammad dar at Chopan Mohalla Dooru Sebdan Bud",
+        "2. Construction of Bore Well near the H o Showkat Ahmad Syed Rafeeq and Mushtaq Ahmad at D",
+        "3. Construction of Bore Well near the H o Altaf Hussain Mir Bashir Ahmad Mir at Chandpora "
       ]
     }
   ],
