@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-18 21:48:49",
+  "checked_at_utc": "2026-07-19 02:27:33",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o Completed scheme under N/A-II Hort. Zone.",
+        "1. Maintenance of Various Sports Complexes",
         "2. M/o Completed scheme under N/A-II Hort. Zone",
-        "3. M/o works pertaining to complete/closed scheme Dwarka Zone."
+        "3. M/o Completed scheme under N/A-II Hort. Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TRANSPORT WORK AT PADDY/WHEAT PURCHASE CENTER MANDI SECOND SULTANPUR IN AGENCY FCS",
-        "2. Supply of spares and various work of CTR make Nitrogen Injection Fire Protection System",
-        "3. VIKAS KHAND LAXMANPUR ME SAHABGANJ GAURA DAND MARG SE BABU SANT BAKH DEGREE COLLEGE HOT"
+        "1. BOJHI NAHAR MANDHATA SE HARISH KUTI DHAM TAK INTERLOCKING KARYA MANDHATA",
+        "2. 23 - Mohalla chamri, Arjun Nagar, Meerut road avn Modinagar road per sthit vibhinn dama",
+        "3. TRANSPORT WORK AT PADDY/WHEAT PURCHASE CENTER SAFDARGANJ SECOND MANDI BARABANKI IN AGEN"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Passage and Drainage line at Sanaswadi, Dr.B.A Road in E ward",
+        "1. Repairs to Passage and Drainage at Mohamdiya Hajur Talif Saliya Madarsa to Aalif Pan Sh",
         "2. e Tender Notice No 2 For 2026-27",
-        "3. Improvement of Passage and Drainage System at April Shower Bldg, Meghraj Shethi Marg in"
+        "3. Improvement of Passage and Drainage at Tadwadi BIT Chawl No. 07, St. Mary Road, Mazgaon"
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. computer operator man with machine",
-        "2. Construction of Drain Work In GP Tesgawan",
+        "1. Garm Panchayat ke sabhi Gavon mein Ghar-Ghar(Residential and Commercial) se Kachara San",
+        "2. Construction of Class Room With Baramda In GP Ralawta",
         "3. Garm Panchayat ke sabhi Gavon mein Ghar-Ghar(Residential and Commercial) se Kachara San"
       ]
     },
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GP TENDER FOR JALABERIA 1",
-        "2. DEULBARI DEBIPUR",
-        "3. PCC ROAD FROM PRAMANIK PARA TRANSFORMA TO H/O SANATAN PRAMANIK AT PS 128 OF SRIRAMPUR G"
+        "1. PCC ROAD FROM HOUSE OF CHITTARANJAN POREL TO TALPUKUR VIA HOUSE OF TARAPADA POREL AT PS",
+        "2. PCC ROAD FROM HOUSE OF REJABUL TO MAJHPARA MASJID WITH UC BOLLAH PILLING AT PS 151 OF S",
+        "3. PCC ROAD FROM KULTALA TO HOUSE OF TARAK NATH KOTAL AT PS-144 OF SRIRAMPUR GP UNDER PURS"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Nagapattinam Municipality - Repair and Maintenance of Water supply Motors in Nagapattin",
-        "2. Nagapattinam Municipality - MAINTENANCE AND REPAIR THE EXISTING WATER SUPPLY DISTRIBUTI",
-        "3. Construction  of Storm Water  Drain in krishnankovil street w no 20 in Manamadurai Muni"
+        "1. Nagapattinam Municipality - Fixing of Water Supply Motor at Pattinacherry sump in Nagap",
+        "2. Nagapattinam Municipality -Electrical wiring installation work of Compost yard in Nagap",
+        "3. SDWAN Solution(2nd Call)"
       ]
     },
     {
@@ -106,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PWD road to Punasia road",
+        "1. R.I. Office Angarpada_building",
         "2. R.I. Office -cum-Residence at Tangabilla_building",
-        "3. Forest road to Nikhirda Road"
+        "3. Bansuli to Patnasahi Road"
       ]
     },
     {
@@ -119,7 +119,7 @@
       "sample_titles": [
         "1. Kush Marg near Kutchery Chowk 222m Hardscape and Softscape Development of street and Re",
         "2. Supply of Statue Dr. Bhim Raw Ambedkar Ji All Fitting And Fixing-6 Feet Height (Marbel ",
-        "3. CONSTRUCTION OF BOUNDRYWALL, 1. UPG.P.S.KHACHADABAR, At-Vill-KHACHADABAR, GP-DEWARIA, B"
+        "3. CONSTRUCTION OF BOUNDRYWALL, 1.UPG.P.S.VISHAL NAGAR, DEWARIYA, At-Vill-DEWARIA, GP-JANG"
       ]
     },
     {
@@ -128,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and maintenance of Type-II quarter set no. 10,12 and 17 Tank road at Solan (Deps",
-        "2. RR Damage to TKHR road",
-        "3. RR Damage to Dalgaon"
+        "1. RR Damage to TKHR road",
+        "2. Annual repair and maintenance of Assistant Engineers Office building at Sub Division Ka",
+        "3. Repair and maintenance of Assistant Engineers Residential building at Sub Division Kand"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0be9dddb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1d7d68b410>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-2026-27-PROJECT NO 107- GOVINDHAN NAMBYAR -MUTTUNGAL VAYANASALA ROAD DRAINA",
-        "2. Retender Karivellur Peralam GP Jalam sulabham Renovation of  Kookkanam Khadi centre Kul",
-        "3. Annual Plan-2025-26- Project No 568- Construction of Drainage in Vetti Adivaram road in"
+        "1. Retender Karivellur Peralam GP Jalam sulabham Renovation of  Kookkanam Khadi centre Kul",
+        "2. Karivellur Peralam GP Basic Infrastructure Facilities to  MCF-165/25-26 (Spill over)",
+        "3. Annual Plan-2026-27-WARD NO 04- I M P R O V E M E N T W O R K S T  M A N A T H U M A N "
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 01 ACR at GOVT Boys Primary School Kohli Mohallah Pannar Zone Bandipora",
-        "2. Development of Community Hall at Takipora Panchayat Budina Budgam",
-        "3. Construction of Iron Foot Bridge near H O Syed Shabir Moosvi and Others at Mahwara Budg"
+        "1. Macadamisation / Upgradation of various links of Balhama",
+        "2. Construction of Drain from Bashir Ahmad Lone to Gh Hassan Bhat at gate Colony Mahawara ",
+        "3. Development of Link Road with P Bund near the H o Gh Qadir Dar at Pethpora Choon Budgam"
       ]
     }
   ],
