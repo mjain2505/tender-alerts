@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-19 19:04:11",
+  "checked_at_utc": "2026-07-19 21:50:35",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o various colonies under Nazul A/c-II, Dwarka Zone.",
-        "2. M/o various colonies under Nazul A/c-II, Dwarka Zone.",
-        "3. M/o works pertaining to complete/closed scheme Dwarka Zone."
+        "1. Maintenance of Various Sports Complexes",
+        "2. SS/C050-1P39A-RA-MR-6008/1504 - POLYMERISER REACTOR SYSTEM for Polypropylene Unit (PPU)",
+        "3. M/o Completed scheme under N/A-II Hort. Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of an RCC drain in Ward No. 07 extending from Budhi Mai Chowk via Kamal Me",
-        "2. Repairing of puliya, nali and tiles from to near of rahul and to near of khelaramm and ",
-        "3. Construction of temporary toilets at five locations along the Kanwar Yatra route."
+        "1. Construction of an RCC drain in Ward No. 15, Arjun Nagar extending from the Harshvardha",
+        "2. Construction of temporary toilets at five locations along the Kanwar Yatra route.",
+        "3. Construction of an RCC drain in Ward No. 14 Sharda Nagar extending from Shri Krishna Va"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Maitenance in Umte  RRPWS and Labour provision for year 2026-27 2nd call",
-        "2. Maitenance in Rewas Zone - 1  RRPWS and Labour provision for year 2026-27 2nd call",
-        "3. Maitenance in kusumbale RRPWS and Labour provision for year 2026-27 2nd call"
+        "1. Maitenance in kusumbale RRPWS and Labour provision for year 2026-27 2nd call",
+        "2. Maitenance in Rewas Zone - 2  RRPWS and Labour provision for year 2026-27 2nd call",
+        "3. Maitenance in Rewas Zone - 1  RRPWS and Labour provision for year 2026-27 2nd call"
       ]
     },
     {
@@ -51,8 +51,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring Of Vehicles",
-        "2. Hiring Of Vehicle",
+        "1. Hiring Of Vehicle",
+        "2. Hiring Of Vehicles",
         "3. Hiring Of Vehicle"
       ]
     },
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PCC ROAD FROM H/O FAKIR CHANDRA MAJI TO H/O MAYA MALLIK AT PS 128 OF SRIRAMPUR GP UNDER",
-        "2. PCC ROAD FROM HOUSE OF CHITTARANJAN POREL TO TALPUKUR VIA HOUSE OF TARAPADA POREL AT PS",
-        "3. MERIGAUNGE 1"
+        "1. CONSTRUCTION OF PCC ROAD FROM H/O AMIT BHAKTA TO H/O BHUTNATH BHAKTA AT PS 131 OF SRIRA",
+        "2. CONSTRUCTION OF CC ROAD FROM SAHIDUL SK HOUSE TO HANIF SK TEA SHOP AT KEDARCHANDPUR -II",
+        "3. KUNDAKHALI GODABAR"
       ]
     },
     {
@@ -74,16 +74,20 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing Well Cover and Fencing at panchayat well near thattanvilai Govt. Middle Schoo",
-        "2. Ramanathapuram Municipality sewer gravity main leak at Easha pallivasal road",
-        "3. Nagapattinam Municipality - Providing and Laying UG Cable and electrical accessories fo"
+        "2. Construction of paver Block,3 seater,light Pole and plantation at Nethaji nagar main Ro",
+        "3. Maintanence of  Minipower pump with syntex tank  w no 25  Thiyaga vishwanatha thas Sant"
       ]
     },
     {
       "name": "Punjab",
       "state": "Punjab",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.punjab.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Sweeping, washing and cleaning of internal roads (streets) in Ludhiana for 3 years and ",
+        "2. PROVIDING And Laying Pipe Line Along Link Road Benra to Kakarwal in MC Dhuri Halqa Dhur",
+        "3. RC ESTIMATE FOR THE INSTALLATION OF 200 MM ID STRAIGHT BORE TUBEWELL IN AMAN NAGAR MC P"
+      ]
     },
     {
       "name": "Haryana",
@@ -99,9 +103,13 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. RD road to Puransahi Road",
+        "2. Patbeda to Bhudrusahi road",
+        "3. Homeopathic Dispensary at Panposi_building"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -111,7 +119,7 @@
       "sample_titles": [
         "1. Kush Marg near Kutchery Chowk 222m Hardscape and Softscape Development of street and Re",
         "2. Supply of Statue Dr. Bhim Raw Ambedkar Ji All Fitting And Fixing-6 Feet Height (Marbel ",
-        "3. CONSTRUCTION OF BOUNDRYWALL, 1. UPG.P.S.BHUIYAN TOLI, PARADIH, At-Vill-BHUIYAN TOLI, PA"
+        "3. CONSTRUCTION OF BOUNDRYWALL, 1.UPG.M.S.ABUKATU, At-Vill-ABUKATU, GP-MOKTAMA, Block-CHAT"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f166005fc50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f89f390b890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Karivellur Peralam GP Maintenance to Anganwadies  Phase 2-251/25-26 (Retender)",
-        "2. Karivellur Peralam GP Basic Infrastructure Facilities to  MCF-165/25-26 (Spill over)",
-        "3. Balance Works for the Supply, Erection, Commissioning and Validation of HVAC System  fo"
+        "1. Annual Plan-Project no 116/25-26- RENOVATION OF CHEMBANKUNN PARAPPU ROAD IN WARD 6 OF P",
+        "2. Material Supply for Neelamkuzhki Road under Ayyankali Urban Employment Guarantee Scheme",
+        "3. Annual Plan-2026-27- Project No 141- Mythri Vayanasala road Recocrete in ward 14, Perin"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Prtotection Bund near land of Ab Tasheed Wani Son of Ghulam Mohammad Wa",
-        "2. Repairment of Fencing Gurudwara at Heewoder Panchayat Mahawara Budgam",
-        "3. Upgradtion of Community Hall Juhama Phase 2nd Budgam"
+        "1. Repair/Renovation of GMC and AH Rajouri (Under Stage Contract) for the Year 2026-27 (3r",
+        "2. Construction of Prtotection Bund near land of Ab Tasheed Wani Son of Ghulam Mohammad Wa",
+        "3. Selection of an Agency for Operation and Maintenance of 65 TPD Construction and Demolit"
       ]
     }
   ],
