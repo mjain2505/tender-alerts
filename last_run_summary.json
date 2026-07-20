@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-20 16:24:34",
+  "checked_at_utc": "2026-07-20 19:42:04",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Silt Clearance at Western Channel of Kiltan Island",
-        "2. PROVISION OF MAINTENANCE SERVICES TO DRDO VIP GUEST HOUSE, OTF, JCO MESS AND NGO TRANSI",
-        "3. CONSULTANCY SERVICES FOR AUTHORITYS ENGINEER FOR SUPERVISION OF THE WORK OF CONSTRUCTIO"
+        "1. PROVISION OF MAINTENANCE SERVICES TO DRDO VIP GUEST HOUSE, OTF, JCO MESS AND NGO TRANSI",
+        "2. PROVISION OF MAINTENANCE TO DRDO OFFICERS TRANSIT FACILITIES AND NGOs TRANSIT FACILITY ",
+        "3. PROVISION OF MAINTENANCE SERVICE TO DRDO TRANSIT FACILITIES AT PILKHUWA (SKILL DEVELOPM"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. HANDLING WORK FOR PADDY PURCHASE 2026-27 AND WHEAT PURCHASE 2027-28, CENTRE, JIVDHARA D",
+        "2. PADDY PURCHASE 2026-27 AND WHEAT PURCHASE 2027-28 TRANSPORT WORK FOR PROCUREMENT CENTRE",
+        "3. HANDLING WORK FOR PADDY PURCHASE 2026-27 AND WHEAT PURCHASE 2027-28, CENTRE, BAGHAULI-S"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Carry Out Repairs to Speed Breakers at various Road in Beat No 177, Matunga, F/north Wa",
-        "2. Providing and Fixing No Parking Boards at Vidyalankar College Road Dosti Acres and Anto",
-        "3. Providing and Fixing Porta Cabin for Traffic Police at Dadar TT Circle in beat No 178 o"
+        "1. Improvement of Passage and Drainage System Nr Naim General Store at Sundar kamla nagar ",
+        "2. Improvement of passage and Drainage System at  Laxmi Bhuvan Bldg Plot No 109, Road No 2",
+        "3. SUPPLY INSTALLATION COMMENSING AND TESTING OF AUTOMATIC BESAN PLANT 1 TPH retender"
       ]
     },
     {
@@ -37,8 +41,8 @@
       "status": "ok",
       "sample_titles": [
         "1. SUPPLY OF CONSTRUCTION MATERIAL AND PROVIDING EQUIPMENT IN GP BILASPUR PS UNIRA",
-        "2. construction of litigant shed for lawyers on 1st floor of cjm court premises       bhar",
-        "3. Construction of 08 Courts on 4th and 5th Floor and     2 Courts Building at 3rd Floor o"
+        "2. Construction of 08 Courts on 4th and 5th Floor and     2 Courts Building at 3rd Floor o",
+        "3. Supply, Erection, Testing and Commissioning of Refrigeration Plant and Machinery for Da"
       ]
     },
     {
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Selection of consultant for mobility assessment and pilgrim arrival pattern during Shra",
-        "2. Pipeline shifting and Construction Work with Machinery District Ujjain",
-        "3. Repair and Renovation work of Govt Residential and  Non Residential Building ( Ganghut "
+        "1. Repair and Renovation work of Govt Residential and  Non Residential Building (PWD Rest ",
+        "2. Repair and Renovation work of Magistrate Bunglow , S.D.O. and Sub Engg. Residential Bui",
+        "3. Pipeline shifting and Construction Work with Machinery District Ujjain"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Collage ground at Sabang Sajani Kanta Mahavidyalay Mouza-Lutunia,JL no-1",
+        "1. Construction of CC Road  at Sonaria from Sanjay Dey House to Ramesh Maji House  Activit",
         "2. WRDD/EEAM/MLD-II/eNIQ-01/26-27",
-        "3. Shed Net of Pelaram Mudi"
+        "3. WRDD/EEAM/MLD-II/eNIQ-01/26-27"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ATTENDING BT PATCH WORK AT DEFENCE COLONY 15TH STREET AND VARIOUS STREET   IN DIV-158,U",
-        "2.  Reconstruction of Cross culvert at Maraimalaiadigal Cross Street in Ward No.49",
-        "3. IMPROVEMENT TO THE EXISTING UPHC BUILDING AT NEW COLONY (COUNCILLOR FUND) IN DN 164, UN"
+        "1. IMPROVEMENT TO THE FOOTPATH AT NEHRU HIGH ROAD UNDER COUNSELLOR FUND IN DN-166 ,UNIT-37",
+        "2. Z.O.XIV.C.NO.E1/4009/2026 RESTORATION OF METRO WATER (CMWSSB) ROAD CUT PORTION AT Rajes",
+        "3. REPAIR AND IMPORVEMENT  WORK LPG  CREAMTORIUM MACHINE KUNDRU MEDU IN DIV -156 , UNIT -3"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/L DB Paving Ward no.15 in different Streets",
+        "1. RAISING OF APF AND ROADS AT PURCHASE CENTRE RAJOMAJRA, MC DHURI, DISTT. SANGRUR (FUNDS ",
         "2. S/F Generator Set 25 KVA in Shiv Mandir Gidderbaha",
-        "3. CONST. OF 100 X 50 STEEL  COVER SHED AT PURCHASE CENTRE QILA HAKIMA MC SHERPUR , DISTT."
+        "3. P/L ISI Marked Interlock tiles ward no.4 in different Streets"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance of Plants in Herbal Park Nursery in Jind Range under Jind Forest Division",
-        "2. Maintenance of Plants in Safidon H.Q Nursery in Safidon Range under Jind Forest Divisio",
-        "3. Maintenance of Plants in Gatauli Nursery in Jind Range under Jind Forest Division"
+        "1. Maintenance of Plants in Safidon H.Q Nursery in Safidon Range under Jind Forest Divisio",
+        "2. SUPPLY OF MATERIAL FOR FURNITURE MAKING for the year 2026-27.",
+        "3. Purchase of Sawn Timber for Making of Dual Desks at HFDC complex Rewari (Size specific)"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Badtika to Larambamunda_Road_SDBC0.000 to 2.980",
-        "2. Construction of  H.L. bridge over  Madhabi Nallah on PS road Raidihi to Birsamunda Chha",
-        "3. RD Road to Mahakhand_Road_SDBC0.000 to 1.800"
+        "1. SH 14 to Chhatapipal_Road_SDBC5.000 to 7.613",
+        "2. MDR to Sanburkhabahal_Road_SDBC0.000 to 2.280",
+        "3. Sh14 to Lakhapali_Road_SDBC0.000 to 2.560"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation of Conference Hall No. 505, Block-B at Collectorate Building, Ranchi",
-        "2. ICDP/RANCHI/25/2026-27",
-        "3. NREP/DMK/DMFT/13/26-27"
+        "1. ICDP/RANCHI/28/2026-27",
+        "2. NREP/DMK/DMFT/13/26-27",
+        "3. ICDP/RANCHI/25/2026-27"
       ]
     },
     {
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Restoration of Rain damages to various hand pumps under the Scheme to ensure potable wa",
-        "2. Construction of proposed Hall with Terrace above Store Room adjoining Block C at Direct",
-        "3. Providing ABR spetic tank sewerage system at Hadsar for manimahesh fair in Tehsil Bharm"
+        "2. Restoration of Rain damges to source of WSS Hadsar in GP Hadsar Tehsil Bharmour Distt C",
+        "3. Supply install, Operation and Miantenance of Dynamic Information Dissemination"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1746b6e710>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fccaafb8e90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -166,7 +170,7 @@
       "sample_titles": [
         "1. Operation and Maintenance of Utilities (Power and Communication Services) in Technopark",
         "2.  DEPOSIT -Urgent requirement for providing roofing sheet above Thanal near pediatric OP",
-        "3. GENERAL-East side Toilet block in New Nurses Hostel MCH TVPM-GENERAL- Urgent Repair and"
+        "3. Supply of 3 nos Digital Insulation Resistance Tester"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Pinglish B",
-        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Meej",
-        "3.  C/O PATH FROM H/O FAROOQ AHMAD BAJARD TO ONWARDS (W 10) AND C/O TILE PATH FROM H/O SAI"
+        "1. CONSTRUCTION OF BATHROOM NEAR LANZGUND MASJID SHAREEF BRANPATHRI NAGBAL TRAL",
+        "2. C/O DRAIN FROM H/O SABI BEGUM TO H/O ASLAM KHOKAR W7 AND C/O PATH MIDDLE SCHOOL TO ALAM",
+        "3. RDDDC2627103758 Fencing of graveyard development of graveyard at gujjar basti kheiodara"
       ]
     }
   ],
