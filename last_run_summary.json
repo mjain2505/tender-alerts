@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-21 22:03:35",
+  "checked_at_utc": "2026-07-22 02:24:59",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,8 +7,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing illumination with LED flood lights in children Park at STC BSF North Bengal.",
-        "2. Filtering dehydration and refilling of transformer oil in transformer installed in Sub-",
+        "1. Filtering dehydration and refilling of transformer oil in transformer installed in Sub-",
+        "2. Systematic Maintenance of Railway Siding at FSD KC DEPOT for the year 2026 27",
         "3. Replacement of defective LED Lights in existing HML installed at STC BSF North Bengal."
       ]
     },
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. COMPETITIVE e-bidding FOR SUPPLY OF HAND PICKED UNSLACKED  LIME FOR VARIOUS COOP SUGAR ",
-        "2. C/o boundary wall of Park P-2 in sector 33, YEIDA. WC-H",
-        "3. servo repair work"
+        "1. D/o 04 parks Pocket 5C Sector 18 with two years maintneace yea. WC-H",
+        "2. COMPETITIVE  e-bidding FOR SUPPLY OF MILL BEARING ALUMINIUM COMPLEX  GREASE FOR 2500T.C",
+        "3. COMPETITIVE e-bidding FOR SUPPLY OF SODIUM HYDROXIDE (CAUSTIC SODA FLAKES) FOR VARIOUS "
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing 5G Mobile Jammers and carrying out the necessary works related to conference ",
-        "2. Repairs to Footpath near Bal Ganesh mandir Marg at Partiksha Nagar in Beat No 173 in F/",
-        "3. Tree Plantation and 3 Year Preservation on Phaltan Shingnapur Mhaswad Shenwadi M.D.R 13"
+        "1. Replacement of CPVC Pipe Line Near Vithal Mandir at Katrak Road Wadala in Beat No 178 F",
+        "2. Improvement of Samaj Mandir at Achrekar Garden, Vishnu Gnaersh Pingle Marg, in  E Ward",
+        "3. Improvement of Passage and Drainage line in Beat No 213 E ward."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MGNAREGA VB-GRAM G MATERIAYAL SUPPLY FY2026-27  GP bali ps bagoda",
-        "2. Gram Panchayat Malar Me Government Primary School Sevro Dudiyo dhani me tin shed nirman",
-        "3. work no 2"
+        "1. Development of MGPS Room over existing Fire Tank and other miscellaneous civil work at ",
+        "2. work no 2",
+        "3. MGNAREGA VB-GRAM G MATERIAYAL SUPPLY FY2026-27  GP bali ps bagoda"
       ]
     },
     {
@@ -51,17 +51,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of RCC Drain at ward no 37 puranpura gali no 04 and 05 various street",
-        "2. Construction work of C.C. Road at ward  no 33 lodhi dharmshala ke picche vidisha",
+        "1. Repairing,denting and trolley fabrication work for TATA 407 and TATA ACE magic",
+        "2. Supply of Fundus Camera",
         "3. Construction work of C.C. Road at ward no 33 aambali colony kalayan dhakad to chandan k"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply of materials for Construction of CC road from Chattardoba village to RBMC G.P- A",
+        "2. Supply of materials for Construction of Minor Irrigation Cannel for Community at Jitard",
+        "3. NIT No- 218/PWD/ROAD/BMC , Dated- 21/07/2026"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Specification Report to accompany the Estimate for the work of   Renovation work of CM ",
-        "2. INTERNAL AND EXTERNAL ELECTRICAL ARRANGEMENTS CTO PALLADAM",
-        "3. TCMC_Outsourcing of Computer Data Entry Operator in Revenue Election Section  and Offic"
+        "1. TCMC_Outsourcing of Computer Data Entry Operator in PRO Section and Office Assistant in",
+        "2. TCMC_Outsourcing of Computer Data Entry Operator in Health Engineering Section  and Off",
+        "3. CCTV, Intecom, LAN and PA system GH udumalpet  Tiruppur (second call)"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation of repair of Bhatara Mohalla dharamshala and Shri Ram Mandir dharamshala war",
-        "2. LEASE OUT BOATING SITE WITH CAFETERIA AND PARKING SPACE BETWEEN RD 500-4300 OF SIRHIND ",
-        "3. LEASE OUT BOATING SITE WITH CAFETERIA AND PARKING SPACE RD 10000 LM BUNDH ON SULTEJ RIV"
+        "1. Rough Cost Estimate of Additional Manhole in Various Areas of Municipal Corporation Pat",
+        "2. Providing and Laying of SDBC on road behind Moti Bagh Gurudwara Sahib.  Est Cost Rs. 6.",
+        "3. Repair and renovation of Dhanka mohalla ward no. 51  Est Cost Rs. 8.00 lacs dt 29/30.07"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender for Disposabel Sterile Surgical Gloves 7 no for BPS GMC for Women Khanpur Kalan ",
-        "2. Tender for Disposabel Sterile Surgical Gloves 7.5 no for BPS GMC for Women Khanpur Kala",
-        "3. Tender for Procurement of Medicines Drop Vitamin D3 for BPS Government Medical College "
+        "1. Tender for Disposabel Sterile Surgical Gloves 7.5 no for BPS GMC for Women Khanpur Kala",
+        "2. Tender for Procurement of Medicines Drop Vitamin D3 for BPS Government Medical College ",
+        "3. Tender for Disposabel Sterile Surgical Gloves 7 no for BPS GMC for Women Khanpur Kalan "
       ]
     },
     {
@@ -104,7 +108,7 @@
       "sample_titles": [
         "1. Supply and installation of 100KVA Transformer of 11/04 KV ALPole mounted Sub-Station at",
         "2. Construction Of Temporary Helipad at Khemundikhalo, Ganjam for the visit of her excelle",
-        "3. PROVIDING LAYING TESTING AND COMMISSIONING OF CLEAR WATER PIPELINE TO GAUDAPUT INDUSTRI"
+        "3.  S/R to Haridakhandi Petrol pump to Andhapasara Sapua Nallah Road from ch 0/00 km to 2/"
       ]
     },
     {
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Concrete Rigid pavement  with Base and Sub-Base Preparation at EDC, Mah",
-        "2. R R Damage on RCD road Larot sub division",
-        "3. C O link road from Thalather to Jakhi road"
+        "2. R R DAMAGES TO RCD road",
+        "3. Supply and installation of Monorail orchard transport system"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f222757dd90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0a4f0757d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL-PMMSY-Supply and installation of 15 KLD Effluent Treatment Plant at Puthiyappa ",
-        "2. Construction of Puthanvalappil Road Choonor, Ward-12, Ponmala GP-(WC-12207)",
+        "1. Construction of Cherunirappu Thottappuraya Road, Thalakappu, Ward-13, Ponmala GP-(WC - ",
+        "2. GENERAL-PMMSY-GENERAL-PMMSY Setting up of 15 KLD Effluent Treatment Plant at Koyilandy ",
         "3. Construction of Perimbalam -Mangattil SC colony road, ward-16 (Poject code-12267)- Anak"
       ]
     },
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair / Renovation / Addition / Alteration and other Maintenance work of Various Build",
-        "2. Construction of lane drain near the house of Gulzar ahmad Zahid to house of abdul rashi",
-        "3. Construction of Road Drain from House of Mohd Shafi Dar Mohd Iqbal Dar and others to Ab"
+        "1. Construction of lane drain near the house of Manzoor ahmad beigh to house of Faroog ahm",
+        "2. Reconstruction of lane and drain from the house of Mohd Sultan Wani up to Khankah Masji",
+        "3. Construction of Doon Bagh Lane near Khar Masjid at  Syedpora Eidgah Sgr by way of  P/L "
       ]
     }
   ],
