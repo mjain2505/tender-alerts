@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-22 16:20:14",
+  "checked_at_utc": "2026-07-22 19:14:10",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,20 +8,16 @@
       "status": "ok",
       "sample_titles": [
         "1. Consultancy services for preparation of Detailed Project Report for 4 laning of Outer R",
-        "2. Repair and maintenance of existing panel and power supply cable of Nalapar SFA Type-I Q",
-        "3. Additional electrification/ Improvement of Jetty area lighting facilities at Kavaratti,"
+        "2. M/o DDA Golf Course Dwarka Sector-24",
+        "3. Supplying, Installation, Testing and Commissioning of Air conditioner for TPT Sec, Rele"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. M/o Road (P/L CC Paver Blocks along Metro line from Sector-79 T-Point to NSEZ in Sector",
-        "2.  BHELUPUR ZONE ANTERGAT WARD NO.26 NEVADA ME MAHAMANA NAGAR COLONY ME N 4/35-C957 SE R.",
-        "3.  BHELUPUR ZONE ANTERGAT WARD NO.76 BHAGWANPUR ME SANDEEP KE MAKAN SE JAI SONKAR KE MAKA"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Beautification work at Govind rav Parab Chowk, Seth Motisha lane and Dr. Mascarenhas ro",
-        "2. Imp. of  Shed  near Electric bill Center, Best Bus Depot, Belasis road in E Ward",
-        "3. Improvement of Passage and Drainage System Near Nitesh Chavhan Home in Ambedkar Nagar i"
+        "1. City Water Supply Scheme - Replacing 700 mm dia CI pipe with 700 mm dia DI pipe at patv",
+        "2. Improvement of Passage and Drainage  at Akhade ki Chawl, 1st Ghelabhai street in E Ward",
+        "3. Providing and Fixing FRP Door and G.I Door and Minor Repairs Work to Toilet Blocks at V"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. sound system fixing work at walking track of ashok udhyan",
-        "2. Repairing of shilanyas / inaugration stone work, Jodhpur.",
-        "3. VBGRAMG/NAREGA MATERIAL SUPPLY TENDER SKP SESSION 2026-27"
+        "1. Repairing of shilanyas / inaugration stone work, Jodhpur.",
+        "2. VBGRAMG/NAREGA MATERIAL SUPPLY TENDER SKP SESSION 2026-27",
+        "3. sound system fixing work at walking track of ashok udhyan"
       ]
     },
     {
@@ -55,13 +51,9 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. WBPHED/25_38/EE/BOLMD/26-27",
-        "2. WBPHED/25_03/EE/BOLMD/26-27",
-        "3. WBPHED/25_06/EE/BOLMD/26-27"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +61,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of  Road Cut (CC Road) made by CMWSSB For WSS at DR Ambedkar Road and Bhara",
-        "2. Restoration of Road Cut (CC Road) made by CMWSSB (WSS) at to Provide Sewer System Singa",
-        "3. GENERAL FUND WORKS 2025-2026/ - 8 Unnamalaikadai TP"
+        "1. Restoration of  Road Cut (BT Road) made by CMWSSB (WSS NEE ) at Venkateshwara nagar 10t",
+        "2. Improvement estimate for replacement of damaged pole LT 84 Nos PSC poles under Rural ku",
+        "3. Providing Ratan,Rail and Deepening Open well  at  Pattymadu H/O P.K.Hills Keelnadu Panc"
       ]
     },
     {
@@ -80,8 +72,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Suppy of 5 Garbage lifters For Cleanliness of city in NP Begowal",
-        "2. Repair and Maintenance of NP office and Parks in NP Begowal",
+        "1. selection of Transaction Advisor cum Merchant Banker/Arranger for mobilization of Rs. 1",
+        "2. Renovation of Night Shelter in NP Begowal",
         "3. Cleaning of open Nala Np Begowal"
       ]
     },
@@ -92,8 +84,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Ding Block Minor Plantation Work of All Scheme",
-        "2. KAIMLA - Augmentation Water...",
-        "3. Plantation of Trees in Various Parks and Green Belt under the jurisdiction of PMDA"
+        "2. Khairekan Block Minor Plantation Work of All Scheme",
+        "3. 1292 Construction of CandD ...for LandC society and contractor etc."
       ]
     },
     {
@@ -102,9 +94,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of BRHS Karamtala  under Saintala Block in the district of Bolangir  for t",
-        "2. Construction of Barabahal UGHS   under Patnagarh Block in the district of Bolangir  for",
-        "3. Construction of road from Goudagaon to Paudia under Kuliposi GP"
+        "1. Construction of Barabahal UGHS   under Patnagarh Block in the district of Bolangir  for",
+        "2. Construction of BRHS Karamtala  under Saintala Block in the district of Bolangir  for t",
+        "3. Construction of road from Kadadiha to Bhalianal via Gopalpur under Kuliposi GP"
       ]
     },
     {
@@ -113,9 +105,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EE/RDSD/LATEHAR/17/2026-27/ Gr_3",
-        "2. EE/RDSD/LATEHAR/17/2026-27/ Gr_1",
-        "3. EE/RDSD/LATEHAR/17/2026-27/ Gr_2"
+        "1. CONSTRUCTION OF BRIDGE ON JORIA OF BHERADAH POKHAR LOCATED AT KEVAT TOLA OF MAKHANI IN ",
+        "2. EE/RDSD/LATEHAR/17/2026-27/ Gr_3",
+        "3. EE/RDSD/LATEHAR/17/2026-27/ Gr_1"
       ]
     },
     {
@@ -144,7 +136,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f53660f8ad0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9cba470790>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -166,7 +158,7 @@
       "sample_titles": [
         "1. DEPOSIT-KyIP-Melady  Block Panchayath 2025-26 -  Construction of Navaprebha Keezhana Pa",
         "2. Hiring of Non AC Segment Buses (Diesel Fuelled) on Wet Lease",
-        "3. Retender Annual Plan Annual plan Project Number 803 25 26  Karattuppadi Kalpuzha Road T"
+        "3. RETENDER MAINTENANCE OF ANGANAWADI NO 22 WARD 7"
       ]
     },
     {
@@ -175,9 +167,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627103743 Co drain from lo Ali mohd mir to onwards at Achgooza and lane drain fro",
-        "2. Construction Of The Graveyard Wall And Fancing From Ho Ab. Hameed Sheikh To Bashir Ahma",
-        "3. FINDC2627102769 - Constt. of R/Wall on road side NLO Mushtaq Ahmad Bhat on Nowhar Naira"
+        "1. Construction Of Lane/Drain From The House Of Shabir Ahmad Matoo,Nazir Ahmad Satto Upto ",
+        "2. RDDDC2627103743 Co drain from lo Ali mohd mir to onwards at Achgooza and lane drain fro",
+        "3. FINDC2627102863 - Constt. of foot culvert on Chitter Kull ( Marthon road) at feasible l"
       ]
     }
   ],
