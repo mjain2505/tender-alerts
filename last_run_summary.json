@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-23 13:51:52",
+  "checked_at_utc": "2026-07-23 16:26:45",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o various colonies under Nazul Account-II Dwarka Zone",
-        "2. Maintenance of various Colonies under South Zone",
-        "3. SS/C050-1P39A-WB-MR-3017/44 - VALVE GATE GLOBE AND CHECK Polypropylene Unit (PPU) Proje"
+        "1. Maintenance of various Colonies under South Zone",
+        "2. Renovation of QC Lab at FCI Regional Office Bengaluru for the FY 2026-27",
+        "3. Supplying, Installation, Testing and Commissioning of Air conditioner for X-Ray room at"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Name of Work - Tudiyar me sanjay prasad mishra se rajdhar mishra ke ghar tak interlocki",
-        "2. Gram Hasnapur ke uttar purwa marg se ram tirath yadav ke ghar tak cc road ka nirman kar",
-        "3. Construction of Interlocking at gram Sansarpur Badke Kumhar hosue to Ramjani house"
+        "1. Construction of community Center At Parivartan Aajivika Mahila Sankul Sangh Gram Antri ",
+        "2. 71/NPJ/2026-27(11)",
+        "3. Scanning and  Digitization of  Official files and Records for E-Office for National Hea"
       ]
     },
     {
@@ -30,20 +30,16 @@
       "status": "ok",
       "sample_titles": [
         "1. \tProposed work of Improvement of Passage and Drainge System at Gupta Parlour Shop to Sa",
-        "2. Expression of Interest (EOI) for Empanelment of Coaching Institutes for providing Non- ",
-        "3. Imp of passage and drainage system"
+        "2. Request For Proposals for Purchase of Mepiquat Chloride 5 percent Aqueous Solution in M",
+        "3. B.P Office Administrative"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. CONSTRUCTION OF ANICUT, WHS RENOVATION, fARM POND, TALAB RENOVATION AT P.S. KAREDA",
-        "2. Construction of Compost Pit-05 PMKSY-2.0 PS Chhipabarod",
-        "3. Regarding the purchase of mobile toilets for the year 2026-27."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of RCC Drain at ward no 12 main road gowardhan garden to ganesh joshi",
-        "2. Construction work of C.C. Road at ward no 12 near patel garden and manjeet chidar bali ",
-        "3. Renovation/Special Repair/Annual Repair (MOW Civil) Work"
+        "1. Renovation/Special Repair/Annual Repair (MOW Civil) Work",
+        "2. Construction work of  RCC Drian at ward no 20 manish jain to chandan singh yadav house ",
+        "3. Construction work of RCC Drain at ward no 12 main road gowardhan garden to ganesh joshi"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of materials in different places under Swarupnagar Banglani GP under VB-G-RAM-G ",
+        "1. Development and Deepening and Strengthening of embankment of Pond in Block Office Campu",
         "2. HIDCO/AGM-III/NIT-04/26-27",
-        "3. NIT No- 223/PWD/ROAD/BMC , Dated- 23/07/2026"
+        "3. Supply of materials in different places under Swarupnagar Banglani GP under VB-G-RAM-G "
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of BT Road cut made by CMWSSB (UGSS) at VPG Avenue 2nd Street in Dn.195, Un",
-        "2. TN.06/Sl.No.04/CCRII/Non Plan Work 2026-27",
-        "3. TN.06/Sl.No.03/CCRII/Non Plan Work 2026-27"
+        "1. TN.06/Sl.No.02/CCRII/Non Plan Work 2026-27",
+        "2. TN.06/Sl.No.03/CCRII/Non Plan Work 2026-27",
+        "3. Restoration of BT Road cut made by CMWSSB (UGSS) at VPG Avenue 3 to 5th Street in Dn.19"
       ]
     },
     {
@@ -92,13 +88,9 @@
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Lohgarh- Pavement of Dry Bricks Rasta From Water Works to Dhani of Suba Singh and Other",
-        "2. New Plantation work 2026-27 and five year maint. work 2027-28 to 2031-32 NPV Scheme Toh",
-        "3. Annual maintenance of Road ..."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Odisha",
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. S/R to Police Staff Quarter No.84 E Type at Chatrapur",
+        "1. Constructon of Electric Panel room for I.P.D. Building of City Hospital at Berhampur Bu",
         "2. S/R to Election Section of Sub Collectors Office at Chatrapur for year 2026-27",
-        "3. Constructon of Electric Panel room for I.P.D. Building of City Hospital at Berhampur Bu"
+        "3. S/R to Police Staff Quarter No.84 E Type at Chatrapur"
       ]
     },
     {
@@ -118,8 +110,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of  Open Shed in front of existing TRW, Latehar under Electric Supply Circ",
-        "2. Construction of Prefab Cottage at Paryatan Vihar, Patratu in Ramgarh district",
-        "3. Construction of septic tanks and soak pits in vidyut colony, Sudna under electric suppl"
+        "2. Construction of septic tanks and soak pits in vidyut colony, Sudna under electric suppl",
+        "3. Construction of Prefab Cottage at Paryatan Vihar, Patratu in Ramgarh district"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender Document",
-        "2. R/M of various LIS/LWSS under Jal Shakti Division Nahan in Tehsil Nahan",
-        "3. Providing Water Source Development including Distribution System in Lift Irrigation Sch"
+        "1. SDF/2025/603, R/O (Repair of) Restoration of rain damages on Katindhi Jhatingri Bassa r",
+        "2. Providing Distribution System in Lift Irrigation Scheme Ramehra under HPCDP(Phase-II)-J",
+        "3. R/M of various LIS/LWSS under Jal Shakti Division Nahan in Tehsil Nahan"
       ]
     },
     {
@@ -148,19 +140,15 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc7f621b250>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7d5c227510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of New Classroom Building of Shankardev Shishu Niketan, Hengrabari, Dist. ",
-        "2. FRP LINING WORK IN DM WATER AND COOLING TOWER AT APL NAMRUP",
-        "3. Construction of RCC (4 four) storied barrack at RTC, Sila, North Guwahati"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='assamtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='assamtenders.gov.in', port=443): Failed to resolve 'assamtenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Kerala",
@@ -169,8 +157,8 @@
       "status": "ok",
       "sample_titles": [
         "1. DEPOSIT-KyIP-Velom Grama Panchayath 2025-26 - Construction of Kinarullakandimukku Thaya",
-        "2. Aruvikkara Devaswom in Ulloor Group Providing temporary light arrangements and Public A",
-        "3. 93514 LAC-ADS-LAC ADS 2024-25 Manalur LA - Construction of New Building for Manalur Yuv"
+        "2. 102526 A n n u a l P l a n - D P T - T S R 2 0 2 5 - 2 6 Thozhuppadam Mayannur road Mai",
+        "3. 113842 GENERAL- Chelakkara LA NAVA KERALASADS 2025-26 Chelakkara GPConstruction Of Road"
       ]
     },
     {
@@ -179,9 +167,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627104585 -(IMPROVEMENT OF LANE FROM MASJID SHARIEF TO HOUSE OF MOHD YOUSUF PARRY",
-        "2. RDDDC2627104587 -(IMPROVEMENT OF ASTAN PARK AT HAWAL (SHADIM))",
-        "3. C/O IRRIGATION LADH NLO MOHD RAMZAN BHAT AT KUNDUR BLOCK SHANGUS"
+        "1. FINDC2627102867 - Constt. of lane with tiles from H/O Akber Malik to Masjid Zanaib at G",
+        "2. Construction of tile lane and pipe drain from main road via H/o Dr. Yasir Lone, ,Mohamm",
+        "3. RDDDC2627104299 -(CONSTRUCTION OF R WALL ON DRABI KULK NEAR HOUSE OF GH NABI LONE TO ON"
       ]
     }
   ],
