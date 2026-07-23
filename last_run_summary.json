@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-23 19:13:53",
+  "checked_at_utc": "2026-07-23 22:03:21",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SS/C050-1P39A-WB-MR-3017/44 - VALVE GATE GLOBE AND CHECK Polypropylene Unit (PPU) Proje",
-        "2. M/o various colonies under Nazul Account-II Dwarka Zone",
+        "1. M/o various colonies under Nazul Account-II Dwarka Zone",
+        "2. Supplying, Installation, Testing and Commissioning of Air conditioner for X-Ray room at",
         "3. Renovation of QC Lab at FCI Regional Office Bengaluru for the FY 2026-27"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. SUPPLY OF 16 SET 3 SEETER  SCHOOL FURNITURE IN  04 SCHOOLS IN PILIBHIT FOR D.R.D.A.  PI",
+        "2. Construction of Puliya at Gram Madpha kala Nayan Mishra Son of Sarvesh Mishra ke samane",
+        "3. khuta me Maharani chaura se Sampati Aadiwasi ke ghar tak interlocking karya"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. \tProposed work of Improvement of Passage and Drainge System at Gupta Parlour Shop to Sa",
-        "2. Request For Proposals for Purchase of Mepiquat Chloride 5 percent Aqueous Solution in M",
-        "3. B.P Office Administrative"
+        "1. Improvement of Passage and Drainage  at Bakhar ki Chawl, 1st Ghelabhai Street in E Ward",
+        "2. \tProposed work of Improvement of Passage and Drainge System at Gupta Parlour Shop to Sa",
+        "3. Improvement of passage and drainage System at Plot No 731 Polson Building, Jahangir Vim"
       ]
     },
     {
@@ -36,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Regarding the purchase of mobile toilets for the year 2026-27.",
-        "2. CONSTRUCTION OF DRAIN, NALA, WALL ETC AND REPAIR WORK VARIOUS PLACE IN NAGAR PALIKA ARE",
-        "3. CONSTRUCTION OF ANICUT, WHS RENOVATION, fARM POND, TALAB RENOVATION AT P.S. KAREDA"
+        "1. Supply of Mangers in PMKSY 2.0 PS Chhipabarod (102 no)",
+        "2. Regarding the purchase of mobile toilets for the year 2026-27.",
+        "3. Construction of Compost Pit-05 PMKSY-2.0 PS Chhipabarod"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction work of C.C. Road at ward no 37 Ekta nagar various streets  vidisha",
+        "2. Construction work of C.C.road at ward no 34 raja bhaiya colony shiv mandir to bharat si",
+        "3. Construction work of C.C. Road at ward no 12 near patel garden and manjeet chidar bali "
+      ]
     },
     {
       "name": "West Bengal",
@@ -55,16 +63,20 @@
       "status": "ok",
       "sample_titles": [
         "1. HIDCO/AGM-III/NIT-04/26-27",
-        "2. Development and Deepening and Strengthening of embankment of Pond in Block Office Campu",
-        "3. Supply of materials in different places under Swarupnagar Banglani GP under VB-G-RAM-G "
+        "2. Supply of materials in different places under Swarupnagar Banglani GP under VB-G-RAM-G ",
+        "3. Development and Deepening and Strengthening of embankment of Pond in Block Office Campu"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Restoration of BT Road cut made by CMWSSB (UGSS) at VPG Avenue 2nd Street in Dn.195, Un",
+        "2. TN.03/Sl.No.03/CCR DIVISION-I/Non Plan Work 2026-27",
+        "3. TN.06/Sl.No.02/CCRII/Non Plan Work 2026-27"
+      ]
     },
     {
       "name": "Punjab",
@@ -85,7 +97,7 @@
       "sample_titles": [
         "1. Lohgarh- Pavement of Dry Bricks Rasta From Water Works to Dhani of Suba Singh and Other",
         "2. New Plantation work 2026-27 and five year maint. work 2027-28 to 2031-32 NPV Scheme Toh",
-        "3. Annual maintenance estimate..."
+        "3. A/Mtc. Kanina water supply ..."
       ]
     },
     {
@@ -94,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Constructon of Electric Panel room for I.P.D. Building of City Hospital at Berhampur Bu",
-        "2. S/R to Police Staff Quarter No.84 E Type at Chatrapur",
-        "3. Repair and renovation of Circuit House at Chatrapur for year 2026-27"
+        "1. Repair and renovation of Circuit House at Chatrapur for year 2026-27",
+        "2. S/R to Election Section of Sub Collectors Office at Chatrapur for year 2026-27",
+        "3. S/R to Police Staff Quarter No.84 E Type at Chatrapur"
       ]
     },
     {
@@ -106,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of  Open Shed in front of existing TRW, Latehar under Electric Supply Circ",
-        "2. Construction of Prefab Cottage at Paryatan Vihar, Patratu in Ramgarh district",
-        "3. Construction of septic tanks and soak pits in vidyut colony, Sudna under electric suppl"
+        "2. Construction of septic tanks and soak pits in vidyut colony, Sudna under electric suppl",
+        "3. Construction of Prefab Cottage at Paryatan Vihar, Patratu in Ramgarh district"
       ]
     },
     {
@@ -116,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Sewerage scheme to Baddi Town in Tehsil Baddi District Solan (HP)",
-        "2. Tender for Supply of Rain coat for Operation Circle Kullu under Mandi Zone, HPSEBL Mand",
-        "3. Providing Distribution System in Lift Irrigation Scheme Chak Kathal under HPCDP(Phase-I"
+        "1. Tender for Supply of Rain coat for Operation Circle Kullu under Mandi Zone, HPSEBL Mand",
+        "2. SDF/2025/603, R/O (Repair of) Restoration of rain damages on Katindhi Jhatingri Bassa r",
+        "3. Tender for  Supply of  11 KV Heat Shrinkable termination Kits , 11 KV Heat Shrinkable c"
       ]
     },
     {
@@ -136,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fece6729950>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f177285cb10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,8 +169,8 @@
       "status": "ok",
       "sample_titles": [
         "1. DEPOSIT-KyIP-Velom Grama Panchayath 2025-26 - Construction of Kinarullakandimukku Thaya",
-        "2. GENERAL-Pinarayi-Puthukkayil thodu-Renovation of  Sluice and DR protection works near m",
-        "3. GENERAL-Pinarayi-Kizhakkan Kayyil Thodu-Renovation of  VCB at Kizhakkan Kayyil thodu in"
+        "2. 68722 LAC-ADS-2025-2026 Kaipamangalam LAConstruction of Puthiyakavu west Mazjid Road So",
+        "3. MP-LADS-2025-26-Work Proposed by Sri. Adv.Jebi Mather Honarable MP Rajyasabha- Construc"
       ]
     },
     {
@@ -167,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of link road from H/o Showkat Ah Sheikh to Gh Mohd Sheikh at Sheikh Mohall",
-        "2. C/O OF IRRIGATION LADH AT ZRADOO NLO NAZIR AHMAD DAR BLOCK SHANGUS",
-        "3. C/O PB NHO OF REYAZ AHMAD LONE AND OTHERS BLOCK SHANGUS"
+        "1. DEV OF SPRING AT HERGAM NAG BLOCK SHANGUS",
+        "2. Upgradation of lane near H/o Ghulam Mohammad Mir to Aijaz Ah Bhat via Showkat Ah Digoo ",
+        "3. FINDC2627102625/-Constt. of drain from Awantipora main road to H/O Mohd. Amin wani at U"
       ]
     }
   ],
