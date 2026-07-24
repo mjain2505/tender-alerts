@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-24 16:33:14",
+  "checked_at_utc": "2026-07-24 19:22:12",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Shifting, Installtion, Testing and Commissioning  of existing 10 KVA DG set, at Tiran P",
-        "2. PRE-BID TIE-UP SERVICES AND POST BID CONSTRUCTION WORK THROUGH MOU FOR CARRYING OUT PLA",
-        "3. e-Tender No. PMBI/SURGICAL/RC-224/2026 for the procurement of 17 Oxo-Biodegradable Sani"
+        "1. PROVISION OF MANAGEMENT SERVICES INCLUDING CONSERVANCY SERVICES, ARBORICULTURE SERVICES",
+        "2. Providing and fixing of SS304 flyproof mosquito net with Aluminium frame in Dining Hall",
+        "3. NHIDCL/RO-Imphal/NH37/Irang/26"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RCC Nala Nirman Karye",
-        "2. Construction and Installation work of Public Drinking Water Station at Vill. Bhojipura ",
-        "3. Construction and Installation work of Steel Public Drinking Water Station at Bareilly T"
+        "1. Construction and Installation work of Steel Public Drinking Water Station at Thana Bahe",
+        "2. Construction and Installation work of Steel Public Drinking Water Station at Manohar Bh",
+        "3. RCC Nala Nirman Karye"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Proposed work of Improvement of Passage and Drainge System Near  Shashikumar Kirana Sto",
+        "1. Est No. 211007/Notice No.07/2026-27",
         "2. Improvement of Passage and Drainage System at galaxy Ekta Welfare Society Scout Camp Ro",
-        "3. Supply of Alum for the Water Treatment Plants of the Sangli and Miraj Water Supply Depa"
+        "3. Supplying and Erecting air conditioning at cabine of Hon. Sabhapati (Arogya ) and Hon. "
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Hydrated Lime (Grade-A) required for various power project of RVUN (KSTP",
-        "2. Procurement of Hydrazine Hydrate required for various power project of RVUN (KSTPS KOTA",
-        "3. PROCUREMENT OF SODIUM HYPOCHLORITE REQUIRED FOR VARIOUS POWER PROJECT OF RVUN (CTPP-OnM"
+        "1. PROCUREMENT OF POLYELECTROLYTE ANIONIC REQUIRED FOR VARIOUS POWER PROJECT OF RVUN (CSCT",
+        "2. PROCUREMENT OF SULPHURIC ACID ON VARIABLE PRICE BASIS REQUIRED FOR VARIOUS POWER PROJEC",
+        "3. Procurement of Hydrated Lime (Grade-A) required for various power project of RVUN (KSTP"
       ]
     },
     {
@@ -51,8 +51,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Vegetable and Fruit item",
-        "2. Horizontal Centrifugal Split Casing  motor pump set  At Gambhir Dam Ambodiya Distt. Ujj",
+        "1. Work contract for complete overhauling of secondary crusher (ring granulator) RG-1 and ",
+        "2. Vegetable and Fruit item",
         "3. T-936/MPPHSCL/Computer Printer Repair and Maintenance/2026, Date-24-07-2026"
       ]
     },
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIeT- 01/R-I GP/VB-G-RAM-G/2026-27 SL01",
-        "2. Operation and guarding of the pumping machinery at Uluberia S D Hospital water supply s",
-        "3. Sinking of 4 (four) nos 200mm dia riverbed tube well including collecting main in the r"
+        "1. Operation and guarding of the pumping machinery at Baniban water supply scheme Block   ",
+        "2. NIeT-14/AD/26-27/03",
+        "3. Operation and Guarding of the pumping machinery at Teghori water supply scheme Block  B"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of New Building work at Common Kitchen, Paruthipattu in Ward no 47 (Zone 3",
+        "1. Providing  Liquid Chlorine Plant at  K.C road Amma Unavgam Tank in Sengottai Municipali",
         "2. Out Sourcing of Water Supply Related Works Valve Operator and Watchman Duties for the Y",
-        "3. Construction of Community Soak Pit  at Pammadhukulam, Pothur and Vellanoor Panchayats"
+        "3.  IMPROVEMENTS WORK TO BURMA TAMIZAR COLONY PUBLIC CONVIENCE AT B.V.NAGAR 3RD MAIN ROAD "
       ]
     },
     {
@@ -85,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Special Repair to Kothi No. 9-F Malwa Colony Patiala",
-        "2. Dismantling of Existing Damaged RCC OHSR and New Construction of R.C.C over Head Servic",
-        "3. The work of Anti Rabies Vaccination of the stray dogs in Bathinda city."
+        "2. Special Repair to Kothi No. 15-F Malwa Colony Patiala",
+        "3. To carry out the work of ABC-ARV of stray dogs in Municipal Corporation, Bathinda"
       ]
     },
     {
@@ -103,13 +103,9 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of NH-55 to Parahat via Sana Bakharabad and Belakana Matha road and Sanaka",
-        "2. Bhargabi right embankment to Terabatia road_Road_SDBC2.200 to 2.800",
-        "3. Improvement to Dengapole-Chanrapur road under MMSY-Improvement Existing RD road in the "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rate Contract for Road marking  within Ranchi Municipal Area",
-        "2. Request for Proposal (RFP) for the Supply of 02 Nos Truck Vehicle.",
-        "3. Construction of Pcc Road From Ramgarh college old gate to H/O Saheb Mahto at Ramgarh Co"
+        "1. Construction of Pcc Road From Ramgarh college old gate to H/O Saheb Mahto at Ramgarh Co",
+        "2. Rate Contract for Road marking  within Ranchi Municipal Area",
+        "3. Request for Proposal (RFP) for the Supply of 02 Nos Truck Vehicle."
       ]
     },
     {
@@ -128,8 +124,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages to Water Supply Scheme Palampur Town in Tehsil Palampur Dis",
-        "2. Improvement Rejuvenation and sanitary protection near JK Tyre shop Tanda in Ward No. 11",
+        "1. Improvement Rejuvenation and sanitary protection near JK Tyre shop Tanda in Ward No. 11",
+        "2. Restoration of rain damages to Water Supply Scheme Palampur Town in Tehsil Palampur Dis",
         "3. Roadsdie plantation at various roads and at dumping site under HPPWD Dhami Division"
       ]
     },
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7b7cde0310>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f68dee181d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Malappuram DP (2026-27), Project No 219-27 -Completion works for Pakal veed",
-        "2. Annual Plan-Malappuram DP (2026-27), Project No 353-27 -Improvement of Chenakkal Angadi",
-        "3. Annual Plan-Malappuram DP (2025-26), Project No 1379-26 -Renovation of Puthukkod RHSR R"
+        "1. Annual Plan-Malappuram DP (2025-26), Project No 1379-26 -Renovation of Puthukkod RHSR R",
+        "2. Annual Plan-Malappuram DP (2026-27), Project No 333-27 -Renovation of Tippusulthan Road",
+        "3. Annual Plan-Malappuram District Panchayath Improvement of PCNGHS Nannamukk Nannamukk- S"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627110310 CO CONCRETE WATER CHANNEL FROM MROAD TO HO NAZIR AH BHAT MAQDAM AT KHEL",
-        "2. C/o Drain with Tile Path behind H/o Mushtaq Ah Bhat at Buzawachan Pyt Kakothal B block ",
-        "3. RDDDC2627108429 - CONSTT OF TILE PATH FROM MAIN ROAD TO PMGSY ROAD NEAR SHOP OF BASHIR "
+        "1. RDDDC2627110304 DEV OF DRAIN FROM HO MOHD ISMAIL HAJAM TO PADDY MILL OF TAHIR ALLIE AT ",
+        "2. Construction of B/Path (Tile Work) at W.No. 02 NHO Mohd Hafeez and others Pyt. Sanai Lo",
+        "3. RDDDC2627109455 Construction of road from main bridge to school including to the house "
       ]
     }
   ],
