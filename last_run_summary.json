@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-25 02:25:35",
+  "checked_at_utc": "2026-07-25 05:42:29",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PRE-BID TIE-UP SERVICES AND POST BID CONSTRUCTION WORK THROUGH MOU FOR CARRYING OUT PLA",
-        "2. NHIDCL/RO-Imphal/NH37/Irang/26",
-        "3. Providing and fixing of SS304 flyproof mosquito net with Aluminium frame in Dining Hall"
+        "1. To assist in Carrying out Mechanical Maintenance Jobs of Utility Area of HWPK Plant Sit",
+        "2. M/o completed scheme under N/A-II Hort. Zone",
+        "3. Miscellaneous civil maintenance work at HWPK housing colony for one and half year durin"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RCC Nala Nirman Karye",
-        "2. Construction and Installation work of Steel Public Drinking Water Station at Bareilly T",
-        "3. 43/SE(T)AMAUSI ZONE/2026-27"
+        "1. Gram Rohanakala mai Women toilet Snana ghar voting area ke liye Bramda nirman",
+        "2. Gram Balwakhedi mai mahadi ke pull se Harpal singh ke makan ki aur CC Road",
+        "3. Construction of New Blastwell (6.00 m Dia AND 12.00m to 15.00 m Depth) of Smt. Jannu W/"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Urgent Repairs Works of K.T.Weir Pakni, Tal. North Solapur Due to Flood in Sina River S",
-        "2. Installation of LED flood lights and other electrical works at the playground  at Urban",
-        "3. Improvement of Passage and Drainage line at Building no.52, Vasil Khan Marg in E ward B"
+        "1. Improvement of Pathways and Drainage System Near Shakil Store, Andheri  Plot, Jogeshwar",
+        "2. Improvement of passage and drainage system at Hanuman Gully No 38, behind Hanuman Templ",
+        "3. Supply For The Construction Of Cement Concrete Road Shri.Tulsiram Bhagat To Shri. Kawad"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Hydrated Lime (Grade-A) required for various power project of RVUN (KSTP",
-        "2. Gram Panchayat Bapugaon ke samst Gaovo Me Ghar- Ghar (Avasiy avm vayvsayik) se Kachra S",
-        "3. PROCUREMENT OF POLYELECTROLYTE CATIONIC REQUIRED FOR VARIOUS POWER PROJECT OF RVUN (CTP"
+        "1. khatiyo wali dhani me guru ram ji ke ghar ki tarf jane wale vali road ke baei tarf cc b",
+        "2. Garbage collection and Cleaning Street-Drain GP Saravanwala 6LGW PS Pilibangan",
+        "3. Garbage collection and Cleaning Street-Drain GP Amarsingh Wala39LLW PS Pilibangan"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work contract for complete overhauling of secondary crusher (ring granulator) RG-1 and ",
-        "2. Vegetable and Fruit item",
-        "3. T-936/MPPHSCL/Computer Printer Repair and Maintenance/2026, Date-24-07-2026"
+        "1. Construction of Main Gate  at Mandi yard Deori and Internal C.C. Work in Front of Offic",
+        "2. CONSTRUCTION OF RCC BOUNDARY  WALL 150 MTR IN MANDI YARD BANDA DISTT. SAGAR",
+        "3. Construction of 03 Entry Gates (TRISHUL DWAR VIKRAMADITYA DWAR and DAMRU DWAR) at Vario"
       ]
     },
     {
@@ -62,21 +62,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 637/WBSWC/14016(11)/2021-STG SEC",
-        "2. Sinking of 8 (Eight) nos 200mm Dia river bed tube well including repairing of collectin",
-        "3. INSTALLATION OF RO WATER PURIFIER HOT AND COLD DRINKING WATER MACHINE AT CHOTO POSHLA F"
+        "1. Supply of materials for construction/upgradation of differnet development projects of V",
+        "2. BADURIA/NPG /301/BPS SL 2",
+        "3. XVTH Tube well rapairing at different sansads"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Maintenance and repairs to Deepwell hand pumps for Borewells  at Sengottai  Municipalit",
-        "2. Supplying of Office Chairs on Full Teakwood for municipal Office in Sengottai Municipal",
-        "3. Out Sourcing of Water Supply Related Works Valve Operator and Watchman Duties for the Y"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='tntenders.gov.in', port=443): Failed to resolve 'tntenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Punjab",
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repair to Kothi No. 9-F Malwa Colony Patiala",
-        "2. Special Repair to Kothi No. 15-F Malwa Colony Patiala",
-        "3. Dismantling of Existing Damaged RCC OHSR and New Construction of R.C.C over Head Servic"
+        "1. Estimate for relining/lining of watercourse of outlet RD of 12010 /TR EnaKhera Minor",
+        "2. Estimate for relining/lining of watercourse of outlet RD of 12347/L Doda disty",
+        "3. Estimate for relining/lining of watercourse of outlet RD of 38612/R Dodadisty"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 1st floor in Judicial Complex at Loharu in Provincial Division, PWD Ban",
-        "2. Annual Running Contract for Mtc. of Lawns/Cutting of grass from various locations of co",
-        "3. Cleanliness work of Mandi complex and toilets in NGM NVM Radaur its sub yards Gumthala "
+        "1. Construction of B/wall and Installation of ILPB in Premises of Balmiki Choupal at Villa",
+        "2. construction of iron shed in park at village Balu Bidan Patti",
+        "3. Deshellingand Reshelling of old Mill Rollers"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair to Bridge over Salia Water Channel at 2nd km. on PWD road to Bengarajpali raod_R",
-        "2. Improvement to PWD road to Naranpur road under MMSY-Improvement Existing RD road in the",
-        "3. Construction of Day Care Sub Centre building cum Health and Wellness Centre at Champrei"
+        "1. Construction of Inspection chambers of size 600 mm square at various locations at in Ca",
+        "2. Const. of Additional Class room at Banakand Primary School",
+        "3. Const. of Additional Class room at Govt. Primary school, Sanamasinabilla"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Request for Proposal (RFP) for the Supply of 02 Nos Truck Vehicle.",
-        "2. Construction of Pcc Road From Ramgarh college old gate to H/O Saheb Mahto at Ramgarh Co",
-        "3. Construction of Community Hall under Ward No-20"
+        "1. Preparation of D.P.R for construction of Gola Bypass with approach road towards Rajrapp",
+        "2. -Invitation of e-Tender for premises for habitation of Security  Personnel deputed at J",
+        "3. Rate Contract for Surgical Itemand other items"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages to Water Supply Scheme Palampur Town in Tehsil Palampur Dis",
-        "2. Improvement Rejuvenation and sanitary protection near JK Tyre shop Tanda in Ward No. 11",
-        "3. Roadsdie plantation at various roads and at dumping site under HPPWD Dhami Division"
+        "1. EOI for outright sale of land measuring 21 hectares approx at Chhetra District Una HP",
+        "2. Tender for outsourcing  the job of Operation and  Maintenance of H.T and  L.T distribut",
+        "3. Tender for outsourcing  the job of Operation and  Maintenance of H.T and L.T distributi"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Desktop Computer and peripheral including buyback of equipment",
-        "2. Procurement of Consumables and Stock items for Khodri Power Station",
-        "3. 07_USN_Sadunagar_1.40 ha"
+        "1. E Nivida/2026-27/food/ date 24-07-2026",
+        "2. E Nivida/2026-27/cleaning date 24-7-2026",
+        "3. E Nivida/2026-27/washing/ date 24-7-2026"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0d7449e050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1710844550>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Malappuram DP (2025-26), Project No 1408-26 -Construction of compound wall ",
-        "2. Annual Plan- Malappuram District Panchayath Construction of Kunnakkatt Kuzhi Anganawadi",
-        "3. Annual Plan-Malappuram DP (2026-27), Project No 33-27 -Improvements for Padikkal Chernn"
+        "1. 11 KV LINE EXTENSION AND INSTALLATION OF 100 KVA DTR - HT ABC - KOTTAYODI  under Electr",
+        "2. GENERAL Budget Providing BM and BC to Onninmoodu Mylavila Kadambattukonam road Ch 3 00 ",
+        "3. CONSTRUCTION OF CONTROL ROOM BUILDING"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDC2627105079 C/O WATER CHANAL FROM L/O SONA-UL-LAH DAR TO KHURSHEEDS AH. WANI AT KASH",
-        "2. Imp. of Road with R/wall from PMGSY road to onwards at Dolipora halqa Dolipora  under A",
-        "3. RDDDC2627109412 FENCING RWALL FILLING OF OLD MASJID SHAREEF GROUND AT SHORWANI MOHALLA "
+        "1. CONST. OF 4 no. of Composit pits Community Compost Pit at w.no.3 pytBathera Consttof Co",
+        "2. Const. Of Csc at W. No 7 Mohalla Naka Shabir and Others",
+        "3. Fencing Using PCC Square Post with 4 Strands of BA-BW alongwith Plantation of saplings "
       ]
     }
   ],
