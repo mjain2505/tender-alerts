@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-25 19:04:22",
+  "checked_at_utc": "2026-07-25 21:54:15",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,7 +8,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Civil Maintenance/ Renovation work in Guest Houses and Hostels at GNEC Campus of IIT Ro",
-        "2. White/Colour wash and painting work in Hostels, Departments and Residences in Zone E at",
+        "2. Civil Maintenance/ Renovation work in Departments at Zone C in IIT Roorkee",
         "3. White/Colour wash and painting work in Hostels, Departments and Residences in Zone H at"
       ]
     },
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. (LINE 21) Ward No.-08 me Swami Vivekanand Dwar se lekar Dharamveer Singh ke makan tak e",
-        "2. COMPETITIVE  e-bidding FOR REPLACEMENT OF CELL PLATES AT MOLASSES TANK NO-2AND3 FOR BIS",
-        "3. TD-544/26"
+        "1. TD-544/26",
+        "2. (LINE 25) Ward No.-11 me Gaushala ke Eent Kharanja evam Bricks Naali nirmaan karya. (RV",
+        "3. (LINE 24) Ward No.-09 me Abdul Haq ke Plot se Zarif ke makan tak Interlocking Sadak eva"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Grampanchayat Antargat Avshyak Sahitya Kharedi karane At Satefal Tq Kaij Dist Beed",
-        "2. Improvement of Strip Garden near Giri Vihar Building, Musa Killedar Street in E Ward.",
-        "3. Tender For Supply of Grocery Items"
+        "1. Providing and Fixing M.S. Propping at various location in E Ward",
+        "2. Repairs to Passage and Dainage System at Sai Karpa Bldg ,K K  Marg, in E ward",
+        "3. Improvement of Strip Garden near Giri Vihar Building, Musa Killedar Street in E Ward."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GRAM PANCHAYAT KACHNARIYA KALAN KE SAMAST GAAVON ME GHAR AVM VYAVSAYIK PRATISTHANO SE K",
+        "1. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
         "2. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
-        "3. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-"
+        "3. GRAM PANCHAYAT KACHNARIYA KALAN KE SAMAST GAAVON ME GHAR AVM VYAVSAYIK PRATISTHANO SE K"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 03 /Sonamukhi Block/ VB-G RAM G /2026-27 (1st Call) SL2",
-        "2. 03 /Sonamukhi Block/ VB-G RAM G /2026-27 (1st Call) SL1",
+        "1. WBHZP/Domjur/ BDO_02/2026-2027",
+        "2. Supply of Labour for cleaning of Road and different sanitation work for Stretch from In",
         "3. WBHZP/Domjur/ BDO_02/2026-2027"
       ]
     },
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual O and M of Storm Water Drainage lines on Road dividing sector 85/86, 98/99, 104/",
-        "2. Dev. and Upgradation of Infrastructre at Charanchhoh places (villages) of Sri Guru Teg ",
-        "3. Construction of Civil Veternary Dispensary at Bhadson, Block Nabha, Distt. Patiala"
+        "1. Construction of Pond at Village Jamalpur, Block Samana, Distt. Patiala (Convergence wit",
+        "2. E-tender for the supply of 400 MTs Steam Coal",
+        "3. Development of Playground in Village Chamaru, Block Shambu Kalan Distt. Patiala."
       ]
     },
     {
@@ -95,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of JCB for leveling of road berm in various locations MDC Area, Panchkula (A/Mtc",
-        "2. Repair and renovation of HSVP staff quarter No.2 Water works Sector 4 MDC, Panchkula (A",
-        "3. Repair and mtc leakage in Tertiary water lines of different dia of 35.0 km line in Sect"
+        "1. Repair and renovation of HSVP staff quarter No.2 Water works Sector 4 MDC, Panchkula (A",
+        "2. Hiring of JCB for leveling of road berm in various locations MDC Area, Panchkula (A/Mtc",
+        "3. State Scheme Forestry Mts. Works Bhatgaon Block"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "sample_titles": [
         "1. Providing Sewerage System for Baba Balak Nath Temple Complex in Deotsidh Distt. Hamirpu",
         "2. Cleaning/sweeping and door to door collection of garbage in ward no. 9 Nerchowk town an",
-        "3. A/R and M/O LWSS Ghurkai Birta in Tehsil and District Kangra (HP)."
+        "3. C/O WSS Gaggal from Tubewell in GP Gaggal and Adjoining area in Tehsil and District Kan"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff4586f8910>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f46e0e01d50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,21 +168,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
-        "2. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
+        "1. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
+        "2. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
         "3.  GENERAL-Rewiring of Operation Theatre at Taluk Hospital Attingal-work-General Electric"
       ]
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. FINDC2627102599- CO DRAIN FROM HO FAROOQ AHMAD DAR TO HO ALI MOHD GASI AT BACHIPORA PAN",
-        "2. RDDDC2627105466 -(FENCING AROUND GORIWAN GRAVEYARD AT MIRGUND (SHADIM))",
-        "3. FINDC2627102044- CONST OF TILE PATH FROM MAIN ROAD TO HOUSE OF NAZIR AHMAD GANIE AT GOO"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='jktenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='jktenders.gov.in', port=443): Failed to resolve 'jktenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     }
   ],
   "new_matches_found": 0
