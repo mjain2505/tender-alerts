@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-25 16:03:52",
+  "checked_at_utc": "2026-07-25 19:04:22",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Civil Maintenance/ Renovation work in Guest Houses and Hostels at GNEC Campus of IIT Ro",
-        "2. Civil Maintenance/ Renovation work in Departments at Zone C in IIT Roorkee",
-        "3. Civil Maintenance/ Renovation work in Departments at GNEC Campus of IIT Roorkee"
+        "2. White/Colour wash and painting work in Hostels, Departments and Residences in Zone E at",
+        "3. White/Colour wash and painting work in Hostels, Departments and Residences in Zone H at"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. COMPETITIVE e-bidding FOR SUPPLY OF  HIGH DENSITY POLYETHYLENE HDPE POLYPROPYLENE PP WO",
-        "2. (LINE 29) Ward No.-24 me Rajeev Saini Dental Clinic se Thakur Dambar Singh ki dukaan ta",
-        "3. (LINE 27) Ward No.-18 me K.K. Gupta ke makan se Chaudhary ke makan tak evam uske paas w"
+        "1. (LINE 21) Ward No.-08 me Swami Vivekanand Dwar se lekar Dharamveer Singh ke makan tak e",
+        "2. COMPETITIVE  e-bidding FOR REPLACEMENT OF CELL PLATES AT MOLASSES TANK NO-2AND3 FOR BIS",
+        "3. TD-544/26"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Fixing M.S. Propping at various location in E Ward",
-        "2. Improvement of Passage and Drainage System at Sakina Mantion 97-C, Nayanagar in E Ward",
-        "3. Improvement of Strip Garden near Giri Vihar Building, Musa Killedar Street in E Ward."
+        "1. Grampanchayat Antargat Avshyak Sahitya Kharedi karane At Satefal Tq Kaij Dist Beed",
+        "2. Improvement of Strip Garden near Giri Vihar Building, Musa Killedar Street in E Ward.",
+        "3. Tender For Supply of Grocery Items"
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
-        "2. GRAM PANCHAYAT AMLAVDA HALI KE SAMAST GAAVON ME GHAR AVM VYAVSAYIK PRATISTHANO SE KACHR",
+        "1. GRAM PANCHAYAT KACHNARIYA KALAN KE SAMAST GAAVON ME GHAR AVM VYAVSAYIK PRATISTHANO SE K",
+        "2. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
         "3. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-"
       ]
     },
@@ -59,9 +59,13 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. 03 /Sonamukhi Block/ VB-G RAM G /2026-27 (1st Call) SL2",
+        "2. 03 /Sonamukhi Block/ VB-G RAM G /2026-27 (1st Call) SL1",
+        "3. WBHZP/Domjur/ BDO_02/2026-2027"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dev. and Upgradation of Infrastructre at Charanchhoh places (villages) of Sri Guru Teg ",
-        "2. E-tender for the supply of 400 MTs Steam Coal",
-        "3. Development of Playground in Village Chamaru, Block Shambu Kalan Distt. Patiala."
+        "1. Annual O and M of Storm Water Drainage lines on Road dividing sector 85/86, 98/99, 104/",
+        "2. Dev. and Upgradation of Infrastructre at Charanchhoh places (villages) of Sri Guru Teg ",
+        "3. Construction of Civil Veternary Dispensary at Bhadson, Block Nabha, Distt. Patiala"
       ]
     },
     {
@@ -93,7 +97,7 @@
       "sample_titles": [
         "1. Hiring of JCB for leveling of road berm in various locations MDC Area, Panchkula (A/Mtc",
         "2. Repair and renovation of HSVP staff quarter No.2 Water works Sector 4 MDC, Panchkula (A",
-        "3. State Scheme Forestry Mts. Works Bhatgaon Block"
+        "3. Repair and mtc leakage in Tertiary water lines of different dia of 35.0 km line in Sect"
       ]
     },
     {
@@ -103,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair to Bridge over Banapur Nallah on 2nd km on Bari Binjharpur road -Span -7x8x5 mtr",
-        "2. Repair to HL Bridge over river Baitarani at 5th km atPatapur Jayantara road -Span- 7x30",
-        "3. Repair to Bridge over Gadagadi Nallah at 2.170 Km on BCJ high School to Badakunal Road "
+        "2. Repair to Bridge over Gadagadi Nallah at 2.170 Km on BCJ high School to Badakunal Road ",
+        "3. Repair to HL Bridge over river Baitarani at 5th km atPatapur Jayantara road -Span- 7x30"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 200/PR/JBVNL/2026-27",
-        "2. Laying of over flow pipe water to distribution pipe water in ESR Bazar tanr under Uraba",
-        "3. Construction of  water supply arrangement with 1.5 HP Electrical submersible motor pump"
+        "1. Construction of drain 300 m and guard wall 50 m from Jagdish Prajapati house to Village",
+        "2. 200/PR/JBVNL/2026-27",
+        "3. Laying of over flow pipe water to distribution pipe water in ESR Guest under Uraban Wat"
       ]
     },
     {
@@ -126,7 +130,7 @@
       "sample_titles": [
         "1. Providing Sewerage System for Baba Balak Nath Temple Complex in Deotsidh Distt. Hamirpu",
         "2. Cleaning/sweeping and door to door collection of garbage in ward no. 9 Nerchowk town an",
-        "3. JED-44/2026-27"
+        "3. A/R and M/O LWSS Ghurkai Birta in Tehsil and District Kangra (HP)."
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f2d6cd45e10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff4586f8910>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -166,7 +170,7 @@
       "sample_titles": [
         "1. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
         "2. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
-        "3. GENERAL-Installation of AC units at APJ Abdulkalam Technological University CET Campus "
+        "3.  GENERAL-Rewiring of Operation Theatre at Taluk Hospital Attingal-work-General Electric"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FINDC2627102619- CONST. OF LANE FROM MAIN ROAD TO HO MEHRAJ UD DIN, SAMEER AHMAD MAGRAY",
-        "2. RDDDC2627104995 - CONSTRUCTION OF P BUND FROM MASJID DRAIN TO HOUSE OF MOHAMMAD SHABAN ",
-        "3. RDDDC2627107141 -(CONST OF LANE FROM LINK ROAD TO HOUSE OF MOHD SHAFI MIR AND OTHERS AT"
+        "1. FINDC2627102599- CO DRAIN FROM HO FAROOQ AHMAD DAR TO HO ALI MOHD GASI AT BACHIPORA PAN",
+        "2. RDDDC2627105466 -(FENCING AROUND GORIWAN GRAVEYARD AT MIRGUND (SHADIM))",
+        "3. FINDC2627102044- CONST OF TILE PATH FROM MAIN ROAD TO HOUSE OF NAZIR AHMAD GANIE AT GOO"
       ]
     }
   ],
