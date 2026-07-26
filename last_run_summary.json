@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-26 19:07:43",
+  "checked_at_utc": "2026-07-26 21:58:11",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. M/o completed scheme under Nazul A/C-II Hort. Zone.",
         "2. Civil Maintenance/ Renovation work in Guest Houses and Hostels at GNEC Campus of IIT Ro",
-        "3. Civil Maintenance/ Renovation work in Departments at Zone C in IIT Roorkee"
+        "3. White/Colour wash and painting work in Hostels, Departments and Residences in Zone H at"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of a CC road and drain in Ward 43, Sarai Gariba, stretching from Alam Dair",
-        "2.  Construction of an RCC drain with cover from Budhimai Chowk to Craigie Nala in Ward 43",
-        "3. Construction of a drain and a road using interlocking tiles from Sevaram house to Jiten"
+        "1. Construction of a drain and CC road from the Shri Mata Vaishno Temple to Bhanot Villa i",
+        "2. Urgent repair work in Ward 43 near Vinod Ande Wala stall opposite Jiya Lal house in the",
+        "3.  Construction of an RCC drain with cover from Budhimai Chowk to Craigie Nala in Ward 43"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing And Fixing Paving Block At Gunj Tq Mahagaon Dist Yavatmal",
-        "2. Improvement of Strip Garden near Giri Vihar Building, Musa Killedar Street in E Ward.",
-        "3. Providing and Fixing M.S. Propping at various location in E Ward"
+        "2. Grampanchayat Antargat Avshyak Sahitya Kharedi karane At Satefal Tq Kaij Dist Beed",
+        "3. Repairs to Passage and Dainage System at Sai Karpa Bldg ,K K  Marg, in E ward"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 150 units Bio-Degradable waste management system(1unit equal to 4nos,3f",
-        "2. WBHZP/Domjur/ BDO_02/2026-2027",
-        "3. Supply of Labour for cleaning of Road and different sanitation work for Stretch from Be"
+        "1. 03 /Sonamukhi Block/ VB-G RAM G /2026-27 (1st Call) SL2",
+        "2. 03 /Sonamukhi Block/ VB-G RAM G /2026-27 (1st Call) SL3",
+        "3. 03 /Sonamukhi Block/ VB-G RAM G /2026-27 (1st Call) SL4"
       ]
     },
     {
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual O and M of Storm Water Drainage lines on Road dividing sector 85/86, 98/99, 104/",
-        "2. E-tender for the supply of 400 MTs Steam Coal",
-        "3. Construction of Pond at Village Jamalpur, Block Samana, Distt. Patiala (Convergence wit"
+        "1. E-tender for the supply of 400 MTs Steam Coal",
+        "2. Development of Playground in Village Chamaru, Block Shambu Kalan Distt. Patiala.",
+        "3. Construction of Civil Veternary Dispensary at Bhadson, Block Nabha, Distt. Patiala"
       ]
     },
     {
@@ -95,17 +95,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of JCB for leveling of road berm in various locations MDC Area, Panchkula (A/Mtc",
-        "2. Repair and renovation of HSVP staff quarter No.2 Water works Sector 4 MDC, Panchkula (A",
+        "1. Repair and renovation of HSVP staff quarter No.2 Water works Sector 4 MDC, Panchkula (A",
+        "2. Hiring of JCB for leveling of road berm in various locations MDC Area, Panchkula (A/Mtc",
         "3. Repair and mtc leakage in Tertiary water lines of different dia of 35.0 km line in Sect"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Repair to Bridge over Banapur Nallah on 2nd km on Bari Binjharpur road -Span -7x8x5 mtr",
+        "2. Repair to HL Bridge over river Baitarani at 5th km atPatapur Jayantara road -Span- 7x30",
+        "3. Repair to Bridge over Gadagadi Nallah at 2.170 Km on BCJ high School to Badakunal Road "
+      ]
     },
     {
       "name": "Jharkhand",
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of  water supply arrangement with 1.5 HP Electrical submersible motor pump",
-        "2. Laying of over flow pipe water to distribution pipe water in ESR Guest under Uraban Wat",
-        "3. 200/PR/JBVNL/2026-27"
+        "1. Laying of over flow pipe water to distribution pipe water in ESR Guest under Uraban Wat",
+        "2. 200/PR/JBVNL/2026-27",
+        "3. Construction of  water supply arrangement with 1.5 HP Electrical submersible motor pump"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RRD on various roads on Sojha Behli Section under PIU Sub Division Slapper at Kangoo HP",
-        "2. RRD on various roads in Kangoo Section under PIU Sub Division Slapper at Kangoo HPPWD D",
-        "3. RRD on various roads in Nihri Section Sub Division Nihri, HPPWD Division Sunder Nagar"
+        "1. RRD on various roads in Kangoo Sub Division HPPWD Division Sunder Nagar",
+        "2. RRD on various roads in Nihri Section Sub Division Nihri, HPPWD Division Sunder Nagar",
+        "3. RRD on various roads under Suket Sub Division"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd76387c890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ffbbb617750>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
-        "2. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
-        "3.  GENERAL-Govt College Karyavattom Construction of Toilet Block for Boys -Balance work-G"
+        "1. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
+        "2. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
+        "3.  GENERAL-Rewiring of Operation Theatre at Taluk Hospital Attingal-work-General Electric"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627106252 - CONSTRUCTION OF LANES FROM HOUSE OF GUL KAK BILAL AHMAD AND MOHD AFZA",
-        "2. RDDDC2627106909- FENCING AROUND PANCHAYAT GHAR TOKUNA II BLOCK AWANTIPORA",
-        "3. Const / Repairing of Wazu Khana alongwith Tile Path Hamaam Masjid at Benhama.  PRI 224"
+        "1. PITC of 2500GPH x 100m head V6 SPS along with standby at Tandyari",
+        "2. RDDDC2627105575 - DEVELOPMENT OF LINK ROAD FROM MAIN ROAD TO HOUSE OF GH QADIR BHAT AT ",
+        "3. FINDC2627102683- IMPROVEMENT OF LANE WITH TILES FROM HO MASTER GHULAM MOHD BHAT NEAR NE"
       ]
     }
   ],
