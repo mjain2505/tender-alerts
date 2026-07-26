@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-26 08:34:44",
+  "checked_at_utc": "2026-07-26 10:44:17",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Construction of an RCC drain with cover from Budhimai Chowk to Craigie Nala in Ward 43",
-        "2. Construction of cc road and nali from ramu house to ajay and atteched line in village d",
-        "3. Construction of interlocking tiles and nali at hojkheri road rihan karkhane line in raj"
+        "1. Construction of a drain and CC road from Pankaj house to Satpal Saini house in Raja Gar",
+        "2. Construction of an RCC drain from Irfan house to the Dhamola River in Ward No. 27 Chaks",
+        "3. Construction of cc road and nali from ramu house to ajay and atteched line in village d"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Strip Garden near Giri Vihar Building, Musa Killedar Street in E Ward.",
-        "2. Repairs to Passage and Dainage System at Sai Karpa Bldg ,K K  Marg, in E ward",
-        "3. Improvement of Passage and Drainage System at Sakina Mantion 97-C, Nayanagar in E Ward"
+        "1. Improvement of Passage and Drainage System at Sakina Mantion 97-C, Nayanagar in E Ward",
+        "2. Providing and Fixing M.S. Propping at various location in E Ward",
+        "3. Grampanchayat Antargat Avshyak Sahitya Kharedi karane At Satefal Tq Kaij Dist Beed"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Door-to-door garbage Collection and separation, road and Drain Cleaning and community S",
+        "1. Work No 01",
         "2. Door-to-door garbage Collection and separation, road and Drain Cleaning and community S",
         "3. Door-to-door garbage Collection and separation, road and Drain Cleaning and community S"
       ]
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Labour for cleaning of Road and different sanitation work for Stretch from In",
-        "2. Supply of Labour for cleaning of Road and different sanitation work for Stretch from Bh",
-        "3. WBHZP/Domjur/ BDO_02/2026-2027"
+        "1. WBHZP/Domjur/ BDO_02/2026-2027",
+        "2. WBHZP/Domjur/ BDO_02/2026-2027",
+        "3. Annual Tender for procurement of various materials as stated in BOQ under VBG RAM G wor"
       ]
     },
     {
@@ -85,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Annual O and M of Storm Water Drainage lines on Road dividing sector 85/86, 98/99, 104/",
-        "2. Dev. and Upgradation of Infrastructre at Charanchhoh places (villages) of Sri Guru Teg ",
-        "3. E-tender for the supply of 400 MTs Steam Coal"
+        "2. Construction of Civil Veternary Dispensary at Bhadson, Block Nabha, Distt. Patiala",
+        "3. Dev. and Upgradation of Infrastructre at Charanchhoh places (villages) of Sri Guru Teg "
       ]
     },
     {
@@ -107,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair to Bridge over Banapur Nallah on 2nd km on Bari Binjharpur road -Span -7x8x5 mtr",
-        "2. Repair to Bridge over Gadagadi Nallah at 2.170 Km on BCJ high School to Badakunal Road ",
-        "3. Repair to HL Bridge over river Baitarani at 5th km atPatapur Jayantara road -Span- 7x30"
+        "2. Repair to HL Bridge over river Baitarani at 5th km atPatapur Jayantara road -Span- 7x30",
+        "3. Repair to Bridge over Gadagadi Nallah at 2.170 Km on BCJ high School to Badakunal Road "
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of miscellaneous work and extra Eight class rooms hall and kitchen shed in",
-        "2. 200/PR/JBVNL/2026-27",
-        "3. Construction of drain 300 m and guard wall 50 m from Jagdish Prajapati house to Village"
+        "1. 200/PR/JBVNL/2026-27",
+        "2. Construction of  water supply arrangement with 1.5 HP Electrical submersible motor pump",
+        "3. Construction of rural water supply Scheme with 1.0 HP DC Solar motor pump complete set "
       ]
     },
     {
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. RRD on various roads under Suket Sub Division",
-        "2. RRD on various roads under Suket Sub Division",
-        "3. RRD on various roads in Kangoo Sub Division HPPWD Division Sunder Nagar"
+        "2. RRD on various roads in Nihri Section Sub Division Nihri, HPPWD Division Sunder Nagar",
+        "3. RRD on various roads under Suket Sub Division"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f25ec401110>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f72cc63b2d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -170,7 +170,7 @@
       "sample_titles": [
         "1. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
         "2. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
-        "3. GENERAL-Installation of AC units at APJ Abdulkalam Technological University CET Campus "
+        "3.  GENERAL-Govt College Karyavattom Construction of Toilet Block for Boys -Balance work-G"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627105528 - CONSTRUCTION OF PROTECTION BUND NEAR HOUSE OF MOHD SHABAN MIR TO GH M",
-        "2. P/WALL, R/WALL AT MS MANDIR",
-        "3. RDDDC2627115137 C/O P- BUND NEAR SHAM SHAN GHAT BANGLADESH TAHAB"
+        "1. \tRDDDC2627107668 -CONSTT OF ROAD FROM PMGSY ROAD TO RIVER JEHLUM BUND",
+        "2. RDDDC2627104994 - CONSTRUCTION OF WALLING FENCING AROUND NEWLY CONSTRUCTED MASJID AT DO",
+        "3. FINDC2627102662- CO R WALL ALONG ROAD FROM HIGHER SECONDARY TO MOZIMKHAH AT GULZARPORA "
       ]
     }
   ],
