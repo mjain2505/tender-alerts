@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-26 13:15:38",
+  "checked_at_utc": "2026-07-26 16:00:42",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. M/o completed scheme under Nazul A/C-II Hort. Zone.",
         "2. Civil Maintenance/ Renovation work in Guest Houses and Hostels at GNEC Campus of IIT Ro",
-        "3. Civil Maintenance/ Renovation work in Departments at Zone C in IIT Roorkee"
+        "3. Civil Maintenance/ Renovation work in Departments at GNEC Campus of IIT Roorkee"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing And Fixing Paving Block At Gunj Tq Mahagaon Dist Yavatmal",
-        "2. Repairs to Passage and Dainage System at Sai Karpa Bldg ,K K  Marg, in E ward",
+        "2. Improvement of Passage and Drainage System at Sakina Mantion 97-C, Nayanagar in E Ward",
         "3. Providing and Fixing M.S. Propping at various location in E Ward"
       ]
     },
@@ -62,7 +62,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBHZP/Domjur/ BDO_02/2026-2027",
+        "1. Supply of Labour for cleaning of Road and different sanitation work for Stretch from Bh",
         "2. WBHZP/Domjur/ BDO_02/2026-2027",
         "3. WBHZP/Domjur/ BDO_02/2026-2027"
       ]
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dev. and Upgradation of Infrastructre at Charanchhoh places (villages) of Sri Guru Teg ",
-        "2. Construction of Civil Veternary Dispensary at Bhadson, Block Nabha, Distt. Patiala",
-        "3. Annual O and M of Storm Water Drainage lines on Road dividing sector 85/86, 98/99, 104/"
+        "1. Construction of Pond at Village Jamalpur, Block Samana, Distt. Patiala (Convergence wit",
+        "2. Dev. and Upgradation of Infrastructre at Charanchhoh places (villages) of Sri Guru Teg ",
+        "3. E-tender for the supply of 400 MTs Steam Coal"
       ]
     },
     {
@@ -95,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of JCB for leveling of road berm in various locations MDC Area, Panchkula (A/Mtc",
-        "2. Repair and renovation of HSVP staff quarter No.2 Water works Sector 4 MDC, Panchkula (A",
-        "3. Repair and mtc leakage in Tertiary water lines of different dia of 35.0 km line in Sect"
+        "1. Repair and renovation of HSVP staff quarter No.2 Water works Sector 4 MDC, Panchkula (A",
+        "2. Hiring of JCB for leveling of road berm in various locations MDC Area, Panchkula (A/Mtc",
+        "3. Repair and mtc. leakage in water supply pipe lines and day to day complaints and servic"
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of  water supply arrangement with 1.5 HP Electrical submersible motor pump",
-        "2. Construction of rural water supply Scheme with 1.0 HP DC Solar motor pump complete set ",
-        "3. Laying of over flow pipe water to distribution pipe water in ESR Guest under Uraban Wat"
+        "1. Laying of over flow pipe water to distribution pipe water in ESR Guest under Uraban Wat",
+        "2. Construction of miscellaneous work and extra Eight class rooms hall and kitchen shed in",
+        "3. Construction of drain 300 m and guard wall 50 m from Jagdish Prajapati house to Village"
       ]
     },
     {
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. RRD on various roads under Suket Sub Division",
-        "2. RRD on various roads in Kangoo Sub Division HPPWD Division Sunder Nagar",
-        "3. RRD on various roads on Sojha Behli Section under PIU Sub Division Slapper at Kangoo HP"
+        "2. RRD on various roads under Suket Sub Division",
+        "3. RRD on various roads under Suket Sub Division"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4d6c76cbd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4951011290>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
-        "2. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
+        "1. Installation of barbed wire fencing from Thankomkadu to Nanimurugankadu in the jurisdic",
+        "2. Installation of barbed wire fencing from Nanimurugankadu to Mangalampara in the jurisdi",
         "3. GENERAL-Installation of AC units at APJ Abdulkalam Technological University CET Campus "
       ]
     },
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/WORK NHO TILAK  RAJ S/O ROSHAN LAL,  PANCHAYAT KUCHAL  C , BLOCK  MUGHALMAIDAN",
-        "2. RDDDC2627105494 - CONSTRUCTION OF LANE FROM HOUSE OF MOHD AKRAM RATHER TO HOUSE OF BASH",
-        "3. RDDDC2627105557 - CONSTRUCTION OF LANE FROM HOUSE OF JAVAID AHMAD HAJAM TO ONWARDS WITH"
+        "1. RDDDC2627114683 Constt. of drain near Jamia Masjid Payer",
+        "2. FINDC2627102619- CONST. OF LANE FROM MAIN ROAD TO HO MEHRAJ UD DIN, SAMEER AHMAD MAGRAY",
+        "3. RDDDC2627104996 - CONSTRUCTION OF DRAIN FROM HOUSE OF AB AHAD BHAT TO ONWARDS AT DOONIG"
       ]
     }
   ],
