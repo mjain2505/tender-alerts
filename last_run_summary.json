@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-27 06:28:36",
+  "checked_at_utc": "2026-07-27 12:20:50",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Maintenance and Upkeep of Archaeological Gardens at Tughlaqabad Sub Circle",
-        "2. Civil Works for Augmentation and remodelling of Proposed Workshop including Design, Fab",
-        "3. Construction of protection wall along the right bank of reservoir near the Bazgo Villag"
+        "1. Construction of Retaining Wall at selected 5 location of NH 75 B C Road Vellore Section",
+        "2. PRE-TENDER MEET FOR PIPES FOR LMBU PROJECT OF HPCL",
+        "3. Tender for Supply of Sulphur in Bulk"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Empanelment of Original Producer for supply of Vermi Compost and Neem De-Oiled Cake on ",
-        "2. GHAZIABAD NAGAR NIGAM DWARA SAMAY- SAMAY PAR NAGAR NIGAM KE SIMANTARGAT AANE WALE PARKO",
-        "3. NP BELHARKALA WARD 02 ME LALCHANDRA KE GHAR SE FULCHAND KE GHAR MARG PAR CC ROAD AND CO"
+        "1. GSB, WMM, Interlocking and Divider works as part of the remaining works for the one-tim",
+        "2. NAVIN MANDI STHAL DADRI PARISAR AVAM UP MANDI STHAL SADOPUR KI JHAL BADALPUR KI SAFAI V",
+        "3. Improvement work by interlocking the road and side track with paver around the park nea"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Imp of Pathways and Drainage",
-        "2. Construction of Public Toilet in Premises of Tehsil Office At. Anjangaon Surji Dist. Am",
-        "3. Repairing to Tehsildar Quarter At Anjangaon Surji Tq. Anjangaon Surji Dist. Amravati"
+        "1. PROVIDING RCC GUTTER AND LAYING PIPE GUTTER IN WARD NO 02 NANDANVAN COLONY",
+        "2. Construction Of Vyayamshala(Heath Club) At Dabha Tq.Mangrulpir Dt. Washim",
+        "3. Construction of Mechanised C. C. Lining of KM. No.1 to 9 of Express Canal of Ekrukh Lif"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Construction Materials and Equipment to the Gram Panchayat Rodu for the Finan",
-        "2. Development work of Bala Quila Tourist Place, Alwar. Dr. Shyama Prasad Mukharji Zila Ut",
-        "3. Supply of Construction Materials and Equipment to the Gram Panchayat Sunari for the Fin"
+        "1. Work including door-to-door (residential and commercial) garbage collection and segrega",
+        "2. Work including door-to-door (residential and commercial) garbage collection and segrega",
+        "3. Rate contract for supply of construction material and equipment for the financial year "
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Work Contract of day to day routine maintenance of HT/LT motors, Hydrogen cylinders tra",
+        "2. Construction of an RCC drain from Sonu Morenas house to Basanti Madams house in Ward 01",
+        "3.  Allotment of lease rent in located on Ward No. 08 KILE WALA DARWAJA LAL BAG ROAD SHOPI"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMC/ROADS/2026-2027/103",
-        "2. Supply  of CRIJAF Nail Weeder",
-        "3. Supply  ofSupply  of CRIJAF Multi Row Seed Drill"
+        "1. Construction of CC drain with Cover-Soakpit for LWM from house of Islam Mallick to hous",
+        "2. Construction of Women SHG Canteen",
+        "3. Construction of CC drain with Cover-Soakpit for LWM from house of Rabindranath Ghorui t"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rural Milk Collection  Kandamathan Route",
-        "2. Service Contract for Supply of Skilled Manpower for Refrigeration activities at Cuddalo",
-        "3. Service Contract for Supply of Skilled and Un skilled Manpower at Cuddalore DCMPU Ltd, "
+        "1. Providing Perunthalaivar Kamarajar Morning Breakfast for 25 Schools from 1st to 8th Sta",
+        "2. Namakku Name Thittam (Urban) 2025-2026 - Providing Paver Block Road at 5th Ward Thadiko",
+        "3. Selection of Food Service Provider for Perunthalaivar Kamarajar Morning Breakfast Schem"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUGAR SALE/AJNALACSM/2025-26",
-        "2. SALE OF SUGAR",
-        "3. WorkCode EE-E-FZR2026-45"
+        "1. Development of Playground at Village Kot Mohammad Khan block Dharamkot Distt. Moga",
+        "2. Development of Playground at Village Jaspur Gehliwala block Dharamkot Distt. Moga",
+        "3. Repair of different streets of ward No 1 To 10 Municipal Council Gurdaspur."
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Survey for creation of 220 kV D/C transmission line from 220 kV S/Stn., Deroli Ahir to ",
-        "2. ESTIMATE FOR LAYING OF PIPELINE IN HSVP SECTOR - 1, 2, 3 and 4 IN MC ROHTAK FOR DISPOSA",
-        "3. Providing Data Entry Services for Assisting in Auction and lifting of Pond Ash From Ash"
+        "1. New Plantation Work CAMPA in Kalanaur Block in Meham Range in Rohtak Forest Division",
+        "2. Rate contract of supply of oxygen and LPG gas cylinders",
+        "3. Decoration of stage and Sahadi Smarak for Independence Day 2026 function at lakhnola st"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement to Godhijore Drainage Cut by Construction of Sluice cum farm land bridge ne",
-        "2. Supply of manpower towards privatization of sanitation in all Wards of Digapahandi NAC ",
-        "3. Development to Sukapaika Drainage Channel from RD 0.00M to 30850M with Structures in Cu"
+        "1. Audio system for Hall (Accessory for Video Wall)",
+        "2. Construction of Goadabarisha Mishra Adarsh Prathamik  Vidyalaya GMAPV- 2No. at Bhursund",
+        "3. Mics and other accessories for Hall (Accessory for Video Wall)"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1- Construction of 5 ACR in UPG GOVT HS DEWANCHAK  2- Construction of 8 ACR in UPG GOVT",
-        "2. 1- Construction of  8 ACR  in UPG GOVT PLUS 2 HS BHUSKA    2- Construction of  5 ACR  i",
-        "3. 1- Construction of  11 ACR  in UPG HIGH SCHOOL FULLJHINJHRI    2- Construction of  02 A"
+        "1. Construction of PCC Road From Maksoor Maulana House Road to Seikh farookh House in Vill",
+        "2. Construction of 1 Span Culvert on Sewara Main Road to Shankardih Road in Village Sewara",
+        "3. Construction of Irrigation Nala From Karbarar Bandh More to Piperdih Tola at Pathara Ka"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 3518-25 dated 15/07/2026",
-        "2. 3518-25 dated 15/07/2026",
-        "3. 3518-25 dated 15/07/2026"
+        "1. Restoration of rain damages to various water supply schemes in G.P Sirdhkund, Haripur, ",
+        "2. Restoration of Rain damages of LWSS for village Kahara of Uttershal area in GP Kamand i",
+        "3. Repair of 27 point 13 meter Tubular English type bridge at Kolibehad Mohal Distt Kullu "
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply erection and Commissioning of 12 W LED Based Solar Street Lights(RMS) at various",
-        "2. Work of Replacement of Bare Conductor by Covered Conductor of 11 kV Military Feeder und",
-        "3. Work of Replacement of Bare Conductor by Covered Conductor of 11 kV Harjoli Feeder unde"
+        "1. Reconstruction and improvement work of road from km 7.250 and km 11.325 (total length 4",
+        "2. Supply of Security Service for Culture Department",
+        "3. Design Survey and Construction of Pipalkoti Nagar Panchayat Water Supply Scheme includi"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8599119ed0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f66a46d7cd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Appointment of an agency for operating the APDCL Customer Call Centre",
-        "2. Improvement of water distribution network at Baksa Block ID-1239 AC-127390062 under 15t",
-        "3. Construction of PD DRDAs Office Building cum Guest House G plus 2 at Kokrajhar, BTR und"
+        "1. SUPPLY OF KAMRUPA FOWL  KUROILER CHICKEN KHAKI CAMPBELL WHITE PEKIN DUCK AND THEIR MEDI",
+        "2. Supply of dietary articles Group A under Dept of women and child Development Observatio",
+        "3. CAMC of CNG Dispensers"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL RM 2026 27 RC2 One year Running Contract work on various roads under Roads sect",
-        "2. Vista clearence Under Nedumgayam FS 2026-27",
-        "3. Annual Plan-Chelembra GP.Pro.No 153/2026-27-VALLIYIL ROAD CONCRETE-General Civil Work"
+        "1. Co2 cylinder and Key",
+        "2. Sports Division Hostel, Kannur-Annual Maintenance at Sports Hostel, Kannur",
+        "3.  GENERAL-MONSOON PREPAREDNESS 2026-Cleaning of Manakoombel thodu opposite to Sunnahados"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Stabilization by way of drsm work in Co.48/Ramban in Ramban Range under scheme CAMPA (N",
-        "2. Construction of internal access roads towards buildings at ITI Zainakote Campus Srinaga",
-        "3. Renovation of CSC and Pyt Ghar Palli  and Lane  from Shop of Prince to H/O Jaswant W. N"
+        "1. Plantation of poly bagged plants in pits and allied activities in co. 16/B of Mohargarh",
+        "2. Regulation, stabilization and improvements in quality and service levels of various wat",
+        "3.  E-NIT No.16 of 07/2026-27 dated 27-07-2026"
       ]
     }
   ],
