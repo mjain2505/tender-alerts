@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-07-27 19:24:48",
+  "checked_at_utc": "2026-07-27 22:05:24",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Re-Babbitting on 03 nos Turbine Guide Bearing shells of  Dhauliganga power station.",
+        "2. M/o schemes under Nazul A/c-II, Rohini.",
+        "3. MAINTENANCE SERVICES TO TECHNICAL AREA AND RESIDENTIAL ESTATE AT DRDE GWALIOR THROUGH A"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -16,7 +20,7 @@
       "sample_titles": [
         "1. Installation of mesh screens to trap floating debris on open deep drains in Zone 5 Ward",
         "2. Enhancement works on decorative poles at the Sootmil Chauraha  G T Road",
-        "3. Construction of a road from beneath the Panki Dham bridge, via the railway crossing, to"
+        "3. Construction work of hall and rooms in Shri Shakyavar Kori Jan Kalyan Parishad District"
       ]
     },
     {
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Road Near ward Np 03 and 04 in Acwroth Hospital in Beat No 178 F/north W",
-        "2. Imp of passage and drainage system from patil gully at Machimar Nagar no 4 in beta no 2",
-        "3. SITC of streetlights in VijayNagar Pipeline and Surrounding area under Lokmanya-sawarka"
+        "1. CONSTRUCTION OF ANGANWADI SABHAGRUHA IN CHUNABHATTI AT VISAPUR GRAMPANCHAYAT, TAH.BALLA",
+        "2. RATE CONTRACT OF MISCELLANEOUS ITEM FOR FINANCIAL YEAR 2026-27 AT GRAMPANCHAYAT MALLAMP",
+        "3. Improvement of Passage and Drainage System at sangam Nagar near Mehboob bakery in Beat "
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and maintenance of hand pumps at various villages under the jurisdiction of rura",
-        "2. Nagar Parishad Kshetra me Ward Number 16 se 30 me Avshyktanusar Nalo parLohe ke Jangle ",
-        "3. Nagar Parishad Kshetra me Ward Number 31 se 45 me Avshyktanusar Nalo parLohe ke Jangle "
+        "1. Construction of Community Centre at Near Veer Tejaji Mandir in Municipal Area Lambahari",
+        "2. Sanitation of Residencial House, CSC and Cleanliness Of Drains in Gram Panchayat BHAGLI",
+        "3. Material Supply in Gram Panchayat Aagar, P.S. Shhahabad Under MGNREGA/VB-G RAM G, RD, P"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply rate of different materials to be used in different works under VB-G RAM G Schem",
-        "2. MAD/ULB/BHATPARA/DR-2/263",
-        "3. MAD/ULB/BHATPARA/DR-2/263"
+        "1. WBPHED/EE/MAAD/NIeT _06 of 2026-2027. Sl. No. 06",
+        "2. WBPHED/EE/TD/NIeT_03/2026-2027",
+        "3. Supply rate of different materials to be used in different works under VB-G RAM G Schem"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TCMC - Additional Work for Tamilnadu Electrical board Office in Ward No.28 Tambaram Cit",
-        "2. TCMC - Construction of Toilet at Kulathumedu OHT in Ward No.15 Tambaram City Municipal ",
-        "3. Construction of Compost pit at Kakkottuthalai near Panchayat Office in Kakkottuthalai V"
+        "1. TCMC - Construction of Watch Man Room at Eswari Nagar OHT in Ward No.15 Tambaram City M",
+        "2. TCMC - Construction of Toilet and Watchman Room in Kacherimalai OHT at Ward no.17 Zone ",
+        "3. Construction of Compost pit at James Nager (2 Nos) in Muttom Village Panchayat of Kurun"
       ]
     },
     {
@@ -82,7 +86,7 @@
       "sample_titles": [
         "1. Providing and Laying of Tactile Flooring and Hand and Grab Rails for Staircase at Judic",
         "2. Widening of Link Road Badalgarh Raidharana Road to Bhootgarh 3.05 mtr to 5.50 mtr in MC",
-        "3. ESTABLISHING SKILL LABS IN MULTI SKILL DEVELOPMENT CENTER HOSHIARPUR"
+        "3. Estimate for restoration of water course at RD 27693/R of Gohir Minor by brick lining."
       ]
     },
     {
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. RRD on Naitla Anupali road km. 0/00 to 2/250 (SH C/o R/wall at RD 1/820 to 1/840) LHS o",
-        "2. RRD on Kot to Devidarh road km. 0/00 to 22/500 (SH C/o PCC R/wall at RD 2/705 to 2/717 ",
-        "3. RRD on Shimla Mandi via Tattapani road km. 145/00 to 172/00 (SH C/o of PCC R/wall at RD"
+        "2. RRD on Shimla Mandi via Tattapni road km. 145/00 to 181/400 (SH c/o of PCC R/wall at RD",
+        "3. C/o Stage at G.S.S.S Chail Chowk Tehsil Chachiot Distt. Mandi (H.P) (SH Construction of"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f75a943b0d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc139f612d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/O P/Bund near H/O Arshad Mangrayal Javed Mangrayal and others W-7 Panchayat Nambla-B ",
-        "2. RDDDC2627107700 - CONSTT OF DRAIN AT NAJAR MOHALLA KONIBAL PH IST",
-        "3. RDDDC2627105493-CO R WALL NHO GH MOHIUDDIN MAGRAY AND OTHERS ON DOORKHAH KULL AT WAHIBU"
+        "1. RDDDC2627108462 - BRIDAL PATH FROM SHOP OF MOHD AKBAR DAR TO KAREWA AT NARISTAN SAMBOOR",
+        "2. RDDDC2627105646-(CONST OF HERKHAH DRAIN FROM LO BASHIR AHMAD BABA TO UPWARDS AT PANNER ",
+        "3. RDDC2627105130 C/O R/WALL ALONG W ITH FENCING OF KATHROO MASJID AT LELHAR BLOCK KAKAPOR"
       ]
     }
   ],
