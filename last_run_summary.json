@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-28 11:15:52",
+  "checked_at_utc": "2026-07-28 14:01:09",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender for the Pune Book Festival 2026.",
-        "2. Purchase of Metal 3D Printer",
-        "3. Repairs of Leakages and Other Allied Minor Urgent Works in 300 Bedded Hostel at Sports "
+        "1. Renovation of E.I. and fans in Type IV /08 at PandT officers enclave ,Char Imli, Bhopal",
+        "2. Periodic maintenance of Outdoor type transformer substation at Dak Bhavan Bhopal, MP.",
+        "3. PROVISION OF MAINTENANCE SERVICES TO DRDO ESTATE AT DL, JODHPUR THROUGH CONSERVANCY AND"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work involving the painting of the main gate at Islamia Ground, installation of barrica",
-        "2. 1-\tward 10 Dr Ram manohar Lohiya kach  Mohalla Ludhpuri me  baba gauri shankar mandir p",
-        "3.  zone-01 ward-78 ke antaragt Bhagwatdas gaht Sthith Rabis Dipo ke maine gate ka sudhar "
+        "1. Painting repair electrification and sanitary repair work etc in the community building ",
+        "2. Hall construction work on the first floor at District Kori Chabutara Orai",
+        "3. Scanning and  Digitization of  Records including indexing and Meta Data entry of Record"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E Tender for Thirum Bag Purchase",
-        "2. Repair of Passage and Drainage system",
-        "3. Repair of Passage and Drainage system"
+        "1. Improvement of Passage and Drainage system at Namak wali Chawl,  Meghraj Shethi Marg  i",
+        "2. BEAT NO. 209",
+        "3. Repairs to Wadala Health Post at Bhairavnath Mandir Marg Wadala in Beat No 178, F/north"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. maintenance work of range office bhadra",
-        "2. Supply Of Civil Constriction Goods Under Mnrega (VBGRAMG) and Other scheme for session ",
-        "3. Procurement of prestressed concrete post"
+        "1. Supply of Constriction Material and Providing Equipment in MGNREGA,VB G RAM G and other",
+        "2. Work including garbage collection and separation from homes and commercial establishmen",
+        "3. Material Supply Kary Gram Panchayat Khori (Samast Yojna)"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of Vehicle type G3 Light commercial Vehicle (Non-AC) (Above 3 to 5 Metric Ton) U",
-        "2. Hiring of Vehicle type G3 Light commercial Vehicle (Non-AC) (Above 3 to 5 Metric Ton) U",
-        "3. Hiring of inspection vehicle for various sites under L/M and E/M Sub Division - Vidisha"
+        "1. Construction of C.C. Road Infront of both entry gate and Laying of paver block infront ",
+        "2. Aluminum partitioning, tin shed installation, toilet and plaster repairs, painting and ",
+        "3. Procurement of Redkoh make DCSIM Can Transceiver for ESP PLC installed at 2X660 MW SSTP"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIe-T- 09/2026-27(Sl-04)",
-        "2. NIe-T- 09/2026-27(Sl-03)",
-        "3. RCC Drain"
+        "1. NIT No- 248/PWD/ROAD/BMC , Dated- 28/07/2026",
+        "2. MAD/ULB/BHATPARA/DR-2/263",
+        "3. Construction of Guard Wall at both side of pond beside house of Late Krishna Debnath at"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TOWN PANCHAYAT OPERATION AND MAINTENANCE OF DESLUDING VEHICLES 4 NOS",
-        "2. A3 Colour Printer",
-        "3. (General Fund - 2026-27)  Maintenance  GI Pipes and GI Specials at    Ward No.03 Areas "
+        "1. Tiruppur City Municipal Corporation_Providing Patchworks to BT surface at Rayapuram Eas",
+        "2. Construction of drainage at 5th Ward Manavilai Mutharamman Thirumanamandapam to Vlukanp",
+        "3. Tiruppur City Municipal Corporation_Drilling of New Borewell, 7.5 HP Pumpset,  Submersi"
       ]
     },
     {
@@ -84,21 +84,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GNDU Amritsar",
-        "2. Purchase of Citric Acid",
-        "3. Online Coaching for UPSC Civil Services"
+        "1. Operation and Maintenance of 2 Nos. of Litter Pickers for 3 years MC Bathinda",
+        "2. Providing Gas Suppression System Fire Fighting and Exist Signage etc in MGSIPA Campus S",
+        "3. Upgration of different street BMPC in Mc Dinanagar"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Tender for Consumables items zig zag cast others for BPS GMC for women Khanpur Kalan so",
-        "2. Supply of Stationary Items in DC Office Karnal",
-        "3. Cons. of Toilet , B/wall, and Cattle Shed in GVH at village Deora  Const. of Cattle She"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Odisha",
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 8 nos VIP suites inside campus of circuit House Nayagarh Buildings.",
-        "2. Construction of Block Level Stadium (without indoor hall) in Nayagarh Block under Nayag",
-        "3. Construction of Dispensary building and Boundary wall at GAD Kedarpur for the year 2025"
+        "1. Construction of Sathilo Shiva Temple to Radhapatipur Via-Ganesmundia road under MMSY-TR",
+        "2. Construction of Nandakishorepur to Jemadeipur via Panchagochia road under MMSY-TRIP in ",
+        "3. Improvement to L034 PWD road to Adheigundi road under MMSY-Improvement Existing RD road"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EXPRESSION OF INTEREST FOR PROVIDING GODOWN SIMDEGA DISTRICT (JSBCL/07)",
-        "2. EXPRESSION OF INTEREST FOR PROVIDING GODOWN JAMTARA DISTRICT (JSBCL/07)",
-        "3. EXPRESSION OF INTEREST FOR PROVIDING GODOWN SAHEBGANJ DISTRICT (JSBCL/07)"
+        "1. Construction of Check Dam on Hijoli Baad Nala under Block - Hiranpur, District - Pakur",
+        "2. Construction of Series of Check Dam on Sonumjhur Nala under Block - Hiranpur, District ",
+        "3. Construction of Check Dam on Jitpur Nala under Block - Littipara, District - Pakur"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of damages due to laying of pipeline on link road from Chhughera Sadoon Kan",
-        "2. A/R and M/O on Jubbal Kenchi to Santoshi nagar  Road Km 0/00 to 6/000",
-        "3. Restoration of rain damages on link road from Sunehar to Mundla Km 0/000 to 3/000 in Di"
+        "1. Installation of Ashlar Stones on Rear Retaining Wall near Gate No.2 at kufri under EDC ",
+        "2. R M of LWSS Garkhal Larah in Tehsil Kasauli District Solan HP",
+        "3. Restoration of Rain Damage of LWSS Garkhal Gusan Dochi District Solan HP"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New construction work for a motor road from Shrikot to Chopdi via Silogi village, repla",
-        "2. HIRING OF DEISEL OPERATED VEHICLE (MAHINDRA BOLREO OR EQUIVALENT CLASS) WITH DRIVER FOR",
-        "3. Renewal work By P.C. (Cold mix) on the Kafalpani Hundkhal Motor Road (from Km 1.00 to 2"
+        "1. Construction of internal roads by interlocking tiles in Nagla Khurd in constituency Jwa",
+        "2. Janpad Pauri Garhwal ke Mukhyalaya Pauri Me isthit Purani Jail ke Sangrahalay Swaroop m",
+        "3. Construction of Roads from Gangotri vihar Canal road to Sondhowali main road Dehradun"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fe82d5f7590>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8ec6bbeb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tax Auditor",
-        "2. Providing P2P or MPLS connectivity",
-        "3. Precast Boundary Wall with Temporary Gate at AVFCCL"
+        "1. Construction of 3 Nos. of STPS of total 3.5 MLD Capacity at Kampur MB, Digboi MB  and T",
+        "2. Design, Supply, Transportation, Construction, Installation, Testing, and Commissioning ",
+        "3. Supply of items for Repairing works on Rate Contract Basis"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OPERATION AND COMPREHENSIVE ANNUAL MAINTENANCE CONTRACT OF CENTRALISED HVAC PLANTS AT T",
-        "2. SALE OF CENEX",
-        "3. THQH - Health department Maintenance work of dialysis unit, North Paravur"
+        "1. ALIPARAMABA GP 96/26-27 kunnanath higher secondary road concreting",
+        "2. ALIPARAMBA GP 121/26-27 PAKKATH VILLAGE ROAD NAVEEKARANAM",
+        "3. ALIPARAMBA GP 12/26-27 Cheeramkuzhy Nadapatha concreting - ward 10"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing of temporary arrangements for the celebration of independence day 2026 at Bar",
-        "2. Waterproofing / Repair and Renovation of Water Body at Kongdori, Gulmarg.",
-        "3. 2nd Stage contract for urgent nature restoration of works under M.H 2711 M and R for  I"
+        "1. Construction of Protection Bund Both Sides foot Bridge at Brail",
+        "2. Development of Astan Shareef Syed Taseen Bukhari Waterhail",
+        "3. RDDDC2627104263-(IMPROVEMENT OF LANE FROM MAIN ROAD TO ONWARDS AT KHODA MOHALLAH GULSHA"
       ]
     }
   ],
