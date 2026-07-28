@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-28 19:20:26",
+  "checked_at_utc": "2026-07-28 22:02:57",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hall construction work on the first floor at District Kori Chabutara Orai",
-        "2. Painting repair electrification and sanitary repair work etc in the community building ",
-        "3. Scanning and  Digitization of  Records including indexing and Meta Data entry of Record"
+        "1. Construction work of RCC Puliya near Chunnu Lal House, Ramadevi House, Anil dixti and R",
+        "2. Scanning and  Digitization of  Records including indexing and Meta Data entry of Record",
+        "3. Hall construction work on the first floor at District Kori Chabutara Orai"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Passage and Drainage system at Namak wali Chawl,  Meghraj Shethi Marg  i",
-        "2. P/L Sewer Line Near Plot No 302 at Krishna Nagar Wadala West in Beat No 178, F/north Wa",
-        "3. BEAT NO. 209"
+        "1. Constructing Two Room Building at Zilla Parishad Primary School  Puntamba Tal. Rahta, D",
+        "2. Improvement of Passage and Drainage System at Mohammadi majil, 3rd sankali street in E ",
+        "3. Improvement of Passage and Drainage System at Siddhey Apartment Nathalal Parekh Road, W"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Necessary repair work under Construction of Road under DMFT Scheme in Distt. Baran Pack",
-        "2. Road repair work from NH-27 to Dhakadkhedi via Thikariya Bamulia Mataji Km. 0/0 to 2/50",
-        "3. Work including collection and segregation of garbage from households and commercial est"
+        "1. Material Supply Kary Gram Panchayat Untoli (Samast Yojna",
+        "2. Work including collection and segregation of garbage from households and commercial est",
+        "3. Rate contract For Supply of Construction Material and Providing Equipments for NREGA, R"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://mptenders.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Repairing and Maintenance of severe Line and Drainage System at MPPKVVCL Residential Co",
+        "2. TRANSPORTATION OF SEEDLINGS FROM VARIOUS NURSERIES UNDER THE SOCIAL FORESTRY CIRCLE KHA",
+        "3. Stone Dust Filling at various places of ward no. 28-29-and 30"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MAD/ULB/BHATPARA/DR-2/263",
-        "2. NIT No- 249/PWD/ROAD/BMC, Dated- 28/07/2026",
-        "3. Operation and Guarding of the pumping machinery at Seakhala water supply scheme, Block_"
+        "1. NIT No- 249/PWD/ROAD/BMC, Dated- 28/07/2026",
+        "2. NIeT-16/AD/26-27/07",
+        "3. NIT No- 248/PWD/ROAD/BMC , Dated- 28/07/2026"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Z.O.XIV.ADE.C.No./116/2026 Provision of One number of Digital Photo Copier Machine on H",
-        "2. Tiruppur City Municipal Corporation_Providing of  5 HP Starter and Extension of Upvc pi",
-        "3. Tiruppur City Municipal Corporation_Rejuvenation of Deep Bore well, New 7.5 HP Pumpset "
+        "1. Tiruppur City Municipal Corporation_  Providing of New 5 HP Pumpset,  Submersible Cable",
+        "2. Tiruppur City Municipal Corporation_Rejuvenation of Deep Bore well, New 7.5 HP Pumpset ",
+        "3. Tiruppur City Municipal Corporation_Repair and Maintenance of old Building near Samatha"
       ]
     },
     {
@@ -82,7 +86,7 @@
       "sample_titles": [
         "1. Operation and Maintenance of 2 Nos. of Litter Pickers for 3 years MC Bathinda",
         "2. Providing Gas Suppression System Fire Fighting and Exist Signage etc in MGSIPA Campus S",
-        "3. Providing and Fixing Chain link fencing in 6 feet height wire mesh in front of Civil Ae"
+        "3. Supply of  computer operater and grass cutter in Mc Dinanagar"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special repair of 06 nos ro...",
-        "2. Special repair of 04 nos ro...",
-        "3. Jagadhri Town - Rehabilitation of the existing sewerage line of brick masory egg shaped"
+        "1. Jagadhri Town - Rehabilitation of the existing sewerage line of brick masory egg shaped",
+        "2. Providing strengthening and...",
+        "3. Special repair of 04 nos ro..."
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement to L034 PWD road to Adheigundi road under MMSY-Improvement Existing RD road",
-        "2. Construction of Sathilo Shiva Temple to Radhapatipur Via-Ganesmundia road under MMSY-TR",
-        "3. Construction of Nandakishorepur to Jemadeipur via Panchagochia road under MMSY-TRIP in "
+        "1. Construction of Nandakishorepur to Jemadeipur via Panchagochia road under MMSY-TRIP in ",
+        "2. Improvement to L034 PWD road to Adheigundi road under MMSY-Improvement Existing RD road",
+        "3. Construction of Sathilo Shiva Temple to Radhapatipur Via-Ganesmundia road under MMSY-TR"
       ]
     },
     {
@@ -114,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Check Dam on Hijoli Baad Nala under Block - Hiranpur, District - Pakur",
-        "2. Construction of Check Dam on Jitpur Nala under Block - Littipara, District - Pakur",
-        "3. Construction of Series of Check Dam on Sonumjhur Nala under Block - Hiranpur, District "
+        "2. Construction of Series of Check Dam on Sonumjhur Nala under Block - Hiranpur, District ",
+        "3. Construction of Check Dam on Jitpur Nala under Block - Littipara, District - Pakur"
       ]
     },
     {
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Installation of Ashlar Stones on Rear Retaining Wall near Gate No.2 at kufri under EDC ",
-        "2. Restoration of rain damage LWSS Odiya",
-        "3. R M of LWSS Dochi Kanaitan Tehsil Kasauli District  Solan HP"
+        "2. Restoration of Rain Damage of LWSS Garkhal Gusan Dochi Distt Solan HP",
+        "3. R M of LWSS Chamiyan in GP Chamiyan Tehsil Kasauli District Solan HP"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3fd98c1e10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7185944d50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ALIPARAMBA GP 99/26-27 kanakkanchery shmashanam road concreting",
-        "2. ALIPARAMBA GP 114/26-27 NEERITTILI NEDUMBETTI ROAD CONCRETING",
-        "3. LIPARAMBA GP 4/26-27 Kalathilpadam road concreting - ward 1"
+        "1. ALIPARAMBA GP 178/26-27 Thonikkadavan road concreting - ward 9",
+        "2. ALIPARAMBA GP 101/26-27 Vadakkan city Kalathumpadam road renovation",
+        "3. ALIPARAMBA GP 114/26-27 NEERITTILI NEDUMBETTI ROAD CONCRETING"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. COMMUNITY SOAK PIT AT GUGNAR W NO 5 COMMUNITY SOAK PIT AT RAMANBHATI COMMUNITY SOAK PIT",
-        "2. Constt. Of sanitary complex in the premises of Govt. Upper Primary School Mulpora.(Girl",
-        "3. Construction of Field Channels and Drains in Command Area Development Project at variou"
+        "1. RDDDC2627111170 CO Lane from HO Shabir Ah Wani to Onwards at Panjren",
+        "2. FINDC2627101918-(CONSTT OF SAFETY BUND ON BS OF GRATE KUL AT NARWA NLO SHABIR AHMAD KHA",
+        "3. C/O R/WALL AND FENCING OF GRAVEYARD AT UTROO PINGLEENA KAKAPORA"
       ]
     }
   ],
