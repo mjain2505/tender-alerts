@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-07-29 19:12:51",
+  "checked_at_utc": "2026-07-29 21:59:11",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. M/o completed scheme NA-II under North Zone.",
+        "2. SITC of GYM EQUIPMENTS AT IIM INDORE",
+        "3. D/o 16.92 Hect. Of land at North of Model Town in Zone C - 19"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,17 +18,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NAGAR PANCHAYAT KOHDAUR ME DHARAULI ME PRATHMIK VIDHYALAYA SE RAM KUMAR HARIJAN KE GHAR",
-        "2. NAGAR PANCHAYAT KOHDAUR ME PANDRIPAL ME HIGHWAY SE LEKAR PANDRI GRAM TAK INTERLOCKING K",
-        "3. VIKAS KHAND MANGAURA BOGHI ME GHORKATA DHAM AKALAWA PAL BASTI TAK INTERLOCKING"
+        "1. VIKAS KHAND MANGAURA MADAFARPUR ME MAURYA BASTI SE PAL BASTI TAK INTERLOCKING",
+        "2. VIKAS KHAND MANGAURA BOGHI ME GHORKATA DHAM AKALAWA PAL BASTI TAK INTERLOCKING",
+        "3. VIKAS KHAND SANDWA ARJUNPUR ME JAGDEV VERMA GHAR KE PAS SE ARJUNPUR SINGH BASTI TAK INT"
       ]
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Imp of passage and draiange line at Vir Balak Sandhya gully to Parnay house azad nagari",
+        "2. Imp of passage and drainage line at 20 maruti lane building SBS Road Fort in beat no 22",
+        "3. Beat No 180 Councillor Fund"
+      ]
     },
     {
       "name": "Rajasthan",
@@ -32,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Rate Contract for Repair and Maintenance Work for Block - DIDWANA District - DID",
-        "2. Construction of RTWHS, CCT, Sunken Pond, ECD, Anicut/PCD, Renovation of Anicut at p.s. ",
-        "3. Annual Rate Contract for Repair and Maintenance Work for Block - MUNDWA District - NAGA"
+        "1. Annual Rate Contract for Repair and Maintenance Work for Block - NAGAUR District - NAGA",
+        "2. Miyawaki Pasture development and plants distribution work at p.s. kareda",
+        "3. Annual Rate Contract for Repair and Maintenance Work for Block - DIDWANA District - DID"
       ]
     },
     {
@@ -54,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairing of Existing BT Road with ICBP Road from Bhabani mandir more to Netaji Childre",
-        "2. Repairing of Existing BT Road with ICBP Road from Sujay Kr. Sarkar house to Prashanta S",
-        "3. Construction of Concrete covered Drain From the house of Masuda Bibi to Chota Ramkrishn"
+        "1. MEMO NO 2356/BDO PO/Singur Date-28.07.26 SL 5",
+        "2. MEMO NO 2356/BDO PO/Singur Date-28.07.26 SL 4",
+        "3. Construction of Concrete covered Drain From the house of Bapi Sardar to Paritosh Sardar"
       ]
     },
     {
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Provision of  Annual Maintenance Contract",
-        "2. TCMC-Construction of SWD at Kirupanandhavarriyar and kumaran  street  in  Ward No.19,Ta",
-        "3. Engaging an Out Sourcing Agency to Provide Driver to Operate 60 Nos Vehicles"
+        "1. TCMC-Construction of SWD and Culvert at Shankar Nagar 1st Main Road,4th Street in Ward ",
+        "2. TCMC- Providing  CC Surface at  Gandhi nagar 5th street and Parameshwaran cross street ",
+        "3. Project Management Consultancy (Right from planning, scheduling, initial level survey c"
       ]
     },
     {
@@ -76,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. and Renovation of Baba Jiwan Singh ji Dharamshala in W.no 2, N.P Bilga.",
-        "2. P/L interlocking tile starting from H/o Piara Singh Kainth to H/o Paramjit Singh Bahra ",
-        "3. P/L Interlocking tile sat Shamshanghat Patti Mehna in W.no 9, N.P Bilga."
+        "1. Const. and Development of Baba Balak Nath Ji Dharamshala in W.no11, N.P Bilga.",
+        "2. P/L Interlocking tile sat Shamshanghat Patti Mehna in W.no 9, N.P Bilga.",
+        "3. Const. and Renovation of Baba Jiwan Singh ji Dharamshala in W.no 2, N.P Bilga."
       ]
     },
     {
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NH-5 to Badatrilochanpur Road_Depression filling, Profile correction of cc M300.000 to ",
-        "2. R.I. Office-cum-Res at Asana_building",
-        "3. NH-5 to Khajuripur_Road_CC overlaying 2.700 to 3.000"
+        "1. NH-5 to Khajuripur_Road_CC overlaying 2.700 to 3.000",
+        "2. NH-5 to Badatrilochanpur Road_Depression filling, Profile correction of cc M300.000 to ",
+        "3. R.I. Office-cum-Res at Asana_building"
       ]
     },
     {
@@ -109,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of PCC road from Prithi Prajapatis house to Mundrika Choudharys house in v",
-        "2. Construction Of road from Karauna Nala Jhajwa to Ramvriksha pals house in village Kariw",
-        "3. Construction of Chief Minister Solar Based Lift Irrigation Scheme at Noniyad under Bloc"
+        "1. Construction of Chief Minister Solar Based Lift Irrigation Scheme at Barhaita under Blo",
+        "2. Construction of Chief Minister Solar Based Lift Irrigation Scheme at Noniyad under Bloc",
+        "3. Construction of PCC road from Prithi Prajapatis house to Mundrika Choudharys house in v"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1fc91972d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fae0dff76d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -162,7 +170,7 @@
       "sample_titles": [
         "1. DEPOSIT-Urgent maintenance to EI in Nursing college,TVPM-Urgent maintenance of existing",
         "2. Digitization and Implementation of DMR Tier II",
-        "3. GENERAL-Budget work 2025-2026-Providing BM patch and BC overlay to AlinchuvaduVennala r"
+        "3. GENERAL-Renovation of Nambiarkal SWE Anicut Mechanical Shutter Region-Renovation of Mec"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627106168 - CONSTRUCTION OF LANE FROM HOUSE OF MUSHTAQ AHMAD BHAT TO MASJID SHARI",
-        "2. CSC at Bunpora Masjid Dangerpora Arihal A",
-        "3. Constt of CSC at Jamia Masjid Nikas"
+        "1. C/O FOOTPATH FROM MASJID SHARIF TO THE HOUSE MOHD SAYED SHEIKH AT SONIGAM\t1162",
+        "2. CONSTRUCTION OF R WALL FROM THE LAND  OF MOHD YOUSUF WANI TO GHULAM MUSTAFA WANI AT NEW",
+        "3. Constt of Community Soakage Pit in Panchayat Halqa Hari-II"
       ]
     }
   ],
