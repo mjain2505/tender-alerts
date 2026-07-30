@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-07-30 13:53:28",
+  "checked_at_utc": "2026-07-30 16:26:02",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair/maint of Resdl furniture of HQ 26 Sect AR at Pallel",
-        "2. SS/C050-1P39A-YC-MR-1340/59 - SELF ACTUATED PRESSURE CONTROL VALVES For Polypropylene U",
-        "3. SR TO REPAIR AND CONSTRUCTION OF RETAINING WALL BREAST WALL AND EXISTING APPROACH PATHW"
+        "2. SR TO REPAIR AND CONSTRUCTION OF RETAINING WALL BREAST WALL AND EXISTING APPROACH PATHW",
+        "3. SS/C050-1P39A-YC-MR-1340/59 - SELF ACTUATED PRESSURE CONTROL VALVES For Polypropylene U"
       ]
     },
     {
@@ -19,8 +19,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Saket nagar ward ke saketpuri colony me 110MM PBC pipe line badalne kar karya as per Ni",
-        "2. Gram Kulanjan me panchayat ghar parisar me purva me bane ambedkar bhawan ki chardiwari ",
-        "3. Construction of Inter locking road at karamat ki chauki khan nagar from Dr Nafish house"
+        "2. Gram Sardhana Dehat me Ekdi road par Mukya Nale se babal ke makan ki aur RCC Nala nirma",
+        "3. CONSTRUCTION 100 M.T. GODOWN AT- KALAKHURI, BLOCK- KHURJA IN DISTRICT- BULANDSHAHAR(U.P"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Passage and Drainage System Near Mannat Electical Shop at Bathroom Gully",
-        "2. PRA.KR.18 SWAMI VIVEKANAND NAGAR PARISARAT V RASTE CONCRET KARNE.",
-        "3. Improvement of Passage and Drainage System OPP Budhvihar Mandir at Manurwadi wadala in "
+        "1. Prabhag kr. 40 laxmi nagar galli kr. 8 shrtadha nagar 450 vyasachi dranej laine takane.",
+        "2. Beat No 180 Cuncillor Fund",
+        "3. Mahapalika shayyak aayukt karyalay kondhwa-undri antrgat prabhag kr.40 madhye kirkol du"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "status": "ok",
       "sample_titles": [
         "1. SUPPLY, TRANSPORTATION AND INSTALLATION OF HDPE VERMI-BED UNIT FOR VERMICOMPOST IN PMKS",
-        "2. Gravel Road Construction Work Main Road to Dhruv Ghata Side Kanchanpur",
-        "3. Library and other repair construction work Government Primary School Old Building ,Umre"
+        "2. SUPPLY, TRANSPORTATION AND INSTALLATION OF HDPE VERMI-BED UNIT FOR VERMICOMPOST IN PMKS",
+        "3. CONSTRUCTION OF PRAYER DOME AT THE GOVERNMENT NEW UPPER PRIMARY SCHOOL RANGASWAMI BASTI"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing of 5 Seater and 7 Seater Vehicle (Bolero/Scorpio and Other SUV Vehicle) for V",
-        "2. Special Repair work on Main Court building Petlawad District Jhabua",
-        "3. E Tender For Rate Contract for computer and  Accessories Maintenance Work"
+        "1. E Tender For Rate Contract for computer and  Accessories Maintenance Work",
+        "2. Catching stray dogs within the municipal area, sterilizing them and administering anti-",
+        "3. Construction WORK"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of 3 types of CIB of VB-G RAM G works for Mathura Gram Panchayat",
-        "2. WBPHED/02_02/AE-III/CMD/26-27",
-        "3. Construction of concrete Road from Badal Shaw house to Susanta Bera house at Kaijuri un"
+        "1. WBPHED/02_05/AE-III/CMD/26-27",
+        "2. WBPHED/02_06/AE-III/CMD/26-27",
+        "3. 11 OF 2026-27 OF SE/WBSWC"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Tiruppur Corporation_Outsourcing of Domestic Breeding Checker DBC for Zone No 02 on a t",
-        "2. CUDDALORE CORPORATION - Maintenance and Repair works to GH Amma  unavagam in cuddalore ",
-        "3. Provision of One No each diesel / petrol driven hire vehicle on daily basis for the off"
+        "2. Tiruppur Corporation_Outsourcing of Domestic Breeding Checker DBC for Zone No 01 on a t",
+        "3. Tiruppur Corporation_Outsourcing of Domestic Breeding Checker DBC for Zone No 03 on a t"
       ]
     },
     {
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DNIT FOR MODERNIZATION UPGRADATION OF RURAL LINK ROADS OF SPECIAL ASSISTANCE TO STASTES",
+        "1. EV Litter Picker for Patrolling and Litter Picking including Operation and Maintenance ",
         "2. Outsourcing of Labour Part to rectify low-lying PVC cables under area of SUBURBAN sd un",
-        "3. EV Litter Picker for Patrolling and Litter Picking including Operation and Maintenance "
+        "3. MQP266"
       ]
     },
     {
@@ -103,13 +103,9 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. New construction of Day Care Sub Center cum Health  Wellnes Center building at Pimpal o",
-        "2. Construction of Up graded higher secondary school at R.K.P. Raghunath Govt. High school",
-        "3. Construction of Up graded higher secondary school at  Purkapali Panchayat,birtolat Govt"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='tendersodisha.gov.in', port=443): Failed to resolve 'tendersodisha.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF  P.C.C ROAD and  DRAIN WITH SLAB FROM SHARMA HOUSE TO GANAURI HOUSE  IN",
-        "2. CONSTRUCTION OF  R.C.C DRAIN WITH COVER NEAR VARUN CHOUDHARY HOUSE  AT WARD NO-06 MAHAG",
-        "3. CONSTRUCTION OF  R.C.C DRAIN WITH COVER FROM ASHOK SHARMA HOUSE TO TULASI THAKUR  HOUSE"
+        "1. REPAIRING OF  BRICK DRAIN WITH SLAB FROM  BASUWA CHOWK TO RADHE KRISHN MANDIR TO NEW DH",
+        "2. LAYING OF PAVER BLOCK  FROM  MAHAGAMA BASUWA CHOWK TO DEGREE COLLEGE ROAD AT WARD NO 03",
+        "3. CONSTRUCTION OF  R.C.C DRAIN WITH COVER FROM KHADHARAMALL RAJENDRA PANDIT HOUSE TO YUGA"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Primary Health Centre building at Basheel under Medical block Syri Dist",
-        "2. Govt.Lot No. 11-2026-29 Rampur Felling Conversion , Mannual carriage and Ropeway carria",
-        "3. Govt.Lot No. 14-2026-27 Kinnaur Felling Conversion , Mannual carriage and Local Collect"
+        "1. Govt.Lot No. 14-2026-27 Kinnaur Felling Conversion , Mannual carriage and Local Collect",
+        "2. Construction of Primary Health Centre building at Basheel under Medical block Syri Dist",
+        "3. Govt.Lot No. 11-2026-29 Rampur Felling Conversion , Mannual carriage and Ropeway carria"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fb374d9ca90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0ac77fa550>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -170,7 +166,7 @@
       "sample_titles": [
         "1. Supply of 230mmx155mm, 380mmx250mm Pouches",
         "2. GENERAL-Upgradation of Shakthikulangara Fishing Harbour-Electrical Upgradation and Mode",
-        "3. Working down Rosewood timber involved in OR cases, danger petitions and wind fallen tre"
+        "3. Project No.20/2026-27 Maintenance of Poochala Thonakara Road -Ward 3 Akalakunnam GP"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. COMPOST PIT NEAR   SEGRGATION SHED PATNAZI-B  COMPOST PIT NEAR   SEGRGATION SHED KITHER",
-        "2. C/o CSC near Jamia Masjid Sharief Urwan",
-        "3. C/O CCP at Herpora Singo Narbal Halqa Hakripora."
+        "1. C/o CSC near Ayushman Hospital Lariyar",
+        "2. construction of P/Bund near the house of Ab Rehman sheikh, Ab Rashid sheikh Mohd amin d",
+        "3. CONSTT. OF COMMUNITY  COMPOST PIT NEAR YATRA  SHED AKRA."
       ]
     }
   ],
