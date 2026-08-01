@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-01 13:14:17",
+  "checked_at_utc": "2026-08-01 16:01:18",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Lining up One time contract for Supply and Erection of Pre-fabricated structure for roo",
-        "2. Supply, Installation, Testing and Commissioning of street light and allied work at the ",
-        "3. Term Contract of BR and EM wks for Adm Block Bldg No P86 at KLP Charduar"
+        "1. M/o Completed Scheme under NA-II, South Zone.",
+        "2. Maintenance of Various Colonies under South Zone.",
+        "3. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SUPPLY AND  INSTALLATION OF  09  NOS 6X140-150  WATT LED SEMI HIGH MAST LIGHT WITH 9.5 ",
-        "2. Providing new roller cage assembly of otherway gates Gate no. 8,10 AND 12 by replacing ",
-        "3. Supply of Medical Gases"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ALL TYPE MATERIAL TENDER GP SONURLI 2026-27",
-        "2. 1)Beautification Of Smashanbhumi 2) Contruction Of CC Road  3)Providing And Fixing Pave",
-        "3. Construction of Udyamita /Nari shkati Bhavan at-Bhidi,Ta-Deoli, Dist-Wardha"
+        "1. Construction of  CDPO Office At-Karanja,Ta- Karanja, Dist-Wardha",
+        "2. Construction of Udyamita /Nari shkati Bhavan at- Kannamwargram,Ta-Karanja (Gh),Dist-War",
+        "3. Construction of Udyamita /Nari shkati Bhavan at-Lahan Arvi,Ta- Ashti, Dist-Wardha"
       ]
     },
     {
@@ -40,21 +36,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WORK29-ENIB23",
-        "2. ARC for Construction-Repairing work of Drains-Nallah AND Various Roads in ward No. 05 t",
-        "3. WORK28-ENIB23"
+        "1. Rajaswa gram upswasthya kendra Kanpura me park vistar karya",
+        "2. 2. -Renovation/Construction of Govt. Building , Shelter House and Boundary Wall in Muni",
+        "3. sarv cc block nirman swasthiy kendra prisar silariya"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Hiring Vehicle for Office of the district excise officer, khandwa-3",
-        "2. Construction Of Slab Culvert at Ward No 33",
-        "3. Estimate for Construction Bitumen Road form nandgaon tiraha to sanjeevani hospital and "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBHZP/Domjur/ BDO_03/2026-2027",
-        "2. WBHZP/Domjur/ BDO_03/2026-2027",
-        "3. WBHZP/Domjur/ BDO_03/2026-2027"
+        "1. WBMAD/NIeT/27/BM/2026-27/PWD",
+        "2. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026",
+        "3. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026"
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Enq.No.16 Supply of Moving Contact for 11KV AB Switch(200A)",
-        "2. LICENSING TO RUN THE COMMERICAL SHOP NO. 21 AT ANNA SALAI DAILY MARKET IN KODAIKANAL MU",
-        "3. Major overhauling of pith slot conveyor in Boiler#7 at Energy Mechanical"
+        "1. Re-covering of Suction Press Roll Shell in Paper Machine no.1",
+        "2. The task of burying the body of the deceased in the Otteri cemetery For One Year In dn-",
+        "3. Running Juice Shop in Students Amenities"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Playground in village Kami Khurd, Block Ghanour, Distt. Patiala-Retender",
-        "2. Development of Playground in village Lochma, Block Ghanour, Distt. Patiala-Retender.",
-        "3. Development of Playground in Village Simbro, Block Patiala Rural, Distt. Patiala-Retend"
+        "1. Development of Playground in village Lochma, Block Ghanour, Distt. Patiala-Retender.",
+        "2. Development of Playground in Village Nanansu, Block Sanour, Distt. Patiala-Retender",
+        "3. Development of Playground in Village Mandour, Block Patiala Rural, Distt. Patiala-Reten"
       ]
     },
     {
@@ -95,21 +87,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Fixing of Changeover Switch MCCB, etc. and Spare Parts of Sewer Cleaning ",
-        "2. Providing and laying of 250mm HDPE Pipe for Sewer Line and Construction of Manhole near",
-        "3. Providing and laying of Sewerline and Manhole complete in all respect near Ashiana in S"
+        "1. Repair of 500 KVA Genset  Providing and fixing of Changeover Switch, 16 Sqmm Submersibl",
+        "2. Repair of Sewer CBD 18 feet Deep  DI Water Supply Line and restoration of Road in Sec 1",
+        "3. Providing and Fixing of Changeover Switch MCCB, etc. and Spare Parts of Sewer Cleaning "
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
-        "2. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
-        "3. Construction of Road Kusailo RD road to Adheikana via Rasarpada, Sanaolara, Hadamunda B"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
@@ -129,8 +117,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction  of Concrete Rigid Pavement  with Base and Sub-Base Preparation at EDC, Ma",
-        "2. A/r AND M/o Rest House road Kotli Sub Division Kotli Km. 0/00 to 0/130 (SH- Constructio",
-        "3. A/R AND M/O to road from Saigaloo to sukka kun road km. 0/00 to 4/00 (SH- Construction "
+        "2. Construction of Watchman hut Batseri",
+        "3. Restoration of rain damages LWSS Kathloh Tujhar in Tehsil Kasauli Disctrict Solan (HP)"
       ]
     },
     {
@@ -139,8 +127,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Non-Ionic Contrast and Gadolinium Contrast",
-        "2. \tRenovation of Existing Hostel at Sridev Suman University at Railway Road Rishikesh Deh",
+        "1. Augmentation of 33 KV line under EDD, Raipur.",
+        "2. Supply of Non-Ionic Contrast and Gadolinium Contrast",
         "3. Construction of residential building on the roof of bank building in mandi Samiti Harid"
       ]
     },
@@ -148,7 +136,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fe70e8775d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc13bf7b950>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,21 +156,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E-TENDER FOR SECURITY",
-        "2. Natural Resource Mananagement project in Vembayam gramapanchayath in Nedumangad block i",
-        "3. Annual Plan-DP PKD 2026-27 KOZHIPARA DIVISION - THENARI SCHOOL M A I N T A N C E I N E "
+        "1. GENERAL-Generator Connection-Thaluk hospital valiyakunnu, Additional work in Male and F",
+        "2. E-TENDER FOR SECURITY",
+        "3. Peechi Scheme Aqueduct a Permanent solution at breached portion of left bund main canal"
       ]
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Repair of 03 Rooms by way of Plaster, Ceiling, Floor, Doors, Windows, Painting and alli",
-        "2. Supply, installation, testing and commissioning of submersible pumping unit of 5000 GPH",
-        "3. Construction of Niabat Office at Atkhar"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     }
   ],
   "new_matches_found": 0
