@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-01 16:01:18",
+  "checked_at_utc": "2026-08-01 19:06:17",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o Completed Scheme under NA-II, South Zone.",
+        "1. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New",
         "2. Maintenance of Various Colonies under South Zone.",
-        "3. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New"
+        "3. M/o Completed Scheme under NA-II, South Zone."
       ]
     },
     {
@@ -25,7 +25,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of  CDPO Office At-Karanja,Ta- Karanja, Dist-Wardha",
+        "1. SUPPLY OF MATERIAL TO GRAM SABHA VENELAYA FOR CONSTRUCTION OF 250 MT KRISHI GODOWN",
         "2. Construction of Udyamita /Nari shkati Bhavan at- Kannamwargram,Ta-Karanja (Gh),Dist-War",
         "3. Construction of Udyamita /Nari shkati Bhavan at-Lahan Arvi,Ta- Ashti, Dist-Wardha"
       ]
@@ -36,17 +36,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rajaswa gram upswasthya kendra Kanpura me park vistar karya",
-        "2. 2. -Renovation/Construction of Govt. Building , Shelter House and Boundary Wall in Muni",
+        "1. 2. -Renovation/Construction of Govt. Building , Shelter House and Boundary Wall in Muni",
+        "2. GRAM PANCHAYAT  UNADI  PS SAYALA WORKS INCLUDING GARBAGE COLLECTION AN SEGREGATION FORM",
         "3. sarv cc block nirman swasthiy kendra prisar silariya"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply of various remaining construction work items for Nagar Palika Parishad Narsinghp",
+        "2. Supply of Plants and other items and Maintenance work for FY 2026-27 in Nagar Palika Pa",
+        "3. Various Type of Printing works in Nagar Palika Parishad Panagar for F.Y. 2026-27"
+      ]
     },
     {
       "name": "West Bengal",
@@ -54,8 +58,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/NIeT/27/BM/2026-27/PWD",
-        "2. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026",
+        "1. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026",
+        "2. WBMAD/NIeT/27/BM/2026-27/PWD",
         "3. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026"
       ]
     },
@@ -76,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Playground in village Lochma, Block Ghanour, Distt. Patiala-Retender.",
-        "2. Development of Playground in Village Nanansu, Block Sanour, Distt. Patiala-Retender",
-        "3. Development of Playground in Village Mandour, Block Patiala Rural, Distt. Patiala-Reten"
+        "1. Development of Playground in village Kami Khurd, Block Ghanour, Distt. Patiala-Retender",
+        "2. Development of Playground in Village Mandour, Block Patiala Rural, Distt. Patiala-Reten",
+        "3. Development of Playground in Village Simbro, Block Patiala Rural, Distt. Patiala-Retend"
       ]
     },
     {
@@ -95,9 +99,13 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
+        "2. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
+        "3. Construction of Road Kusailo RD road to Adheikana via Rasarpada, Sanaolara, Hadamunda B"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -117,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction  of Concrete Rigid Pavement  with Base and Sub-Base Preparation at EDC, Ma",
-        "2. Construction of Watchman hut Batseri",
-        "3. Restoration of rain damages LWSS Kathloh Tujhar in Tehsil Kasauli Disctrict Solan (HP)"
+        "2. Repair of existing damaged sanitary installation,pianting and fitting ,repair of challa",
+        "3. Construction of View Point watch tower at Mujlang"
       ]
     },
     {
@@ -136,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc13bf7b950>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f61d1bc9f90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,20 +161,20 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. GENERAL-Generator Connection-Thaluk hospital valiyakunnu, Additional work in Male and F",
-        "2. E-TENDER FOR SECURITY",
-        "3. Peechi Scheme Aqueduct a Permanent solution at breached portion of left bund main canal"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 0,
-      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. P/work near maroof Ahmed Moh Saradna ward no 07 Pyt. Phagla  Block Lassana Under PRI Gr",
+        "2. RDDDC2627106256-(IMP OF REMAINING PART OF LANE FROM HOUSE OF WALI MOHD LONE UPTO HOUSE ",
+        "3. RDDDC2627113510-C/O LANE WITH TILES FROM SHOP OF NASEER AHMD BEIGH TO H/O M. JABBAR WAN"
+      ]
     }
   ],
   "new_matches_found": 0
