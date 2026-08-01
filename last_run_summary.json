@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-01 08:17:08",
+  "checked_at_utc": "2026-08-01 10:39:48",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROVISION OF DR SITE FOR EWIAS AT ARYABHATTA BUILDING, DRDL HYDERABAD",
-        "2. Supply of Medigym Instruments for Department of Integrative Medicine",
-        "3. Supply of ECG Machine"
+        "1. Annual Maintenance contract (AMC) of  Reverse Osmosis  plant  installed at BOPs of 109 ",
+        "2. Balance works of Construction of Permanent office building at Left bank, NBPS Colony, A",
+        "3. Term Contract for B/R Maintenance works to various Buildings at INS Kalinga and NSTL Vi"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 54/EDC(Ayodhya)/2026-27",
-        "2. Increasing Capacity of 33/11 KV S/S Rasara, Karsar and Maldah Dist- Ballia",
-        "3. 55/EDC(Ayodhya)/2026-27"
+        "1. Increasing Capacity work from (2x40) MVA to (2x63) MVA T/F and other associated work",
+        "2.  SUPPLY AND  INSTALLATION OF  01  NOS 6X140-150  WATT LED SEMI HIGH MAST LIGHT WITH 9.5",
+        "3. BALANCE WORK OF BOUNDARY WALL AT PT. D.D.U.M. INTER COLLEGE DHAYKI IN DISTT SAHARANPUR "
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RATE CONCTRACT OF BUILDING MATERIAL FOR FINANCIAL YEAR 2026-27 AT. GRAMPANCHAYAT KOTGAL",
-        "2. Construction Of Underground drain from h.o Sukhdeo Raut To H.o Yashwant Raut At Village",
-        "3. Improvement of Pathways and Drainge at Shashikala Chawl near Kalpesh Godown, Charkop Ga"
+        "1. Supply of Polyaluminium Chloride (PAC) at the Devgaon Water Treatment Plant in the Acha",
+        "2. Improvement of  Passage and Drainage System at Budh Mandir Gully, Dholak Wala Chawl, Bh",
+        "3. Improvement of Passage and Drainage System at  Opposite Rakesh Hair Cutting Seloon  San"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Viksit Bharat  Guarantee for Rozgar And Ajeevika Mission Gramin And Various Rural Devel",
-        "2. SOCHALY NIRMAN KARY",
-        "3. Work package number 03 for permanent repair of culverts under SR to CD-2026"
+        "1. Construction of Hall and Interlocking Blocks in Radhadasji ki Bagichi  in ward no. 20",
+        "2. Construction of women barrack at Police Station Jalore Distt., Jalore",
+        "3. Construction of Hall and Blocks in Shiv Mandir at Badla ka Baas in ward no. 11"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Transportation of DTR under Rewa Region",
-        "2. Transportation of  H-BEAM under Rewa Region",
-        "3. CONSTRUCTION WORK OF 50 SEATED PRE-METRIC GIRLS HOSTEL, DISTRICT HEADQUARTERS BURHANPUR"
+        "1. Hiring for vehicles",
+        "2. Providing services of four (04) Nos. of semi-skilled computer Operator and three (03) N",
+        "3. CONSTRUCTION OF CC ROAD FROM KAMTA SEN TOWARDS RAVI RAHORA HOUSE IN WARD 13"
       ]
     },
     {
@@ -62,17 +62,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SWM-II/DIST-I/6/2026-27",
-        "2. KMC/ASPH/PB/GM-04/2026-27",
-        "3. KMC/SnD/GRBU/KT/E2/26-27"
+        "1. WBPHED/EE/JD/e-NIT-12/2026-27 (2nd Call)",
+        "2. WBPHED/EE/JD/e-NIT-12/2026-27 (2nd Call)",
+        "3. WBPHED/EE/JD/e-NIT-12/2026-27 (2nd Call)"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Hiring Vehicle for Diesel Petrol Driven Car VAN JEEP for the use  EE / MRT / Salem",
+        "2. Supply of TC Fuse Wire 12 SWG",
+        "3. LICENSING TO RUN THE COMMERICAL SHOP NO. 7 AT ANNA SALAI DAILY MARKET IN KODAIKANAL MUN"
+      ]
     },
     {
       "name": "Punjab",
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. laying of underground pipeline for watercourse of outlet RD 5000/L Amrala Minor",
-        "2. SALE OF SUGAR",
-        "3. Sale of Sugar"
+        "1. Const. of , New RCC Drain Dhobi Ghat , and Desilting, And Cleaning of All Rain Drains i",
+        "2. Beautification of Sri Guru Nanak Dev Ji Chowk",
+        "3. Beautification and Developed of Street Food in Church Road Near Shastri Chownk Fazilka"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender for Procurement of Medicines Inj Pentazocin etc for BPS Government Medical Colle",
-        "2. Tender for Procurement of Medicines Oloptadine Eye Drop 5 ml etc for BPS Government Med",
-        "3. TENDER FOR NEW G.M. LINER FITTING WORK OF MILL HYDRAULIC CAP."
+        "1. Manufacturing and Supply of Cement Tree Guard with Material Complete in All Forms at HF",
+        "2. coolingtowerspares",
+        "3. tender for consumable  inline filter blood bag 450 ml with Sagm top and bottom for BPSG"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Privatisation of sanitation work for the year 2026-27 under Jaleswar Municipality",
-        "2. Refurbuising of Telipali PHC under AMA Hospita building Phase 2 Scheme under DMF for th",
-        "3. Construction of Up graded higher secondary school at Ekma Govt. High school building un"
+        "1. Construction of 1 no Type Quarter at PHC Building at Sagada",
+        "2. Construction of Compound wall with gate and approch road for Govt. Homoeopathic Dispens",
+        "3. Construction of Govt. Ayurvedic Dispensary GAD  Building at Tikarapada in the District "
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ABD",
-        "2. The Civil Surgeon Office, Latehar, invites Tender from eligible companies, eligible OEM",
-        "3. DWSD/Mech.Div.Dumka/02/2026-27 (2nd Call)"
+        "1. ABCD",
+        "2. CONSTRUCTION OF RCC DRAIN WITH SLAB FROM  AMCO DIESEL TO BIHARI CLUB AT WARD NO 05",
+        "3. CONSTRUCTION OF RCC DRAIN WITH SLAB FROM SUNDAR KUJUR  HOUSE TO  HANUMAN MANDIR  AT WAR"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Survey, Supply, design ,Erec. testing and Comm. of 11 KV  HT line, 2 Nos. 63 KVA new DT",
-        "2. EOI  FOR CONTRACT MANUFACTURING OF FRUIT-BASED BEVERAGES IN ASEPTIC LIQUID CARTONS",
-        "3. CO link road Piplidhar to Tella km 000 to 0800"
+        "1. Restoration of Rain Damage of LWSS Ladwara in Tehsil Shahpur Distt. Kangra   HP",
+        "2. R/R damages on Marighat Kerry Shutiya road Km 0/0 to 23/0  (SH- C/O PCC R/wall at RD 10",
+        "3. Restoration of Rain Damages in LWSS Dohb Sadoon Kurela in Tehsil Shahpur, Distt, Kangra"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. VIKAS KHAND AGASTYMUNI KE ANTARGAT GPS CHATODA KE BHAWAN KA PURNIRMAN KARYA",
-        "2. vikaskhand agastyamuni ke antargat gps jasholi ke bhawan ka punirman karya",
-        "3. Repair/Reconstruction of the koti-bakhareti irrigation canal under naugaon block Uttark"
+        "1. Construction of  Road and Drain at Yamunotri Enclave, Ward -87, Pithuwala, Dehradun",
+        "2. Procurement of Safety Equipments",
+        "3. operation of bmc balawali through outsourcing"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f20c23dfed0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fb228847cd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Deionize (DI) Water Plant",
-        "2. ACCF/SCI Electrical Works/26-27/134",
-        "3. Supply, Installation and Commissioning of  Branded Two Nos of 32 Sq ft Outdoor Full-col"
+        "1. Proposed Judicial Qtr. Grade II (G Plus 2) for SDJM Court Comlplex, Titabar, Dist. Jorh",
+        "2. Construction of BPHU at Mankachar CHC in South Salamara Mankachar District under PM ABH",
+        "3. ACCF/SCI Electrical Works/26-27/134"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of DORB by Rake for CFP Pattanakkad and CFP Malampuzha",
-        "2. Supply of DORB (with revised specification) for CFP Pattanakkad and CFP Malampuzha",
-        "3. GENERAL Independence day 2026 Providing temporary security lighting arrangements with D"
+        "1.  Annual Plan-2025-26/KDY- Pr.No 294/26 Renovation to Various Lift Irrigations in Kaduku",
+        "2. Conversion of 22 Nos of Domestic wells into protected and sustainable drinking water so",
+        "3. Poothakkulam G.P  Perumkulam Thodi- Charuvila Temple- AKG Road maintenance ward 18  36"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of boundary wall gate and windows with electric work at ntphc samwan under ssy h",
-        "2. Boundary wall and windows repair work at PHC Dhanger. (Under Health District Capex 2026",
-        "3. Construction of kitchen shed and Minor Repair at MS Chaprial(Under SSY Education Distri"
+        "1. Improvement of old Distribution Network at Paryote Panchayat Paryote A Block Khellani T",
+        "2. rep of tractor road at brampuri Pyt Choundary Block Bhalla (PRIs Grant)",
+        "3. Const. of Community Sanitary Complex  at Peer Mohalla NHO Ghulam Mohammad Shah wno2"
       ]
     }
   ],
