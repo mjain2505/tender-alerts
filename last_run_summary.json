@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-02 05:55:53",
+  "checked_at_utc": "2026-08-02 08:20:10",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o Completed Scheme under NA-II, South Zone.",
-        "2. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New",
-        "3. Maintenance of Various Colonies under South Zone."
+        "1. Maintenance of Various Colonies under South Zone.",
+        "2. M/o Completed Scheme under NA-II, South Zone.",
+        "3. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTRUCTION WORK",
+        "2. Gram Ramapur Deeha par Budhai Naai ke ghar se Umesh Sharma va Niranjan Tiwari ke ghar h",
+        "3. Gram Ramapur me Lodhan Nakti Kali road se Pasi Nakti Peepal Ped aage Tirahe tak Rabarmo"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -27,7 +31,7 @@
       "sample_titles": [
         "1. Feed Mill Automatic 900-1000 kg per Hour Capacity",
         "2. Supply of Goods Transport Vehicle",
-        "3. Construction of  CDPO Office At-Karanja,Ta- Karanja, Dist-Wardha"
+        "3. Construction of Udyamita /Nari shkati Bhavan at-Lahan Arvi,Ta- Ashti, Dist-Wardha"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 3 Swamiyo Ki Dhani Purv C C Sadak Se Nadi Ki Or C C Block Nirman Karya Gram Panchayat D",
-        "2. 2 Library Nirman Karya Gram Bai Ka Bas Ambedkar Park  G P Dola Ka Bas Amount 8.00",
-        "3. 1 C C Sadak Nirman Karya Khejroli Damar Sadak Se Kalu Ji Kalaliya Ke Makan Ki Or Gram P"
+        "1. Annual Rate Contract for Day to Day Maintenance work, Labour and Material Supply at MG ",
+        "2. Reorganization of UWSS Ajeetgarh under CM Budget Announcement including 5 Years O and M",
+        "3. main road to GSSS  Kharpeena tak with Returning wall work Kharpeena"
       ]
     },
     {
@@ -70,8 +74,8 @@
       "status": "ok",
       "sample_titles": [
         "1. The task of burying the body of the deceased in the Otteri cemetery For One Year In dn-",
-        "2. Running Juice Shop in Students Amenities",
-        "3. Re-covering of Suction Press Roll Shell in Paper Machine no.1"
+        "2. Re-covering of Suction Press Roll Shell in Paper Machine no.1",
+        "3. Running Juice Shop in Students Amenities"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Playground in Village Mandour, Block Patiala Rural, Distt. Patiala-Reten",
-        "2. Development of Playground in Village Simbro, Block Patiala Rural, Distt. Patiala-Retend",
-        "3. Development of Playground in village Kami Khurd, Block Ghanour, Distt. Patiala-Retender"
+        "1. Development of Playground in Village Simbro, Block Patiala Rural, Distt. Patiala-Retend",
+        "2. Development of Playground in Village Mandour, Block Patiala Rural, Distt. Patiala-Reten",
+        "3. Development of Playground in Village Nanansu, Block Sanour, Distt. Patiala-Retender"
       ]
     },
     {
@@ -102,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
-        "2. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
+        "1. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
+        "2. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
         "3. Construction of Road Kusailo RD road to Adheikana via Rasarpada, Sanaolara, Hadamunda B"
       ]
     },
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction  of Concrete Rigid Pavement  with Base and Sub-Base Preparation at EDC, Ma",
-        "2. Restoration of rain damages LWSS Kathloh Tujhar in Tehsil Kasauli Disctrict Solan (HP)",
-        "3. RRD on Deodhar Kheelgalo road km. 0/00 to 24/500 (SH- Balance work of 3.00 mtr Span RCC"
+        "2. Providing man power to maitain water facility for upcoming Shri Manimahesh fair 2026 ya",
+        "3. Restoration of damages LWSS Joharji in Tehsil Kasauli District Solan (HP)"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4899fadc50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5da4605750>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -166,7 +170,7 @@
       "sample_titles": [
         "1. GENERAL-Generator Connection-Thaluk hospital valiyakunnu, Additional work in Male and F",
         "2. E-TENDER FOR SECURITY",
-        "3. SDP-Sabarimala-M and M 1202 ME- Painting to Sabari Guest house, Pranavam PC I and other"
+        "3. Kodur GP Ummathoor Anchukandam Anakkallam Road Concrete-PRO NO.27/26-27"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627105001 - CONSTRUCTION OF PROTECTION BUND NEAR HOUSE OF GULZAR AHMAD BHAT AND O",
-        "2. RDDDC2627106713- DEV OF OLD MASJID SHAREEF AT BUNPORA JUNGLENARD. BLOCK AWANTIPORA",
-        "3. RDDDC2627105255-(DEVELOPMENT OF GRATE KULL NEAR HOUSE OF HALIMA AKHTER AND OTHERS AT NA"
+        "1. RDDDC2627105668-(CONCRETING OF PATH AT GMS PANNER TRAL)",
+        "2. RDDDC2627106641- CO LANE WITH DRAIN FROM HO MOHD AKRAM BHAT TO ONWARDS AT HARI II BLOCK",
+        "3. FINDC2627102869 - Constt. of foot culvert near the L/O Noor ulla near Dadah Hajin road "
       ]
     }
   ],
