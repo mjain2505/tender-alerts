@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-02 08:20:10",
+  "checked_at_utc": "2026-08-02 10:39:31",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance of Various Colonies under South Zone.",
+        "1. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New",
         "2. M/o Completed Scheme under NA-II, South Zone.",
-        "3. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New"
+        "3. Maintenance of Various Colonies under South Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION WORK",
-        "2. Gram Ramapur Deeha par Budhai Naai ke ghar se Umesh Sharma va Niranjan Tiwari ke ghar h",
-        "3. Gram Ramapur me Lodhan Nakti Kali road se Pasi Nakti Peepal Ped aage Tirahe tak Rabarmo"
+        "1. Construction of 45 meter 30 meter 24 meter wide zonal road at New Kanpur City in Kanpur",
+        "2. CONSTRUCTION WORK",
+        "3. Gram Sabha Ashokpur Dubeypurva me Babadeen Dubey ke ghar se Radhey Dubey ke ghar ke sam"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Feed Mill Automatic 900-1000 kg per Hour Capacity",
-        "2. Supply of Goods Transport Vehicle",
-        "3. Construction of Udyamita /Nari shkati Bhavan at-Lahan Arvi,Ta- Ashti, Dist-Wardha"
+        "1. Supply and Testing of Tractor and Implements",
+        "2. Survey Design Fabrication Supply Installation Testing and Commissioning of Total 25.00 ",
+        "3. Supply, Installation, Testing and Commissioning of Fully Automatic Cleaning and Grading"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Rate Contract for Day to Day Maintenance work, Labour and Material Supply at MG ",
-        "2. Reorganization of UWSS Ajeetgarh under CM Budget Announcement including 5 Years O and M",
-        "3. main road to GSSS  Kharpeena tak with Returning wall work Kharpeena"
+        "1. Annual Rate Contract for Day to Day Maintenance work, Labour and Material Supply at K N",
+        "2. Material Supply in Gram Panchayat Baruni, P.S. Kishanganj Under MGNREGA/VB-G RAM G, RD,",
+        "3. Annual Rate Contract for Day to Day Maintenance work, Labour and Material Supply at Pao"
       ]
     },
     {
@@ -52,8 +52,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Sailana No. One / RTM / S-12 (E-Tender Cum Auction)",
-        "2. Sailana No. Two / RTM / C-16B (E-Tender)",
-        "3. Sailana No. One / RTM / S-12 (E-Tender)"
+        "2. Sailana No. One / RTM / S-12 (E-Tender)",
+        "3. Sailana No. Two / RTM / C-16B (E-Tender Cum Auction)"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026",
+        "1. Constuction of Comppost Pit for Community at under Samudragarh High School under Samudr",
         "2. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026",
         "3. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026"
       ]
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Playground in Village Simbro, Block Patiala Rural, Distt. Patiala-Retend",
+        "1. Development of Playground in village Lochma, Block Ghanour, Distt. Patiala-Retender.",
         "2. Development of Playground in Village Mandour, Block Patiala Rural, Distt. Patiala-Reten",
-        "3. Development of Playground in Village Nanansu, Block Sanour, Distt. Patiala-Retender"
+        "3. Development of Playground in village Kami Khurd, Block Ghanour, Distt. Patiala-Retender"
       ]
     },
     {
@@ -106,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
-        "2. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
+        "1. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
+        "2. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
         "3. Construction of Road Kusailo RD road to Adheikana via Rasarpada, Sanaolara, Hadamunda B"
       ]
     },
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction  of Concrete Rigid Pavement  with Base and Sub-Base Preparation at EDC, Ma",
-        "2. Providing man power to maitain water facility for upcoming Shri Manimahesh fair 2026 ya",
-        "3. Restoration of damages LWSS Joharji in Tehsil Kasauli District Solan (HP)"
+        "2. Restoration of damages LWSS Joharji in Tehsil Kasauli District Solan (HP)",
+        "3. Construction of underground Drain with chamber near H/O Vishal Kumar in Ward No. 10 MC "
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5da4605750>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f63fdbfbf50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -170,7 +170,7 @@
       "sample_titles": [
         "1. GENERAL-Generator Connection-Thaluk hospital valiyakunnu, Additional work in Male and F",
         "2. E-TENDER FOR SECURITY",
-        "3. Kodur GP Ummathoor Anchukandam Anakkallam Road Concrete-PRO NO.27/26-27"
+        "3. D P - P K D - 2 0 2 6 - 2 7 - THIRUVEGAPPURA DIVISION - K U N D I L P A D A M R O A D N"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627105668-(CONCRETING OF PATH AT GMS PANNER TRAL)",
-        "2. RDDDC2627106641- CO LANE WITH DRAIN FROM HO MOHD AKRAM BHAT TO ONWARDS AT HARI II BLOCK",
-        "3. FINDC2627102869 - Constt. of foot culvert near the L/O Noor ulla near Dadah Hajin road "
+        "1. RDDDC2627106192-(DEVELOPMENT OF VOLLEY BALL COURT AT NAHIR WUDER KHASIPORA TRAL)",
+        "2. FINDC2627102654 - Improvement of lane from main road to H/O Mohd. Abdullah Dar at Pethg",
+        "3. RDDDC2627104986-(DEVELOPMENT OF BALANCE PART OF LANE AT DUTT MOHALLA DIVER TRAL)"
       ]
     }
   ],
