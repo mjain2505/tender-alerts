@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-02 13:15:28",
+  "checked_at_utc": "2026-08-02 16:00:09",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance of Various Colonies under South Zone.",
-        "2. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New",
-        "3. M/o Completed Scheme under NA-II, South Zone."
+        "1. M/o Completed Scheme under NA-II, South Zone.",
+        "2. Maintenance of Various Colonies under South Zone.",
+        "3. Engagement of Event Management  Agency for Organising Yamuna Dialogues at Baansera, New"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of 45 meter 30 meter 24 meter wide zonal road at New Kanpur City in Kanpur",
-        "2. CONSTRUCTION WORK",
-        "3. Work regarding the provision of tents, sound systems, bearicutting, and generators for "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -30,8 +26,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Supply and Testing of Tractor and Implements",
-        "2. Supply, Installation, Testing and Commissioning of Fully Automatic Cleaning and Grading",
-        "3. Survey Design Fabrication Supply Installation Testing and Commissioning of Total 25.00 "
+        "2. Survey Design Fabrication Supply Installation Testing and Commissioning of Total 25.00 ",
+        "3. Supply, Installation, Testing and Commissioning of Fully Automatic Cleaning and Grading"
       ]
     },
     {
@@ -40,21 +36,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ANNUAL RATE CONTRACT FOR MAINTENANCE WORKS BLOCK-SURAJGARH , DISTT-JHUNJHUNU",
-        "2. ANNUAL RATE CONTRACT FOR MAINTENANCE WORKS BLOCK-UDAIPURWATI , DISTT-JHUNJHUNU",
-        "3. ANNUAL RATE CONTRACT FOR MAINTENANCE WORKS BLOCK-SINGHANA , DISTT-JHUNJHUNU"
+        "1. ANNUAL RATE CONTRACT FOR MAINTENANCE WORKS BLOCK-SINGHANA , DISTT-JHUNJHUNU",
+        "2. ANNUAL RATE CONTRACT FOR MAINTENANCE WORKS BLOCK-SURAJGARH , DISTT-JHUNJHUNU",
+        "3. ANNUAL RATE CONTRACT FOR MAINTENANCE WORKS BLOCK-UDAIPURWATI , DISTT-JHUNJHUNU"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Sailana No. One / RTM / S-12 (E-Tender Cum Auction)",
-        "2. Sailana No. Two / RTM / C-16B (E-Tender)",
-        "3. Sailana No. One / RTM / S-12 (E-Tender)"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,8 +54,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026",
-        "2. WBMAD/NIeT/27/BM/2026-27/PWD",
+        "1. WBMAD/NIeT/27/BM/2026-27/PWD",
+        "2. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026",
         "3. NIT No- 272/PWD/ROAD/BMC , Dated-  31/07/2026"
       ]
     },
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Establishing new tribal interpretation / cultural experience centre at old paliyar kudi",
-        "2. Establishing eco -canteen / cafeteria in Thalayanai Eco Tourism Site, Thalayani North B",
-        "3. Establishing rest room facility for public in Thalayanai Eco Tourism Site, Thalayani No"
+        "1. Establishing eco-cottages (2 Nos) in Thalayanai Eco Tourism Site, Thalayani North Beat,",
+        "2. Establishing new tribal interpretation / cultural experience centre at old paliyar kudi",
+        "3. Improvement of Entrance Arch, addition of wicket gate and setting up semi-permanent tic"
       ]
     },
     {
@@ -84,8 +76,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Playground in Village Nanansu, Block Sanour, Distt. Patiala-Retender",
-        "2. Development of Playground in village Lochma, Block Ghanour, Distt. Patiala-Retender.",
+        "1. Development of Playground in village Lochma, Block Ghanour, Distt. Patiala-Retender.",
+        "2. Development of Playground in village Kami Khurd, Block Ghanour, Distt. Patiala-Retender",
         "3. Development of Playground in Village Mandour, Block Patiala Rural, Distt. Patiala-Reten"
       ]
     },
@@ -106,8 +98,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
-        "2. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
+        "1. New Construction of Boundary Wall at Balikhanda PHC Building for the year 2026-27 - 42/",
+        "2. Construction of road Rasulpur GP office to Suansahi Ashram school-Road Work",
         "3. Construction of Road Kusailo RD road to Adheikana via Rasarpada, Sanaolara, Hadamunda B"
       ]
     },
@@ -129,8 +121,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction  of Concrete Rigid Pavement  with Base and Sub-Base Preparation at EDC, Ma",
-        "2. Providing consultancy services for preparation of detailed project report for strengthe",
-        "3. Restoration of damages of T/Well Lehi in Tehsil Baddi District Solan (HP)"
+        "2. A/r AND M/o Rest House road Kotli Sub Division Kotli Km. 0/00 to 0/130 (SH- Constructio",
+        "3. Construction of drain and providing MS grating over drain near Arunodaya School and H/O"
       ]
     },
     {
@@ -148,7 +140,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fca1f603550>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f599e3d1290>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -170,7 +162,7 @@
       "sample_titles": [
         "1. GENERAL-Generator Connection-Thaluk hospital valiyakunnu, Additional work in Male and F",
         "2. E-TENDER FOR SECURITY",
-        "3. MLA-SDF-2024-25 Wandoor LAC- Kalikavu BP 7378-Ottupara-Thod Road-General Civil Work-Own"
+        "3. Pr. No. 135/26- 27-SIVAPURI COLONY ROAD CONCRETE AND DRAINAGE WORK IN WARD 5"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/o P/bund Near H/o Mohd Shafiq Baba haren khull and p/Bund near H/o Ali Mohd Sheikh at",
-        "2. B/Path main road Masjid Mithuwala ward no 8 Pyt. Shiendara Upper  Block Lassana Under P",
-        "3. FINDC2627102679 - Constt. of lane/ drain from H/O Ab. Qayoom Khan to H/O Bashir Lone at"
+        "1. C/O P/Bund to Karboom Road near The L/O Ab Hamid Lone Sadiq  C/O P/Bund on Abjinaar Khu",
+        "2. RDDC2627105279 Dev of Irrigation Yen from Grate Kol to the Dahwot Khah Via HO Shabir Ah",
+        "3. RDDDC2627113600-CONSTT. OF CONCRETE LANE NHO ALI MOHD. KHAN TO HO MUDASIR AHMAD MIR AND"
       ]
     }
   ],
