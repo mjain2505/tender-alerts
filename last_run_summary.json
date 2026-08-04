@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-03 22:07:18",
+  "checked_at_utc": "2026-08-04 02:12:36",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MKP/C280-073-VV-MR-6010/01 FOR OLD NIU REVAMP PROJECT OF M/s Hindustan Petroleum Corpor",
-        "2. Construction of QC Lab Room , chemical room and raising of boundary wall near labour sh",
-        "3. Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized "
+        "1. Construction of QC Lab Room , chemical room and raising of boundary wall near labour sh",
+        "2. Annual Rates for works of National Highway No. 147 Km. 0/00 to 44/040 (Chiloda-Gandhina",
+        "3. MKP/C280-073-VV-MR-6010/01 FOR OLD NIU REVAMP PROJECT OF M/s Hindustan Petroleum Corpor"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF MULTI PURPOSE SEED STORE AND TECHNOLOGY DISSEMINATION CENTRE AT ALLEHPU",
-        "2. Work related to the annual maintenance, upkeep, and operation of the 130-ton capacity c",
-        "3. Proposed Residences (Type 1 and 2) at Pashupalan Department Colony, Badshahbagh, Luckno"
+        "1. Work related to the annual maintenance, upkeep, and operation of the 130-ton capacity c",
+        "2. CONSTRUCTION OF MULTI PURPOSE SEED STORE AND TECHNOLOGY DISSEMINATION CENTRE AT ALLEHPU",
+        "3. CONSTRUCTION OF MULTI PURPOSE SEED STORE AND TECHNOLOGY DISSEMINATION CENTRE AT HASANPU"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 25-1 - (1)  Construction of Separate Toilet for Gents near Mahasainik Hall/ Lawns, Ghor",
-        "2. Improvement of Passage and Other Allied Work at Nadavan Building in Pratiksha Nagar in ",
-        "3. Improvement of Passage and Drainage System at Bldg No 04 at Pratiksha Nagar in Beat No "
+        "1. Proposed work of Improvement of Passage and Drainge System at Janith Bar gully  Nava Ta",
+        "2. Repairs to SWD Nalla Near Siddhart Nagar Buddha Vihar at Partiksha Nagar in Beat No 173",
+        "3. Construction of Cement Concrete Road From H/O Gajanan Bhoyar to H/O Panjab Parchake At."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C C Road in Various Places Kesrisinghpur",
-        "2. Repair and beautification work of community hall in Longiya, Ward 07.",
-        "3. ARC of Repairing and Maintainance work of offices, annapoorna rasoi and rain basera"
+        "1. Construction of Common Incubation Center on Amla in Jaipur District",
+        "2. C C Road in Various Places Kesrisinghpur",
+        "3. FOR PURCHASE OF COMPUTER AND PRINTER IN JODHPUR DEVELOPMENT AUTHORITY OFFICE"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Materials of VB-G RAM G works for Gohaliara Gram Panchayat within Dubrajpur D",
+        "1. RIDF Insurance",
         "2. Supply of Materials of VB-G RAM G works for Paduma Gram Panchayat within Dubrajpur Deve",
-        "3. Supply of Materials of VB-G RAM G works for Sahapur Gram Panchayat within Dubrajpur Dev"
+        "3. Supply of Materials of VB-G RAM G works for Jashpur Gram Panchayat within Dubrajpur Dev"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Handrail at Nithiravilai Amala Auditorium opposite at ward no.16 in Kollancod",
-        "2.  Supply and Replacement  of damaged High Pressure Pump  to Ward No 12 to 21 at Maraimal",
-        "3. Repairs to Panchayat Union Office Buildind Removing Exiting Damaged Pressed Tiles in He"
+        "1. Construction of Rainwater Harvesting pit and Cement concrete road near Vallavilai Iyya ",
+        "2. Construction of Compound Wall in Panchayat Union Office to Panchayat Office at Kandaman",
+        "3. Providing cement concrete road in Nadesan Nagar Main Street at  Kandamangalam  Panchaya"
       ]
     },
     {
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Copper Wiring Along With LED Fittings In Covered Shed (75x200 Feet) In Grain ",
-        "2. Supply, Installation, Testing and Commissioning  of Cold room at Pear Estate, Amritsa",
-        "3. Construction Repair Interlocking tile  CC Flowring Drain Road Guli Chamber Sewerage Pip"
+        "1. Supply, Installation, Testing and Commissioning  of Cold room at Pear Estate, Amritsa",
+        "2. Construction Repair Interlocking tile  CC Flowring Drain Road Guli Chamber Sewerage Pip",
+        "3. Supply Installatioin, Testing and Commissioning of Solar Power Plant in Kissan Bhawan, "
       ]
     },
     {
@@ -106,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Engagement of DPR Consultant through open tender for Development of Parking Places near",
-        "2. Hanumanpur Kaniha via Pattakhaman road_Road_Pothole Repair and Berm Dressing, Road Sign",
+        "1. Hanumanpur Kaniha via Pattakhaman road_Road_Pothole Repair and Berm Dressing, Road Sign",
+        "2. Engagement of DPR Consultant through open tender for Development of Parking Places near",
         "3. Construction of 6 nos class room 1 art and craft room 1 library room 1 staff cum counse"
       ]
     },
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0616578fd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efcc8a8d610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -169,8 +169,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Retender for the Design, Supply, Installation, Testing and Commissioning of 300LPD ETC ",
-        "2. RE- TENDER -IBP-195/26 kesamuni maleparambil paliyath padi  road-in vazhathope grama pa",
-        "3. MP-LADS-2025-26 Renovation of Kitchen Facility at Government Higher Secondary School -P"
+        "2. State plan 2024 25 QWSS TO KOLLAM Replacement work of Damaged and freequently leaking 3",
+        "3. IBP-184/26 Kanjikkuzhi CHC maintenance-in kanjikkuzhi GP"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONST. OF TILES PATH FROM DESRAJ HOUSE TOWARD GRIEF ROAD, GANJWAS.",
-        "2. Restoration of Heritage Building of Vasanta School neat Kral Khud Police Station.",
-        "3. Construction of 80 Mtr span Motorable bridge at Doodh Ganga near Railway bridge BaghiMe"
+        "1. RDDDC2627105450-WALLING AROUND PANCHAYAT GHAR BWO CGI SHEETS WAGAM BLOCK NEWA",
+        "2. CONSTRUCTION OF GATE and TILE WORK ALONG WITH FENCING AT KHATTAN WARD NO. 4",
+        "3. RDDC2627104943 REPAIRMNRT OF TWO NO. GHATS AT CHEERWANI TAR and JAMIA MASJID MOHANVIJI "
       ]
     }
   ],
