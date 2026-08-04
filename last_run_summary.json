@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-04 14:04:48",
+  "checked_at_utc": "2026-08-04 16:51:36",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o various colonies under Nazul A/C-II, Dwarka Zone.",
-        "2. Operation, Repair and Maintenance of Sub Station, Transformers, HT Panel and DG sets MM",
-        "3. Landscape development, Signage, Shelter Associated Civil works for COSMOS Planetarium, "
+        "1. UPGRADATION OF TOURIST AMENITIES AT TAJ MAHAL, AGRA",
+        "2. COMPREHENSIVE FUND MANAGEMENT SERVICES FOR THE INSTITUTE FUND FOR 3 YEARS",
+        "3. Annual Repairs and Maintenance to Thoudand Pillar Temple, Hanamkonda for 2026-27"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. (LINE 03) Majhola Amrit Sarovar me Dr. Vijay Goswami ke makan se Transformer tak Solar ",
-        "2. (LINE 15) Ward No. 05 Milak me Indrapal ke makan se Rajendra ke makan tak C.C. Tiles dw",
-        "3. (LINE 02) Majhola me Singh Clinic se Deepak Agarwal ki Firm tak Solar Light lagane ka k"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repairs To Govt.Ashram School At Jarida Tq. Chikhaldara Dist. Amravati",
-        "2. Proposed work of Improvement of Passage and Drainge System Near Dr pandey Clinic,Kamraj",
-        "3. Specified Repairs to Govt. Ashram School Sawlikheda Tq. Dharni Dist. Amravati"
+        "1. Specified Repairs to Govt. Ashram School Raipur Tq. Chikhaldara Dist. Amravati",
+        "2. Proposed Work of Improvement of Passage and Drainage System Near Khwaja Mutton Shop, Dr",
+        "3. Specified Repairs to Govt. Ashram School Kutunga Tq. Dharni Dist. Amravati"
       ]
     },
     {
@@ -40,21 +36,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. COLLECTION OF WASTE FROM HOME AND BUSSINES UNIT, CLEANING OF ROADS AND SEWARAGE LINE, C",
-        "2. ARC for Construction-Repairing work of Drains-Nallah AND Various Roads in ward No. 17 t",
-        "3. CC road and drain construction work in New Rajiv Gandhi Nagar in Ward No 54"
+        "1. Construction of Dome in Govt. Senior Secondary School Gilund, GP Gilund Block Chittorga",
+        "2. CC road and drain construction work in New Rajiv Gandhi Nagar in Ward No 54",
+        "3. COLLECTION OF WASTE FROM HOME AND BUSSINES UNIT, CLEANING OF ROADS AND SEWARAGE LINE, C"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. T-940/MPPHSCL/Supply of Spectacles for School Children and Old Person/RC 2026, Dt. 04-0",
-        "2. Animal registration contract Financial  year 2026-27 vidisha Municipality.",
-        "3. SUPPLY OF MEDICINE"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New construction of cover drain from main road to indrojit das house at gangin under Ah",
-        "2. NIT No- 280/PWD/ROAD/BMC , Dated- 04/08/2026",
-        "3. Annual Operation and maintenance of different dia Distribution pipeline (Zone-I Mallard"
+        "1. Supply of Improved  Cross Bred Ghungroo Piglets as per specification",
+        "2. NIQ No- 1918 /PHE(C)/BMC , Date- 04/08/2026",
+        "3. New construction of cover drain from main road to indrojit das house at gangin under Ah"
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Civil works",
-        "2. CUDDALORE CORPORATION -Providing Deep Borewell  and erection of submersible pumpset wit",
-        "3. CUDDALORE CORPORATION - Providing Deep Borewell  and erection of submersible pumpset wi"
+        "1. Re-conditioning of PMC No.3 Dilution Head box Slice Blade (Top Lip and Bottom Slice Lip",
+        "2.  Restoration of BT Road Cut made by CMWSSB (UGSS) at Chandrasekaran nagar 1st street in",
+        "3. Z.O.XIV.C.NO.E1/4451/2026 RESTORATION OF METRO WATER (CMWSSB/C.E. (P)-II/SE(P0-III) B.T"
       ]
     },
     {
@@ -85,8 +77,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Regarding pack house at Market Committee Batala on lease or contract for 5 years",
-        "2. P/D/C/I/T/C, starting up, stabilization of ETP of 15 KLD based on MBR/SBR followed by U",
-        "3. Construction of Public Toilets and Urinals at Seven Different Locations (Each Block hav"
+        "2. Construction of Public Toilets and Urinals at Seven Different Locations (Each Block hav",
+        "3. P/D/C/I/T/C, starting up, stabilization of ETP of 15 KLD based on MBR/SBR followed by U"
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Biru - Bulajhar Road_Road_Pothole Repair and Berm Dressing_5.000 to 9.830",
-        "2. NH-23 -Gaham- - Biru Road_Road_Pothole Repair and Berm Dressing_0.000 to 4.000",
-        "3. Arkili to Gengutia road_Road_Pothole Repair and Berm Dressing_4.000 to 11.000"
+        "1. Ekdal to Rakas Road_Road_Pothole Repair and drain_2.200 to 3.500, 3.100 to 3.300",
+        "2. Arkili to Gengutia road_Road_Pothole Repair and Berm Dressing_4.000 to 11.000",
+        "3. NH-23 -Gaham- - Biru Road_Road_Pothole Repair and Berm Dressing_0.000 to 4.000"
       ]
     },
     {
@@ -118,8 +110,8 @@
       "status": "ok",
       "sample_titles": [
         "1. CONSTRUCTION OF BRIDGE ACROSS KOWA RIVER AT BETWEEN TELIADIH AND SURANI VILLAGES IN MEH",
-        "2. CONSTRUCTION OF BRIDGE ACROSS GANGTA RIVER AT BETWEEN ASOTA TO LAUGAY PANCHAYAT IN MAHA",
-        "3. CONSTRUCTION OF BRIDGE ACROSS CHATRA RIVER AT PANCHAYAT BANSJORI BETWEEN VILLAGE PAHARP"
+        "2. CONSTRUCTION OF BRIDGE ACROSS CHATRA RIVER AT PANCHAYAT BANSJORI BETWEEN VILLAGE PAHARP",
+        "3. CONSTRUCTION OF BRIDGE ACROSS GANGTA RIVER AT BETWEEN ASOTA TO LAUGAY PANCHAYAT IN MAHA"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages on Chakoli to Andwas road K.M. 0/0 to 6/200 (Under PDNA-202",
-        "2. Restoration of rain damages on Salooni to Ghal road K.M. 0/0 to 7/500 (Under PDNA-2023)",
-        "3. Restoration of rain damages on Chakoli road to Dhalla K.M. 0/0 to 5/100 (Under PDNA-202"
+        "1. Restoration of rain damages on Salooni to Ghal road K.M. 0/0 to 7/500 (Under PDNA-2023)",
+        "2. Restoration of rain damages on Chakoli road to Dhalla K.M. 0/0 to 5/100 (Under PDNA-202",
+        "3. Restoration of rain damages on Chakoli to Andwas road K.M. 0/0 to 6/200 (Under PDNA-202"
       ]
     },
     {
@@ -148,7 +140,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5b07e3b390>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f2660b68510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -170,7 +162,7 @@
       "sample_titles": [
         "1. THE PIECE RATE PRINCIPAL TO PRINCIPAL INDEPENDENT LABOUR CONTRACT FOR PRODUCTION ACTIVI",
         "2. Painting of substation building",
-        "3. SO 96/26-27 Ward 41 Aleenaparambu tiling ,Kareebians Avenue and VP marrakkar road tile "
+        "3. LRRP- 2024-25 KANNUR LAC Sl No.1358-VANIVILASAM MYLAPRAM ROAD IN KANNUR MUNCIPAL CORPOR"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627104467-(CONSTRUCTION OF RWALL NEAR LO GH NABI BHAT AB GANI BHAT AND OTHERS ON ",
-        "2. Const. of drain from Mohd. Yousaf Chopan S o Qadir to ward Graveyard ward No.7 Pyt. Sar",
-        "3. RDDDC2627106552- CO DRAIN FROM THE HOUSE OF MUSHTAQ AHMAD GANAIE TO FEROZ AHMAD GANAIE "
+        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Sebdan",
+        "2. RDDDC2627106557- CO LANE FROM THE HOUSE OF GH NABI LONE TO ONWARDS AT ZARIPORA MOHALLA ",
+        "3. RDDDC2627104459-(CONSTRUCTION OF BOUNDARY WALL NEAR GRAVEYARD AT HARIMGUND KHANGUND ARI"
       ]
     }
   ],
