@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-05 16:41:22",
+  "checked_at_utc": "2026-08-05 19:26:49",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,15 +9,19 @@
       "sample_titles": [
         "1. Supply Installation Testing Commissioning Operation  Maintenance of Centralized WebBase",
         "2. CHIPPING, SCRAPPING AND PAINTING OF GRAB DREDGER GD IMAN, GD SAVITHA, HOPPER BARGE HB A",
-        "3. Replacement of tiles surrounding the swimming pool and pharmacy store room at sports co"
+        "3. Repair and maintenance work of Postal Qtrs 4 Nos(Type IV) at HPO Doranda Ranchi"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Temporary laying of Khadanja For Shamshan Sthal, Chamad Mata mandir in Village Nangla C",
+        "2. Providing and fixing demarcation board, RCC Post and RCC Tee in RRPS-04, Sec-22D, YEA W",
+        "3. Construction of DINGARPUR DY from km 10.675 to km 10.842 under Project M.G.C. Stage-II"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of East side Footpath from Samruddhi SBI Quarters  to VVF Company at Road N",
-        "2. Specified Repairs to Government Tribal Ashram School Complex for School Building at Nar",
-        "3. Special Repairs at Government Tribal Ashram School Complex Inambari, Tal. Peth Dist. Na"
+        "1. Specified Repairs at Government Tribal Ashram School Complex Mhasgan, Tal. Peth, Dist. ",
+        "2. Improvement of West side Footpath from E P No SFM-2/11 to Amar Bhawan Bldg at Road No 2",
+        "3. Proposed Work of Improvement of Passage and Drainage System Near Pandey Pan Bidi Shop, "
       ]
     },
     {
@@ -36,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Balance CC Road in Kamdhenu Goshala",
-        "2. CONSTRUCTION OF CC ROAD IN WARD NO 17 TO 25 IN MUNCIPAL AREA MANDRELLA",
-        "3. Selection of Agency for Integrated MSWM System including D2D Collection, Transportation"
+        "1. Civil work 03",
+        "2. Construction of MPT",
+        "3. Selection of Agency for Providing Auto Tippers/ Hoopers (57 Nos) for Door to Door Colle"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. WORK",
+        "2. WORK",
+        "3. IT/Megaphone/2026/supply"
+      ]
     },
     {
       "name": "West Bengal",
@@ -54,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBPHED/EE/MAAD/NIeT _07 of 2026-2027 SL No. 06",
-        "2. WBPHED/EE/NMD-II/NIeT- 07 OF 2026-27",
-        "3. Guarding of the Babupara Store under Alipurduar Municipal W/S Scheme, in the dist. of A"
+        "1. WBPHED/EE/MAAD/NIeT _07 of 2026-2027 SL No. 02",
+        "2. WBPHED/EE/MAAD/NIeT _07 of 2026-2027 SL No. 06",
+        "3. WBPHED/EE/MAAD/NIeT _07 of 2026-2027 SL No. 03"
       ]
     },
     {
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Z.O.XIV.C.NO.E1/4541/2026 Restoration Of Metro Water (CMWSSB) Road Cut Portion at Burma",
+        "1. Z.O.XIV.C.NO.E1/4524/2026 Restoration of Metro Water (CMWSSB) Road Cut Portion at Santh",
         "2. Supply of Manpower for DBC Workers In Manapparai Municipality.",
-        "3. Z.O.XIV.C.NO.E1/4524/2026 Restoration of Metro Water (CMWSSB) Road Cut Portion at Santh"
+        "3. Replacing the existing damaged fixed glass window in the Guest house building in TNCSC "
       ]
     },
     {
@@ -111,7 +119,7 @@
       "sample_titles": [
         "1. EE/RDSD/LATEHAR/24/2026-27/ Gr_2",
         "2. EE/RDSD/LATEHAR/24/2026-27/ Gr_1",
-        "3. Consultancy services for preparation of Detailed project report for construction of Ker"
+        "3. e-NIT No.-389/PR/JUSNL/26-27"
       ]
     },
     {
@@ -121,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of  Link road from Labana Basti to Kalamghatta village Dollan",
-        "2. Restorarion of damages of LWSS Beh Kolian in JSV Section Sai under Sub Division Baddi",
-        "3. Restoration of Rain damages to sawanpur to Dadma in GP Bharmour Tehsil Bharmour distt C"
+        "2. HPSEBL/BED/DB-Tender JOB No.11/26-27",
+        "3. R/M of various works under JSV Sub Division Baddi in Tehsil Baddi District Solan (HP)"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f32c3fbd890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fb3070f4c10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL-Providing supply to the newly constructed Sump and pump house for the Fire Figh",
-        "2. GENERAL-Comprehensive Maintenance Contract of UPS at MSB MCH TVM-CMC of 3 Numbers 30 kV",
+        "1. GENERAL-Comprehensive Maintenance Contract of UPS at MSB MCH TVM-CMC of 3 Numbers 30 kV",
+        "2. GENERAL-Providing supply to the newly constructed Sump and pump house for the Fire Figh",
         "3. Civil works for Silo Foundation at Milma Palakkad Dairy"
       ]
     },
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF TILE LANE FROM THE H/O REYAZ AHMAD LONE S/O ALI ONWARDS AND OTHERS.\t96",
-        "2. FILLING WITH FENCING EIDGAH AT GUFFAN.\t102",
-        "3. CONSTRUCTION OF IRRIGATION SYPHON MALLAPORA TO BADSHAH WOODER SURSONA.\t134"
+        "1. RDDDC2627104807-(CO STEPS FOR SEATING AT SHAMSHANGHAT BAJWANI CHATROOGAM TRAL)",
+        "2. DEVELOPMENT OF ROAD FROM BRANWAED TO OLD JINAZ GAH AT TENGBAL\t1016",
+        "3. RDDDC2627103726 Development of irrigation Channel NLO Lateef Ahmad Wagay and Co drain f"
       ]
     }
   ],
