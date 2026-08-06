@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-06 14:01:14",
+  "checked_at_utc": "2026-08-06 23:56:48",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. INVITATION TO PRE-TENDER MEET FOR ON-OFF VALVES (SPECIAL) FOR POLYPROPYLENE UNIT (PPU) ",
-        "2. INVITATION PRE-TENDER MEET",
-        "3. 138/NIT/BSF/FTR-KMR/2026-27"
+        "1. INVITATION PRE-TENDER MEET",
+        "2. 138/NIT/BSF/FTR-KMR/2026-27",
+        "3. INVITATION TO PRE-TENDER MEET FOR ON-OFF VALVES (SPECIAL) FOR POLYPROPYLENE UNIT (PPU) "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of 45 mtr Wide Road in Sector-8D, (Part-C)YEIDA  WC-04",
-        "2. Ward 35 Moh. Mangalpura mein Rashid ke makan se munna ke makan tak RCC coverd nala ka n",
-        "3. Resurfacing  work of internal road of Pocket - C , Sector -20 YEA WC-02"
+        "1. Resurfacing  work of internal road of Pocket - C , Sector -20 YEA WC-02",
+        "2.  Balance internal development work (road ,sewer ) in pocket-C sector -17,yea WC-04",
+        "3. Construction of Service Road of 130.00 m Wide Road from Jewar Khurja Road, Sector 8D, Y"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Specified Repairs to Government Tribal Ashram School Complex At Keli Kotul Tal. Akole D",
-        "2. Individual House Hold Tap Connection (New) And Repairs FHTC At Todsa",
-        "3. CONSTRUCTION OF CEMENT CONCRETE ROAD FROM ARUN TARASING RATHOD TO DUDHARAM RATHOD HOUSE"
+        "1. Imp. Passage and Drainage System Near by Jai Bhavani Mata mandir Sangam Nagar Wadala in",
+        "2. Specified Repairs to Government Tribal Ashram School Complex Tiradhe Tal. Akole Dist. A",
+        "3. Improvement of passage and drainage system at Shiv shankar nagar  near bhabhal toilet  "
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. computer set ups and wifi hardware instalation with connection",
-        "2. 1 C C Sadak Nirman Karya Khejroli Damar Sadak Se Kalu Ji Kalaliya Ke Makan Ki Or Gram P",
+        "1. Develpment of Park in Vikas Nagar.",
+        "2. Miscellaneous Repair Work at Non-Residential Building  at Nagaur",
         "3. Various Repair and Plantation Work in City Sub Dn. Nagaur"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply of Cleaning (Swachhata Samagri) Items for FY 2026-27 in Nagar Parishad, Chichli",
+        "2. Maintenance of Central Verge- Gap Filling - Planting Permanent hedge from Majan Mod to ",
+        "3. Work contract for repair and maintenance of disturbed dry stone pitching of Suthana Res"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of compost pit for comunity ar Rai Dogachia High School UNDER DOGACHIA GP",
-        "2. NIeT-20/AD/26-27/02",
-        "3. WBPHED/EE/MAAD/NIeT _08 of 2026-2027. Sl. No. 16"
+        "1. NIT No- 294/PWD/ROAD/BMC , Dated- 06/08/2026",
+        "2. E -Tender for providing security services at different campuses and hostels of Rabindra",
+        "3. NIT No- 296/PWD/ROAD/BMC , Dated- 06/08/2026"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation and maintenance of Borewell  12 Months in Ward No 15 North Zone (33 nos)",
-        "2. Ganapathipuram TP - SDRF 2026-2027",
-        "3. Vanur/Thollamur"
+        "1. Convertion of existing School kitchen shed to Cluster Kitchen in Poppuli Raja School at",
+        "2. Operation and maintenance of Borewell  12 Months in Ward No 03 North Zone (21 nos)",
+        "3. Operation and maintenance of Borewell  12 Months in Ward No 11 North Zone (20 nos)"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender Form for Purchase of  FRP and Seamless Pipe",
-        "2. Sukhchain- Construction of IPB Rasta from Badhra Road to F/o Binder Singh at Village Su",
-        "3. Tender Form for Purchase of  Paints"
+        "1. Tender form for Rate Contract of Motor Rewinding",
+        "2. Tender Form for purchase of Black Ploy thin Sheet and Number Tag and Stitching Thread",
+        "3. Tender Form for Purchase of  FRP and Seamless Pipe"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of R.D road from  Dinabandhupur  to Kulei  via Gotapalli  Mansinghpur Kule",
-        "2. Construction of H.L. Bridge over  Kiabandha Nallah at 1st Km on Daladali to Sribastapur",
-        "3. Construction of Udayagiri  to Ugratara Temple via Patrapada  road in the District of Kh"
+        "1. Construction of PWD road  to Jariput Jamusahi  road in the District of Khurda under MMS",
+        "2. Construction of Gyana Bharati college to Ganguanallah road, Mancheswar Road  in the Dis",
+        "3. Construction of Kalyanpur Ramakrushnapati Statue via Nuabanta connecting Singada villag"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EE/RDSD/LATEHAR/25/2026-27/ Gr_1",
-        "2. Outsourcing for supplying vehicles (Tracker or any other suitable vehicle) and Labours,",
-        "3. Outsourcing for supplying vehicles (Tracker or any other suitable vehicle) and Labours,"
+        "1. Outsourcing for supplying vehicles (Tracker or any other suitable vehicle) and Labours,",
+        "2. EE/RDSD/LATEHAR/25/2026-27/ Gr_6",
+        "3. EE/RDSD/LATEHAR/25/2026-27/ Gr_2"
       ]
     },
     {
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Restoration of rain/ snow damages to various WSS/FIS under JSV Section Kirting, Distt.L",
-        "2. 16/2025-26 RA Construction of Link Road From NH 154 to Bagicha Thulan",
-        "3. Repair in Farmer rest house and C/O caretaker room at Farmer Rest house Dhalli, Distt. "
+        "2. 2025-26 Construction of Road From Gahang Nala to Village Jhukan Pvt",
+        "3. Annual repair and maintenance of SMY Jawala Ji, Distt Kangra, H.P."
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of CC Tiles road from Dimpal singh to surendra singh house in village ginn",
-        "2. E Tender 22/EDC(K)/2026-27",
-        "3. E Tender 21/EDC(K)/2026-27"
+        "1. E Tender 22/EDC(K)/2026-27",
+        "2. Construction of road and drain from shyamsunder khet to murmura factory in village nand",
+        "3. Construction of CC Tiles road from Dimpal singh to surendra singh house in village ginn"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ffaa94da1d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7501e43250>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-20/ 2026-27-KULATHUMNERAVEL SC COLONY ROAD MAINTENANCE-General Civil Work",
-        "2. Annual Plan-174/2026-27 RPGP-MAMBRAKUZHI ST.MARY ROAD MAINTENANCE-General Civil Work",
-        "3. Annual Plan-394/2025-26 RPGP-Sabarimala Edathavalam Perunad Market Toilet Renovation-Ge"
+        "1. GENERAL RM 2026 27 RC 2 One year RC Ernakulam  Kalamassery Zone 5  Kadungaloor Panchaya",
+        "2. General Irrigation Division Ernakulam Rectification works to the left bank of Muvattupu",
+        "3. Annual Plan-37/2026-27 RPGP-MAINTENANCE OF MADAMON NORTH ANGANAVADI BUILDING-General Ci"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FINDC2627104902-CO LANE FROM MR UGERGUND TO HO YOUNIS AHMAD WANI AND SHOWKAT AHMAD WANI",
-        "2. Restoration of road at Naikpora Lane 1 new colony RHS",
-        "3. FINDC2627102560 Construction of lane from main road to house of Ab Rashid and others at"
+        "1. Restoration of road Berm from Rambagh to Jawahir Nagar Behind KGP.",
+        "2. RDDDC2627105311-FOOT CROSSING NHO MANEER AHMAD SHEERGOJRI AT CHECKPORA NEWA BLOCK NEWA",
+        "3. RDDDC2627112197 -C/O borewell NHO Mushtaq Ahmad Qazi, Gh. Mohd. Qazi, Sharief Ud Din Qa"
       ]
     }
   ],
