@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-08-09 15:29:16",
+  "checked_at_utc": "2026-08-09 18:36:41",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SITC of Water Treatment Units of 350 KLD and 150 KLD Capacity based on Dynasand, Ultraf",
-        "2. Term contract for artificers work in field workshop complex for various buildings at Kh",
-        "3. Term contract for artificers work in MD JCOs Resdl Bldg at Sect HQ Khatla"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by NameResolutionError(\"HTTPSConnection(host='eprocure.gov.in', port=443): Failed to resolve 'eprocure.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Vikas Khand Belar ke Gram Mukundpur Uttar Bhawani Umari Barauli marg par Swatantra Sang",
-        "2. Vikas Khand Belar ke Gram Mukundpur Uttari Bhawani me 84 Kosi Parikrama marg Kukladhi T",
-        "3. Vikas Khand Wazirganj ke Gram Hazratpurdeeha me Durga Mata Mandir Par 01 adad 16 mtr Po"
+        "1. Vikas Khand Tarabganj ke gram Chaubeypur me Gulli Singh ke ghar ke pass 01 adad 12.50 m",
+        "2. Vikas Khand Belsar ke Gram Udwatnagar Shuklanpurva me Ashok Shukla ke ghar ke pass 01 a",
+        "3. Vikas Khand Belsar ke Gram Badlepur Dingurapur me Babadeen ke ghar ke pass  01 adad 12."
       ]
     },
     {
@@ -40,8 +36,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WORK UNDER BEAUTIFICATION OF GAMBHIR SAGAR, BHINDER, UDAIPUR, RAJASTHAN (E_02_Bhinder /",
-        "2. 03- Necessary construction and repair work at polling booths",
+        "1. 03- Necessary construction and repair work at polling booths",
+        "2. WORK UNDER BEAUTIFICATION OF GAMBHIR SAGAR, BHINDER, UDAIPUR, RAJASTHAN (E_02_Bhinder /",
         "3. Tender of Stationary CM And HO Bharatpur"
       ]
     },
@@ -52,8 +48,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Procurement of spare parts of Ms Limitorque make Electrical Actuator for Unit No. 5, MW",
-        "2. RCA FOR PROCUREMENT OF ALUMINIUM LUGS OF VARIOUS SIZES (85, 95,  120 sqmm.) UNDER O and",
-        "3. Auction of shop No 5 situated near Tehsil Office on Indore Khandwa main road"
+        "2. Auction of shop No 9 situated near Tehsil Office on Indore Khandwa main road",
+        "3. Auction of shop No 12 situated near Tehsil Office on Indore Khandwa main road"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF PCC ROAD FROM SODEPUR SHIBTALA KALIMANDIR TO ANUP PAL HOUSE AT PS 121 O",
+        "1. Construction of ACR at Shyampur Abdul Haque Primary School, (1st Floor) Mouza- Shyampur",
         "2. CONSTRUCTION OF ACR AT CHILADANGI PURBA SARKAR PARA PRY SCHOOL, MOUZA- CHILADANGI, J.L.",
-        "3. PCC ROAD FROM LAND OF BIKASH SANTRA TO BAGMARA SASHMAN AT PS 121 OF PURSURAH -II GP UND"
+        "3. CONSTRUCTION OF PCC ROAD FROM H/O AMIT BHAKTA TO H/O BHUTNATH BHAKTA AT PS 131 OF SRIRA"
       ]
     },
     {
@@ -74,8 +70,8 @@
       "status": "ok",
       "sample_titles": [
         "1. SDRF 2026-2027(Manalurpet TP)",
-        "2. SDRF 2026-2027(Manalurpet TP)",
-        "3. Tiruppur Corporation_Outsourcing of water supply_5"
+        "2. Tiruppur Corporation_Outsourcing of water supply_4",
+        "3. Tiruppur Corporation_Outsourcing of water supply_3"
       ]
     },
     {
@@ -96,8 +92,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Reconstruction of Kaithal-I Godown",
-        "2. Installation of 02 no. DTH Tubewell bore in Ashoka Enclave 3 ward no.24 Faridabad.",
-        "3. Providing and Laying IPB for Side berms near Saffron , DAV, Modern , Govt. Schools in S"
+        "2. Providing and Laying IPB for Side berms near Saffron , DAV, Modern , Govt. Schools in S",
+        "3. Installation of 02 no. DTH Tubewell bore in Ashoka Enclave 3 ward no.24 Faridabad."
       ]
     },
     {
@@ -107,8 +103,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Kusumajodi to Salapada_Road_SDBC_0.000 to 0.660",
-        "2. RD road to Chandpur_Road_SDBC with pothole reapir ,Berm dressing_0.000 to 0.250",
-        "3. RD road to Baghua_Road_SDBC_0.000 to 1.160"
+        "2. RD road to Baghua_Road_SDBC_0.000 to 1.160",
+        "3. RD road to Chandpur_Road_SDBC with pothole reapir ,Berm dressing_0.000 to 0.250"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction and Installation of 6 Nos HYDT of 200mmx165mmx150Mtr deep high yield Drill",
-        "2. Construction and Installation of 5 Nos HYDT of 200mmx165mmx150Mtr deep high yield Drill",
-        "3. Construction and Installation of 5 Nos HYDT of 200mmx165mmx150Mtr deep high yield Drill"
+        "1. Construction and Installation of 5 Nos HYDT of 200mmx165mmx150Mtr deep high yield Drill",
+        "2. Construction and Installation of 4 Nos HYDT of 200mmx165mmx150Mtr. deep high yield Dril",
+        "3. Construction and Installation of 7 Nos HYDT of 200mmx165mmx150Mtr deep high yield Drill"
       ]
     },
     {
@@ -129,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. C/o Chopal to Pabas road KM 0/0 to 1/400",
-        "2. Providing, Supplying, Replacing and Repairing Electrical Materials and Allied Electrica",
-        "3. Construction of  PCC Road  and Drain  from House of Sh. Madan Lal to Darshan kumar near"
+        "2. Construction of Drain cover Near House of Sh. Ashok Kumar to Ex Pradhan Darshan at Lowe",
+        "3. Construction of  Retaining wall near  House of Sh. Satpal  and  land of Sh. Narinder Si"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. An internal CC road will be constructed in Gram Panchayat Bui Paton.",
-        "2. A link road will be constructed from the Taleshwar Temple to Bhatedi.",
-        "3. A road will be constructed from Malla Gwar to Chhipla Sarovar in the Dharchula area."
+        "1. A pedestrian path will be constructed from the Nanda Temple in Uchhaiti village to Khol",
+        "2. Development and construction work will be carried out at the Hardaula Temple fair site ",
+        "3. An internal CC road will be constructed from Queerijimia to Saipolo."
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5250433b90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f35c29d08d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Retender Karivellur Peralam GP Basic Infrastructure  Facilities to MCF-165/25-26 (Spill",
+        "1. Retender Karivellur Peralam GP Infrastructure  Development of Centre for Skill Program ",
         "2.  Karivellur Peralam GP NH Paliyeri Kookkanam Puthur  road Renovation-137/25-26 (Spill O",
-        "3. Retender Karivellur Peralam GP Infrastructure  Development of Centre for Skill Program "
+        "3. Retender Karivellur Peralam GP Basic Infrastructure  Facilities to MCF-165/25-26 (Spill"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF BOUNDARY WALL AT PRIMARY SCHOOL WASLOO\t1234",
-        "2.  Extension of P Path from Atta Mohd to Mohd Sultan Bathroom ward no 6 Pyt TRIGAM LOWER ",
-        "3. CONSTRUCTION OF BOUNDARY WALL AT MIDDLE SCHOOL BATINGOO KUND DEVSAR\t1249"
+        "1. Construction of community compost pit near theLand of Rayees Ahmad Sheikh S/O Gh Mohd S",
+        "2. Constt of Community Composite Pitnear L/o Fayaz Ahmad ,Ab Rashid,andothers at Arigam-B",
+        "3. Construction of Niabat Office at Lassana Poonch. (Under Capex Budget Revenue)"
       ]
     }
   ],
