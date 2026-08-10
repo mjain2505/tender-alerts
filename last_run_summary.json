@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-10 16:00:16",
+  "checked_at_utc": "2026-08-10 18:54:35",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o various schemes under NA-II (East Zone).sh-Providing and fixing barbed wire fencing",
+        "1. Annual Comprehensive Maintainance of 1 nos 10 Passanger Lift at GPO building ,Indore.",
         "2. Conservation of waterbodies.",
-        "3. Annual Comprehensive Maintainance of 1 nos 10 Passanger Lift at GPO building ,Indore."
+        "3. M/o various schemes under NA-II (East Zone).sh-Providing and fixing barbed wire fencing"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of 2x40 MVA 132/33KV UPEIDA IMLC S/S Naseerpur, Firozabad on turnkey basis",
+        "2. Construction of 2x40 MVA 132/33KV S/S Shahjahanpur (UPEIDA, IMLC) on turnkey basis",
+        "3. Work of shifting electric Pole TF in the way of road widening in Jalalpur in the area o"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of South Side Footpath From Road No. 29 to Citizen Travels Head office Shop",
-        "2. Providing and Fixing Bollard at Various Locations in Matunga Division in Beat No. 172 i",
-        "3. Est No221007 202627 Providing Comprehensive AMC of VRF Units at DPDC Hall Building  Dha"
+        "1. Improvement of  Footpath from Ambika Kripa Bldg  To Vidhya Awar Laboratory at B.A. Road",
+        "2. Providing and Retrofitting of Distribution Network",
+        "3. Beautification of Strip Garden at road No 37, S.W Road Wadala W in Beat No 178 F/north "
       ]
     },
     {
@@ -36,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation and maintenance work on Filter Plant 4MLD and 4MLD UWSS Jhalawar",
-        "2. Laying of Interlocking paver block Work at various Places in ward No. 40",
-        "3. SOIL FILLING WORK IN NAGAR VAN, ANANTPURA"
+        "1. CONSTRUCTION OF CUBICLES AND ATTACHED ALMIRAH WORKS IN 4 ROOMS AT CCF OFFICE KOTA",
+        "2. NAREGA AND PANCHAYATIRAJ KE NIRMAN KARYO HETU FY 2026-27 ME SAMAGRI SUPPLY AND UPKARAN ",
+        "3. Interlock Kharanja construction work from Bhabhuta Ji temple towards Aam Guwad towards "
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Drain from Sonu Jain to in-front of Dr. KL Papneja School in Mahadev Wa",
+        "2.  Dr. Hedgewar Awas Yojna under of the remaining LIG 02 building/plots area  70  sq.m Au",
+        "3. Construction of C.C. Road from S.S. Nema house to Ballu Bhaijan vai Banti Raghuwandhi h"
+      ]
     },
     {
       "name": "West Bengal",
@@ -54,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIeT-24/AD/26-27/02",
-        "2. NIeT-24/AD/26-27/01",
-        "3. NIT No- 1927/PHE(C)/BMC , Dated- 10/08/2026"
+        "1. NIe-T- 20/Sl.-03/2026-27",
+        "2. NIT No- 1927/PHE(C)/BMC , Dated- 10/08/2026",
+        "3. HIGHT INCREASING OF BOUNDARY WALL OF BALIA P.N SINHA HIGH SCHOOL AT VILLAGE BALIA"
       ]
     },
     {
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing cement concrete Pavement in Thoppu  Street  at T.Andipalayam in Thirumangalam",
-        "2. Providing cement concrete Pavement in Poothotta Street at  Siruvanthadu   Panchayat.",
-        "3. Providing cement concrete Pavement in Kulathu Mettu Street  at  Sithalampattu  Panchaya"
+        "1. Providing cement concrete Pavement in at Kaligamalai in Pakkiripalayam Panchayat",
+        "2. Providing cement concrete Pavement in Angalamman Koil Street  at Kumulam  Panchayat",
+        "3. Providing cement concrete Pavement in 1st Street at in M.N.Kuppam Navammal Kappair Panc"
       ]
     },
     {
@@ -88,8 +96,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing and Installation of Pergodas_Gazebo Revolving gates and other civil works at ",
-        "2. New Plantation work in Thapli Block, Panchkula Range",
-        "3. New Plantation work in Raipur Rani Block, Raipur Rani Range"
+        "2. Construction of Boundary wall on the MC Land for C and D Waste collection Point in Vill",
+        "3. Operation and Maintenance of boosting station and water supply system in Ward 02,03,04 "
       ]
     },
     {
@@ -105,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 04- Construction of Head Master room Library, Science Lab and ICT Lab in High School Ch",
-        "2. 03- Construction of 6 Additional Class with Lab and office in CCL Plus 2 HS Naya Nagar,",
-        "3. Construction of High Level Girder Bridge Across Local Nala at Gram Torar Under Chope Pa"
+        "1. Construction of High Level Girder Bridge Across Local Nala at Gram Torar Under Chope Pa",
+        "2. Construction of Model Aspirational Toilet 5 seater near sahibganj college campus in war",
+        "3. 04- Construction of Head Master room Library, Science Lab and ICT Lab in High School Ch"
       ]
     },
     {
@@ -116,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of balance work on Sihunta Jolna Kotla road Km 0/0 to 5/00",
-        "2. Restoration of damage on Shahpur Sihunta Chowari road Km 0/0 to 24/00",
-        "3. AR MO WSS Nasogi  Dungri Kanyal Siyal in GP Nasogi in Tehsil Manali Distt Kullu HP"
+        "1. Restoration of rain damages FIS Haripur to Nathan G P Naggar in Tehsil Distt Kullu HP",
+        "2. AR MO WSS Nasogi  Dungri Kanyal Siyal in GP Nasogi in Tehsil Manali Distt Kullu HP",
+        "3. Restoration of damage on Shahpur Sihunta Chowari road Km 0/0 to 24/00"
       ]
     },
     {
@@ -128,27 +136,23 @@
       "status": "ok",
       "sample_titles": [
         "1. Under the state plan, the reconstruction work of Jai Shree Ram Kalouni road in Chatur S",
-        "2. Reconstruction work of the internal roads of Haldwani Ward No. 26 in the Nainital distr",
-        "3. Under the state plan in the Kaladhungi assembly of Nainital district reconstruction wor"
+        "2. Under the state plan in the Kaladhungi assembly of Nainital district reconstruction wor",
+        "3. Reconstruction work of the internal roads of Haldwani Ward No. 26 in the Nainital distr"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fbf37bc0610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6eed6fa310>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Conversion of 11 kV Borgorah Feeder",
-        "2. HIRING OF LIGHT COMMERCIAL  VEHICLES FOR TRANSPORTATION OF CNG THROUGH CASCADES",
-        "3. Renovation, reconductoring and restrengthening of 33 KV feeder no -3 from 132/33 KV Pai"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='assamtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='assamtenders.gov.in', port=443): Failed to resolve 'assamtenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Kerala",
@@ -167,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627116229 Installation of Tubewell NHO Molvi Ab Hameed Ganie at Koil Khar Mohalla",
-        "2. RDDDC2627104255 -(CONSTRUCTION OF PARK NEAR MASJID CHINAR AT HANJAN PAYEEN (SHADIM))",
-        "3. RDDDC2627106700- CO LANE DRAIN FROM HO MEHRAJDDIN BHAT TO HO MOHD YOUSUF BHAT AT BHAT M"
+        "1. RDDDC2627104323 -(DEVELOPMENT OF HERPORA PUBLIC PARK AT GULSHANABAD (SHADIM))",
+        "2. RDDDC2627115286 Installation of borewell NLO Prince Firdous Iqbal S/o Ab Ahad Dar R/o D",
+        "3. Renovation of the Panchayat Ghar at Gampora"
       ]
     }
   ],
