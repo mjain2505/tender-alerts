@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-10 04:28:47",
+  "checked_at_utc": "2026-08-10 07:27:17",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Replacement upgradation of Existing old surface indoor light fitting with new surface 2",
-        "2. ZC/NFC/UTY/66B",
-        "3. Selection of LIP for NSTI Hyderabad under PM-SETU."
+        "1. Repair and External Painting of 01 Block of TypeII (old )blocks no 28 A sector A GC CRP",
+        "2. JNU/Engg./08/2025-26 4th Recall",
+        "3. REPAIR WORKS FOR DAMAGED FENDERING SYSTEM AT FENDER NO-06, BERTH NO-12 INSIDE DOCK  ARE"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Road From H/o Sethi Lal to H/o Baba Lal in Mavaiya,  Legislative Area P",
-        "2. Construction of Road From H/o Sangam Lal to H/o Vishwanath in  Chakdeeha, Legislative A",
-        "3. Construction of Road From H/o Santlal Purv Pradhan to Lohran Basti in  Kanigadha, Legis"
+        "1. Ward No. 16, Moh. Hilali Sarai mein Ashraf ke makan se Jahid ke makan tak CC sadak evam",
+        "2. Shivpurwa me grand palace ke pass smt. Sakshi mansani kea was se shir raju sonkar kea w",
+        "3. Work of applications received through Nivesh Mitra Portal, Jhatpat Portal, Rajkiya Nalk"
       ]
     },
     {
@@ -29,21 +29,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DD - THANE INDUSTRIAL AREA(MMR ZONE - I)..M and R to NRB at Wagle Indl. Area Thane.. An",
-        "2. DD -THANE INDUSTRIAL AREA.M and R to NRB at WIA.Repairs to damaged slabs and internal s",
-        "3. DD-MUMBAI CITY-MAROL(MMR ZONE- I)INDUSTRIAL AREA..M and R to Residential Bldgs..Providi"
+        "1. E-16/RRSH/ENDOPROSTHESIS/26-27",
+        "2. SUPPLY OF WATER AND ELECTRICAL MATERIAL AT GP/PIPLA DB/ZP/NGP/TENDER NO1/2026-27/1st CA",
+        "3. balasaheb thakare nagari lokklyan abhiyan"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. 21 - Construction of 2 Additional Class Rooms in Govt. . Upper Primary School Kirkhera",
-        "2. Work of providing DG sets on hire for various programs of the Trust (ARC)",
-        "3. Work on shifting the transformer located in the middle of the main road near Sharda Cro"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Drilling of Combination Tubewell",
-        "2. ramleela chabutara and boundary wall at ward 5",
-        "3. Regarding the installation of rainwater harvesting systems at Anganwadi centres to make"
+        "1. Development of visitor facilities at Amka Jhamka temple, Amjhera, distt Dhar",
+        "2. INVITING RATES FOR NAGAR BHAWAN FOR RENT FINANCIAL YEAR 2026-27, 2027-28 AND 2028-29 AT",
+        "3. INVITING RATES FOR UTSAV BHAWAN FOR RENT FINANCIAL YEAR 2026-27, 2027-28 AND 2028-29 AT"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SINKING OF A TUBE WELL AT RAYPARA  AT MOUZA HARINDANGA",
-        "2. NOTICE INVITING E TENDER 1ST call FOR PROCUREMENT OF DRUG ITEMS 2026 27 FOR NRS MEDICAL",
-        "3. CONSTRUCTION  OF PCC ROAD FROM HOUSE OF KABBAR MALITHYA TO HOUSE OF MARTEJ MANDAL AT JA"
+        "1. Installation of Submersible Pump with Tank and Pipeline at Kuhura Uttar ICDS of Shaliko",
+        "2. Installation of Submersible Pump with Tank and Pipeline at Kamipur ICDS Centre, Arangab",
+        "3. Installation of Submersible Pump with Tank and Pipe Line at Jamsole of Dherua GP under "
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Community Sanitary Complex for Girls at Ogalur Panchayath office buildi",
-        "2. Construction of Community Sanitary Complex for Girls at Pennakonam GHS School in pennak",
-        "3. Construction of Community Sanitary Complex for Girls  Athiyur GHS School Grils in Athiy"
+        "1. Purchasing of Water Tanker Lorry with 6000 liter capacity in Attur municipality",
+        "2. SDRF 2026 2027",
+        "3. Special Deep Cleaning Works for Toilet"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Replacement of damaged 4 inch dia PVC water supply pipelines at abadi Guru Nanak Colony",
-        "2. Prov. and Instt. of 200 mm Straight Hand bore tubewell against failed tubewell at abadi",
-        "3. Replacement of damaged 8 inch dia sewerage line,Addl.M.H. Chamber and raising of M.H. c"
+        "1. SALE OF SUGAR",
+        "2. Restoration of parking entry/exit points along with special repair of berms in front of",
+        "3. Revised DNIT for Prov., Instt., Testing and Commissioning of OCEMS (Probetype) , comple"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PALLEDARI WORKS IN CCS HAU HISAR",
-        "2. Providing and fixing wire mesh with MS frame at roof level, earth filling at various lo",
-        "3. Hiring of 26 Mali (Gardener) and 2 Supervisior for Maintenance of Central Verges and Ma"
+        "1.  \tNew Plantation and Maintenance in Barara Block Saha Range State Scheme from the year ",
+        "2. Cleanliness work of Mandi Complex, Staff Colony and Toilets in NGM and NVM Pipli (for t",
+        "3. Yamuna Nagar Town, Installa..."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Badakamara Roda _Road_ Paver Block_ 0.000 to 0.200",
-        "2. NH-23 to Paramahansapur_Road_SDBC_6.500 to 7.350",
-        "3. Makuakateni -L-43- to Baghabasa_Road_SDBC_2.000 to 3.690"
+        "1. Repair to HL Bridge over river Ramial at 2nd km on Hatuary Jagannathpur Road_Road_Repai",
+        "2. Palashpithia to Mathakaragola via Surapratappur, Jamunakote_Road_SDBC_3.000 to 5.000",
+        "3. T5-Pangatira to Talcher block boarder- Gatarei to Vegia_Road_PMC,SC ,Berm Dressing_0.00"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of E.G.S/I.C.D.S Center (Anganwadi) Building at SENDRA 10 NO. Dhanbad Sada",
-        "2. Construction of E.G.S/I.C.D.S Center (Anganwadi) Building at Katajani Harijan Tola Nirs",
-        "3. Construction of E.G.S/I.C.D.S Center (Anganwadi) Building at Fatehpur Niche Kulhi Nirsa"
+        "1. S.I.T.C of 1 no 250 KVA Silent type (CPCB IV  Complant) DG set for the Minister Bungalo",
+        "2. Provision of Security light on the outer D (Periphery road towards Vidhyak Awas) of Vid",
+        "3. Provision of Security light in the campus of SAP-3 Camp at Korwa, Khunti."
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Up gradation of link road from Doran(Cheog) to Khadli Km 0/000 to 1/000",
-        "2. Hiring of Mahindra Bolero Camper, 4WD BSVI for HPPWD Sub Division Jaisinghpur under HPP",
-        "3. Upgradation of road from Patgair to village Dhar Dutt road Km.0/00 to 1/500"
+        "1. AR  MO Hiring of Mahindra Bolero 4 WD, BS-VI for the HPPWD Sub Division Bhawarna",
+        "2. HPSEBL/SE/PS-446(T)-03/2026-27",
+        "3. 4798-4805 dated 06/08/2026"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Ghat and Astha Path on left bank of Ganga river in Gaurishankar area in",
-        "2. Construction of Ghat and Astha Path on right bank of Ganga river in Bairagi camp area i",
-        "3. A trekking route to Chhipla Kedar will be constructed in the Khela-Syankuri Gram Sabha "
+        "1. Supply of Hydraulic Grab Spares Parts",
+        "2. Supply of Lubricators Spares",
+        "3. Skilled Meason and Labour for Boiler Refractory work"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efd73be6f90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fae5ba35cd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Empanelment of manufactures of Tractors for the year,2026-27",
-        "2. Advancing term loan from intending Financial Institution",
-        "3. AVFCCL"
+        "1. Renovation, reconductoring and restrengthening of 33 KV feeder no -3 from 132/33 KV Pai",
+        "2. Repair and Renovation of Dining Hall and Kitchen Cadets Mess at Sainik School Goalpara",
+        "3. Construction of Road from Kungkrajhora Chariali to Manas road AC-128442784 under 15th F"
       ]
     },
     {
@@ -168,17 +164,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 5075-2023 GENERAL-ILDM Road Retarring -Pangod Ward-General Civil Work",
-        "2.  State Plan  2026  27 WSS TO KALLUVATHUKKAL PARIPALLY AND VELINELOOR  PART VILLAGES Ext",
-        "3. Annual Plan-2026-2027 Mathilakam BP ( Pro No 21/27)-Construction of side protection wal"
+        "1. Supply, installation and commissioning of Brand New Latest Model Defibrillator and its ",
+        "2. Annual Plan-KARAVALOOR GP 86/26-27- RENOVATION OF MARUTHIMOOD VATTAMAN ROAD WARD - 4-Ge",
+        "3. Construction of Additional 11 kV Feeder from Malappuram 110 kV SS to Panayi using ABC"
       ]
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='jktenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTRUCTION OF BOUNDARY WALL AT MIDDLE SCHOOL MISHI PORA\t1296",
+        "2. Annual maintenance, Repairs, and other emergent works of PHE Sub Division Awantipora. (",
+        "3. CONSTRUCTION OF 180 KLD STP AT TRANSIT ACCOMODATION SHANGUS Anantnag"
+      ]
     }
   ],
   "new_matches_found": 0
