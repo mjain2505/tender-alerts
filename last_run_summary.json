@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-11 18:59:38",
+  "checked_at_utc": "2026-08-11 21:43:23",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,7 +8,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Drilling of 200 mm Diameter Borewell Including Installation and Commissioning of Submer",
-        "2. M/o Completed Scheme under Nazul Account-II, Horticulture Zone.",
+        "2. Tender for supply of Sulphuric Acid in bulk",
         "3. Annual Maintenance of the Quality Control Laboratory of NH QC Sub Division, Chitradurga"
       ]
     },
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of CT scan unit at main building of Sub district hospital at Gargoti Tal B",
-        "2. Construction and Removal of M.S. Artificial Pond above ground using structural steel an",
-        "3. Improvement of Strip Garden at Tilak Road Extension Wadala W in Beat No 178 F/north War"
+        "1. Repairs to Footpath from Lloyed Estate to Vidyalankar college,  Vidyalankar  Road  in B",
+        "2. Improvement of Passage and Drainage System near Toilet Block at Mujawar Chawl in Beat N",
+        "3. Repairs to Footpath from  VLR/25  to Lloyed Estate Vidyalankar Road  in Beat No. 180 in"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Interlocking road and drain construction from Sanjay shop via Kishan house, Mansingh to",
-        "2. SARWJANIK TEEN SHED NIRMAN KARY UPSAWASTHAY KENDRA K PASS NEEBA GP BEEDA",
-        "3. REPLACEMENT OF FAULTY FLOOD LIGHT ON EXISTING HIGHMAST WITH NEW FLOOD LIGHT IN NAGAR PA"
+        "1. Hiring of Tractor with Burma with Fuel and driver at municipal board Anupgarh",
+        "2. Annual Rate Contract for Maintinance of Plants at various places in zone 05 NNJ",
+        "3. Supply and Installation, Class Room Dual Desk Furniture District Bhilwara"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT No- 323/PWD/ROAD/BMC , Dated- 11/08/2026",
-        "2. CONSTRUCTION OF PCC ROAD NUNI DHARAM SAYER TO KODMA POND",
-        "3. NIT No-324/PWD/ROAD/BMC , Dated-11/08/2026"
+        "1. Designing, developing, enhancing and maintaining an integrated Health Management System",
+        "2. WBNPG/HABRA-II PS/N-03/2026-27.",
+        "3. Construction of Concrete Road from PWD  road  to Sanjib Bhowmick House at Sonarudra und"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Selection of Service Provider / Agency / Contractor / Company for Operation and Mainten",
-        "2. Southnew Street Borewell",
-        "3. Agni rever Pumb Room"
+        "1. Agni rever Pumb Room",
+        "2. Arresting Water Supply  leakages  period of one year  in Ward No.34 areas of West Zone.",
+        "3. Providing cement concrete Pavement Periyar Street  at Colony in Krishnapuram Panchayat"
       ]
     },
     {
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply Installation testing and Commissioning of Fully Automatic Milk Powder Tins Filli",
-        "2. Retaining wall and wire Crate",
-        "3. Upgradation of Harinder Nagar Park Est Cost Rs. 3.68 lacs dt 17/18.08.2026"
+        "1. Installation of Solar System for energy saving at cremation ground of 50 KW Est Cost Rs",
+        "2. Supply Installation testing and Commissioning of Fully Automatic Milk Powder Tins Filli",
+        "3. R/C Estimate of Paver block in various area in Jhill avenue st no 2,3 branchs, 3a and 3"
       ]
     },
     {
@@ -96,16 +96,20 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing and Laying 250mm S.W. sewer line in Shantipuran School wali gali and 80mm thi",
-        "2. Construction of Nala (Baba ...",
-        "3. Providing and laying 900mm dia. RCC NP-3 sewer line from village jharsety Orient 66KV S"
+        "2. Providing and laying 900mm dia. RCC NP-3 sewer line from dalip chowk to IPS Krishna col",
+        "3. Capturing and Transportation of Stray Animals in Cluster-2 (Zone-5,6,7and 8) Municipal "
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Repair to Bridge over Ghodadian nallah at 1st km on Parjang G.P office to Mundeilo PS r",
+        "2. Selection and appointment of Transport Contractor for transportation of CMR from Rice M",
+        "3. Selection and appointment of transportation contractor fro transportation of paddy from"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -114,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Relocation of defunct tube well of 125/115 mm dia with. 120.0 mtrs extra deep drilled t",
-        "2. S/R to E.I. in Judicial officers 7 Nos.D type Quarter from A, B and C Block at Gariya ,",
-        "3. Relocation of defunct tube well of 125/115 mm dia with. 120.0 mtrs extra deep drilled t"
+        "2. Relocation of defunct tube well of 125/115 mm dia with. 120.0 mtrs extra deep drilled t",
+        "3. S/R to E.I. of internal wiring and external light in the residence of Principal Distric"
       ]
     },
     {
@@ -126,7 +130,7 @@
       "sample_titles": [
         "1. Restoration of rain damages to WSS Khab Kandolu Sanwal in GP Sanwal in Tehsil Churah Di",
         "2. Restoration of rain damages under LWSS Karsai OHSR in Tehsil Barsar Distt. Hamirpur HP",
-        "3. Restoration of rain damages LWSS Bani Barsar Garli Zone IV at Garli OHSR in Tehsil Bars"
+        "3. Restoration of rain damages to WSS Dhand Khandyaru in GP Bhawla in Tehsil Churah Distt "
       ]
     },
     {
@@ -137,14 +141,14 @@
       "sample_titles": [
         "1. 28/2026-27/EDC(CH)",
         "2. P.C. work on Palsari-Bamiyala motor road (length 2.14 Km). Under Annual repair (renewal",
-        "3. PC work on Ghingran-Nail-Kudav motor road (length 4.28 Km) Under Annual repair (renewal"
+        "3. Improvement, widening, and paving work using interlocking tiles for motor roads (variou"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f891f0a0250>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff542e40e50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-190/27-RETARRAING WORKS TO AKMHSS ROAD-WARD 20-Kottakkal MunicipalityG WORK",
-        "2. GENERAL-KOTTAKKAL MUNICIPALITY 2025-26( ICDS A7 )PROJECT NO. 639/26 CONSTRUCTION FOR CO",
-        "3. REBUILD-DMD2025-2026_Kottakkal Municipality-Renovation of CMH Pulikkod Road_General Civ"
+        "1. Annual Plan-138/27-CONCRETE PATHWAY WORKS TO MUTHUVATHIN MUKAL-WARD 22-Kottakkal Munici",
+        "2. REBUILD-DMD2025-2026_Kottakkal Municipality-Renovation of CMH Pulikkod Road_General Civ",
+        "3. GENERAL-KOTTAKKAL MUNICIPALITY 2025-26( ICDS A7 )PROJECT NO. 639/26 CONSTRUCTION FOR CO"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Graveyard With Fencing Around Shia Maqbara At Malpora",
-        "2. Outsourcing of Operation  and Maintenance of installed Simple Compost Units SCU on As I",
-        "3. C/O OF GATE OF JINAZ PARK WITH STEPS AT VILLAGE SHURAT\t639"
+        "1. Development of Public park with Booundry walling in the name of Sufi Shayar Abdul Rehma",
+        "2. CONST. OF DRAIN NHO GULZAR AHMAD MIR AT ANNOO.\t658",
+        "3. Construction of lane from House of Bashir Ah Dar to Abdul Rahim Hazi and Construction o"
       ]
     }
   ],
