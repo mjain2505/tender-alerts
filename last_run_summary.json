@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-12 07:21:11",
+  "checked_at_utc": "2026-08-12 10:00:54",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repairs and Maintenance to Staff Quarters and Compound Wall at Deep Bhavan Prem",
-        "2. Maintenance of A-14 Kalkaji Extension Flats.",
-        "3. M/o Various schemes under NA.II (EZ)Sub-Head- Repair of damaged pre-existing drain in l"
+        "1. SITC of 05 KWp  Grid connected Roof Top solar PV System at Kothapet S.O.   under Guntur",
+        "2. Purchase and Installation of Jungle Rumble Play Zone Play Station and triple slide ladd",
+        "3. Painting of plant structures, pipe lines, vessels, tanks, chimney, equipment, gratings,"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REPAIR OF STORE ROOM AND RAISING OF EXISTING BOUNDARYWALL AT ELECTRICITY STORE CENTER R",
-        "2. Construction of an interlocking Road at ward 4  From  Aneesh Cycle to  House no 49 Ishr",
-        "3. Nagar Nigam seemaantargat Ward No.21 Moh. Fattehpur reti me pakka baag se hanuman mandi"
+        "1. C/o Pathway and Tree-plantation of Gaushala-Jalpura, Greater Noida.",
+        "2. Internal Electrification of 6 Percent abadi  in village Palla, Greater Noida.",
+        "3. Construction of cremation ground in village Vasthana of development block Marouri under"
       ]
     },
     {
@@ -29,17 +29,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Est. No.  117 of 2026-27",
-        "2. SUPPLYING VARIOUS TYPE OF MATERIALS FOR THE WORK OF MAHATMA GANDHI NAREGA  CONSTRUCTION",
-        "3. SUPPLYING VARIOUS TYPE OF MATERIALS FOR THE WORK OF MAHATMA GANDHI NAREGA  CONSTRUCTION"
+        "1. Providng and Erectring Solar Hight Mast In Panchashil Nagar at Helamb Tq Parli Vaijenat",
+        "2. Improvement To Internal Road Pisavali Taluka-Kalyan, District-Thane. (MMRDA 2025-26)",
+        "3. Repair to Service gate of size 1.2X1.2mtr, Qty-2Nos, Screw Stem Hoist (W and WW Type) 8"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 0,
-      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. computer,printer and ups",
+        "2. Empanelment of firms for Supply, Installation and Maintenance of Computer Systems and A",
+        "3. Construction of CC Road From Peepali Chowk to Haji Bhais house in Maderna Colony"
+      ]
     },
     {
       "name": "Madhya Pradesh",
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RCO FOR SUPPLY OF  MULCH FILMS (BIO DEGRADABLE / NON DEGRADABLE) useful in Horticulture",
-        "2. SUPPLY OF FOOD ITEM",
-        "3. Strengthening work of Raisalpur Ridhodakheda Bamhangaon road, Length 4.33 Km under P.W."
+        "1. Tender for Outsource DEO, Support Staff and Others",
+        "2. Tender For Pestiside",
+        "3. Augmentation of 33 KV Line  on H-Beam using ACSR Dog conductor in SSTD  scheme work for"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBNADIA/BEL/PRO/05/15th FC_Untide/2026-27",
-        "2. KMC/PBPS/AD/M-15/2026-2027",
-        "3. KMC/EE-III/33/3/26-27"
+        "1. WBPHED/AEII/MLMD/Niet_04",
+        "2. WBPHED/AEII/MLMD/Niet_04",
+        "3. KMC/WS/West/W85/T-01/2026-27"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. supply , service , spare parts of generator",
-        "2. 03  F Tender Notice Drought JDO 2026 Dt07082026",
-        "3. PALLIVASAL STREET BOREWELL"
+        "1. Purchase of Commercial Hydrochloric Acid",
+        "2. ADColonyPattabiramapuram",
+        "3. NAMAKKAL CITY MUNICIPAL CORPORATION - Operation and Maintenance of Oil Cooled Servo Sta"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Sale of Sugar",
-        "2. Leasing out land for developing restaurant etc for Tourism purpose near Nehru Stadium R",
-        "3. Sale of Sugar"
+        "1. Providing Gas Supression System Fire Fighting and Exit Signage etc in MGSIPA Sector 26 ",
+        "2. Raising/Uplifting slab of VRB at RD 8610 of Amrala Minor",
+        "3.  P/L Interlocking Tiles in street form Vaddi Dharmshala to Baharli Firni Maluana Road"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tosham Block New Plantation and Maintenance Works Campa Scheme",
-        "2. Hiring of School Bus for daily transportation of school children (upto 5th class) for K",
-        "3. Tosham Block Maintenance Works Campa Scheme"
+        "1. Bhiwani IInd Block Maintenance Works Campa Scheme",
+        "2. New Plantation Work WBI Scheme in Meham Block in Meham Range in Rohtak Forest Division",
+        "3. SPECIAL REPAIR OF 5 NO. COVERED SHEDS (ID 4644CP4, 4648CP8, 4649, 4651, 4652) IN NGM AT"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Storage godown occupied as the Sub division Office, Section office and Store at Umerkot",
-        "2. Fire Station Building G plus 1 at Jharigam for the year 2026-27_building",
-        "3. Const. Of R.W. Sub-Division Office Building and Section-I and II, Computer Room  at Cha"
+        "1. Renovation and Construction of Student Activity Center Civil work of Lift for 08 person",
+        "2. Transportation of CMR from Rice Mill to Depots of Kandhamal district",
+        "3. Detail Estimate For Plastering Fitting and Fixing of tile at Bath room Ground Floor and"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ordinary repair and protection work of 6 no (CH-10 500 , 15 300, 22 700, 26 500, 31 100",
-        "2. High embankment protection work in 3rd  6th and 10th KM of Hata  Musabani road under RC",
-        "3. Protection Work at High Embankment Part on 1st and 2nd KM of Kewla to Chaurangi More to"
+        "1. Proposed Construction of Degree College at Mandu, Ramgarh",
+        "2. Construction of 200 x 150 mm dia and 200 mtr. depth HYDT  with Extra deep india Mark-II",
+        "3. Construction of 125/115 mm dia with. 90.0 mtrs deep drilled tube well complete with ins"
       ]
     },
     {
@@ -124,27 +128,23 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 4790-97 dated 06/08/2026",
-        "2. 4790-97 dated 06/08/2026",
-        "3. 4790-97 dated 06/08/2026"
+        "1. HIRING JCB ON HOURLY BASIS WITH OPERATOR",
+        "2. Estimate for R/M of HT/LT Lines at various locations damaged due to rainfall in CESD, H",
+        "3. Supply of Empty PP Woven Bag/ Bori size (36x50 inch) (White Color) for Garbage Collecti"
       ]
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. CONSTRUCTION OF  ROAD RESTORATION WORK AND LAYING OF SEWER LINE FOR REMAINING AREA OF C",
-        "2. E.D.D (R) 33/2026-27",
-        "3. Empanelment of Third-Party Agency"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='uktenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='uktenders.gov.in', port=443): Failed to resolve 'uktenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd772a12110>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5027cebf10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of ICBP Road from Gorombazar to Dwimuguri CC Block AC-128447982 under 15th",
-        "2. Establishment of Indigenous Security Operation Centre  and Indigenous Network Operation",
-        "3. Consumables of Water Block"
+        "1. Construction and Shifting of Existing 33KV/11KV/LT OH/UG lines due to construction of n",
+        "2. Re-Construction of Existing 33 KV UG line near Kamakhya gate Durga sarobar and shifting",
+        "3. Widening and Improvement of Ananda Ram Dhekial Phukan Road at Ward No.9, 10, and Ward N"
       ]
     },
     {
@@ -164,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of Solar Panel on PHC building at Kodiyeri in Thalassery Municipality Proj",
-        "2. Selection of a Knowledge Partner for Conceptualizing, Designing and Providing Knowledge",
-        "3. Retender GENERAL SR 2025 26 Reconstruction of box culvert at Muttathiparambu Road ch 1 "
+        "1. INSTALLATION OF MINI MAST LIGHTS AT 4 LOCATIONS IN KOVALAM LAC, SRI. M VINCENT MLA ADS ",
+        "2. Supply and Installation of 8 mtr Mini Mast with 4X150W LED Flood Light at Koottikal Kav",
+        "3. Construction of Playground in Peruva Boys Higher Secondary School in Vellur Division Ko"
       ]
     },
     {
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Naibat Office at Lammer Kulgam.",
-        "2. Construction for Link road from Public Mission School to onwards Ward No. 04 MC Yaripor",
-        "3. Construction of Edge Wall road side at Palpora"
+        "1. Augmentation of 33 kV Lines to overcome LCP constraints for various Divisions of KPDCL ",
+        "2. Procurement/Installation of water pipes at Razwath Mohalla Wagub under CDF of Honble ML",
+        "3. Repair of Tehsil Office Building at Majalta"
       ]
     }
   ],
