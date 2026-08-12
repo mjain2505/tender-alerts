@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-12 15:58:23",
+  "checked_at_utc": "2026-08-12 18:59:29",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,8 +7,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SS/C050-1P39A-WA-MR-3001/30 - PIPE CS SEAMLESS AND WELDED For Polypropylene Unit (PPU) ",
-        "2. Supply, installation, and Commissioning of a Real-Time Gas Analysis Mass Spectrometry S",
+        "1. Supply, installation, and Commissioning of a Real-Time Gas Analysis Mass Spectrometry S",
+        "2. SS/C050-1P39A-WA-MR-3001/30 - PIPE CS SEAMLESS AND WELDED For Polypropylene Unit (PPU) ",
         "3. M/o completed scheme under NA - II North Zone"
       ]
     },
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Establishment of Recreational Indoor Play Zone for Children at Dr. Sampoornanand Sports",
-        "2. 02 Nagar Palika Parishad garhmukteshwar ke ward number 06  Radhe ke Makan Se brahampal ",
-        "3. Ward No-7 Mohalla Vivekanand Nagar me Jal Nikasi Hetu Devi Verma ke Ghar se Transformer"
+        "1. Appoint a Management Operator to Operate and Maintain the 50 M Olympic Size Swimming Po",
+        "2. 01 Nagar Palika Parishad garhmukteshwar ke ward number 05 Hannu Chaudhari ke Makan se b",
+        "3. Work of Scrubing Cleaning and Painting and Spray Painting of Various Equipment at 220 K"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of fabrication Artifical Pond at Talekar Udyan for Ganapati immersion 2026",
-        "2. Improvement of Common Passage and drainage system from Jamil Masjid to Umer Rajjab road",
+        "2. Repairs to 4 seated toilet block at 1st floor Haji Chawl, Ummer Rajjab Road in E ward",
         "3. Providing Tarafa, Flower Decoration Errecting Mandap and Other Miscelleneous Arrangemen"
       ]
     },
@@ -41,8 +41,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Instruments under RKVY Project on Kachra -Kachri",
-        "2. Work of installing 12 Meter Bipolar Lights (Mini Mast) at various places in Municipal A",
-        "3. Farm pond Fencing Work PS Mundwa PMKSY2"
+        "2. GGSSS JABRASAR",
+        "3. RJ-23/NP-ML /2026-27/4"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT No- 332/PWD/ROAD/BMC , Dated- 12/08/2026",
-        "2. Supply of 3 types of CIB of VB-G RAM G works for Vivekananda-II Gram Panchayat",
-        "3. CONTRUCTION OF CC ROADS FOR COMMUNITY FOR PATNA BHAKTI BARI HOUSE TO BAPI SING HOUSE   "
+        "1. Rectification of 160 KW induction motor no.3 with allied works at Intake site of Centra",
+        "2. WBHB/DDEWII/NIeT07/26-27/SL01",
+        "3. NIT No- 333/PWD/ROAD/BMC , Dated- 12/08/2026"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "ok",
       "sample_titles": [
         "1. 2185/2026/e1-1 Construction of New Public Distribution Shop  at Anaimalaikkaradu Ward N",
-        "2. 2185/2026/e1-2 Supply and Installation of 10 m Mini Mast Light with 6 Nos. of 150 W LED",
-        "3. VPM/TVN/PUGF/26-27/PACK03"
+        "2. PURCHASE OF 1,07,000 Nos. OF YCONE AS PER SPECIFICATIONS",
+        "3. ETS No 16/26-27 of SE GCC Cbe"
       ]
     },
     {
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROVIDING DIET FOR KHEDAN WATTAN PUNJAB DIYAN BLOCK SHERPUR",
-        "2. Providing Diet/Refreshment to players/Officials   at Venue Late Sri Sarabjit Singh Sidh",
-        "3. Providing Diet/Refreshment to players/Officials   at Venue Govt Sr Sec School Village M"
+        "1. Providing Diet/Refreshment to players/Officials   at Venue Govt Sr Sec School Village M",
+        "2. Providing Diet/Refreshment to players/Officials   at Venue Govt Sr Sec School Village  ",
+        "3. PROVIDING DIET FOR KHEDAN WATTAN PUNJAB DIYAN BLOCK SUNAM"
       ]
     },
     {
@@ -95,17 +95,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Reconstruction of Street ( ...",
-        "2. Reconstruction of street (S...",
+        "1. Reconstruction of street (S...",
+        "2. Reconstruction of Street ( ...",
         "3. JOBNO.HSVP/AMB/2026-27/E-393"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of H.L. Bridge over Local Nallah on Jholdunguri-Matiali-Dova road",
+        "2. RD road to Sagada road__Renewal coat SDBC and Side shoulder1.250 to 2.250 2.700 to 3.70",
+        "3. RD road to Oriom road_Road_Bush cutting, Pothole Repair and Side Shoulder0.000 to 3.181"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -115,7 +119,7 @@
       "sample_titles": [
         "1. Bids are hereby invited from reputed, experienced, and financially sound contractors, a",
         "2. Provision of High Mast light in the Campus of Govt. Polytechnic, Dhanbad.",
-        "3. Construction of PCC road at Khunti  road, Hawai Nagar,  Road No-05 from Shiv  Mandir to"
+        "3. Provision of Security light in the Campus of IRB Police camp at Piparwar, Chatra."
       ]
     },
     {
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair renovation to various non residential buildings Armsdale Phase III under divisio",
-        "2. Repair  renovation of various residential buildings under Division No.III Shimla. SH Re",
-        "3. Construction of State Information Commission building at Chotta Shimla SH C.O retaining"
+        "2. Construction of State Information Commission building at Chotta Shimla SH C.O retaining",
+        "3. Repair  renovation of various residential buildings under Division No.III Shimla. SH Re"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and Installation of Desktop computers, printers, projectors, screens, photocopie",
-        "2. Strengthening of Sewer Line Extention Work at DRSTUAoA Nainital  Priority  01",
-        "3. Construction of Enforcement Wing at ARTO  Office in Rudrapur, District-Udham Singh Naga"
+        "1. Strengthening of Sewer Line Extention Work at DRSTUAoA Nainital  Priority  01",
+        "2. Supply and Installation of Desktop computers, printers, projectors, screens, photocopie",
+        "3. Sale of Press Mud of season 2026-27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fbd0c3e3750>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fe956ed80d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TENDER FOR THE SUPPLY OF THRUST ROLLER ASSEMBLY WITH TIE ROD",
+        "1. LAC-ADS- Project No - 25584- Work Proposed By Honble MLA Sri. P Ubaidulla (Malappuram L",
         "2. RE E - TENDER FOR SUPPLY OF CONVEYOR CHAIN",
-        "3. LAC-ADS- Project No - 25584- Work Proposed By Honble MLA Sri. P Ubaidulla (Malappuram L"
+        "3. TENDER FOR THE SUPPLY OF THRUST ROLLER ASSEMBLY WITH TIE ROD"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction Of Community Sanitary Complex Near Play Ground Poshker",
-        "2. Construction Of Community Sanitary Complex At Masjid Ahle- Hrdees Meeripora-B",
-        "3. Construction Of Community Sanitary Complex At Primary School Gojarpati Drung"
+        "1. RDDDC2627114927 C/O Bund from HO Adil Ashraf Wani to Mohd yousuf Wani Near Jamia Masjid",
+        "2. Construction of drain from Mohd Shaban Khan to Bashir Ahmad Dar at Pethpora",
+        "3. Const Of Community Sanitary Complex At Plantation Beat Ompora"
       ]
     }
   ],
