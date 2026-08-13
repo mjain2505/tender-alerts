@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-08-13 13:03:56",
+  "checked_at_utc": "2026-08-13 15:58:23",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Comprehensive Maintenance of 01 nos 13 passenger lift (Gplus7) floor at O/O the GM(F) P",
-        "2. Workstation",
-        "3. Contract for Supply and Erection of Pre-fabricated structure for roofing and sheeting w"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ward no-05 me Pachoha sampark marg de Deeh sthan aur Shiv mandir ki aur cc road ka nirm",
-        "2. Electrification work against Package to be sanctioned under Deposit Head in the area of",
-        "3. Gram Panchyat Nagawa vikas khand Wazirganj mein Kanya Pathshala School se Arundev singh"
+        "1. Const. of Nagar  Panchayat Office  at Bhatpar Rani,  District-Deoria,  U.P.",
+        "2. New Construction of Missing link between Gangaganj to Pahadpur link road avam Shora to ",
+        "3. Construction of wet waste Processing Unit for 05 Tons, Nagar Panchayat Rajapur District"
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REPAIR TO ANGANWADI BULDING AT JAWALA TQ PUSAD DIST YAVATMAL PAGY",
-        "2. L Ward beat No 171",
-        "3. 2026_Co-operation _Yashogatha"
+        "1. Construction and Removal of Ganpati Immersion pond above ground using structural steel ",
+        "2. Improvement of Passage and Drainage System Near Aman General Store Mahatma Phule Nagar ",
+        "3. Beautification of Swatantra Sainik Maulana Fazlun Hasan Hasrat Mohani Chowk Nagpada Jun"
       ]
     },
     {
@@ -40,21 +36,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PRATHMIK SWASTYA KENDRA KRASHANNAGAR KALLA KE PAS HIGH MASK LIGHT LAGANE KA KARYA",
-        "2. RSRTC INVITES THE TENDER FOR PURCHASE OF ENVELOP SUAITABLE FOR TYRE RETREADING",
-        "3. Engagement of skilled and highly skilled manpower for operation of fire brigade vehicle"
+        "1. MBPB ViDHYANIKETAN SCHOOL  PARTAPUR KE GROUND KI BOUNDRYWALL NIRMAN WORK",
+        "2. WORK-01",
+        "3. Construction of Kachchaa track at mangal Vihar Garden (Jain Mandir) located in Ward No "
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Estimate of new 33/11 kv sinod s/s of bilpank dc under ratlam oNm division as per admin",
-        "2. Regarding the provision of adequate unpaved space around roadside trees in the city are",
-        "3. Tender document for Survey, Soil investigation, Design, supply, laying, Construction an"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF TCC PHARMACOPHERAPY ITEMS",
-        "2. WBPHED/AE/BSD/eNIT04/2026-2027",
-        "3. 13 /EE/PMD/PHED OF 2026-2027/SL19"
+        "1. PMN/NIT/04/26-27/PMZP/PM,SL-01",
+        "2. WBPHED/EE/TD/NIeT_10/2025-2026 (2nd Call)",
+        "3. Construction of concrete road"
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Pappireddipatti Block in Package No. TN04 -01 2026-27 SBM(G)  - Pappireddipatti Block P",
-        "2. Repair and Maintanance of Air Conditioner units,RO Plant and other electrical items in ",
-        "3. Hiring Vehicle Diesel or Petrol driven Van or Jeep for  Official  use of P Velur attach"
+        "1. Annual Maintenance for 15 Nos of Public Toilet 12 Months in Ward No 60,61 East Zone",
+        "2. Supply and Commissioning of Boiler stack Emission Gas SPM,SOX,NOX Analyser 1 set and ET",
+        "3. Providing of CC Road at Jawager Nagar Mariyamman Koil 3rd Street in Kilkuppam Panchayat"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation Repair of Various link roads at Shri Khuralgarh Sahib Shri Charan Choe Gang",
+        "1. Provision of Online Cloud connected Surveillance system at various locations of ward no",
         "2. Bathri Kalmot Road To Shri Khuralgarh Sahib Shri Charan Choe Ganga Road incl 60 mtr Bri",
-        "3. New Construction of Link Road Bathri Kalmot Road to Shri Khuralgarh Shib Shri Charan Ch"
+        "3. Upgradation Repair of Various link roads at Shri Khuralgarh Sahib Shri Charan Choe Gang"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of BC chaupal ...",
-        "2. Supply, Fabrication and installation of Self Supported Arch Shaped Galvalume Sheet Roof",
-        "3. Replacement of old existing demaged water supply line and provision of 100 mm dia PVC W"
+        "1. Providing and fixing of Open Gym in various Parks of Ward No.03, Division-IV, Faridabad",
+        "2. Repair, Painting and White Washing and Repair of Tiles and Sanitary Works at HSVP Staff",
+        "3. Reshelling  of Mills Rollers"
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance to Pujariguda to Rebatiguda road in kolnara Block for the year 2026 27",
-        "2. Maintenance to Seriguma to Padakucha road in K Singhpur Block for the year 2026 27",
-        "3. Maintenance to Godibali to Sankarada road in Kashipur Block for the year 2026 27"
+        "1. Maintenance to Bankambo  Badajore road in Kashipur Block for the year 2026 27",
+        "2. Maintenance to PWD Road  Kakarmuska road in B Cuttack Block for the year 2026 27",
+        "3. Maintenance to RD road to Potesh road in Kashipur Block for the year 2026 27"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of B.T. Road from Sabir Hussain House to H/o Md. Mokhtar Khan road in Chis",
-        "2. Construction of P.C.C. Approach Road and R.C.C. Drain from Meru Petrol Pump (NH-522) to",
-        "3. Construction of RCC Culvert at Lalpur Chowk near Amrawati Complex under ward no 11."
+        "1. Construction of RCC Drain with Slab Cover in Beldar Mohalla  Near Jain Mandir under war",
+        "2. Construction of  PCC Road at Ram Nagar Mandir Marg, Bariyatu under ward No-06",
+        "3. Construction of 09 Seater toilet in patel field dhurwa Ward No-39 under RMC (PT)"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages GWSS Badmaindhar in GP Neen,  Tehsil-Sunni Distt. Shimla",
-        "2. Restoration of rain damages LWSS Gharog Ghandal in G.P Devnagar inTehsil  Distt. Shimla",
-        "3. Shortlisting of Agencies for Organizing Overseas Vision Building Exposure and Study Vis"
+        "1. Operation, Running and maintenance of Divisional Water Testing Laboratory at JSV Sub Di",
+        "2. Construction of Vehicular Underpass Near Lift",
+        "3. Maintenance of Himachal Niketan Dwarka  Sector 19  New Delhi. SH Providing various manp"
       ]
     },
     {
@@ -139,8 +131,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Biomining and Bioremediation of Legacy Waste Including Deep Vally Material Lifting at N",
-        "2. Procurement of Printer Photocopier cartridge for various office at Tiloth Power House U",
+        "1. Procurement of Printer Photocopier cartridge for various office at Tiloth Power House U",
+        "2. Biomining and Bioremediation of Legacy Waste Including Deep Vally Material Lifting at N",
         "3. re tender for printing and supply of mark sheets, degree/diploma certificates, tabulati"
       ]
     },
@@ -148,7 +140,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f53fe729bd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fb5b7b4ce50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC of Split Air Conditioners (8Nos) and Allied Electrical Works at School of Family H",
-        "2. Digitization and Implementation of DMR Tier II system in Northern Cluster",
-        "3. GENERAL Budget Work 2024 25  Substitution  Providing BM  BC  Kodinattkunnu Kailathpady "
+        "1. Digitization and Implementation of DMR Tier II system in Northern Cluster",
+        "2. GENERAL Budget Work 2024 25  Substitution  Providing BM  BC  Kodinattkunnu Kailathpady ",
+        "3. SITC of Split Air Conditioners (8Nos) and Allied Electrical Works at School of Family H"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Strengthening of suction system to the Main hospital, SKIMS Soura by way of P/F testing",
-        "2. Supply, installation, Testing and Commission of 30 KVA capacity three phase copper woun",
-        "3. Providing and fixing of fencing for the water reservoir at the pump I and II in SKIMS  "
+        "1. Protection wall of graveyard near PS seiklu W.No. 6 Pyt. Saikloo  Block Sathra Under PR",
+        "2. R/wall Nr. Masjid Moh. Treri W.No. 4 Pyt.  Saloonia-B  Block Sathra Under PRI Grant Yea",
+        "3. Const of Protection wall near House of Ab Rashid Sheikh Riyaz Ahmad Bhat and others at "
       ]
     }
   ],
