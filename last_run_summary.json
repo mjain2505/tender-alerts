@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-13 04:49:51",
+  "checked_at_utc": "2026-08-13 07:23:17",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FITTINGS-VI",
-        "2. FLANGES-IV",
-        "3. AN 88486 SPARES FOR PAC III"
+        "1. Repair and Maintenance of day to day Residential and Non-  Residential Buildings under ",
+        "2. M/o Various Bio-diversity parks",
+        "3. INVITATION TO PRE-TENDER MEET"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TN-04/EE/2026-27 Reconstruction of damaged bridge (box culvert) located at Km 0.000 of ",
-        "2. Civil Work At Nagar Panchayat Salon Raebareli",
-        "3. TN-04/EE/2026-27 Reconstruction work (box culvert) of damaged bridge located at Km 29.7"
+        "1. Construction of interlocking road from Jila Panchayat Sadak to  Kalicharan Talab at gra",
+        "2. GRAM PANCHAYAT KAMALPUR KHODAN ME STITH GAUSALA ME KHADNJA NIRMAN OR MENTINANCE",
+        "3. Selection of Irrigation Service Provider (ISP) for the development of Pressurized Piped"
       ]
     },
     {
@@ -29,21 +29,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Catching stray and roaming dogs within the municipal Aera using our own staff and restr",
-        "2. 9. Construction of road from Malshikarewadi road to village water supply well in Korhal",
-        "3. Supply Installation Commissioning and Testing of Fully Auto 2 Ton Multi Grain Cleaning "
+        "1. Construction Of Compoundwall At Village Rajur Tq Bhokardan Dist jalna",
+        "2. M and R to EDS / WSS/ at Taloja Indl. Area, TTC Indl Area, Wagle boosting station . AMC",
+        "3. Construction Of Hindu Samshanbhi Shed At Village Rajur Tq Bhokardan Dist jalna"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of Interlocking Kharanja from Sandeep Jangid House towards Ramsingh Nohra,",
-        "2. Contraction of cc road from Narotam Sawami House to Surolia House.",
-        "3. Contraction of cc road from Police Thana to Sultana chirawa main road."
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Water Proofing work, Plumbing and Sanitary work of Boys Hostel and Class room Profile s",
-        "2. Chain Link Fencing work at Krishi Vigyan Kendra, Sagar (2nd Call)",
-        "3. CONSTRUCTION OF PIPARIYA KARKAT PAMAKHEDI ROAD LENGTH-4.50 KM WITH ELECTRIFICATION WORK"
+        "1. Availing services of M/s Solvina India Pvt. Ltd. For FGMO (Free Governor Mode of  Opera",
+        "2. WARD 19 MAIN BALMIK SAMAJ KI BASTI KE AAGE PARK NIRMAN WORK",
+        "3. WARD 19 MAIN ALL PLACE PAR NALI AND CHANEL NIRMAN WORKS"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 35/HDA/EC-ELECT/2026 2027",
-        "2. Supply of materials for Construction of Cement Concrete Road for Community from ICDS to",
-        "3. NIeT-45 (Const.) (3rd Call)-2025-26"
+        "1. CEMENT CONCRETE ROAD FOR COMMUNITY SACHHA BHARAT MISSION BUILDING TOWARDS BAGCHARA",
+        "2. \te-NIT No 03/EE/WBSRDA/HGL/2026-27",
+        "3. Temporary Ornamentation works of Theme Pavilion of Directorate of Textiles (Handloom) a"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF PDS BULDING WITH COMPOUND WALL AT EGUMADHURAI VILLAGE IN EGUMADHURAI PA",
-        "2. Providing Borewell with Allied works in  River Bed   in Keelotivakkam Panchayat",
-        "3. TN.01/Sl.No.06/CCR DIVISION-I/Non Plan Work 2026-27"
+        "1. the Purchase of  SS  Plate",
+        "2. Purchase of Insulation Tapes",
+        "3. GF 2026-27 Hire charges of Mini Hitachi for removal of Desilted waste for North east mo"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of new bore in Ward no.22 at MCK.",
-        "2. Installation of new bore in Ward no.06 at MCK.",
-        "3. Animal Birth Control and Anti Rabies Vaccination and Deworming of Stray Dags Programme "
+        "1. UPLIFT EXISTING BUILDING OF SEWA KENDRA AT GHOROTA IN DISTT. PATHANKOT",
+        "2. SALE OF SUGAR",
+        "3. SALE OF SUGAR"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. A/Mtc. Water Supply Scheme in village Khera Khalilpur",
-        "2. A/Mtc. of Water Supply Sche 19 No. tubewells Rahimpur",
-        "3. A/Mtc. of Water Supply Scheme 19 No. Tubewells Rahimpur"
+        "1. Creation and Plantation Works under CAMPA Scheme Nissing Block",
+        "2. Creation and Plantation Works under CAMPA Scheme Assandh Block",
+        "3. Invitation for Auction of BRL Stocks and Paddy Stocks"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Paver Block road from Mangal Jani house to Jani Sahi Samaj Gruha in War",
-        "2. Construction of Paver Block road from Gotiguda Chowk to Amulya Gouda house in Ward No. ",
-        "3. Construction of Paver Block road from Prabhat Choudhry house to Banti house in Ward No."
+        "1. Holistic Development of Drain No. 7 Waterbody (Spring Tank) in Ward No. 52",
+        "2. Construction of additional class room at Birkaldihi High School in Balisankara Block",
+        "3. Construction of Road with Drain at Panidwar Village Jaripada GP"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Anganwadi Center Olhepath at Village-Olhepath GP- Chetag, Block- Baluma",
-        "2. Construction of Anganwadi Center Amarwadih at Village Panchayat Amrwadih, Block- Bariya",
-        "3. Laying of Paver Blocks around  modular toilets/modular urinal located at various sites "
+        "1. Provision of Street light 90 watt with  7 mtr tubular pole from Kharsawan main road to ",
+        "2. Replacement of security light and flood lights in different wards and buildings, Nirman",
+        "3. Repairing of 02 nos 16 mtr 9 LED Luminaris Highmast and Replacement of U.G cable in dif"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 10-2026-27",
-        "2. 09-2026-27",
-        "3. Restoration of rain damages onVarious road  under Kotkhai  Sub-Division (Rukhla Section"
+        "1. Balance work for the construction  of by Pass road",
+        "2. Restoration of rain damages on Sajaun Sari Bani Shih road Km 0/0 to 5/0. (PDNA-2023)",
+        "3. Restoration of rain damages on Boaching Lapas Rulag road Km 0/00 to 8/00.  (PDNA-2023)"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Building of Hutment at Cane Centers of Bazpur, Kashipur, Gadarpur, and Haldwani",
-        "2. Cane Transportation from Noorpur Centre",
-        "3. Cane Transportation from Mandaya Hattu CentreCane Transportation from Mandaya Hattu Cen"
+        "1. Printing Work",
+        "2. E.D.D (R) 34/2026-27",
+        "3. Supply Mini Hot Water Cane Seed Treatment Plant"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa697a54bd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f40609b4cd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Buildingless Sub-Health Centre at BHURAKATA (relocated from  BAMUNERALG",
-        "2. Construction of Buildingless Sub Health Centre at Uttar Rangapani  SC in Kamrup R  Dist",
-        "3. TNRTRD/MMPNA/26-27"
+        "1. Diversion of 132KV Lakwa-Mariani Line at Loc. No. 205C to 208A to protect the line from",
+        "2. Construction of Market Building G2 Ground Floor at Sorbhog Bazar",
+        "3. Construction of Buildingless Sub Health Centre at Uttar Rangapani  SC in Kamrup R  Dist"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Purchase of lab reagent and consumables",
-        "2. Annual Plan-Kulathoor GP 2026-27 (P.No-112)-Thumpakal Mannadikkadavu road maintenance i",
-        "3. Annual Plan-Kulathoor GP 2026-27 (P.No-110) -Improvement works of fishermen colony to m"
+        "1. DEPOSIT-Electrification -smart class room- Govt Ayurveda Panchakarma hospital Poojappur",
+        "2. INTERLINKING 11 KV OH LINE BETWEEN ANOOR AND PALLIKKAL",
+        "3. GENERAL-NCFRW-Housing colony Womens Hostel road-General Civil Work"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. construction of footpath with Rwall at different spots at Gundchubootra",
-        "2. Const of Footpath at Pathroo",
-        "3. Construction of drain with p bund near land of syed nizamud din and others at kunnel Qa"
+        "1. Construction of Deep Drain at Industrial Estate Bijbehara",
+        "2. Beating up of casualties by replacing dead plants with healthy seedlings in Gool Range ",
+        "3. REPAIR AND RENOVATIONN OF DOCTORS GOVT. RESIDENTIAL QUARTER OF DOCTORS AT PHC CHATROO"
       ]
     }
   ],
