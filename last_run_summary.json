@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-13 21:43:11",
+  "checked_at_utc": "2026-08-14 01:42:58",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair and maintenance of Staff Quarter NO 2 Type V at Sanchar Colony Aliganj Lucknow",
-        "2. Miscellaneous civil work in Postal Civil Division Lucknow",
-        "3. Conservation of water bodies"
+        "2. Conservation of water bodies",
+        "3. Miscellaneous civil work in Postal Civil Division Lucknow"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Nagar Panchayat Rajapur Ward no 13 Ram nagar me santosh yadav ke pass samarsebil plasti",
-        "2. Nagar Panchayat Rajapur Ward no 06 Rani Laxmibai nagar me pashu chikitshala ke pass sam",
-        "3. Rejuvenation of 25 Identified Ponds and 100 Community Wells in Varanasi"
+        "1. VEHICAL RATE",
+        "2. Nagar Panchayat Rajapur ward no 13 Ramnagar me satendra pandey ke pass samrsebil plasti",
+        "3. Nagar Panchayat Rajapur me aganwadi ke pass samarsebil plastic pipe line fitting nal fi"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Fixing Interlocking Paver Block Near Vega Beauty Parlor and Nimita Enterp",
-        "2. Improvement of Common Toilet and Passage at  Hanuman Prasad Building, B J  Marg in  E W",
-        "3. Construction and Removal of Ganpati Immersion pond above ground using structural steel "
+        "1. BEAT NO. 209",
+        "2. CONSTRUCTION OF REST HOUSE BUILDING AT ETAPALLI TAH. ETAPALLI DIST. GADCHIROLI",
+        "3. Improvement of water department chowky, Dr B A Road in E Ward"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Kachchaa track at mangal Vihar Garden (Jain Mandir) located in Ward No ",
-        "2. RSRTC INVITES THE TENDER FOR PURCHASE OF MS U CLIP",
-        "3. WORK-01"
+        "1. work tender 181 gp godan",
+        "2. Cleaning work on a job basis",
+        "3. CC road construction work in WNo 56"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. For the supply of newspapers and magazines to the ward libraries/offices located within",
-        "2. SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF MITIGATION MEASURES AT VARIOUS LOCAT",
-        "3. Construction of Vidisha Railway Station Madhav Ganj Chouk Main Road to Pedi School, Cha"
+        "1. SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF MITIGATION MEASURES AT VARIOUS LOCAT",
+        "2. STRENGTHENING OF GULLASH TO HANDIA VIA NANDRA SE AADAMPUR JUGARIYA ROAD LENGTH 12.90 KM",
+        "3. 22/MAIN GATE AT TB HOSPITAL"
       ]
     },
     {
@@ -62,17 +62,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBPHED/EE/TD/NIeT_10/2025-2026 (2nd Call)",
-        "2. I/804188/2026(E-1487143)",
-        "3. PMN/NIT/77/25-26/PMZP/PM,SL-26"
+        "1. NIeT-25/AD/26-27/02",
+        "2. WBPHED/EE/TD/NIeT_10/2025-2026 (2nd Call)",
+        "3. Construction of concrete road"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Mini CSC",
+        "2. Providing of CC Road at Jawager Nagar Mariyamman Koil 3rd Street in Kilkuppam Panchayat",
+        "3. Annual Maintenance for 10 Nos of Public Toilet 12 Months in Ward No 5,7,8,9 and 23 East"
+      ]
     },
     {
       "name": "Punjab",
@@ -91,8 +95,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair, Painting and White Washing and Repair of Tiles and Sanitary Works at HSVP Staff",
-        "2. Reshelling  of Mills Rollers",
+        "1. Reshelling  of Mills Rollers",
+        "2. Repair, Painting and White Washing and Repair of Tiles and Sanitary Works at HSVP Staff",
         "3. Providing and fixing of Open Gym in various Parks of Ward No.03, Division-IV, Faridabad"
       ]
     },
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance to RD road to Potesh road in Kashipur Block for the year 2026 27",
+        "1. Maintenance to PWD Road  Kakarmuska road in B Cuttack Block for the year 2026 27",
         "2. Maintenance to Bankambo  Badajore road in Kashipur Block for the year 2026 27",
-        "3. Maintenance to PWD road  Pinda road in Kolnara Block for the year 2026 27"
+        "3. Maintenance to RD road to Kanjakana road in Kashipur Block for the year 2026 27"
       ]
     },
     {
@@ -113,8 +117,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 09 Seater toilet in nurse colony back side of home guard ground Ward No",
-        "2. Construction of 09 Seater toilet in patel field dhurwa Ward No-39 under RMC (PT)",
+        "1. Construction of RCC Drain with Slab Cover in Beldar Mohalla  Near Jain Mandir under war",
+        "2. Construction of 09 Seater toilet in hadsar saran sthal near judicial academy dhurwa War",
         "3. Construction of 09 Seater toilet near loyola school purulia road Ward No-17 under RMC P"
       ]
     },
@@ -135,8 +139,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Biomining and Bioremediation of Legacy Waste Including Deep Vally Material Lifting at N",
-        "2. Procurement of Printer Photocopier cartridge for various office at Tiloth Power House U",
+        "1. Procurement of Printer Photocopier cartridge for various office at Tiloth Power House U",
+        "2. Biomining and Bioremediation of Legacy Waste Including Deep Vally Material Lifting at N",
         "3. re tender for printing and supply of mark sheets, degree/diploma certificates, tabulati"
       ]
     },
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f2707ac8350>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f05f22941d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Digitization and Implementation of DMR Tier II system in Northern Cluster",
+        "1. SITC of Split Air Conditioners (8Nos) and Allied Electrical Works at School of Family H",
         "2. GENERAL Budget Work 2024 25  Substitution  Providing BM  BC  Kodinattkunnu Kailathpady ",
-        "3. SITC of Split Air Conditioners (8Nos) and Allied Electrical Works at School of Family H"
+        "3. Digitization and Implementation of DMR Tier II system in Northern Cluster"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FINDC2627102459-(C O MAIN GATE AND WALLING AROUND PANCHAYAT GHAR AT KUCHMULLA TRAL)",
-        "2. C/O ROAD FROM THE LAND OF AB.GANI HAJJAM TO THE LAND OF JAVAID AHAMD LONE\t710",
-        "3. FINDC2627101575 Constt of first floor of BDO office with allied works and remaining wor"
+        "1. Construction of Boundary wall at Primary School Dhanu Under Samagra Shiksha (PAB 2025-2",
+        "2. Permanent Restoration of road From Sagra to Ghani Tehsil Mankote District Poonch.",
+        "3. Restoration of Damaged Lane at Dakki Bazar,Rajouri,ward no 07."
       ]
     }
   ],
