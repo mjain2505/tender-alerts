@@ -1,27 +1,27 @@
 {
-  "checked_at_utc": "2026-08-14 13:00:24",
+  "checked_at_utc": "2026-08-14 15:50:24",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Misc. work at Various Sports Complex under CE (Project).",
-        "2. S.I.T.C. of Fire Detection and Alarm System under fire safety precautions at Surat Head",
-        "3. Miscellaneous contract for handling and charging of Ammonium Sulphate / urea crystals/g"
-      ]
+      "tenders_seen": 0,
+      "status": "0 results (check URL / site structure)",
+      "sample_titles": [],
+      "diagnostic": {
+        "final_url": "https://eprocure.gov.in/Announcement.html",
+        "status_code": 200,
+        "html_length": 1676,
+        "page_title": "Under Maintenance",
+        "total_links_on_page": 0,
+        "sample_links": []
+      }
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Supply Laying and Jointing of 300mm dia Sewer Line 170 Mtr Long  from Sri Akash Gupta G",
-        "2. RCC drain, RCC slabs, and interlocking relay road work from Jagjivan house to Sagar Cha",
-        "3. WORK"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Sant Dnyaneshwar Mauli 750 Jayanti Cultural Programe Pune 2026",
-        "2. Vidyut Purvatha Pathdive Material",
-        "3. e-Tender for Providing Technical Manpower Services for IT Facilitation Cell (e-Office, "
+        "1. Pr.Kr.16D madhye open gym basavane.",
+        "2. Pr.Kr.16 D madhye vividh thikani bhintivar swachhata abhiyan mohime antargat panirodhak",
+        "3. Miscelleneous Work of Artifical Pond and Other Arrangements at Cement Garden for CGS Se"
       ]
     },
     {
@@ -40,21 +40,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Interloking Repair Work At Various Plases In Ward0 No 01 To 35 In Municipal Area Rate ",
-        "2. Different Type Of Work At Nagarpalika Area Under Swach Servakshan 2026, Rate Contract J",
-        "3. Refreshment 1255"
+        "1. CONSTRUCTION OF DRAIN and CROSSING IN BAPU NAGAR SCHEME AND NEARBY AREA (ARC)",
+        "2. Annual Maintenance of Dividers and Green Belt Plants at Gourav Path in Zone-3",
+        "3. ANNUAL MAINT. OF DIVIDERS ZONE - 2"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Commercial Plot No. 12 (First Floor), adjacent to the main gate of the municipal filter",
-        "2. Commercial Plot No. 13 (First Floor), adjacent to the main gate of the municipal filter",
-        "3. Commercial Plot No. 4 (First Floor), adjacent to the main gate of the municipal filter "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Girls Toilet at  RAJPUR HIGH MADRASAH (19132108802)",
-        "2. Construction of Girls Toilet at  BENACHAPRA PRY SCHOOL",
-        "3. Construction of Girls Toilet at  BRAHMANDANGA PS"
+        "1. NIeT No- WB/BDO/SMDB/VB-G RAM-G /06/2026-27/SL 35",
+        "2. NIe-T- 25/2026-27 (Sl. No.- 05)",
+        "3. Construction for repairing work of Ranipur pry school  under Md Bazar Panchayat samity,"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AlanganallurTown Panchayat Improvement of existing Community hall at Valasai Ward.13 Al",
-        "2. Repairs to the Kitched Shed at PUM School Campus in Keel Esalpatti H/o. Maniyathahalli ",
-        "3. Procurement of Imported Limestone on Stock and Sale basis for Unit - 1, Kagithapuram an"
+        "1. Annual Maintenance for 8  Nos of  Public Toilets  (12 Months )  in  Ward No.  26,27,28 ",
+        "2. Annual Maintenance for 12  Nos of  Public Toilets  (12 Months )  in  Ward No.  2,3 in N",
+        "3. Annual Maintenance for 12  Nos of  Public Toilets  (12 Months )  in  Ward No.  4,10,19,"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC of Block Digester",
-        "2. Rooftop rainwater harvesting works",
-        "3. Tender for providing diet to Players of Block Level Tournament under Kheda Watan Punjab"
+        "1. Repair and Renovation of Basant Park",
+        "2. Providing and installation of street lights in North Constituency",
+        "3. Laying RMC M-30 in Different Streets of Prem Nagar Part-II in ward no.76."
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Nissing Town - Replacement ...",
-        "2. Barona- DNIT for Renovatio...",
-        "3. BWN/Rs.691.45Lacs/Special reapir for constrcution of Tosham Bye pass connecting Tosham "
+        "1. E-Tender for selection of O and M cum Marketing partner  at Radaur Haryana",
+        "2. Relaying of interlocking tiles in Hanuman Nagar, Gali No. 3 (Saraswati School Wali Gali",
+        "3. Supply of Potable Water Tanker with motor 5000 ltr capacity in ward no 33 Faridabad"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RD road to Dudungpada_Road_Pot hole repair and and SDBC_0.000 to 0.855",
-        "2. SH-10 to Jangali_Road_Pot hole repair and and SDBC_0.000 to 1.864",
-        "3. SH 10 to Bagbud_Road_Pot hole repair and and SDBC_0.000 to 2.430"
+        "1. Construction of Staff and Girls Common room in Rajdhani College at Bhubaneswar  Buildin",
+        "2. Construction  of internal Road , RCC drain and Toe wall of M.K.C.G M.C and H from Medic",
+        "3. Improvement such as widening and strengthening of Hindol railway station road from 0/00"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of State of Art District Library Gumla  Located in Gumla District of South",
-        "2.  Construction of State of Art District Library Palamu  Located in Palamu  District of P",
-        "3. Construction of State of Art District Library East Singhbhum Located in East Singhbhum "
+        "1. Construction of 09 Seater toilet in Sindwar Toli Ward No-03 under RMC (PT)",
+        "2. Construction of 09 Seater toilet in Sarna Toli Ward No-02 under RMC (CT)",
+        "3. 55262-002-IND Jharkhand Action for Generating Responsive and Inclusive Transformations "
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and restoration of rain damages on Banoha Kulwari road.",
-        "2. Proposed Community Bhawan  at Massour Tehsil Ghumarwin.",
-        "3. Repairing,Testing and Safe delivery of 3-Phase 50cycle outdoor type oil immersed natura"
+        "1. Restoration of rain damages on Kuthera Dugli Tasli road.",
+        "2. Restoration of rain damages on link road kuthera to Talwara",
+        "3. Restoration of rain damges on Patta Morsinghi road."
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 20/EDD(B)/2026-27",
-        "2. 21/EDD(B)/2026-27",
-        "3. 22/EDD(B)/2026-27"
+        "1. Construction of Noula to Sall Motor Road Under State Sector in District Almora",
+        "2. Damarikaran work in Kathpudiya Bangsar Motor Road under Someshwar Constituency of Hawal",
+        "3. Patch repair work in Km.1 to 3 Km. 9 to 12 Km. 14 to 16 and Km. 18 Km. 21 Km. 22 of Bet"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd6bc15c850>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f69546045d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DEPOSIT-Supply and installation of Wi-Fi system at Gov. Ayurveda hospital Koyonkara- Su",
-        "2. Annual Plan-2025-26 PROJECT NO 532/26 RENOVATION OF SIDE PROTECTION WALL OF MAILI THOD-",
-        "3. Supply Installation Testing and Commissioning of Atomic Absorption  Spectrophotometer f"
+        "1. Construction of New Building for JAK Nedumkaitha, Trivandrum",
+        "2. DEPOSIT Medical College Hospital Thiruvananthapuram Renovation and Upgradation of Air c",
+        "3. Construction of New Building for JAK KK Vanam, Trivandrum"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dev of Ground Nai Mohalla nlo asgar butt w 6 Pyt Shangroo Block Bhalla (PRI Grant)",
-        "2. Laying of floor tiles at HS Pranoo Pyt Pranoo Block Bhalla (DDC Grant)",
-        "3. Tile work at lower sharote Pyt Sharote Block Thathri (PRIs Grant)"
+        "1. RDDDC2627105002 CONSTRUCTION OF RETAINING WALL TO LANE ROAD NEAR LAND OF GH MOHD RATHER",
+        "2. RDDDC2627105848-(IMP. OF LANE FROM MAIN ROAD TO HO NAZIR AH BHAT AND DRAIN FROM HO AB R",
+        "3. Tile work near house of Amir Shabbir Pyt Dhareja Block Bhaderwah (DDC Grant)"
       ]
     }
   ],
