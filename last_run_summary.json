@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-16 09:25:03",
+  "checked_at_utc": "2026-08-16 12:33:42",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. (LINE 26) Ward No.- 01 Construction of Interlocking road and U- type both side RCC drai",
-        "2. (LINE 28) Ward No.- 12 Construction of Interlocking road and U- type both side RCC drai",
-        "3. (LINE 27) Ward No.- 05 Construction of Interlocking road from Rajesh House to Rauf Hous"
+        "1. Civil Work SFC 47",
+        "2. Civil Work SFC 48",
+        "3. Civil Work SFC 46"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Installation, Commissioning and Testing of Tractor 55 HP 2 WD And Trailor 5 Ton",
-        "2. Supply, Installation, Commissioning and Testing of Automatic Silage Baler 3.5 TPH",
-        "3. SURVEY, DESIGN, FABRICATION, SUPPLY, INSTALLATION, TESTING and COMMISSIONING OF TOTAL 3"
+        "1. Cleaning and Grading Unit 2 tph",
+        "2.  cleaning and grading unit 2 tph and platform scale",
+        "3. Survey, Design, Fabrication, Supply, Installation, Testing and Commissioning of Total 5"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 3 Gopal Ji Master Ki Dhani Se Tejaji Maharaj Tak C C Block Nirman Karya Kumawatpura Gra",
-        "2. Repair and Maintance of 8 ton air Conditioner Fixed at MCH Building Distt.-Sawai Madhop",
-        "3. 2 Gram Charanwas Me Rajkiya Uchh Prathmik Vidhyalaya Ke Saamne Sthit Shamshan Bhoomi Me"
+        "1. Repair work of Non Residential Building in Dn Sanchore",
+        "2. Strengthening of Existing School Work at GSS HIRAPATH MANSAROVAR, JAIPUR WEST, JAIPUR",
+        "3. Major Repair Work At MAHATMA GANDHI GOVT SCHOOL  MODI KHANA, JAIPUR WEST, JAIPUR"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Supply, Erection, Testing and Commissioning of Control and Relay Panel for 220 132 KV, ",
-        "2. NIT NO. - 02/VB-G RAM G/BDO/PANCHLA/2026-2027 SL-1",
-        "3. NIT NO. - 02/VB-G RAM G/BDO/PANCHLA/2026-2027 SL-2"
+        "2. NIT NO. - 02/VB-G RAM G/BDO/PANCHLA/2026-2027 SL-2",
+        "3. NIT NO. - 02/VB-G RAM G/BDO/PANCHLA/2026-2027 SL-1"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Annual Tender 2026-2027, Supply And Delivery Of Water Supply Meterial in Markkayankotta",
-        "2. Supply And Delivery of Chlorine in  Markkayankottai Townpanchayat",
-        "3. Supply and Delivery of Street light meterials in Markkayankottai Townpanchayat"
+        "2. Annual Tender 2026-2027, Supply and Delivery of Public Health Stock Meterial in Marikka",
+        "3. Supply And Delivery of Chlorine in  Markkayankottai Townpanchayat"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "sample_titles": [
         "1. SELECTION OF AGENCY  Manual and Mechanized Road Sweeping in Cluster-II, MC Gurugram are",
         "2. SELECTION OF AGENCY  For Manual and Mechanized Road Sweeping in Cluster-I, MC Gurugram ",
-        "3. Amtc of EPHS in sector 20 U..."
+        "3. Amtc of EPHS in sector 18-I..."
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 5.\tConstruction of pcc road from three way junction in village Mahuliya to the Communit",
-        "2. 3. Construction of PCC Road from house of  Nasruddin Ansari  to Bhachhua river in villa",
-        "3. 2.\tConstruction of pcc  road from Karauna Nala Jhajwa to house of Ramvriksha pal in vil"
+        "1. Construction of PCC road from  house of  Prithi Prajapati  to house of Mundrika Choudha",
+        "2. 4.Construction of PCC Road from Bharat Pahari main road to house of Bachchu singh in Vi",
+        "3. 3. Construction of PCC Road from house of  Nasruddin Ansari  to Bhachhua river in villa"
       ]
     },
     {
@@ -128,8 +128,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of Rain Damages on Rulehar to Lam  Raod Km 0/00 to 3/810.",
-        "2. A/R and M/O Link road Tal Mata Mandir Road KM 0/00 to 1/500 (Black Spot)",
+        "1. A/R and M/O Link road Tal Mata Mandir Road KM 0/00 to 1/500 (Black Spot)",
+        "2. Restoration of Rain Damages on Rulehar to Lam  Raod Km 0/00 to 3/810.",
         "3. Special Repair work proposal for deployment of Machinery for clearance of road during r"
       ]
     },
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f2372320dd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9c80c1fa90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 99 Sasthamkavu kudavoor road",
-        "2. NCFRW VILANGAD MADANCHERI ROAD VANIMEL GP",
-        "3. NCFRW MILLU MUKKU POOKKOTTUMUKKU KATTARALI THAZHA ROAD IN CHEKKIAD GP"
+        "1. NCFRW VILANGAD MADANCHERI ROAD VANIMEL GP",
+        "2. 158 Improvements of Mullamangalam road in ward 17",
+        "3. 98 Muttukonam kandukrishi road renovation in ward 5"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of Bunkhah Road via WBM Soling Mettling and Surface Dressing at Watrad",
-        "2. Constructiion of drain protection bund near land of Reyaz Kirmani Mithamam Mehraj Kirma",
-        "3. Construction of bathroom near Masjid e Sharif Khan Mohla Riyar Beeru"
+        "1. Channel Fencing Near Lower Masjid Sharief Puneja Ward 4 Pyt Sungli Block Bhaderwah (PRI",
+        "2. Construction of road by way of grade 2nd metaling at pati Mohallah Gojithaj",
+        "3. Development of graveyard Najar Mohallah by way of fencing at checkshera"
       ]
     }
   ],
