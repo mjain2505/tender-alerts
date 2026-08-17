@@ -1,20 +1,16 @@
 {
-  "checked_at_utc": "2026-08-17 18:35:45",
+  "checked_at_utc": "2026-08-17 21:23:50",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)",
-      "sample_titles": [],
-      "diagnostic": {
-        "final_url": "https://eprocure.gov.in/Announcement.html",
-        "status_code": 200,
-        "html_length": 1676,
-        "page_title": "Under Maintenance",
-        "total_links_on_page": 0,
-        "sample_links": []
-      }
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. M/O Various colonies under South Zone.",
+        "2. M/O Competed Scheme under NA-II, South Zone",
+        "3. M/O Competed Scheme under NA-II, South Zone"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -22,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work no 02 and name is as per BoQ and nit no is 352/duda/nivida/2026-27 Date 14-08-2026",
+        "1. Work no 06 and name is as per BoQ and nit no is 352/duda/nivida/2026-27 Date 14-08-2026",
         "2. Work no 08 and name is as per BoQ and nit no is 352/duda/nivida/2026-27 Date 14-08-2026",
-        "3. Work no 07 and name is as per BoQ and nit no is 352/duda/nivida/2026-27 Date 14-08-2026"
+        "3. Work no 02 and name is as per BoQ and nit no is 352/duda/nivida/2026-27 Date 14-08-2026"
       ]
     },
     {
@@ -35,7 +31,7 @@
       "sample_titles": [
         "1. Beat No 175 Councillor Fund",
         "2. Appointment of an agency for catching stray dogs in the city and rehabilitating them at",
-        "3. Beat No 180 Councillor Fund"
+        "3. Beat No 175 Councillor Fund"
       ]
     },
     {
@@ -44,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 26 - REMAINING WORK IN SCHOOL UNDER RMSA 2018-19 at GSSS BHAGAL II, BLOCK - Nimbahera, ",
-        "2. Supply, Erection, Testing and commissioning of material for the work of 33KV 10.00km D/",
-        "3. RAJKIYA UCHH PRATHMIK VIDHYALYA ME DOM NIRMAN KARYA NARSINGH GARH"
+        "1. GRAM GHATERA ME RAJKIYA PRATHMIK VIDHYALYA ME DOM NIRMAN KARYA",
+        "2. 25 - REMAINING WORK IN SCHOOL UNDER RMSA 2017-18 at GPS MALYAKHERI, BLOCK - Nimbahera, ",
+        "3. SIWREG LINE NIRMAN KARY BHAIRARAM/TOLARAM SONI KE GHAR SE COPRETIVE BANK HOTE HUE PIPAL"
       ]
     },
     {
@@ -55,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Drain at ward no. 08 Usman amjad to sikandar bazar ranka ji and Vasim h",
-        "2. Construction of Cement Concrete Road (Service Road) at Readymade Garment Park Gwalior",
-        "3. Tender for hiring of Vehicle Will Be Running on Datia Type F3 Mini Pickup Double cabin "
+        "1. Construction Of C.C. Road Work At Mains To Muktidham To Sarkar Babu, Ward No. 12,  KEMO",
+        "2. T-942/MPPHSCL/Physiology Equipment set-1/QC/2026, Dated-  17-08-2026",
+        "3. Construction of Cement Concrete Road (Service Road) at Readymade Garment Park Gwalior"
       ]
     },
     {
@@ -66,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/ULB/KHARAGPURNIT/57eWL",
-        "2. WBMAD/NIeT/18/BM/26-27/PWD/3rd",
-        "3. BENFISH/MD/NIT-06(e)/2026-27"
+        "1. WBMAD/NIeT/18/BM/26-27/PWD/3rd",
+        "2. BENFISH/MD/NIT-06(e)/2026-27",
+        "3. WBMAD/ULB/KHARAGPURNIT/57eWL"
       ]
     },
     {
@@ -77,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Genguvarpatti Town Panchayat  Theni District MP Fund 2026 2027",
-        "2. Improvement of Strom Water Drainage at Thattangadu Dhayalan House to Pasumainagar at Wa",
-        "3. Operation and Maintenance of Delivery valve of Inside the over head tank including open"
+        "1. Z.O.IV.C.No.B3/0003/2026-7 Restoration of CMWSSB Roadcut at Patel Ngr. 3rd St, Durga de",
+        "2. Z.O.IV.C.No.B3/0003/2026-1 Restoration of CMWSSB Roadcut at Chinna Sekkadu to Andal Nag",
+        "3.  Additional Works For Paverblock,Construction of Security Room,Dining Hall Painting and"
       ]
     },
     {
@@ -89,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. E TENDER FOR DELIVERY OF LPG CYCLINDER",
-        "2. Labour Contract for loading/unloading Marked Depot Jalandhar",
-        "3. Corrugated Boxes different sizes."
+        "2. Corrugated Boxes different sizes.",
+        "3. Labour Contract for loading/unloading Marked Depot Jalandhar"
       ]
     },
     {
@@ -99,8 +95,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and fixing of galvanized Powder Coated Welded Mesh Fence Panels for protectio",
-        "2. REQUEST FOR PROPOSAL",
+        "1. REQUEST FOR PROPOSAL",
+        "2. Providing and fixing of galvanized Powder Coated Welded Mesh Fence Panels for protectio",
         "3. Providing and fixing of gal..."
       ]
     },
@@ -110,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Academic Building at Kamakhyanagar college for the year 2025-26",
-        "2. Construction of H.L. Bridge over Local Nallah on Pingu to Chitraposi via Pokharia road",
+        "1. Construction of H.L. Bridge over Local Nallah on Pingu to Chitraposi via Pokharia road",
+        "2. Construction of Academic Building at Kamakhyanagar college for the year 2025-26",
         "3. Redevelopment of Rajmahal under Flyover Bhubaneswar"
       ]
     },
@@ -122,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. CONSTRUCTION OF HYDT IN DIFFERENT SVS UNDER EGYARKUND BLOCK",
-        "2. CONSTRUCTION OF HYDT IN DIFFERENT SVS UNDER NIRSA BLOCK",
-        "3. CONSTRUCTION OF HYDT IN DIFFERENT SVS UNDER GOVINDPUR BLOCK"
+        "2. CONSTRUCTION OF HYDT IN DIFFERENT SVS UNDER GOVINDPUR BLOCK",
+        "3. CONSTRUCTION OF HYDT IN DIFFERENT SVS UNDER NIRSA BLOCK"
       ]
     },
     {
@@ -134,7 +130,7 @@
       "sample_titles": [
         "1. Leasing Out Newly Constructed HP.PWD Rest House near Dhanotu chowk under HPPWD Gohar Di",
         "2. C/o Rest House near Dhanotu Chowk in Tehsil Sunder Nagar Distt. Mandi(H.P) SH Providing",
-        "3. RR Damages"
+        "3. RR Damages on Fithu Ka Parua"
       ]
     },
     {
@@ -143,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Flood Protection work Of Gram Jakhana, Toli, Tingarh, Kot Bishan Inter College and Lok ",
-        "2. Renovation of 02 No Canals (Bonga Canal and Kothiyada Canal) Damaged By Motor Roads in ",
-        "3. Establishment of Next Generation Security Operation Centre NG SOC and Network Operation"
+        "1. Establishment of Next Generation Security Operation Centre NG SOC and Network Operation",
+        "2. Flood Protection work Of Gram Jakhana, Toli, Tingarh, Kot Bishan Inter College and Lok ",
+        "3. Patch repair work on the Tawaghat-Narayan Ashram motor road (Major District Road) at ki"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efe3b6c5a10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4c0b338e50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -172,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MP-LADS-2025-26Construction of Palakkalvetta Paloorkuzhi padam roadpathway Ward No03 Tu",
-        "2. Annual Plan-ANGANAWADI JANASHAKTHY ROAD MAINTENANCE WARD -6-MUHAMMA.G.P",
-        "3. Pro no 88/26-27 Maintanence of Ezhipadam Transformer Road-Purathur GP-Maintanence of Ez"
+        "1. Auction of Teak wood at Palakkonam Booster PH",
+        "2. CONSRUCTING 11KV OH LINE WITH COVERED CONDUCTOR FROM KOOROPPADA TO SHIVAJI DTR (CW-5749",
+        "3. O and M Water Supply Schemes BAWSS to Kundara Adj Pt Supply of 10 HP open well submersi"
       ]
     },
     {
@@ -183,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Pakhwara Kandi-Belt ",
-        "2. Procurement of Key Materials for MGNREGA Works For Panchayat HalqaChanumRafiabad",
-        "3. CONSTT  OF P BUND NEAR EIDGAH HARDSHOORA P/H HARDSHOORA  BLOCK WAILOO  UNDER ADP (PRI) "
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat HalqaNowporaA Sopore",
+        "2. Const of P work near Community hall at w.no.6.Tuli Upper B Pyt Tuli Upper-B Block Chass",
+        "3. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Gund Ibrahim A SINGH"
       ]
     }
   ],
