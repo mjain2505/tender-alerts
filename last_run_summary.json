@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-18 15:30:01",
+  "checked_at_utc": "2026-08-18 18:34:25",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender for supply of Rock Phosphate",
+        "1. M/o office building  under North Zone.",
         "2. Deployment of machinery and labour for various demolition/ sealing programmes in North ",
-        "3. M/o office building  under North Zone."
+        "3. Tender for supply of Rock Phosphate"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC of DG Set 40 KVA in Rampur Maniharan Inspection House District Saharanpur",
-        "2. 20/EDC(G)/2026-27",
-        "3. Replacement of  Damaged Transformer under EDD Ghosi"
+        "1. Investigation Survey (On G.I.S. Basis) Construction of Interception Diversion works wit",
+        "2. 21/EDC(G)/2026-27",
+        "3. 20/EDC(G)/2026-27"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Minor civil repair to BMC Pay and Park, Kinjal Tower, Pais Street in E Ward",
-        "2. Proposed work of ganesh ustav works including supplying tractor trolly and Bamboo barac",
-        "3. Selection of a System Integrator (SI) for Pilot Deployment of the AI Investigation Plat"
+        "1. Demolishing of toilet block and Improvement of Passage at D.P wadi, Keshavrao borkar ma",
+        "2. praposed various work of ganesh utsav and Navratri utsav 2026-27 at miraj",
+        "3. Repairs of Maintenance Parking gate and Shed at BMC Office In G/South Ward."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work of catching stray cattle in Dausa Municipal Council on rate contract",
-        "2. Waste Collection and Segregation Centre (RRC) Gram Panchayat Botunda",
-        "3. Rehabilitation of Various roads PWD Dn. Amet Package No. RJ-27- 04- 5054/NP/Amet/ 2026-"
+        "1. 6.Construction Work of CC Brick Interlocking Kharanja on Main Road to Bacchhu s/o Deshr",
+        "2.  Migration Support Centers",
+        "3. 3.Repair and Renovation Work in Jawan mesh at Police Line Bharatpur"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. T-944/MPPHSCL/A Scan Bio Meter and Five Step Slit Lamp with applanation tonometer/RC/20",
+        "1. Development of Chhidav Ghat at Nagar Palika Parishad, Gadarwara",
         "2. Construction of 02 Nos Aaganwadi in Subhash Ward and 01 Nos Aaganwadi in Mata Ward, Nag",
-        "3. Development of Chhidav Ghat at Nagar Palika Parishad, Gadarwara"
+        "3. Annual maintenance of MPPGCLs private railway siding from Surgaon Banjari to Bir (60 Kg"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/NIeT/29/BM/2026-27/PWD",
+        "1. NIT No- 348/PWD/ROAD/BMC , Dated- 18/08/2026",
         "2. ECSC/Sugar/2026/299Sugar",
-        "3. ECSC/FP/2026/527 Flour"
+        "3. NIT No- 349/PWD/ROAD/BMC ,  Dated- 18/08/2026"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. General Fund 2026-2027 Providing metal beam crash barrier 14th Ward Paraseri Bhagathsin",
-        "2. Z.O.IV.C.No.B3/2864/2026 Additional Improvement work to Existing Kitchen Cluster at Sig",
-        "3. East New Borewell Work in sendamangalam Town Panchayat"
+        "1. General Fund 2026-2027 Providing cement concrete pavement at 7th Ward Puthukattuvilai r",
+        "2. ETS No 18/26-27 of SE GCC Cbe",
+        "3. ETS No 19/26-27 of SE GCC Cbe"
       ]
     },
     {
@@ -85,16 +85,20 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing 40 Mbps Internet Connectivity Leased Line (1.1 Uncompressed and Unshared with",
-        "2. Construction of Roomm at Shiri Vishawkarma Educational and well fare Sabha",
-        "3. Construction of Ravidass DharamShala Peer Khana Road Ravidass Puri"
+        "2. Construction of Ravidass DharamShala Peer Khana Road Ravidass Puri",
+        "3. Construction of Roomm at Shiri Vishawkarma Educational and well fare Sabha"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply of High Quality Plants of Eucalyptus Clone No. P-23 413 288 71 FRI-FSC-11 7 FRI-",
+        "2. Forestry Work CA creation",
+        "3. Forestry Work CA creation"
+      ]
     },
     {
       "name": "Odisha",
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of CHC Buildings at Agalpur under Ama Hospital",
+        "1. Construction of 12 nos E-Type Qtr (G plus 2) at CHC Lohisinga",
         "2. Upgradation of CHC Buildings at Jamgaon under Ama Hospital",
-        "3. Construction of 12 nos E-Type Qtr (G plus 2) at CHC Lohisinga"
+        "3. Construction of 150 Seated Ladies Hostel at Government Ayurvedic College and Hospital D"
       ]
     },
     {
@@ -114,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Boundary wall UPG P.S. Chilhiya Village- Chilhiya, Panchayat- Tulbul, B",
-        "2. Construction of Boundary wall UPG M.S. Donda Garha Village- Donda Garha, Panchayat- Jam",
-        "3. Construction of Boundary wall UPG M.S. Kathautia Village- Kathautia, Panchayat- Madgara"
+        "2. Provision of Motorcycle parking shed in front of JBVNL HQ at Engineering Building HEC D",
+        "3. Proposed New OPD Block Augmented from the existing New PG Blocks at S.N.M. Medical Coll"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of Rain damages to various hand pumps under the Scheme to ensure potable wa",
-        "2. Renovation of Churu and repairs of existing storage tank at Kharadu Bag, Ward No. 1 Man",
-        "3. C/O link road Dandhal to Kolka road Km 0/0 to 2/00 (SH-Metaling and Taring at RD 0/00 t"
+        "1. Construction of Protection wall to protect path near House of Sh. Prem Lal AND Sh. Dhar",
+        "2. Annual repair and maintenance of District Ayurvedic Hopital Panchkarma Department at Di",
+        "3. Restoration of Rain damages to various hand pumps under the Scheme to ensure potable wa"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6d83bc23d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f672828d390>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of shamshanghat via fencing , shed, tilepath at DS singhan at K.Saraie AND ",
-        "2. FINDC2627101561 Co Borewell near jamia masjid shareef achgoza Block Achgoza",
-        "3. Construction of B/Path Banjar to Phulwari Wali Pyt. Hari Upper-A  Block Surankote Under"
+        "1. Construction of Drain from Gousia Masjid Sharief to Mohd Shaban Hajam at kralgam Ladden",
+        "2. P/ Path UPS Thatha towards HO Abdul Rashid Ganie W NO 4 Pyt Chakka A2 Block Assar (PRIs",
+        "3. Construction of Boundary Wall of Graveyard Beli Nr. Masjid Pyt. Hari Upper-A  Block Sur"
       ]
     }
   ],
