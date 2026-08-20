@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-20 12:42:26",
+  "checked_at_utc": "2026-08-20 15:31:38",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Installation of VRF Air Conditioner in Basic Electronics Lab (ECED)",
-        "2. Maintenance of Arboriculture Assets at Technical Areas (Zone-4) RCI, Hyderabad",
-        "3. PROVISION OF HARD STANDING FOR PARKING OF SPECIALIZED VEHICLE AT NGO TRANSIT FACILITY, "
+        "1. Upgradation of existing 40 MT capacity lorry weighbridge in to 60 MT by way of SITC of ",
+        "2. SS/ C050-000-81-47-CE-T-8112/1016 - PILING WORKS FOR UNIT  AND OFFSITE  FOR POLYPROPYLE",
+        "3. Consultancy Services for Preparation of DPR for OTI of Following Stretches, Pawai, Kait"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Janpad Nyayalaya Sultanpur ke antargat Mananiya ADJ ke shesh bache 09 Adad Nyayalaya Ka",
-        "2. Janpad Nyayalaya Ayodhya ke 24 Kashiya Nyayalaya Bhawan me Apar Jila Nyayadhish Court e",
-        "3. Mananiya Janpad Nyayalaya Barabanki ke Jila Nyayadhish/Apar Jila Nyayadhish Nyayalaya K"
+        "1. TD-550/26",
+        "2. Treatment of drains by Bio-remediation or any other non-conventional innovative and pro",
+        "3. TD-549/26"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Beautification of shreeganeshghat for idol immersion at sanjay Gandhi nagar Ulhasnagar-",
-        "2. IMP OF P AND D SYSTEM AT DATTA KRUPA CHAWL GHARTANPADA NO.2 BEAT NO.4 R/N WARD.",
-        "3. Repairing of Open Shed"
+        "1. Hiring and arrangement of waterproof mandap and Other Facilities at Juhu Beach Sagar Ku",
+        "2. Hiring and arrangement of waterproof mandap and Other Facilities for Municipal Staff fo",
+        "3. NA...M and R to Roads and Street Light in Kudal Industrial Area.. Annual maintenance of"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 50 KL GLR at Near Sunari Johari Babji Ashram Village Jejusar Under PHED",
-        "2. CONSTRUCTION OF TUBEWELL  AND PIPE LINE WORK CHANCHALYI TO DHOLI MANGRI  VILLAGE DHAYLA",
-        "3. Providing, laying and jointing of GI Pipe line at WSS Doomra"
+        "1. Lift work in Construction of Swami Vivekanand Boys Hostel at MSBU, Bharatpur (Kumher)",
+        "2. SOUND ARRANGEMENT FOR ELECTION",
+        "3. Construction of interlocking drain for cleanliness and sludge disposal from Ramdayal Lo"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FOR SUPPLY AND INSTALLATION OF PRE-FABRICATED STEEL STRUCTURE  (YATRI-PRITIKSHALAYA) AN",
-        "2. Hiring of Vehicles at Jila Jail Shahdol Dist Shahdol",
-        "3. CONSTRUCTION OF C.A.P.(SIZE 80X30 M) I/c INTERNAL ELECTRIFICATION AND C.C. ROAD AROUND "
+        "1. Procurement and Erection of Rigid type Discharge Electrode made of formed pipe with fix",
+        "2. RCC flooring work for newly proposed electrical site store near TP-3A of CHP-IV at STPS",
+        "3. Construction of Pots, Electric Pole Pedestal, Laying of Paver Block and Railing work fr"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SONAJHURI PLANTATION AT MOUZA- CHOTOPALASHI, BARAKALA, BARARATHIDANGA, SANKHAKHUILYA",
-        "2. NIe-T- 35/2026-27 (Sl. No.- 13)",
-        "3. NIe-T- 35/2026-27 (Sl. No.- 05)"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NCTPS I Operation Circle CMP Dn Annual maintenance contract fo KAREL make IPG 1000 Expa",
-        "2. construction  of Plastic Storage Shed in Pethakallupalli at Pethakallupalli Package 06",
-        "3. SUPPLY OF LIGHT COVER AND ASSEMBLY ITEMS"
+        "1. Annual maintenance of Parks for 12 Months (7 Nos) in Ward No 51,60 East Zone",
+        "2.  Annual Maintenance of Parks for (11 Parks) 12 Months in Ward No 38 West Zone",
+        "3. Permanent diversion of existing 250mm deep gravity sewer main at Jawahar Road by rerout"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Transportation through trucks from khanna plant to various destinations in and out of P",
-        "2. Leasing Canal Rest House of Chakmir pur",
-        "3.  ReliningLining of Watercourse by Brick masonary of Outlet RD 8139L of RamgarhDisty Vil"
+        "1. Regarding enhancement of greenary and beautification of company bagh 1666690/-",
+        "2. Regarding depolyment of 50 Gardeners/Beldars at Ram Bagh (Company Bagh)",
+        "3. Relining and Lining of Watercourse by Brick Masonary of Outlet RD 6091R of New Khadial "
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual maintenance of 5 MLD...",
-        "2. Estimate for Supply of 90 watt LED street lights in various villages Distt",
-        "3. DNIT of Ambala City Town, ..."
+        "1. Cleaning of surface dressin...",
+        "2. Forestry Work CA creation",
+        "3. Stg. of 03 No. ODRs roads of Badhra Consty. i) Ghasola Bhairvi road (Road ID 10555) in "
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Waterfront Development at Jamukata in Gountiapada.",
-        "2. Waterfront Development  at Talikata.",
-        "3. Waterfront Development at Gudu Bandha, Ekatali."
+        "1. Const. of 8 Nos. F Type Qtr. At Tikabali FS, Kandhamal",
+        "2. Cluster for 1. Const. of Excise Station and 2. Const. of Excise Range Office at Khurda",
+        "3. Const. of Truck Terminal (Land Levelling and Boundary Wall) at Lakshannath, Balasore"
       ]
     },
     {
@@ -119,7 +115,7 @@
       "sample_titles": [
         "1. Construction of Six additional classroom in upgraded high school Dand under Block Katka",
         "2. S.I.T.C of 500 KVA Transformer in Civil Court, Chaibasa.",
-        "3. Provision of Pathway light and Garden light in the campus of Civil Court at Chakardharp"
+        "3. Provision of Security light and Gate light in the campus of Sub Divisional Agriculture "
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Transportation Work",
-        "2. machinery and equipment for the Deptt of Endocrionology",
-        "3. HPSEBL/PEC/Bhaba/VOITH Runner"
+        "1. Procuremnet of 11 KV and 22 KV GO Switches",
+        "2. Kufri-Mahasu experiential Trail Development works at Eco-Development Committee Mahasu P",
+        "3. Construction  of Concrete Rigid Pavement  with Base and Sub-Base Preparation at EDC, Ma"
       ]
     },
     {
@@ -139,8 +135,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Shri Kedarnath Dham Parishetraantargat Prashasanik Karyalaya va Aspatal Bhawan Nirman K",
-        "2. Hotspot scanning of various transmission lines under 220KV OandM Division, PTCUL, Mahua",
+        "1. Supply of stationery",
+        "2. Shri Kedarnath Dham Parishetraantargat Prashasanik Karyalaya va Aspatal Bhawan Nirman K",
         "3. To Carry out the work of ABC ARV of stray Dogs in Area of Nagar Nigam Pithoragarh."
       ]
     },
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9c28f5e190>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa4befda210>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Public Toilet at Tangla Town Market of W/No. 4 and at proposed Children",
-        "2. Construction of Public Toilet at Sujit Narzary Auditorium of W/No.2 and Bordoli Bhawan ",
-        "3. SUPPLY, INSTALLATION, TESTING, COMMISSIONING AND HANDING OVER OF A COMPLETE 20-LITRE PU"
+        "1. Construction of Public Toilet at Sujit Narzary Auditorium of W/No.2 and Bordoli Bhawan ",
+        "2. Construction of Public Toilet at Tangla Town Market of W/No. 4 and at proposed Children",
+        "3. Construction of Water Supply Scheme at Dhemaji Civil Hospital under the programme of SO"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Disposal of stacked timber pieces at KINFRA Petrochemical Park through e-auction",
-        "2. Constructing 0.95Km 11kV line from Puthiya palam to Pulikuzhy under Electrical section ",
-        "3. GENERAL AMC 2026 2027 Karappuzha Dam- Dam Safety-Annual mechanical maintenance of 3 rad"
+        "1. SITC of 9 Mtr Mini Mast with 6 nos of 150W LED Flood Lights at Theeyttumukk in Vallapuz",
+        "2. Design, Supply, Installation and Commissioning of 5kWp Hybrid SPV Power Plant with 1 hr",
+        "3. GENERAL-Comprehensive Maintenance Contract of UPS at MSB MCH TVM-CMC of 3 numbers 30 kV"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROCUREMENT OF KEY MATERIALS FOR MGNREGA WORKS FOR PANCHAYAT HALQA BRANNARD",
-        "2. Restoration of embankment BWO lining wall on Right Side of Padshahi Canal at RD 10700 D",
-        "3. Constt.of Community Kitchen at Sai Kalan Moil Camp  pyt Sai Kalan Block Suchetgarh Unde"
+        "1. Construction of P-Bund near the house of Nasir Ahmed Akhoon and others at Alamdar Colon",
+        "2. CO Pbund From Public Park Opposite Masjid Sharief At Peer Mohallah Kuzur Chadoora Budga",
+        "3. CO Road From Ahlidaces Majid Fres Bagh to Bollabal groud At Kathirgund Chardoora Budgam"
       ]
     }
   ],
