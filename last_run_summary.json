@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-20 18:36:12",
+  "checked_at_utc": "2026-08-20 21:25:32",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. SS/ C050-000-81-47-CE-T-8112/1016 - PILING WORKS FOR UNIT  AND OFFSITE  FOR POLYPROPYLE",
-        "2. Consultancy Services for Preparation of DPR for OTI of Following Stretches, Pawai, Kait",
-        "3. Upgradation of existing 40 MT capacity lorry weighbridge in to 60 MT by way of SITC of "
+        "2. Upgradation of existing 40 MT capacity lorry weighbridge in to 60 MT by way of SITC of ",
+        "3. Consultancy Services for Preparation of DPR for OTI of Following Stretches, Pawai, Kait"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Erection of watch towers and other relevant necessary things at various Immersion spots",
-        "2. Hiring and arrangement of waterproof mandap M.S. Barricading and various Items at Juhu ",
+        "2. Chhatrapati Sambhajinagar Industrial Area. M And R to Non Residential Building.Construc",
         "3. Hiring and arrangement of waterproof mandap and Other Facilities for Municipal Staff fo"
       ]
     },
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Panchayat building repair work in villageSimlod",
-        "2. Annual Rate Contract for Repairing of AC DICI  PVC HDPE pipe line leakages under City S",
-        "3. Creative, design and social media Partner for Bureau of investment Promotion"
+        "1. Annual Rate Contract for Repairing of Hand Pump under City Sub Dn Prod Barmer",
+        "2. Supply of Cattle Feed Raw Material Items for RM-839",
+        "3. Annual Rate Contract for Repairing of AC DICI  PVC HDPE pipe line leakages under City S"
       ]
     },
     {
@@ -51,17 +51,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement and Erection of Rigid type Discharge Electrode made of formed pipe with fix",
-        "2. RCC flooring work for newly proposed electrical site store near TP-3A of CHP-IV at STPS",
-        "3. Construction of Pots, Electric Pole Pedestal, Laying of Paver Block and Railing work fr"
+        "1. Construction of R.C.C. Naala from PG College Boundary Wall to towards Housing Board Naa",
+        "2. Biennial Work contract for Routine maintenance as well as preventive and predictive mai",
+        "3. T-945/MPPHSCL/DRUG TESTING LABORATORY EQUIPMENTS  (SET -1)/RC/2026 DATED 20.08.2026"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. NIT No- 1954/PHE(C)/BMC ,  Dated- 20/08/2026",
+        "2. NIT No- 357/PWD/ROAD/BMC , Dated- 20/08/2026",
+        "3. NIe-T- 41/2026-27 (Sl. No.- 02)"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,8 +73,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual maintenance of Parks for 12 Months (7 Nos) in Ward No 51,60 East Zone",
-        "2. Annual maintenance of Parks for 12 Months (9 Nos) in Ward No 54,55 East Zone",
+        "1. Annual Maintenance of Parks for (10 Parks) 12 Months in Ward No 33,34 West Zone",
+        "2.  Annual maintenance of Parks for 12 Months (8 Nos) in Ward No 5,7,8 East Zone",
         "3.  Annual maintenance of Parks for 12 Months (5 Nos) in Ward No 61 East Zone"
       ]
     },
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Regarding depolyment of 50 Gardeners/Beldars at Ram Bagh (Company Bagh)",
-        "2. Regarding enhancement of greenary and beautification of company bagh 1666690/-",
-        "3. Annual rate contract for the purchase of Nitric Acid at verka Mohali Dairy"
+        "1. Regarding enhancement of greenary and beautification of company bagh 1666690/-",
+        "2. Regarding depolyment of 50 Gardeners/Beldars at Ram Bagh (Company Bagh)",
+        "3. Transportation through trucks from khanna plant to various destinations in and out of P"
       ]
     },
     {
@@ -93,7 +97,7 @@
       "sample_titles": [
         "1. Cleaning of surface dressin...",
         "2. Forestry Work CA creation",
-        "3. Stg. of 03 No. ODRs roads of Badhra Consty. i) Ghasola Bhairvi road (Road ID 10555) in "
+        "3. Wdg. and Stg. of 03 No. ODRs of Badhra Consty. i) Birhi Khurd app. road in 0.45 km (Roa"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of 6 Nos. F Type Qtr. At Soro FS, Balasore",
-        "2. External water supply to Angul Aluminium park from river Bramhani",
-        "3. Const. of 6 Nos. F Type Qtr. At Raikia FS, Kandhamal"
+        "1. Cluster for 1. Const. of Excise Station and 2. Const. of Excise Range Office at Khurda",
+        "2. Const. of Truck Terminal (Land Levelling and Boundary Wall) at Lakshannath, Balasore",
+        "3. Const. of 6 Nos. F Type Qtr. At RTO Ganjam"
       ]
     },
     {
@@ -114,7 +118,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Six additional classroom in upgraded high school Dand under Block Katka",
-        "2. S.I.T.C of 500 KVA Transformer in Civil Court, Chaibasa.",
+        "2. Replacement of Security light for internal and External campus Pole of Central Jail Gha",
         "3. Provision of Security light and Gate light in the campus of Sub Divisional Agriculture "
       ]
     },
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hotspot scanning of various transmission lines under 220KV OandM Division, PTCUL, Mahua",
-        "2. Shri Kedarnath Dham Parishetraantargat Prashasanik Karyalaya va Aspatal Bhawan Nirman K",
-        "3. To Carry out the work of ABC ARV of stray Dogs in Area of Nagar Nigam Pithoragarh."
+        "1. To Carry out the work of ABC ARV of stray Dogs in Area of Nagar Nigam Pithoragarh.",
+        "2. Hotspot scanning of various transmission lines under 220KV OandM Division, PTCUL, Mahua",
+        "3. Shri Kedarnath Dham Parishetraantargat Prashasanik Karyalaya va Aspatal Bhawan Nirman K"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3b059d9c90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f24392f7e50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC of 9 Mtr Mini Mast with 6 nos of 150W LED Flood Lights at Theeyttumukk in Vallapuz",
-        "2. Design, Supply, Installation and Commissioning of 5kWp Hybrid SPV Power Plant with 1 hr",
+        "1. Design, Supply, Installation and Commissioning of 5kWp Hybrid SPV Power Plant with 1 hr",
+        "2. SITC of 9 Mtr Mini Mast with 6 nos of 150W LED Flood Lights at Theeyttumukk in Vallapuz",
         "3. GENERAL-Comprehensive Maintenance Contract of UPS at MSB MCH TVM-CMC of 3 numbers 30 kV"
       ]
     },
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CO Protection Wall on Gam Kul FLO Farooq Ahmad Parray TLO Mansoor Ahmad Parray at Repoo",
-        "2. CO Drain and Side Wall of Gamound Darr from Mohammad Maqbool Khanday to Mohammad Asla D",
-        "3. Maintenance of old closure by the way of Fencing Renovation, Restocking in Co.83/Bni at"
+        "1. Construction of lining wall around the graveyard at Hardwail block Waterhail Budgam",
+        "2. Construction of road from main Azad Road to Sadnar by way of GSB and G2 at Ranger, Bloc",
+        "3. CO Pbund From Public Park Opposite Masjid Sharief At Peer Mohallah Kuzur Chadoora Budga"
       ]
     }
   ],
