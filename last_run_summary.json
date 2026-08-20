@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-20 15:31:38",
+  "checked_at_utc": "2026-08-20 18:36:12",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of existing 40 MT capacity lorry weighbridge in to 60 MT by way of SITC of ",
-        "2. SS/ C050-000-81-47-CE-T-8112/1016 - PILING WORKS FOR UNIT  AND OFFSITE  FOR POLYPROPYLE",
-        "3. Consultancy Services for Preparation of DPR for OTI of Following Stretches, Pawai, Kait"
+        "1. SS/ C050-000-81-47-CE-T-8112/1016 - PILING WORKS FOR UNIT  AND OFFSITE  FOR POLYPROPYLE",
+        "2. Consultancy Services for Preparation of DPR for OTI of Following Stretches, Pawai, Kait",
+        "3. Upgradation of existing 40 MT capacity lorry weighbridge in to 60 MT by way of SITC of "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TD-550/26",
-        "2. Treatment of drains by Bio-remediation or any other non-conventional innovative and pro",
-        "3. TD-549/26"
+        "1. Treatment of drains by Bio-remediation or any other non-conventional innovative and pro",
+        "2. TD-549/26",
+        "3. Development Work of Village  Chak Jalalabad to be Developed as Smart Village, YEA (Phas"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring and arrangement of waterproof mandap and Other Facilities at Juhu Beach Sagar Ku",
-        "2. Hiring and arrangement of waterproof mandap and Other Facilities for Municipal Staff fo",
-        "3. NA...M and R to Roads and Street Light in Kudal Industrial Area.. Annual maintenance of"
+        "1. Erection of watch towers and other relevant necessary things at various Immersion spots",
+        "2. Hiring and arrangement of waterproof mandap M.S. Barricading and various Items at Juhu ",
+        "3. Hiring and arrangement of waterproof mandap and Other Facilities for Municipal Staff fo"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Lift work in Construction of Swami Vivekanand Boys Hostel at MSBU, Bharatpur (Kumher)",
-        "2. SOUND ARRANGEMENT FOR ELECTION",
-        "3. Construction of interlocking drain for cleanliness and sludge disposal from Ramdayal Lo"
+        "1. Panchayat building repair work in villageSimlod",
+        "2. Annual Rate Contract for Repairing of AC DICI  PVC HDPE pipe line leakages under City S",
+        "3. Creative, design and social media Partner for Bureau of investment Promotion"
       ]
     },
     {
@@ -70,8 +70,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Annual maintenance of Parks for 12 Months (7 Nos) in Ward No 51,60 East Zone",
-        "2.  Annual Maintenance of Parks for (11 Parks) 12 Months in Ward No 38 West Zone",
-        "3. Permanent diversion of existing 250mm deep gravity sewer main at Jawahar Road by rerout"
+        "2. Annual maintenance of Parks for 12 Months (9 Nos) in Ward No 54,55 East Zone",
+        "3.  Annual maintenance of Parks for 12 Months (5 Nos) in Ward No 61 East Zone"
       ]
     },
     {
@@ -80,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Regarding enhancement of greenary and beautification of company bagh 1666690/-",
-        "2. Regarding depolyment of 50 Gardeners/Beldars at Ram Bagh (Company Bagh)",
-        "3. Relining and Lining of Watercourse by Brick Masonary of Outlet RD 6091R of New Khadial "
+        "1. Regarding depolyment of 50 Gardeners/Beldars at Ram Bagh (Company Bagh)",
+        "2. Regarding enhancement of greenary and beautification of company bagh 1666690/-",
+        "3. Annual rate contract for the purchase of Nitric Acid at verka Mohali Dairy"
       ]
     },
     {
@@ -102,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of 8 Nos. F Type Qtr. At Tikabali FS, Kandhamal",
-        "2. Cluster for 1. Const. of Excise Station and 2. Const. of Excise Range Office at Khurda",
-        "3. Const. of Truck Terminal (Land Levelling and Boundary Wall) at Lakshannath, Balasore"
+        "1. Const. of 6 Nos. F Type Qtr. At Soro FS, Balasore",
+        "2. External water supply to Angul Aluminium park from river Bramhani",
+        "3. Const. of 6 Nos. F Type Qtr. At Raikia FS, Kandhamal"
       ]
     },
     {
@@ -135,7 +135,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of stationery",
+        "1. Hotspot scanning of various transmission lines under 220KV OandM Division, PTCUL, Mahua",
         "2. Shri Kedarnath Dham Parishetraantargat Prashasanik Karyalaya va Aspatal Bhawan Nirman K",
         "3. To Carry out the work of ABC ARV of stray Dogs in Area of Nagar Nigam Pithoragarh."
       ]
@@ -144,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa4befda210>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3b059d9c90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of P-Bund near the house of Nasir Ahmed Akhoon and others at Alamdar Colon",
-        "2. CO Pbund From Public Park Opposite Masjid Sharief At Peer Mohallah Kuzur Chadoora Budga",
-        "3. CO Road From Ahlidaces Majid Fres Bagh to Bollabal groud At Kathirgund Chardoora Budgam"
+        "1. CO Protection Wall on Gam Kul FLO Farooq Ahmad Parray TLO Mansoor Ahmad Parray at Repoo",
+        "2. CO Drain and Side Wall of Gamound Darr from Mohammad Maqbool Khanday to Mohammad Asla D",
+        "3. Maintenance of old closure by the way of Fencing Renovation, Restocking in Co.83/Bni at"
       ]
     }
   ],
