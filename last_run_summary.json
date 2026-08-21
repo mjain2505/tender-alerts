@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-21 15:31:23",
+  "checked_at_utc": "2026-08-21 18:34:11",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance of Various Sports Complexes.",
-        "2. Strengthening  at  km  20/4  -  34/460  of Paramakudi  -  Keerandai  Road (M-652)",
-        "3. ARM of defective UG cable of residential and non-residential buildings BSF Campus Gandh"
+        "1. Strengthening   at  km 9/2 - 12/8, 16/0 - 18/0 and 27/0 - 30/2 of  Devipattinam - Naina",
+        "2. ARM of defective UG cable of residential and non-residential buildings BSF Campus Gandh",
+        "3. Providing illumination of First and Second floor of Rotunda area with RGBW lights at He"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for M/S  ANIKET AGRO INDUSTRIES ",
+        "1. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for M/S  MAA VAISHNO MINI RICE M",
         "2. Theme Painting of walls in Noida for Swachh Survekshan 2025-26 WC-08 and 09 Area, Noida",
-        "3. Hiring of vehicle on Monthly Rental Basis for One Year"
+        "3. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for M/S  KAMLA INDUSTRIES of  DI"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ACONSTRUCTION OF BOYSS TOILET  FOR  Z.P.PRI.SCHOOL DHARMPURI AT-DHARMPURI , TAL MALSHIR",
-        "2. S.R. Z.P.Central  School Building  Dharmpuri    Tal- Malshiras   Dist- Solapur S.R. Z.P",
-        "3. Repairs to PSC Block and Improvement of Passage and Drainage System at TambakuwalaChawl"
+        "1. Improvement of Passage and Drainage line at Building No. 68, 10th lane kamathipura, in ",
+        "2. Providing and Fixing FRP Doors Toilet at Various Location in G/South Ward",
+        "3. PANIPURAVTHA VIBHAGAKADIL VIVIDH PANYACHYA LINE CHI DAINANDIN DEKHBHAL DURUSTIKARITA GR"
       ]
     },
     {
@@ -41,16 +41,20 @@
       "status": "ok",
       "sample_titles": [
         "1. Electrical work for the expansion of the Regional laboratory PWD Bikaner (Air Condition",
-        "2. E/F work in Residential Govt.  Quarter IIIrd and IVth at Bikaner (EW)",
-        "3. WORK OPEN TENDER GP DEWAS 2026-27"
+        "2. Work of installing 12 Meter Bipolar Lights (Mini Mast) at various places in Municipal A",
+        "3. Regarding installation of LED Street Lights on RCC Poles in Municipal Area Bonli"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Procurement of  Bibby resilience coupling and spare grid spring for PA, SA fan and Coal",
+        "2. E-Tender for the Sagar Smart City Limited Invites Online Bids from Interested Parties f",
+        "3. E-Tender for the Sagar Smart City Limited Invites Online Bids from Interested Parties f"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIe-T-46/Sl.-05/2026-27",
-        "2. Notice Inviting e-Tender No.   08/EE(R and B)/NKDA/2026-27 ( SL NO.02) Urgent maintenan",
-        "3. NIe-T-46/Sl.-02/2026-27"
+        "1. NIT No- 362/PWD/ROAD/BMC ,  Dated-  21/08/2026",
+        "2. Notice Inviting e-Tender No.      07/EE(R and B)/NKDA/2026-27",
+        "3. Notice Inviting e-Tender No.   08/EE(R and B)/NKDA/2026-27 ( SL NO.02) Urgent maintenan"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Maintenance of 7 Nos of Park for 12 Month in Ward No.2 North Zone.",
-        "2.  Providing  GI sheet , shredding machine repair work , Painting work and toilet repair ",
-        "3. Supply of  12 SWG Tinned Copper fuse wire, 14 SWG Tinned Copper fuse wire, 16 SWG Tinne"
+        "1. Ettayapuram TP_GF_2026_27_WD 11 Paver Block Road Work",
+        "2. purchase of Digital Platform E-Journal",
+        "3. Renovation of Weight Lift Hall in Anna Stadium at Nagercoil in Kanniyakumari District. "
       ]
     },
     {
@@ -82,15 +86,19 @@
       "sample_titles": [
         "1. DNIT FOR CONSTRUCTION FOR EXTENSION OF EXISTING BRIDGE BY PROVIDING 7.0 M SPAN BOX TYPE",
         "2. Purchase of TRACTOR OPERATED SPRAYER (BOOM TYPE)",
-        "3. Construction of Chain Link Fencing in Playground at Village Pathrala Block Sangat, Dist"
+        "3. Construction of Toilet Block in Playground at Village Sekhu Block Sangat, Dist. Bathind"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. CONSTT.OF I P B RASTA FROM P W D ROAD TO BADKA KUWA AT G.P BADHA BLOCK PUNHANA (VAGY)",
+        "2. CONSTT. OF IPB RASTA FROM H/O AYYUB TO H/O IRSHAD AT G.P BICHHOR BLOCK PUNHANA ( VAGY)",
+        "3. Complete maintenance of the entire garden features related to Horticulture Works at Mah"
+      ]
     },
     {
       "name": "Odisha",
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF 2ND FLOOR OF WORKSHOP BUILDING FOR KALAHANDI GOVT. ENGINEER COLLEGE BHA",
+        "1. Repair, Renovation of Sulabho Sauchalaya and Fixing of GCI Sheet at Bus Terminal Gandhi",
         "2. Implementation of AMA Hospital at CHC Kesinga of Kalahandi District for the year 2024-2",
-        "3. Periodical Renewal work of 5 years Completed PMGSY (POST DLP) roads such as (a) T-4 Har"
+        "3. CONSTRUCTION OF 2ND FLOOR OF WORKSHOP BUILDING FOR KALAHANDI GOVT. ENGINEER COLLEGE BHA"
       ]
     },
     {
@@ -121,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. RR damages to vaid Ka Johar to village sarour km 0/0 to 1/500 (SH C/O 900mm dia hume pi",
-        "2. RR Damage to mehandli  tikkar road",
-        "3. R/M of various LWSS/GWSS under JSV Section Baddi and section Sai Sub Division Baddi und"
+        "2. RR Damage to Tutupaani Kuthari Ghasani Deoli road",
+        "3. R/M of various LWSS in JSV Section Kuthar under JSV sub Division Chandi in Tehsil Kasau"
       ]
     },
     {
@@ -132,15 +140,15 @@
       "status": "ok",
       "sample_titles": [
         "1. Work of dressing, leveling, plotting, brick lining, and construction of temporary acces",
-        "2. Construction of 30 m Span Double Lane Composite Girder Motor Bridge in Km 110 of Uttark",
-        "3. Restoration of 132 KV GIS Bageshwar Sub station and its associated transmission line un"
+        "2. Restoration of 132 KV GIS Bageshwar Sub station and its associated transmission line un",
+        "3. Construction of 30 m Span Double Lane Composite Girder Motor Bridge in Km 110 of Uttark"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f50608e72d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f89a1816c90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -162,7 +170,7 @@
       "sample_titles": [
         "1.  DEPOSIT-eCourts Project Phase III-2024-25 Supply and installation of VC units under e ",
         "2. Rejuvenation of Kuruntharakonam Chappath thodu in Kuttichal panchayath",
-        "3. Supply, Installation, Testing and Commissioning (SITC) of New Radiator for DG-2 (500 kV"
+        "3. Supply installation and commissioning of the Tiered Digital Forensics Architecture Tool"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Macdamization of Achabal Ferozpora Road",
-        "2. Protection of Left Side Abutment of SFJB at Hurmi Dhaki Seri Khawaja.",
-        "3. Rendering of consultancy service for Providing of Architectural / structural design as "
+        "1. Upgradation of lane/drain from h/o Bilal Ahmad Bhat upto h/o Waseem Farooq Bhat near ol",
+        "2. Permanent Restoration of Steel Foot Bridge at Kalan Katha.",
+        "3. Providing Structural and Architectural consultancy for Construction of 50 meter Foot Br"
       ]
     }
   ],
