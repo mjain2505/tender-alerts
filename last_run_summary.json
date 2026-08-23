@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-23 12:34:27",
+  "checked_at_utc": "2026-08-23 15:19:50",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. Conservation of water bodies.",
         "2. REQUEST FOR PROPOSAL APPOINTMENT OF AGENCY FOR PRINTING ACTED STUDY MATERIALS INCLUDING",
-        "3. M/o Various Scheme under NA-II/East Zone.SH-Repair and Maintenance of Boundary wall at "
+        "3. Renovation of Integrated Command Control Centre for CISF at right bank and HM office at"
       ]
     },
     {
@@ -29,8 +29,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Beautification of Traffic Island, at S Bridge Junction in E Ward",
-        "2. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in ",
+        "1. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in ",
+        "2. Beautification of Traffic Island, at S Bridge Junction in E Ward",
         "3. E-Tender Notice No. 2026-_27_01"
       ]
     },
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Garbage collection and segregation of waste from homes and commercial establishment and",
+        "1. Devnarayan mandir ke pass saray nirman karya",
         "2. Garbage collection and segregation of waste from homes and commercial establishment and",
-        "3. Bhilo ki Bhalra me handpump sthapna karya"
+        "3. Garbage collection and segregation of waste from homes and commercial establishment and"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Purchase of Construction Material and Maintenance Work (Sand)",
-        "2. Construction of Culvert behind Bus Stand in Shivaji ward, Nagar Palika Parishad Gadarwa",
-        "3. Construction of Drain Near Hariom Verma and From Pandey Ji to Rajesh pathak, Suresh Gup"
+        "1. Construction of Culvert behind Bus Stand in Shivaji ward, Nagar Palika Parishad Gadarwa",
+        "2. Construction of Drain Near Hariom Verma and From Pandey Ji to Rajesh pathak, Suresh Gup",
+        "3. Purchase of Construction Material and Maintenance Work (Sand)"
       ]
     },
     {
@@ -73,8 +73,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SDRF Work CTP - 2",
-        "2. SDRF Work 2026-27 CTP-1",
+        "1. SDRF Work 2026-27 CTP-1",
+        "2. SDRF Work CTP - 2",
         "3. Selection of Service Provider Agency Contractor Company for Operation and Maintenance o"
       ]
     },
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for Brick Lining of Water Course at Outlet RD 10600/TF of Gopala Minor.",
-        "2. Estimate for Brick Lining of Water Course at Outlet RD 11742/L of Rasulpur Minor.",
-        "3. E-Tender for the Providing Plant Operators for operation of Powder Plant (02 nos.) and "
+        "1. E-Tender for the Providing Plant Operators for operation of Powder Plant (02 nos.) and ",
+        "2. Construction of VR Bridge at RD 26600 of Saidpura Minor",
+        "3. Temporary repairing of damaged patches of lining under VRB at RD 137376/L and RD 137376"
       ]
     },
     {
@@ -96,8 +96,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of toe wall an...",
-        "2. Annual Maintenance Estimate...",
-        "3. Annual Maintenance of Road,..."
+        "2. Annual Maintenance of Maste...",
+        "3. Providing and laying of RCC..."
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Model Anganbari Kendra Building at Village- Nari, Block- kisko, Dist- L",
-        "2. Construction of Model Anganbari Kendra Building at Village- Gajni- 1, Block- kairo, Dis",
-        "3. Construction of Model Anganbari Kendra Building at Village- Udumudu, Block- Kuru Dist- "
+        "1. Construction of Model Anganbari Kendra Building at Village- Irgaon, Block- Lohardaga Di",
+        "2. Construction of R.C.C. Drain with Cover Slab and Repair of PCC Road from H/o Mahaveer M",
+        "3. Construction of Model Anganbari Kendra Building at Village- Gajni- 1, Block- kairo, Dis"
       ]
     },
     {
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. R/R Damages on Dochi Bari Markandli road Km 0/00 to 4/000",
-        "2. AR  MO to various residential building under Shimla Division No.III Sub Division No.V S",
-        "3. Repair renovation of various residential buildings under Division No.III Shimla. SH Rep"
+        "2. Proposal for construction of Utility Duct at Strawberry Hills Shimla 0.000 to 0.465.SH ",
+        "3. AR  MO to various Non residential building of HP. PSC at Nigam Vihar Shimla 2 SH Repair"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f47a107ad90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f2da31ad250>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for the cost of Supply and Installation and commissioning of Hanging solar fen",
-        "2. Mini Mast light Repair",
+        "1. Mini Mast light Repair",
+        "2. Estimate for the cost of Supply and Installation and commissioning of Hanging solar fen",
         "3. Stringing High Tension 33kV Covered conductor , shifting and modification of the existi"
       ]
     },
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627105304-CHAIN LINIK FENCING AROUND MASJID SHAREIF SHUBDANI NEWA BLOCK NEWA",
-        "2. CO P Bund on Gratt Kul Opposite Side of Chinar Tree Phase II At Naroo Near LO Lt Abdul ",
-        "3. RDDDC2627105313-FENCING AROUND MASJID SHARIEF JAHAMA BLOCK NEWA"
+        "1. Lane/Drain and Water Channel Part-I Pyt. Kalaban Faizabad Block Mendhar Under APDP Year",
+        "2. Construction of link road from Kangerkas to Manda Drerari (1km) Panchayat Derari",
+        "3. CONSTT. OF COMMUNITY SANITARY COMPLEX AT SARKHALI BASTI"
       ]
     }
   ],
