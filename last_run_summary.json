@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-23 09:26:15",
+  "checked_at_utc": "2026-08-23 12:34:27",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LOT2",
-        "2. LOT1",
-        "3. EDCA-16/2026-27"
+        "1. Repair work and construction of drains and CC roads in Ward 50  Saket Colony specifical",
+        "2. Road repair work using cement concrete CC is being carried out at various locations inc",
+        "3. Repair work on culverts and drains in Ward No. 19 from Brijesh house in Gopal Nagar to "
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Beautification of Traffic Island, at S Bridge Junction in E Ward",
-        "2. E-Tender Notice No. 2026-_27_01",
-        "3. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in "
+        "2. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in ",
+        "3. E-Tender Notice No. 2026-_27_01"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Electric Repair and Maintenance Work of Directorate Building at  Mines and Geology Depa",
-        "2. SITC of Fire Protection System and Fire Detection System in main and extention at Circu",
-        "3. Chhini Baniya me Data ka Bavji ke pass vishrantigrah nirman karya"
+        "1. Garbage collection and segregation of waste from homes and commercial establishment and",
+        "2. Garbage collection and segregation of waste from homes and commercial establishment and",
+        "3. Bhilo ki Bhalra me handpump sthapna karya"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. KMC/IGWTP/048/26-27, DT -14/08/26",
-        "2. KMC/IGWTP/047/26-27, DT -14/08/26",
-        "3. KMC/IGWTP/049/26-27, DT- 14/08/26"
+        "2. KMC/IGWTP/049/26-27, DT- 14/08/26",
+        "3. KMC/IGWTP/047/26-27, DT -14/08/26"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "sample_titles": [
         "1. SDRF Work CTP - 2",
         "2. SDRF Work 2026-27 CTP-1",
-        "3. Tracing and Raising of existing Manhole and Replacing of Damaged Manhole Cover in Ward "
+        "3. Selection of Service Provider Agency Contractor Company for Operation and Maintenance o"
       ]
     },
     {
@@ -96,8 +96,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of toe wall an...",
-        "2. Annual Maintenance of Road,...",
-        "3. Annual Maintenance of Maste..."
+        "2. Annual Maintenance Estimate...",
+        "3. Annual Maintenance of Road,..."
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Model Anganbari Kendra Building at Village- Irgaon, Block- Lohardaga Di",
-        "2. Construction of Model Anganbari Kendra Building at Village- Nari, Block- kisko, Dist- L",
-        "3. Construction of R.C.C. Drain with Cover Slab and Repair of PCC Road from H/o Mahaveer M"
+        "1. Construction of Model Anganbari Kendra Building at Village- Nari, Block- kisko, Dist- L",
+        "2. Construction of Model Anganbari Kendra Building at Village- Gajni- 1, Block- kairo, Dis",
+        "3. Construction of Model Anganbari Kendra Building at Village- Udumudu, Block- Kuru Dist- "
       ]
     },
     {
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. R/R Damages on Dochi Bari Markandli road Km 0/00 to 4/000",
-        "2. Proposal for construction of Utility Duct at Strawberry Hills Shimla 0.000 to 0.465.SH ",
-        "3. Annual repair and maintenance of various residential buildings under Division No.III Sh"
+        "2. AR  MO to various residential building under Shimla Division No.III Sub Division No.V S",
+        "3. Repair renovation of various residential buildings under Division No.III Shimla. SH Rep"
       ]
     },
     {
@@ -139,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1732/Augst",
-        "2. Operation and Maintenance of Integrated Aqua Park at Sitarganj, Udham Singh Nagar, Utta",
-        "3. Saras Bazar Munshyari me wayside amenities ka Nirman Karya"
+        "1. Strengthening of strata and ground improvement works including channelization of leakag",
+        "2. Saras Bazar Munshyari me wayside amenities ka Nirman Karya",
+        "3. Operation and Maintenance of Integrated Aqua Park at Sitarganj, Udham Singh Nagar, Utta"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f40e56e5c90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f47a107ad90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627106602- CO DRAIN NEAR LO ILYAS AHMAD BHAT MOHD ABBAS SHEIKH MUKHTAR AHMAD WANI",
-        "2. Renovation of Culvert MS Moori Soodan along with R/Wall Pyt. Marhote Middle Block Suran",
-        "3. Construction of road from Saral Khankri to Tulfara ward No 02 Pyt. Tunditrar"
+        "1. RDDDC2627105304-CHAIN LINIK FENCING AROUND MASJID SHAREIF SHUBDANI NEWA BLOCK NEWA",
+        "2. CO P Bund on Gratt Kul Opposite Side of Chinar Tree Phase II At Naroo Near LO Lt Abdul ",
+        "3. RDDDC2627105313-FENCING AROUND MASJID SHARIEF JAHAMA BLOCK NEWA"
       ]
     }
   ],
