@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-22 21:19:59",
+  "checked_at_utc": "2026-08-23 01:09:16",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REQUEST FOR PROPOSAL APPOINTMENT OF AGENCY FOR PRINTING ACTED STUDY MATERIALS INCLUDING",
-        "2. Conservation of water bodies.",
-        "3. Renovation of Integrated Command Control Centre for CISF at right bank and HM office at"
+        "1. Conservation of water bodies.",
+        "2. REQUEST FOR PROPOSAL APPOINTMENT OF AGENCY FOR PRINTING ACTED STUDY MATERIALS INCLUDING",
+        "3. D/O Sanjay Lake (Ph.-II) i/c Eco-restoration Plan at Mayur Vihar, Ph.-II.SH-Repair and "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WARD NO-92 LALLPURA KALA ANTERGAT C15/62A SE C15/4-10 CHAURASIYA PAN BHANDAR TAK C.C. D",
-        "2. Work no-28 Ghaziabad nagar nigam simantargat samast zones ke antargat jagah jagah par p",
-        "3. WARD NO-77 KAJIPUR KHURD SONIYA AKHARA KE PASS KUA SAFAI AVAM TEN SHED LAGANE KA KARY"
+        "1. Work no-23 Indirapuram stisth 56 MLD STP ke painting karaye jane ka karya",
+        "2. Work regarding the installation of one semi-high-mast light unit (comprising 6 lights a",
+        "3. WARD NO-20 ME GANGNAHAR PATARI SE HARIJAN SHAMSHAN GHAT TAK CC MARG EVM NALI NIRMAN KAR"
       ]
     },
     {
@@ -29,8 +29,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in ",
-        "2. Beautification of Traffic Island, at S Bridge Junction in E Ward",
+        "1. Beautification of Traffic Island, at S Bridge Junction in E Ward",
+        "2. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in ",
         "3. E-Tender Notice No. 2026-_27_01"
       ]
     },
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF BUILDING FOR DILAPIDATED(SR.SEC.BUILDING) AT GSSS PANVA BLOCK - LASADIY",
-        "2. Work including Garbage collection and Separation from every house (Residential and Comm",
-        "3. 1 Rajkiya Prathmik Vidhyalaya Dhandh Talai Me C C Block Nirman Karya Gram Panchayat Had"
+        "1. SINGLE PHASE TUBEWAIL WITH VIDYUT CANNECTION WITH PANI KI TANKI NIRMAN KARYA BHAGIRATH ",
+        "2. 3 Rajkiya Uchh Madhyamik Vidhyalay Singod Khurd Me 01 Kaksha Kaksh Nirman karya G P Sin",
+        "3. Work including Garbage collection and Separation from every house (Residential and Comm"
       ]
     },
     {
@@ -51,17 +51,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Purchase of Construction Material and Maintenance Work (Sand)",
-        "2. Construction of Culvert behind Bus Stand in Shivaji ward, Nagar Palika Parishad Gadarwa",
+        "1. Construction of Culvert behind Bus Stand in Shivaji ward, Nagar Palika Parishad Gadarwa",
+        "2. Purchase of Construction Material and Maintenance Work (Sand)",
         "3. Construction of Drain Near Hariom Verma and From Pandey Ji to Rajesh pathak, Suresh Gup"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. KMC/IGWTP/048/26-27, DT -14/08/26",
+        "2. KMC/IGWTP/047/26-27, DT -14/08/26",
+        "3. KMC/IGWTP/049/26-27, DT- 14/08/26"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of kitchen shed at Amarar A.Muthugounder Government Higher secondary Schoo",
-        "2. NNT 2025-2026 Paver Block",
-        "3. Tracing and Raising of existing Manhole and Replacing of Damaged Manhole Cover in Ward "
+        "1. Tracing and Raising of existing Manhole and Replacing of Damaged Manhole Cover in Ward ",
+        "2. Selection of Service Provider Agency Contractor Company for Operation and Maintenance o",
+        "3. Providing High mast Light   at wardno.3 Karumandichellipalayam  near Mariyamman kovil  "
       ]
     },
     {
@@ -80,8 +84,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for Brick Lining of Water Course at Outlet RD 11742/L of Rasulpur Minor.",
-        "2. Estimate for Brick Lining of Water Course at Outlet RD 10600/TF of Gopala Minor.",
+        "1. Estimate for Brick Lining of Water Course at Outlet RD 10600/TF of Gopala Minor.",
+        "2. Estimate for Brick Lining of Water Course at Outlet RD 11742/L of Rasulpur Minor.",
         "3. E-Tender for the Providing Plant Operators for operation of Powder Plant (02 nos.) and "
       ]
     },
@@ -92,7 +96,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of toe wall an...",
-        "2. Annual Maintenance of Maste...",
+        "2. Annual Maintenance Estimate...",
         "3. Annual Maintenance of Road,..."
       ]
     },
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Model Anganbari Kendra Building at Village- Gajni- 1, Block- kairo, Dis",
-        "2. Construction of Model Anganbari Kendra Building at Village- Bhouro Upar Toli, Block- Bh",
-        "3. Construction of Model Anganbari Kendra Building at Village- Irgaon, Block- Lohardaga Di"
+        "1. Construction of R.C.C. Drain with Cover Slab and Repair of PCC Road from H/o Mahaveer M",
+        "2. Construction of Model Anganbari Kendra Building at Village- Irgaon, Block- Lohardaga Di",
+        "3. Construction of Model Anganbari Kendra Building at Village- Gajni- 1, Block- kairo, Dis"
       ]
     },
     {
@@ -135,8 +139,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation and Maintenance of Integrated Aqua Park at Sitarganj, Udham Singh Nagar, Utta",
-        "2. 1732/Augst",
+        "1. 1732/Augst",
+        "2. Saras Bazar Munshyari me wayside amenities ka Nirman Karya",
         "3. Strengthening of strata and ground improvement works including channelization of leakag"
       ]
     },
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f21ccd5df10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f69505b1510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -161,13 +165,9 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Estimate for the cost of Supply and Installation and commissioning of Hanging solar fen",
-        "2. Mini Mast light Repair",
-        "3. Street light maintenance at roads except Punalur Muvattupuzha road Kalloorkkad road byp"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627106587- CO FENCING OF JINAZ GAH NEAR THE PRIMARY SCHOOL GANISHBAL HARI I BLOCK",
-        "2. Constt. Of community soakage pit at halqa Chandgam",
-        "3. Up-gradation of Road Eidgah Marhote to Solian Point Doghan/Manki Wala Pyt. Marhote Midd"
+        "1. CONSTT. OF COMMUNITY SANITARY COMPLEX NEAR PONSA (CHESHMA) CHANDNA BHAGNA",
+        "2. Constt. Of community Compost pit at Halqa Putrigam A",
+        "3. CONSTT. OF COMMUNITY SANITARY COMPLEX NEAR BVM SCHOOL BHAGNA"
       ]
     }
   ],
