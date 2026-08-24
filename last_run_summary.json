@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-23 21:19:26",
+  "checked_at_utc": "2026-08-24 01:06:31",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REQUEST FOR PROPOSAL APPOINTMENT OF AGENCY FOR PRINTING ACTED STUDY MATERIALS INCLUDING",
-        "2. Conservation of water bodies.",
-        "3. M/o DDA Staff Quarters at Mayur Vihar, Phase-I.Sub-Head\t\tRepair and maintenance of occu"
+        "1. Conservation of water bodies.",
+        "2. REQUEST FOR PROPOSAL APPOINTMENT OF AGENCY FOR PRINTING ACTED STUDY MATERIALS INCLUDING",
+        "3. D/O Sanjay Lake (Ph.-II) i/c Eco-restoration Plan at Mayur Vihar, Ph.-II.SH-Repair and "
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E-Tender Notice No. 2026-_27_01",
-        "2. Beautification of Traffic Island, at S Bridge Junction in E Ward",
-        "3. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in "
+        "1. Providing and Fixing 75 mm and 110 mm downtake pipes at various GHG in beat no. 213 in ",
+        "2. E-Tender Notice No. 2026-_27_01",
+        "3. Beautification of Traffic Island, at S Bridge Junction in E Ward"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Devnarayan mandir ke pass saray nirman karya",
-        "2. Garbage collection and segregation of waste from homes and commercial establishment and",
-        "3. Bhilo ki Bhalra me handpump sthapna karya"
+        "2. Bhilo ki Bhalra me handpump sthapna karya",
+        "3. Garbage collection and segregation of waste from homes and commercial establishment and"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. KMC/IGWTP/048/26-27, DT -14/08/26",
-        "2. KMC/IGWTP/047/26-27, DT -14/08/26",
-        "3. KMC/IGWTP/049/26-27, DT- 14/08/26"
+        "2. KMC/IGWTP/049/26-27, DT- 14/08/26",
+        "3. KMC/IGWTP/047/26-27, DT -14/08/26"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "sample_titles": [
         "1. SDRF Work 2026-27 CTP-1",
         "2. SDRF Work CTP - 2",
-        "3. Construction of kitchen shed at Amarar A.Muthugounder Government Higher secondary Schoo"
+        "3. Selection of Service Provider Agency Contractor Company for Operation and Maintenance o"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "sample_titles": [
         "1. Construction of toe wall an...",
         "2. Annual Maintenance of Maste...",
-        "3. Annual Maintenance of Water..."
+        "3. Annual maintenance estimate..."
       ]
     },
     {
@@ -107,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of New Higher Secondary School Building at Govt. U.G High School at Govt. ",
-        "2. Construction of Sub-Registrar Office building at Gaisilet of Gaisilet Tahasil in the di",
-        "3. Construction of  5 nos. new residential quarter for staff of Tahasil Office, Paikamal i"
+        "2. Construction of  5 nos. new residential quarter for staff of Tahasil Office, Paikamal i",
+        "3. Construction of Sub-Registrar Office building at Gaisilet of Gaisilet Tahasil in the di"
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Model Anganbari Kendra Building at Village- Irgaon, Block- Lohardaga Di",
-        "2. Construction of Model Anganbari Kendra Building at Village- Bhouro Upar Toli, Block- Bh",
-        "3. Construction of Model Anganbari Kendra Building at Village- Gajni- 1, Block- kairo, Dis"
+        "1. Construction of Model Anganbari Kendra Building at Village- Nari, Block- kisko, Dist- L",
+        "2. Construction of Model Anganbari Kendra Building at Village- Irgaon, Block- Lohardaga Di",
+        "3. Construction of Model Anganbari Kendra Building at Village- Udumudu, Block- Kuru Dist- "
       ]
     },
     {
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. R/R Damages on Dochi Bari Markandli road Km 0/00 to 4/000",
-        "2. Repair renovation to various residential buildings under Division No.III, Shimla. SH Pa",
-        "3. AR  MO to various Non residential building of HP. PSC at Nigam Vihar Shimla 2 SH Repair"
+        "2. Proposal for construction of Utility Duct at Strawberry Hills Shimla 0.000 to 0.465.SH ",
+        "3. Repair renovation to various residential buildings under Division No.III, Shimla. SH Pa"
       ]
     },
     {
@@ -139,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1732/Augst",
-        "2. Operation and Maintenance of Integrated Aqua Park at Sitarganj, Udham Singh Nagar, Utta",
-        "3. Saras Bazar Munshyari me wayside amenities ka Nirman Karya"
+        "1. Operation and Maintenance of Integrated Aqua Park at Sitarganj, Udham Singh Nagar, Utta",
+        "2. Strengthening of strata and ground improvement works including channelization of leakag",
+        "3. 1732/Augst"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f16fb939450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7f741ea990>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for the cost of Supply and Installation and commissioning of Hanging solar fen",
-        "2. Mini Mast light Repair",
+        "1. Mini Mast light Repair",
+        "2. Estimate for the cost of Supply and Installation and commissioning of Hanging solar fen",
         "3. Stringing High Tension 33kV Covered conductor , shifting and modification of the existi"
       ]
     },
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Constt. Of community soakage pit at halqa Pathan",
-        "2. Constt. Of community Compost pit at harkargund near L/O Bashir Ah Reshi at Drusoo.",
-        "3. RDDDC2627106690- CO RWALL DRAIN NHO NISAR AHMAD SHAH NAZIR AHMAD SHAH AND OTHERS AT SON"
+        "1. RDDDC2627106299-(DEV OF JINAZ GAH NEAR PEER MOHALLA GRAVEYARD AT ARIGAM KUCHMULLA TRAL)",
+        "2. RDDDC2627106726- FENCING WITH CONCRETE OF KANLI MOHALLA GRAVEYARD AT GHAT TOKUNA BLOCK ",
+        "3. CONSTT. OF COMMUNITY SANITARY COMPLEX NEAR BVM SCHOOL BHAGNA"
       ]
     }
   ],
