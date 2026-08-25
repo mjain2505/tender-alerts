@@ -1,41 +1,41 @@
 {
-  "checked_at_utc": "2026-08-25 09:36:32",
+  "checked_at_utc": "2026-08-25 12:44:34",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SITC of Inverter type Ceiling mounted Cassette split and Hi wall mounted split Air cond",
-        "2. Supplying and Fixing of various types of Fire Extinguishers in AIIMS Bhopal.",
-        "3. Supplying, Installation, Testing and Commissioning of LED Flood Lights at various locat"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f5d9f948750>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. WARD NO 21 TARNA MO. PARMANANDPUR ANTARGAT BRIJESH CHAUHAN HOTE HUE SIPAHI KE MAKAN TAK",
-        "2. WARD NO 09 SHIVPUR KE ANTARGAT MOHALLA INDRAPUR KOIHA MA. KASHIRAM SHAHARI AWAAS YOJANA",
-        "3. WARD NO 71 BAJARDIHA ME BACHACHAHATA NAGAR N 12/306 SHIV MADIR KE PASS KUA SAFAI V MARA"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etender.up.nic.in', port=443) at 0x7f5d9f94a550>, 'Connection to etender.up.nic.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='mahatenders.gov.in', port=443) at 0x7fc0c52983d0>, 'Connection to mahatenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Improvement To Dashrath Tate Home To Methwade Road At. Methwade . Tal.Sangola.",
+        "2. Chandivali Vidhansabha beat no.160 L Ward",
+        "3. Construction of Closed C.C. Drain at Vill. Morchandi Tq Umarkhed Dist Yavatmal"
+      ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.rajasthan.gov.in', port=443) at 0x7fc0c5106090>, 'Connection to eproc.rajasthan.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. SANITATION WORK FY 2026-27 GP BHANIPURA PS POOGAL",
+        "2. Wachanalya Khash cum teaching room Primary School Nagancell Construction",
+        "3. Class Room Construction Ra. Ba.U. Ma. School BadiPadal"
+      ]
     },
     {
       "name": "Madhya Pradesh",
@@ -43,9 +43,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF RCC DRAIN NEAR GUDDU PASI HOUSE W-67 Z-15.",
-        "2. CONSTRUCTION OF RCC DRAIN NEAR SHEKHAR GWALA HOUSE SATNAMI NAGAR W-67 Z-15.",
-        "3. Tender for Semi Turnkey Basis  For  Biff. of overloaded 33 KV Kadwali feeder from EHV B"
+        "1. TENDER FOR DUAL DESK",
+        "2. Nigam Nidhi Construction of C.C. Road and Naala Nirman at Railway Boundry to Sai Apartm",
+        "3. Supply of Alum The material shoud be complying to grade -4 table 1 of IS 2992012amendme"
       ]
     },
     {
@@ -54,16 +54,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMC/EEC/VII/67/9/26-27/D",
-        "2. KMC/LTG/Z-IV/152/26-27",
-        "3. Repairing and Painting of  TP-35 and TP-38 and the interconnecting Conveyor Gallery at "
+        "1. Casting and installation of R.C.C slabs at Power House area, ESP area, ID fan area and ",
+        "2. 63 kva kiosk",
+        "3. NIe-T- 47/2026-27(Sl-08)"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='tntenders.gov.in', port=443) at 0x7fc0c500eb50>, 'Connection to tntenders.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='tntenders.gov.in', port=443) at 0x7f5d9f5b7c90>, 'Connection to tntenders.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -72,24 +72,32 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Strengthening of Subsidiary Health Centre as AAK/AAC at Vill. Sarhali Block-Rurka Kalan",
-        "2. STP Mukerian",
-        "3. SUGAR SALE/AJNALACSM/2025-26"
+        "1. Development of Ecotourism Experience at Kanjli Wetlands District Kapurthala  Punjab inc",
+        "2. DNIT FOR MODERNIZATION UPGRADATION OF RURAL LINK ROADS OF SPECIAL ASSISTANCE TO STASTES",
+        "3. Development of Playground at Village Bharsinghpura, Block-Phillaur, Distt. Jalandhar."
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.hry.nic.in', port=443) at 0x7fc0c500de10>, 'Connection to etenders.hry.nic.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Providing and Fixing of Sign Board of W/Mayor and Ward Members, Municipal Corporation A",
+        "2. Annual maintenance estimate...",
+        "3. Beautification of Community Centre Heraheri Ward No 20 in MC Pataudi Jatauli Mandi"
+      ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='tendersodisha.gov.in', port=443) at 0x7fc0c5059210>, 'Connection to tendersodisha.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. S/R of Road and Drain  at Badahal in Ward No-17",
+        "2. Construction of wall,Drain,Plinth protection  of D-type qtr  for AEE, Estimater Nuapada",
+        "3. Construction of wall,Drain,Plinth protection  D-type qtr  for DAO  RWD Colony,Nuapada f"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -97,34 +105,30 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Bridge over Nala between NH-33 and Jayda Mandir under Chandil Block in ",
-        "2. Construction of Drain at 1. Sijua 1 No. Sideing (Taltalla) Thakur Mahato House to Exit ",
-        "3. Construction of Drain at Gaderiya Basti Mukesh Singh House to Chandi Pramanik House, Na"
+        "1. 01-Renovation and Construction of Primary School Bhuiyanawatand, Block Purvi Tundi, Dis",
+        "2. 06-Construction and Renovation of UMS Dhobari, Block Kaliasole Dist. Dhanbad.",
+        "3. Construction of Road from Jhilimtanr to NH-419 via Harijan Tola (Duladih Panchayat (2.5"
       ]
     },
     {
       "name": "Himachal Pradesh",
       "state": "Himachal Pradesh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='hptenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='hptenders.gov.in', port=443) at 0x7fc0c5059610>, 'Connection to hptenders.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='hptenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='hptenders.gov.in', port=443) at 0x7f5d9f493510>, 'Connection to hptenders.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Reconstruction of the motor road using premix carpet from Kichha Maharajpur to Kanakpur",
-        "2. Construction of PCC tiles road and drain work in 04 adjoining roads from Laxman Singh M",
-        "3. SUPPLY AND INSTALLATION OF COMPUTERS, UPS, PRINTER, LED TV, CCTV CAMERAS, NETWORKING EQ"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='uktenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='uktenders.gov.in', port=443) at 0x7f5d9f504d50>, 'Connection to uktenders.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc0c5207210>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5d9f506190>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -133,17 +137,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Protection works at D/S of Headwork of Yeabra F.I.S. under SDMF for the year 2023-24 un",
-        "2. Bank Protection work at Pura I/S under SDMF for the year 2023-24  under West Dima Hasao",
-        "3. Protection Works at Headwork of Barasang IS under SDMF for the year 2023-24  under West"
+        "1. SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF AUTOMATIC MILK COLLECTION UNITS UNDE",
+        "2. C.C. lining including earth work at Main Canal D1 from Chainage 7043  m to  7380 m (Sur",
+        "3. C.C. lining including earth work at Main Canal D1 from Chainage 13500  m to  14031.5 m "
       ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.kerala.gov.in', port=443) at 0x7fc0c5206d50>, 'Connection to etenders.kerala.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Annual Plan-107/2026-27 AARTTUPUZHA ELAMANGALAM ROAD MAINTENANCE WARD 14-pattazhy vadak",
+        "2. Annual Plan-248/2026-27 MALOOR SCHOOL PALLIPURATHU KADAVU ROAD MAINTENANCE W09 in Patta",
+        "3. Annual Plan-67/2026-27 KUNNUMPURAM A GP JUNCTION CHOORAVELIL PAARAPPUZHA ROAD NAVEEKARA"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -151,9 +159,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairs/ Renovation/ Construction of Boundary Pillars, in S-Park Range, Srinagar",
-        "2. Development and Renovation of Gazidar Imambara Arampora",
-        "3. Finalization of Rates for the supply of Agriculture/Horticulture Tool Kits."
+        "1. C/O Ormantal fencing with gate at Public Park W-3 and W-6 at Shirpora-B, Halqa  Shirpor",
+        "2. Constt of R Wall of Ziyarat Shareef Ph-4 Block Lar   Anderwan-A  Block Lar PRI 166  2ND",
+        "3. Renovation of stairs main road to highway and C/path from main road to Padder Mohalla W"
       ]
     }
   ],
