@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-25 06:45:16",
+  "checked_at_utc": "2026-08-25 09:36:32",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Laying of Pipeline with Thermal Lagging and Electrical Heat Tracing for Makeup Tank of ",
-        "2. Repair and renovation of Bhavnagar Para PO-3rd call",
-        "3. Repair and renovation of Ranavav PO (Porbandar Dn)-2nd call"
+        "1. SITC of Inverter type Ceiling mounted Cassette split and Hi wall mounted split Air cond",
+        "2. Supplying and Fixing of various types of Fire Extinguishers in AIIMS Bhopal.",
+        "3. Supplying, Installation, Testing and Commissioning of LED Flood Lights at various locat"
       ]
     },
     {
@@ -18,28 +18,24 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1-\tNagar Panchayat Eka ke Ward No 01 Rajpur Main Gangaram ke Makan se Bhupali ke makan ",
-        "2. Nagar Panchayat Eka ke Ward No 02 Ganeshpur Nagriya main Bharmdev Than se Dharmshala Ho",
-        "3. DPR Consultancy Services for Construction of Motilal Nehru Medical College and Swaroopr"
+        "1. WARD NO 21 TARNA MO. PARMANANDPUR ANTARGAT BRIJESH CHAUHAN HOTE HUE SIPAHI KE MAKAN TAK",
+        "2. WARD NO 09 SHIVPUR KE ANTARGAT MOHALLA INDRAPUR KOIHA MA. KASHIRAM SHAHARI AWAAS YOJANA",
+        "3. WARD NO 71 BAJARDIHA ME BACHACHAHATA NAGAR N 12/306 SHIV MADIR KE PASS KUA SAFAI V MARA"
       ]
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='mahatenders.gov.in', port=443) at 0x7f1b8bc50150>, 'Connection to mahatenders.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='mahatenders.gov.in', port=443) at 0x7fc0c52983d0>, 'Connection to mahatenders.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of Farm Pond with HDPE Sheet(41) and without HDPE sheet (16)",
-        "2. 36 Major works at TAD Girls Ashram Hostel Barawarda P.S. Dhamottar Distt- Pratapgarh",
-        "3. chardiwari shamshan bhumi 76 gb l 550 fit gp 78 gb ps anupgarh"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.rajasthan.gov.in', port=443) at 0x7fc0c5106090>, 'Connection to eproc.rajasthan.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -47,23 +43,27 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work of Electrification at ward no 02 pithampur",
-        "2. Repair and maintenance of residential Qtr. In section NO. 2 under sub division No. 2, J",
-        "3. REQUEST FOR PROPOSAL FOR ESTABLISHING OPERATING AND MAINTAINING LOK SEVA KENDRA Pali"
+        "1. CONSTRUCTION OF RCC DRAIN NEAR GUDDU PASI HOUSE W-67 Z-15.",
+        "2. CONSTRUCTION OF RCC DRAIN NEAR SHEKHAR GWALA HOUSE SATNAMI NAGAR W-67 Z-15.",
+        "3. Tender for Semi Turnkey Basis  For  Biff. of overloaded 33 KV Kadwali feeder from EHV B"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='wbtenders.gov.in', port=443) at 0x7f1b8bb2b7d0>, 'Connection to wbtenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. KMC/EEC/VII/67/9/26-27/D",
+        "2. KMC/LTG/Z-IV/152/26-27",
+        "3. Repairing and Painting of  TP-35 and TP-38 and the interconnecting Conveyor Gallery at "
+      ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='tntenders.gov.in', port=443) at 0x7f1b8b959150>, 'Connection to tntenders.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='tntenders.gov.in', port=443) at 0x7fc0c500eb50>, 'Connection to tntenders.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -72,78 +72,78 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Strengthening of Subsidiary Health Centre as AAK/AAC at Vill. Daduwal, Block-Rurka Kala",
-        "2. REPAIR WORK IN OLD MC OFFICE SANAUR",
-        "3. SUPPLY OF MATERIAL FOR REPAIR OF WATER SUPPLY LINES AT SANOUR CITY"
+        "1. Strengthening of Subsidiary Health Centre as AAK/AAC at Vill. Sarhali Block-Rurka Kalan",
+        "2. STP Mukerian",
+        "3. SUGAR SALE/AJNALACSM/2025-26"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.hry.nic.in', port=443) at 0x7f1b8b868d10>, 'Connection to etenders.hry.nic.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.hry.nic.in', port=443) at 0x7fc0c500de10>, 'Connection to etenders.hry.nic.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Maintenance of Aquarium at Odisha State Maritime Museum, Jobra, Kataka for 01 (one) yea",
-        "2. Construction of Kura Minor from RD 0.00 M to RD 3200 M along with all its off-taking Su",
-        "3. Special Repair of Drain with cover slab at Panchadev Vihar in Ward No-05"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='tendersodisha.gov.in', port=443) at 0x7fc0c5059210>, 'Connection to tendersodisha.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
       "state": "Jharkhand",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='jharkhandtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='jharkhandtenders.gov.in', port=443) at 0x7f1b8b85fa10>, 'Connection to jharkhandtenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Bridge over Nala between NH-33 and Jayda Mandir under Chandil Block in ",
+        "2. Construction of Drain at 1. Sijua 1 No. Sideing (Taltalla) Thakur Mahato House to Exit ",
+        "3. Construction of Drain at Gaderiya Basti Mukesh Singh House to Chandi Pramanik House, Na"
+      ]
     },
     {
       "name": "Himachal Pradesh",
       "state": "Himachal Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SED-23/2026-27",
-        "2. Construction of Combined Office building at Multhan, Tehsil Baijnath, Distt. Kangra (HP",
-        "3. SED-20/2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='hptenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='hptenders.gov.in', port=443) at 0x7fc0c5059610>, 'Connection to hptenders.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='uktenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='uktenders.gov.in', port=443) at 0x7f1b8b774610>, 'Connection to uktenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Reconstruction of the motor road using premix carpet from Kichha Maharajpur to Kanakpur",
+        "2. Construction of PCC tiles road and drain work in 04 adjoining roads from Laxman Singh M",
+        "3. SUPPLY AND INSTALLATION OF COMPUTERS, UPS, PRINTER, LED TV, CCTV CAMERAS, NETWORKING EQ"
+      ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1b8bb540d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc0c5207210>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='assamtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='assamtenders.gov.in', port=443) at 0x7f1b8bb5d910>, 'Connection to assamtenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Protection works at D/S of Headwork of Yeabra F.I.S. under SDMF for the year 2023-24 un",
+        "2. Bank Protection work at Pura I/S under SDMF for the year 2023-24  under West Dima Hasao",
+        "3. Protection Works at Headwork of Barasang IS under SDMF for the year 2023-24  under West"
+      ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. TRACO-Re tender of tender for Inviting EOI for dismantling of cable manufacturing machi",
-        "2. Annual Plan-Project no - 439-2026 - KDTYInstallation of well cover and related equipmen",
-        "3. Annual Plan-Pro.71/27-Renovation of School(LPS-Karavaloor)- General Electrical Work ( E"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.kerala.gov.in', port=443) at 0x7fc0c5206d50>, 'Connection to etenders.kerala.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -151,9 +151,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Constt of CSC Near Gurudwara w.no- 5",
-        "2. Constt of CSC near Shiv Mandir Ghwan Garan",
-        "3. Completion of Balance work for the Construction of Girls Hostel at SCS Govt. Degree Col"
+        "1. Repairs/ Renovation/ Construction of Boundary Pillars, in S-Park Range, Srinagar",
+        "2. Development and Renovation of Gazidar Imambara Arampora",
+        "3. Finalization of Rates for the supply of Agriculture/Horticulture Tool Kits."
       ]
     }
   ],
