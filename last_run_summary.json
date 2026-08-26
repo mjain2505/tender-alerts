@@ -1,41 +1,37 @@
 {
-  "checked_at_utc": "2026-08-26 01:10:53",
+  "checked_at_utc": "2026-08-26 03:55:37",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f1dfed5bed0>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Replacement of Analog Energy Meter with Digital Energy Meter including repair works at ",
+        "2. Supply and Delivery of Various Grades of Lubricant, Grease and Engine Oil to Haldia Doc",
+        "3. Repair and maintenance of BSF Public School under BSF Academy Tekanpur Gwalior. (S/H El"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etender.up.nic.in', port=443) at 0x7f1dfed76290>, 'Connection to etender.up.nic.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etender.up.nic.in', port=443) at 0x7f90096f5690>, 'Connection to etender.up.nic.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1.  PROVIDING CEMENT CONCRETE ROADS NEAR SHREE RAHUL SONAWANE HS TO SHREE RAVINDRA VAGHMAR",
-        "2. Improvement of Passage and Drainage system near Arbaz Khan house room no.547,Sewree cro",
-        "3. Providing And Conctructing Cement Concrete Of Leading Road To Nawabpura Kaali Masjid Ka"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='mahatenders.gov.in', port=443) at 0x7f900976ffd0>, 'Connection to mahatenders.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Repair, maintenance and operation of motor pumps,tubewells and pipe line at pump houses",
-        "2. Repair, maintenance and operation of motor-pumps,tubewells and pipe line at pump houses",
-        "3. Repair, maintenance and operation of motor-pumps,tubewells and pipe line"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='eproc.rajasthan.gov.in', port=443): Failed to resolve 'eproc.rajasthan.gov.in' ([Errno -3] Temporary failure in name resolution)\"))",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -43,16 +39,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Saptahik Bazar Bathki Theka Year 2026-27",
-        "2. Construction work of RCC drain at ward no 07 dinesh kushwah to bandhan garden vidisha",
-        "3. Special Repair work of 1.50 M Single Span Slab Culvert on Churhat Amiliya Sihawal Road "
+        "1. S/R work of I-type Qtr No. 258, 262, 369, 370, 231 and H-type 127 at Shankar Shah Nagar",
+        "2. R.C.C. Drain Ramesh Prajapati",
+        "3. Tubewell Sprinkler 2026 Ist Call"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='wbtenders.gov.in', port=443) at 0x7f1dfe9db490>, 'Connection to wbtenders.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='wbtenders.gov.in', port=443) at 0x7f90096f5850>, 'Connection to wbtenders.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -61,9 +57,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation and maintenance of Existing  Borewell  and UG Sump at Ammankulam New Housing ",
-        "2. for  Execution of Works under Running Contract for Capital, Improvement and Deposit Con",
-        "3. for  Execution of Works under Running Contract for Capital, Improvement and Deposit Con"
+        "1. Construction of Storm water drain at Nadar Rice Mill Road in ward No 19 at Ponneri Muni",
+        "2. Supply and Delivery of Liquid Chlorine  in Ponneri Municipality",
+        "3. Providing Paver Block Roads to Ettiyamman Kovil Street in ward no 15 in Ponneri Municip"
       ]
     },
     {
@@ -72,17 +68,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Beautification of parks in Ward No. 8.",
-        "2. Construction of a gate in Ward No. 58.",
-        "3. Beautification and maintenance of the park in Ward No. 56."
+        "1. Repair of office Nagar Panchayat Rayya",
+        "2. Prov and Laying of CC Patch work and prov / Fixing of manhole frame of sewerage falling",
+        "3. Repair of Madan Lal Dhingra Smarak"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.hry.nic.in', port=443) at 0x7f1dfe9ba910>, 'Connection to etenders.hry.nic.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Plantation of Campa CA and NPV in Panipat Block",
+        "2. Demarcation and fencing work of Municipal land at MC Samalkha",
+        "3. Forestry Work CA ridge creation"
+      ]
     },
     {
       "name": "Odisha",
@@ -90,28 +90,28 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction and maintenance of RD road to Gangarpada Road under MMSY Scheme in Munigud",
-        "2. Improvement such as widening and strengthening of Rairangpu r-Jashipur -Karanjia- Dhenk",
-        "3. S/R of Road and Drain  at Badahal in Ward No-17"
+        "1. Upgradation of Health Infrastructure at Odapada CHC of Odapada Block under 2nd Phase of",
+        "2. Upgradation of Health Infrastructure at Sriramchandrapur CHC Building of Gondia Block u",
+        "3. Construction and maintenance of RD road to Gangarpada Road under MMSY Scheme in Munigud"
       ]
     },
     {
       "name": "Jharkhand",
       "state": "Jharkhand",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='jharkhandtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='jharkhandtenders.gov.in', port=443) at 0x7f1dfe8a2dd0>, 'Connection to jharkhandtenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Anganwadi Centre at village Dalmadih, Panchayat Etam, Basia block, dist",
+        "2. 09-Renovation and Construction of Middle School Bhagabandh, Block Dhanbad, Dist. Dhanba",
+        "3. 10-Renovation and Construction of Primary School Saraidhela (Boys), Block Dhanbad, Dist"
+      ]
     },
     {
       "name": "Himachal Pradesh",
       "state": "Himachal Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. 5377-5476",
-        "2. Restoration of rain damages to WSS Dhand Khandyaru in GP Bhawla in Tehsil Churah Distt ",
-        "3. Restoration of rain damages to Imp of various WSS under Ghulei in Tehsil Churah Distt C"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='hptenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='hptenders.gov.in', port=443) at 0x7f9009616e50>, 'Connection to hptenders.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Uttarakhand",
@@ -119,16 +119,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of Gwaldam Drinking water supply scheme damaged due to natural calamity on Dated",
-        "2. Restoration of Chepdun drinking water supply scheme, damaged due to natural calamity on",
-        "3. Restoration of Tharali urban (Tok of Tharali) drinking water supply scheme, damaged due"
+        "1. Restoration of dhikwalgaon water supply scheme",
+        "2. Providing 03 No. Line staff through Contractor/External Agency, Under EDSD Karanprayag.",
+        "3. Restoration of palli dhikwali water supply scheme"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1dfe7f0450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9009616bd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -137,28 +137,24 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C.C. lining including earth work at Main Canal D1 from Chainage 14031.5  m to  14174.09",
-        "2. C.C. lining including earth work at Main Canal D2 from Chainage 25300  m to  25460 m (S",
-        "3. C.C. lining including earth work at Main Canal D2 from Chainage 25140  m to  25300 m (S"
+        "1. C.C. lining including earth work at Main Canal D2 from Chainage 22820  m to  22960 m (S",
+        "2. Protection Work at Nidhuwa village at the U/S of  Head Work of Sukla Irrigation Project",
+        "3. C.C. lining including earth work at Main Canal D1 from Chainage 21930  m to  22050 m (S"
       ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.kerala.gov.in', port=443) at 0x7f1dfebee910>, 'Connection to etenders.kerala.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='etenders.kerala.gov.in', port=443) at 0x7f9009648750>, 'Connection to etenders.kerala.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. GI Pipes at Pyt. Gulpur Block Poonch",
-        "2. FINDC2627102207-Constt of drain from hO Ali Mohd Sheikh to Madrasa Taleemul Islam at Bo",
-        "3. Gi Pipes Mangnar upper  Block Poonch"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='jktenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='jktenders.gov.in', port=443) at 0x7f90095735d0>, 'Connection to jktenders.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     }
   ],
   "new_matches_found": 0
