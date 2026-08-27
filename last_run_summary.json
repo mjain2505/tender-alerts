@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-27 00:30:05",
+  "checked_at_utc": "2026-08-27 13:44:59",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. misc civil works at rmgv moradabad",
-        "2. misc civil works dto moradabad",
-        "3. Tender for Supply of Annual Maintenance Materials for the RO System at IIM Tiruchirappa"
+        "1. Cargo Insurance for Import of Urea under Urea Tender No. 22",
+        "2. M/o Completed Scheme Under N.A.-II (Hort. Zone)",
+        "3. Watch and Ward Services for the Residential area at ATR Chitradurga"
       ]
     },
     {
@@ -18,17 +18,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WARD NO 34 NADESAR ANTARGAT VINOD SINGH KE MAKAN SE SANTOSH GUPTA, KAMALDEEP KE AWAAS S",
-        "2. WARD NO 34 NADESAR ANTARGAT MO. ENGLISHIA LINE ME HONEY RESTAURANT SOUTH SE SATSANG LAL",
-        "3. WARD NO 31 NARAYANPUR MOHALLA NARAYANPUR ANTARGAT TRIVENI SINGH, RAJENDRA RAI, RAMJIAWA"
+        "1. Improvement work of Street and Drain from Asif hous to Shaheed Hafeezs house Near Takwa",
+        "2. ETP and RO Operation and Maintenance",
+        "3. Shortlisting of an Agency to Design, Engineering, Construction, Technology Integration,"
       ]
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='mahatenders.gov.in', port=443): Failed to resolve 'mahatenders.gov.in' ([Errno -3] Temporary failure in name resolution)\"))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Providing and Fixing GI, CPVC, UPVC Pipes, etc at Railway Patri Area in Beat No. 173 in",
+        "2. Construction of M.S Plate Pond Water Tanker Labours etc at Sardar Vallabhbhai Patel Gro",
+        "3. Imp. Passage and Drainage System Near Room No 357 of Mahatma Phulewadi in Beat No 181 o"
+      ]
     },
     {
       "name": "Rajasthan",
@@ -36,31 +40,43 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
-        "2. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
-        "3. Selection of Bidder For Collection of User Fee Through Fee Collecting Agency on the bas"
+        "1. Rate Contract for BSR 2026-27 FOR MATERIAL AND EQUIPMENT SUPPLY FOR GRAM PANCHAYAT BEED",
+        "2. interlocking eint kharanja nirman kary sumari ke yaha se shivcharan ke ghar ki or shahj",
+        "3. Works including garbage collection and segregation from household and commercial establ"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='mptenders.gov.in', port=443) at 0x7f326c36b950>, 'Connection to mptenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply and Spreading of Muram in Nagar Palika Parishad Damua",
+        "2. Waste Transportation Work from MC Sainkheda Trenching Ground to Waste to Energy Plant J",
+        "3. Inviting Rates of JCB (Backhoe Loader) Machine on Rent Basis for Nagar Palika Parishad "
+      ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='wbtenders.gov.in', port=443): Failed to resolve 'wbtenders.gov.in' ([Errno -3] Temporary failure in name resolution)\"))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. NIT No- 387/PWD/ROAD/BMC (2nd Call) of 233/PWD/ROAD/BMC , Dated- 27/08/2026",
+        "2. NIe-T-50/Sl.No.03/2026-27",
+        "3. NIe-T-50/Sl.No.01/2026-27"
+      ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='tntenders.gov.in', port=443): Failed to resolve 'tntenders.gov.in' ([Errno -3] Temporary failure in name resolution)\"))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. HIRING OF 1 NO. OF HYDRAULIC EXCAVATOR 200 MODEL OR EQUIVALENT CAPACITY FOR A PERIOD OF",
+        "2. Supply of 3.5 V Cross Arm",
+        "3. Supply of  HT TI Fitting"
+      ]
     },
     {
       "name": "Punjab",
@@ -68,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for concrete lining of Khanaura sub minor from RD 12500-26150 off-taking from ",
-        "2. Estimate for concrete lining of Khanaura sub minor from RD 26150-32300 off-taking from ",
-        "3. Estimate for concrete lining of Khanaura sub minor from RD 0-12500 off-taking from RD 4"
+        "1. Widening/New Construction/Special Repair of Various Link Roads and Construction of R.C.",
+        "2. Estimate for Laying uPVC underground pipeline of Sub branches for 78985/R of Bathinda b",
+        "3. Const. of Public Toilet Normal at various location in City (Under SBM 2.0)"
       ]
     },
     {
@@ -79,52 +95,72 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Sampla Jhajj...",
-        "2. Development of Greenbelt Along Sector-25 Road Near Sadhu Forging, Ward No. 01, Ballabga",
-        "3. Special Repair of officer Staff Qtrs. Sector 6 Panchkula including mtc. and defect liab"
+        "1. CONSTRUCTION OF IPB PHIRNI AT VILLAGE TAIN (MANNAKI), BLOCK NUH",
+        "2. Construction of ipb rasta from pwd road to house of ishak at village Untka, Block Nuh",
+        "3. Construction of IPB Firni Rasta in G.P. Godhola, Block Punhana"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='tendersodisha.gov.in', port=443) at 0x7f326c289590>, 'Connection to tendersodisha.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction , Renovation and Repair of Veda Vidyalaya at Sidhamatha Old Town ,Keonjhar",
+        "2. Construction of Paver Block Road at Daily Market at Ward No-13",
+        "3. Construction of Drain at Daily Market in Ward No-13"
+      ]
     },
     {
       "name": "Jharkhand",
       "state": "Jharkhand",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='jharkhandtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='jharkhandtenders.gov.in', port=443) at 0x7f326c2b7390>, 'Connection to jharkhandtenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. SUPPLY OF ELECTRICAL MATERIALS IN HAZARIBAG NAGAR NIGAM, HAZARIBAG",
+        "2. GROUP- 08, CONSTRUCTION OF BOYS AND GIRLS 4UNITS TOILET, PARKING SHED AND MULTISPORTS A",
+        "3. GROUP- 07, CONSTRUCTION OF 8 ADDITIONAL CLASS ROOM AND MISCELLANEOUS WORK IN PM SHRI SC"
+      ]
     },
     {
       "name": "Himachal Pradesh",
       "state": "Himachal Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='hptenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='hptenders.gov.in', port=443) at 0x7f326c2b5f10>, 'Connection to hptenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. RRD on Deodhar Kheelgalo road km. 0/00 to 24/500. (SH- P/L berms concrete and C/O V-sha",
+        "2. Annual repair and maintenance of MRBU road km. 0/00 to 3/835. (SH- Construction of V-sh",
+        "3. Construction of underground Drain with chamber near H/O Vishal Kumar in Ward No. 10 MC "
+      ]
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='uktenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='uktenders.gov.in', port=443) at 0x7f326c186cd0>, 'Connection to uktenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Permanent Restoration Work of Damaged 150 mm dia MSERW pipe line under BAGESHWAR URBAN ",
+        "2. Strengthening of Chamba Urban Water Supply Scheme Under New Tehri Division, District Te",
+        "3. Permanent Restoration Work of Damaged Restoration work damaged pipe line and protection"
+      ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f326c2b78d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fba40ce5bd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='assamtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='assamtenders.gov.in', port=443) at 0x7f326c2b4b50>, 'Connection to assamtenders.gov.in timed out. (connect timeout=25)'))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Fabrication and Supply of Iron Barge under the scheme -Procurement of Fleet of Machiner",
+        "2. Supply of S.S. Water Filter 32 Ltrs. at Kajalgaon ULB Chirang under 15th FC (Tied Grant",
+        "3. PROVIDING CONSULTANCY SERVICE"
+      ]
     },
     {
       "name": "Kerala",
@@ -132,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-2025-26-Project No 745/26 Footpath Construction works to Noorengal Anganava",
-        "2. Annual Plan-2026-27-Project No 245/27 Concrete works to Mudiparamba Cholakkathodi road ",
-        "3. Annual Plan-MALAPPUARAM MUNICIPALITY PRO.NO 96/2026- Repair and make the Varikodan Suba"
+        "1. Supply of Microtome Blades  High Profile and Low Profile in the pathology department of",
+        "2. SITC of Hyper-Converged Infrastructure Solution at CIAL.",
+        "3. LAMINATED FRONT WIND SHIELD GLASS VOLVO AC LOW FLOOR 8400 B7R bus."
       ]
     },
     {
@@ -143,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627105190-CONSTT OF FLOOD PROTECTION BUND NEAR LO MOHD YOUSUF AT WADDER BRIDGE AN",
-        "2. RDDDC2627109925- IMP OF ROAD BWO KHAKH BAJRI WITH 2 NO LINKS FROM SHOP OF GH NABI RATHE",
-        "3. RDDDC2627106643- DEV OF WUZU KHANA AT MASJID SHAREEF AHAMADIYA HARI II BLOCK AWANTIPORA"
+        "1. Suuply of ponies for carriage of food grains from Mundiyan to Dari Area of Keran",
+        "2. RDDDC2627104325 -(INSTALLATION OF BOREWELL IN PREMISES OF GOVT MIDDLE SCHOOL GULSHANABA",
+        "3. Const. of road from Gosia Mohalla to Gadala NHO Karnail Singh Pyt Palnu under UT road S"
       ]
     }
   ],
