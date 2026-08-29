@@ -1,27 +1,19 @@
 {
-  "checked_at_utc": "2026-08-29 12:16:02",
+  "checked_at_utc": "2026-08-29 18:11:54",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. M/o various colonies under Nazul A/c-II, Dwarka Zone.",
-        "2. Dry dock repair of C.P.GANGA -III for the year 2026-27",
-        "3. Electrical Maintenance Fund of 14 Dwarka Greens, A multistoried Composite Houses compri"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. 06/ETD-III(V)/2026-27 FOR THE WORK OF PROVIDING AND FIXING OF BRIGHT ORANGE AND WHITE C",
-        "2. Detailed Estimate of remediation of Legecy waste through resourse recovery of existing ",
-        "3. NAGAR PANCHAYAT NYOTANI UNNAO ME 08 NAG DUKAN NIRMAN KARYA"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +21,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Creation of artificial pond for immersion of Shri Ganpati near Saksham Petrol Pump at K",
-        "2. Desilting of existing Ganesh Visarjan Well And other Works in Ward No. 104, Jalan Nagar",
-        "3. DHULE/DMC/PWD/DMC Fund/85 /12-24/2026-27 CONSTRUCTION OF RCC GUTTER FROM DWARKADISH CHI"
+        "1. Item No.06 Supply of PRINTED ANTISKID HDPE BAGS (ANTI-SLIP WEAVE PATTERN) (WOVEN SACKS)",
+        "2. Item No.11 For Supply of THIRAM (WITH ISI MARK)",
+        "3. Item No.09 For Supply of PRINTED ONE SIDE BOPP POLY LAMINATED HDPE BAGS (WOVEN SACK) SI"
       ]
     },
     {
@@ -40,9 +32,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Two Class rooms with Veranda and toilet in Government Primary School Dh",
-        "2. Construction of Two Class rooms with Veranda and toilet in Government Primary School Ga",
-        "3. Construction of Two Class rooms with Veranda and toilet in Government Primary School Se"
+        "1. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
+        "2. SANITATION WORK NETRA",
+        "3. CC SADAK NIRMAN KARYA RAJVEER KE GHAR SE PANCHAYAT GHAR KI OR PUNAY"
       ]
     },
     {
@@ -51,9 +43,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FOR SPECIAL STRENTHENING WORK OF 1.GARRA-PIPARIYA RD. LN -2.20.2.SELVATPAR - TUIYAPAR R",
-        "2. Lease of the room located behind the shop at Galla Market Chhindwara",
-        "3. Aluminum partitioning, tin shed installation, toilet and plaster repairs, painting and "
+        "1. Construction/Beautification work of the park near Panchmukhi Hanuman Temple in New Shas",
+        "2. Construction/Beautification work of the park near Shiv Mandir Rangmanch ahead of Shah N",
+        "3. Construction/Beautification work of the park near Jogni Mata Temple under Zone no. 01 T"
       ]
     },
     {
@@ -62,21 +54,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMC/XIII/116/08/26-27",
-        "2. WBMAD/ULB/KM/NIT-01/ Road/2026-27/SlNo-08",
-        "3. WBMAD/ULB/KM/NIT-01/ Road/2026-27/SlNo-06"
+        "1. WBMAD/NIeT/32/BM/2026-27/PWD/C",
+        "2. WBMAD/NIeT/32/BM/2026-27/PWD/E",
+        "3. WBMAD/NIeT/32/BM/2026-27/PWD/A"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Procurement of Membrance and Head Assembly  for SWRO Skid",
-        "2. Supply of 11 KV ,200A AB Switch Horizontal type with 11 KV post type insulators",
-        "3. Execution of  Capital and Improvement works in Thatchanallur, Melapalayam-1  section of"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='tntenders.gov.in', port=443): Failed to resolve 'tntenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Punjab",
@@ -84,9 +72,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PURCHASE OF LUBRICANTS",
-        "2. Supply of Generator in NP Narot Jaimal Singh.",
-        "3. Construction of Public Toilets in Narot Jaimal Singh."
+        "1. Auction of Mineral Site Sasrali-1 Distt Ludhiana (Area 10 Ha)",
+        "2. Construction of drains Type-2 on both sides of the road, from petrol pump to the bus st",
+        "3. Auction of Mineral Site Maira Kalan District Pathankot (Area 9.55 Ha"
       ]
     },
     {
@@ -95,9 +83,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Public Toilet (5 Seat) near OP Jindal Park Main Gate GVP Point in Ward ",
-        "2. Construction of RCC Welcome...",
-        "3. Construction of RCC Welcome..."
+        "1. Construction of Retaining wall/Protection wall between Narwana Branch and SYL Canal at ",
+        "2. Campa New Forestry Works Bichpari Block",
+        "3. Repairing of Damaged/washed patches both side lining of SYL Canal from Km 2 to 3 km and"
       ]
     },
     {
@@ -106,9 +94,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of Additional Class room at Banakand Primary School",
-        "2. Const. of Additional Class room at Govt. Primary school, Sanamasinabilla",
-        "3. Const. of Additional Class room at Arjunbilla Primary School"
+        "1. Upgradation of CHC building at Sindhekela under Ama Hospital",
+        "2. E-Tender-cum-Auction  for leasing out of Gundichaghagi waterfall Tourist Spot",
+        "3. Construction of Higer Secondary School Building(New) at Rusuda High School Rusuda under"
       ]
     },
     {
@@ -117,9 +105,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Consultancy services for preparation of DPR for(1)Peripheral road around Dhurwa Dam(2)P",
-        "2. Engagement of Contractual workmen under skilled category to assist in operation and mai",
-        "3. Construction of Animal Birth Control Centre Building of 50 Kennel Capacity at Kolakusma"
+        "1. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BAISADHI BILARI HARIJAN TOLA FASI",
+        "2. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BALAK CHOURA DAHARLANGI GHOPDIHA ",
+        "3. Construction of PCC Road in katras from railway fatak to selected colony and in differe"
       ]
     },
     {
@@ -128,9 +116,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RRD FIS Kirpal Chand Kuhl in Tehsil Palampur Distt. Kangra (HP)",
-        "2. RRD to LWSS Purba Balota Tehsil Palampur Distt. Kangra (HP)",
-        "3. Restoration Rain damages to WSS Daroh Garh under Jal Shakti Sub-Division Daroh   in Teh"
+        "1. C/O  Multistory Parking in front of Ramleela ground and over Ramleela ground at Reckong",
+        "2. AR  MO to residential qtrs. under Division No.III Shimla. SH Renovation of set No. 3  4",
+        "3. Repair renovation to various  Residential Buildings under Division No III Shimla  SH Re"
       ]
     },
     {
@@ -139,16 +127,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of damaged and Protection works on Rising Main, Intake well, Cross Wall, MPS, BF",
-        "2. Road construction work from the Block to Bhumiya kheda on iqbalpur road in ward no 23",
-        "3. Proposed Construction of RCC Drain at Ramnagar Arya Samaj Road from Gali no 01 Toward j"
+        "1. Landslide treatment work from Km. 6.016 to Km. 6.180 (1 location) on Narendranagar  Ran",
+        "2. Landslide treatment work from Km. 18.150 to Km. 18.560 (1 location) on Garjiya (Ghughti",
+        "3. Landslide treatment work from Km. 9.070 to Km. 9.250 (1 location, Jajred) on Kalsi Chak"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f463dd5ed90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f774abf2390>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +145,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development, Operation and Management Contract for running the Wayside Amenity Centre a",
-        "2. CE/EAP/ARRBP/ OCB/Bridges-1/Morigaon/20",
-        "3. CE/EAP/ARRBP/ OCB/Bridge-1/ Cachar/32"
+        "1. SALE OF USED ANSWER SCRIPTS AND OTHER WASTE PAPERS",
+        "2. CE/EAP/ARRBP/ OCB/Bridges-1/Morigaon/18",
+        "3. De-stringing of existing Panther Conductor and Stringing and Supply of HTLS Conductor"
       ]
     },
     {
@@ -168,9 +156,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Re tender for Baled silage supply",
-        "2. MAIZE FODDER SUPPLY",
-        "3. Supply and Installation of Display for Existing CCTV System at Govt. Guest House Varkal"
+        "1.  GENERALInstallation of AC units at four class room cum lab halls and Directors room at",
+        "2. Thottakad Watershed Phase IV LSS scheme",
+        "3. MOE2A-KSMART-1791939/2024, Krishnaswamy Road and Footpath Retaining wall Maintenanc in "
       ]
     },
     {
@@ -179,9 +167,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of Boundary Pillar (140 CL)  at Dhori Forest Panjgrain Block of  Kalidhar ",
-        "2. Supply of Dry Feed for Jambu Zoo",
-        "3. Installation of Boundary Pillar (317 CL)  at  Dhori Forest Panjgrain Block of  Kalidhar"
+        "1. Construction of fencing near graveyard Masjid Sharif Dangar Mohalla Nallah at Nigloo Po",
+        "2. Construction of lane from Medical Shop to Ab Aziz Bhat at Charangam",
+        "3. Development of graveyard by way of chainlink fencing and gate at Donkel Bagh Sail"
       ]
     }
   ],
