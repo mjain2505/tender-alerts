@@ -1,19 +1,27 @@
 {
-  "checked_at_utc": "2026-08-29 18:11:54",
+  "checked_at_utc": "2026-08-29 23:00:16",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply of Di-ammonium Phosphate (DAP) (18-46-0) IN BULK",
+        "2. Improvement of electrical fittings and connections in Govt building occupied as sector ",
+        "3. NHIDCL/RO-SIL/CCMS/01/2026-27"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1.  Improvement work of road by interlocking from Ramji to Jitendra Pal house in Manohar V",
+        "2. Repair work of Damaged crosses at different places in Ghavkheda Safipur Ward11 Under Zo",
+        "3. Improvement work of road and drain by interlocking from Vinay Pathak to Sughar Singh Ya"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -21,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Item No.06 Supply of PRINTED ANTISKID HDPE BAGS (ANTI-SLIP WEAVE PATTERN) (WOVEN SACKS)",
-        "2. Item No.11 For Supply of THIRAM (WITH ISI MARK)",
-        "3. Item No.09 For Supply of PRINTED ONE SIDE BOPP POLY LAMINATED HDPE BAGS (WOVEN SACK) SI"
+        "1. Item No.04 For Supply of PRINTED POLYESTER POLY POUCHES (WITH D PUNCH) (CYLINDERS NOT A",
+        "2. Item No.08 For Supply of PRINTED BOTH SIDES BOPP POLY LAMINATED PP BAGS 3 SIZES (WOVEN ",
+        "3. Item No.07 For Supply of PRINTED HDPE BAGS (WOVEN SACK) (HD) (FINISHED) SIZE 86.5 x 56 "
       ]
     },
     {
@@ -32,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-",
+        "1. CC SADAK NIRMAN KARYA RAJVEER KE GHAR SE PANCHAYAT GHAR KI OR PUNAY",
         "2. SANITATION WORK NETRA",
-        "3. CC SADAK NIRMAN KARYA RAJVEER KE GHAR SE PANCHAYAT GHAR KI OR PUNAY"
+        "3. Annual Contract of Material Supply and Equipment Arrangement for Year 2026-27 for VB-G-"
       ]
     },
     {
@@ -54,17 +62,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/NIeT/32/BM/2026-27/PWD/C",
+        "1. WBMAD/NIeT/32/BM/2026-27/PWD/G",
         "2. WBMAD/NIeT/32/BM/2026-27/PWD/E",
-        "3. WBMAD/NIeT/32/BM/2026-27/PWD/A"
+        "3. WBMAD/NIeT/32/BM/2026-27/PWD/D"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='tntenders.gov.in', port=443): Failed to resolve 'tntenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply of STAY SET COMPLETE",
+        "2. General Fund 2026-27",
+        "3. Tirupathur District - Construction of Compost pit with lining wall at Kumaramangalam  P"
+      ]
     },
     {
       "name": "Punjab",
@@ -72,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Auction of Mineral Site Sasrali-1 Distt Ludhiana (Area 10 Ha)",
-        "2. Construction of drains Type-2 on both sides of the road, from petrol pump to the bus st",
-        "3. Auction of Mineral Site Maira Kalan District Pathankot (Area 9.55 Ha"
+        "1. Auction of Mineral Site Bassi Gulam Hussain and Sherpur Bhatia Distt Hoshiarpur (Area 2",
+        "2. Auction of Mineral Site Mohar Singh Wala Hithar Distt Fazilka (Area 1.82 Ha)",
+        "3. Auction of Mineral Site Burj Tehal Dass Distt SBS Nagar (Area 8.71 Ha)"
       ]
     },
     {
@@ -95,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Upgradation of CHC building at Sindhekela under Ama Hospital",
-        "2. E-Tender-cum-Auction  for leasing out of Gundichaghagi waterfall Tourist Spot",
-        "3. Construction of Higer Secondary School Building(New) at Rusuda High School Rusuda under"
+        "2. Construction of Higer Secondary School Building(New) at Rusuda High School Rusuda under",
+        "3. E-Tender-cum-Auction  for leasing out of Gundichaghagi waterfall Tourist Spot"
       ]
     },
     {
@@ -105,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BAISADHI BILARI HARIJAN TOLA FASI",
-        "2. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BALAK CHOURA DAHARLANGI GHOPDIHA ",
-        "3. Construction of PCC Road in katras from railway fatak to selected colony and in differe"
+        "1. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BALAK CHOURA DAHARLANGI GHOPDIHA ",
+        "2. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BAISADHI BILARI HARIJAN TOLA FASI",
+        "3. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BELAKITTA BALIKA DEOGHARAJAGIR LA"
       ]
     },
     {
@@ -116,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/O  Multistory Parking in front of Ramleela ground and over Ramleela ground at Reckong",
-        "2. AR  MO to residential qtrs. under Division No.III Shimla. SH Renovation of set No. 3  4",
-        "3. Repair renovation to various  Residential Buildings under Division No III Shimla  SH Re"
+        "1. Repair renovation to various  Residential Buildings under Division No III Shimla  SH Re",
+        "2. Periodical Maintenance on NH-22 to  Khadura road Km. 0/00 to 5/00 (Under Annual Mainten",
+        "3. AR  MO to residential building under Shimla Division No.III Shimla. SH Painting, distem"
       ]
     },
     {
@@ -127,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Landslide treatment work from Km. 6.016 to Km. 6.180 (1 location) on Narendranagar  Ran",
-        "2. Landslide treatment work from Km. 18.150 to Km. 18.560 (1 location) on Garjiya (Ghughti",
-        "3. Landslide treatment work from Km. 9.070 to Km. 9.250 (1 location, Jajred) on Kalsi Chak"
+        "1. Landslide treatment work from Km. 2.025 to Km. 2.295 (1 location) on Kathgodam Haidakha",
+        "2. Landslide treatment work from Km. 6.016 to Km. 6.180 (1 location) on Narendranagar  Ran",
+        "3. Landslide treatment work from Km. 18.150 to Km. 18.560 (1 location) on Garjiya (Ghughti"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f774abf2390>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9775236ad0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -158,7 +170,7 @@
       "sample_titles": [
         "1.  GENERALInstallation of AC units at four class room cum lab halls and Directors room at",
         "2. Thottakad Watershed Phase IV LSS scheme",
-        "3. MOE2A-KSMART-1791939/2024, Krishnaswamy Road and Footpath Retaining wall Maintenanc in "
+        "3. Installing 160 kVA Transformer at Kuratoor ,Installation of CTC RMU at Eswaravilasom Ro"
       ]
     },
     {
@@ -167,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of fencing near graveyard Masjid Sharif Dangar Mohalla Nallah at Nigloo Po",
-        "2. Construction of lane from Medical Shop to Ab Aziz Bhat at Charangam",
-        "3. Development of graveyard by way of chainlink fencing and gate at Donkel Bagh Sail"
+        "1. Construction of protection bund near land of Farooq Ahmad Bhat and construction of drai",
+        "2. Construction of Road with P Bund from house of Jaffar Lone to Imambada at Nigloo Poounc",
+        "3. Construction of road from link road to Ghulam Ahmad Bhat at Sail"
       ]
     }
   ],
