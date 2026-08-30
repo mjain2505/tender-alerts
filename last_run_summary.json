@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-30 16:01:24",
+  "checked_at_utc": "2026-08-30 20:32:36",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of electrical fittings and connections in Govt building occupied as sector ",
-        "2. Supply of Di-ammonium Phosphate (DAP) (18-46-0) IN BULK",
-        "3. NHIDCL/RO-SIL/CCMS/01/2026-27"
+        "1. Supply of Di-ammonium Phosphate (DAP) (18-46-0) IN BULK",
+        "2. NHIDCL/RO-SIL/CCMS/01/2026-27",
+        "3. Improvement of electrical fittings and connections in Govt building occupied as sector "
       ]
     },
     {
@@ -18,17 +18,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement work of road and drain by interlocking from Ashish Mishra  to Babban house ",
-        "2. Repair work of Damaged crosses at different places in Ghavkheda Safipur Ward11 Under Zo",
-        "3. Improvement work of road and drain by interlocking from Vinay Pathak to Sughar Singh Ya"
+        "1. Repair work of Damaged crosses at different places in Ghavkheda Safipur Ward11 Under Zo",
+        "2.  Improvement work of road by interlocking from Ramji to Jitendra Pal house in Manohar V",
+        "3. Improvement work of road and drain by interlocking from Ashish Mishra  to Babban house "
       ]
     },
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mahatenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply, Installation Commission and Testing of Fully Automatic Seed Processing Unit 3 T",
+        "2. Item No.04 For Supply of PRINTED POLYESTER POLY POUCHES (WITH D PUNCH) (CYLINDERS NOT A",
+        "3. Item No.11 For Supply of THIRAM (WITH ISI MARK)"
+      ]
     },
     {
       "name": "Rajasthan",
@@ -55,13 +59,9 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. WBMAD/NIeT/32/BM/2026-27/PWD/E",
-        "2. WBMAD/NIeT/32/BM/2026-27/PWD/F",
-        "3. WBMAD/NIeT/32/BM/2026-27/PWD/G"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -70,8 +70,8 @@
       "status": "ok",
       "sample_titles": [
         "1. DPR Prepared Water supply 2026-27",
-        "2. CE-MTPSI-SE-ES-EM-I-OT16-26-27",
-        "3. Supply of STAY SET COMPLETE"
+        "2. General Fund 2026-27",
+        "3. General Fund 2026-27"
       ]
     },
     {
@@ -80,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Auction of Mineral Site Chakli Kasab Distt Ludhiana (Area 16.8 Ha)",
-        "2. Auction of Mineral Site Burj Tehal Dass Distt SBS Nagar (Area 8.71 Ha)",
-        "3. Auction of Mineral Site Maira Kalan District Pathankot (Area 9.55 Ha"
+        "1. Auction of Mineral Site Dholewala Distt Moga (Area 5.84 Ha)",
+        "2. Supply of 5 computer Operator, 1 Mali supervisor, 1 Peon cum Bill distributor  on LC Ra",
+        "3. New Compost Pits With Shed"
       ]
     },
     {
@@ -91,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Campa New Forestry Works Bichpari Block",
+        "1. Construction of Retaining wall/Protection wall between Narwana Branch and SYL Canal at ",
         "2. Repairing of Damaged/washed patches both side lining of SYL Canal from Km 2 to 3 km and",
-        "3. Construction of Retaining wall/Protection wall between Narwana Branch and SYL Canal at "
+        "3. Campa New Forestry Works Bichpari Block"
       ]
     },
     {
@@ -113,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BALAK CHOURA DAHARLANGI GHOPDIHA ",
-        "2. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BAISADHI BILARI HARIJAN TOLA FASI",
-        "3. Construction of RCC Drain and PCC Road in Kajubagan from Sahid Roj to Raja fal via Isra"
+        "1. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BAISADHI BILARI HARIJAN TOLA FASI",
+        "2. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BALAK CHOURA DAHARLANGI GHOPDIHA ",
+        "3. CONSTRUCTION OF PRE FABRICATED 2ACR IN PRIMARY SCHOOL BELAKITTA BALIKA DEOGHARAJAGIR LA"
       ]
     },
     {
@@ -126,7 +126,7 @@
       "sample_titles": [
         "1. Construction of Nature Park  at Damtal (Indora) NH 44",
         "2. CO sewerage and sullage waste line from nursing Hostel and kitchen to M.C. main line  d",
-        "3. M/T on Tail control to  Dhaneshwari   road km 0/0 to  0/950"
+        "3. Repair of Administrative Block in Govt. Polytechnic Talwar"
       ]
     },
     {
@@ -137,14 +137,14 @@
       "sample_titles": [
         "1. Landslide treatment work from Km. 6.016 to Km. 6.180 (1 location) on Narendranagar  Ran",
         "2. Landslide treatment work from Km. 18.150 to Km. 18.560 (1 location) on Garjiya (Ghughti",
-        "3. Landslide treatment work from Km. 9.070 to Km. 9.250 (1 location, Jajred) on Kalsi Chak"
+        "3. Landslide treatment work from Km. 7.020 to Km. 7.160 (1 location) on Narendranagar Rani"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8ee9581c10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc408586010>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -166,7 +166,7 @@
       "sample_titles": [
         "1.  GENERALInstallation of AC units at four class room cum lab halls and Directors room at",
         "2. Thottakad Watershed Phase IV LSS scheme",
-        "3. MOE4-KSMART-1295836/2026, Kaseeba Road Interlocking Tile Laying and Drainage Raising in"
+        "3. Annual Plan-2026-27 Kalikav GP-Proj. No 123/27-Main Road STD Booth Pallikkunnu Road Ren"
       ]
     },
     {
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Macadamization of Kathoda Morh to Chamunda Mata Mandir Ther (Panchayat Jankhar) includi",
-        "2. Development of graveyard by way of chainlink fencing and gate at Donkel Bagh Sail",
-        "3. Construction of Path  Stairsteps near Masjid Sharif Pir Mohalla and at Jamia Masjid Tak"
+        "1. Fencing around Jamia Masjid Nusoo Nursingpora",
+        "2. Construction of drain from Chopan Mohalla Masjid to house of Syed Abdul Hassan and P bu",
+        "3. Construction of protection bund near house of Ab Rahim Wani and construction of lane fr"
       ]
     }
   ],
