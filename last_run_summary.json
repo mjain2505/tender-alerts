@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-31 20:40:01",
+  "checked_at_utc": "2026-09-01 00:23:29",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of manpower for executing the work of Restoration of Fallen Fortification wall a",
+        "1. Construction of Retaining wall and pitching work in km 21.200 to 21.700 and Km 50.700 t",
         "2. Supply and delivery of 100 Nos of 500W LED Floodlight Luminaries  to P and E Division, ",
-        "3. Supply and Installation of Die sink EDM at IIT Bhilai"
+        "3. Hiring of manpower for executing the work of Restoration of Fallen Fortification wall a"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Laying of Interlocking from the main road to Ram Dulare Gupta house in Majra Baisanpur ",
+        "2. EARTHWORK AND PARTIAL CRUST CONSTRUCTION FOR 45.00 MTR. AND 24.00 MTR. WIDE TRUNK ROADS",
+        "3. Improvement work of road and drain From Ranjeet Singh house to Rajesh house Via Suraj S"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of Open Sabhagruh at Ward No. 48, Near Jai Maharashtra Mitra Mandal, MHB Colony,",
-        "2. Hiring Artificial pond Labours Mandap etc. at Samna Kirda Mandal Ground Adrash Nagar Jo",
-        "3. Beat No 175 Councillor Fund"
+        "1. Beat No 175 Councillor Fund",
+        "2. Beat No 175 Councillor Fund",
+        "3. Improvement of Footpath Near Sagar Kutir Lane in Versova at Andheri W in K West Ward in"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 3CONST OF 2 ADDL CLASS ROOM GGUMS RATANPURA PANCHAYAT SAMITI BAGIDORA",
-        "2. 7CONST OF 2 ADDL CLASS ROOM GUPS JUNAPADARIYA PANCHAYAT SAMITI BAGIDORA",
-        "3. SAMUDAYIK BHAWAN NIRMAN KARYA GRAM PEEPLI."
+        "1. 2CONST OF LIBRARY WITH TEACHING ROMM PS SUTHARWADA PANCHAYAT SAMITI BAGIDORA",
+        "2. 12CONST OF 2 CLASS ROOM GMS BANSLA PANCHAYAT SAMITI BAGIDORA",
+        "3. 4CONST OF BARADARI BHAVAN BADELAPADA PANCHAYAT SAMITI BAGIDORA"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Notice Inviting e-Tender No.09/EE(R and B)/NKDA/2026-27  Additional and alteration work",
-        "2. WBMAD/NIeT/34/BM/26-27/PWD/G",
-        "3. WBMAD/NIeT/34/BM/26-27/PWD/A"
+        "1. WBMAD/NIeT/34/BM/26-27/PWD/H",
+        "2. WBMAD/NIeT/34/BM/26-27/PWD/E",
+        "3. WBMAD/NIeT/34/BM/26-27/PWD/I"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Suppy of  Steel Tanki (5000) ltr. at mc office Gidderbaha",
-        "2. Labour Supply in water supply branch of  mc Gidderbaha Pump Oprator-7,fitter-2,Fitter k",
-        "3. Labour Supply in Sewerage branch of  mc Gidderbaha Pump Operator (iti)-6,Sewerman-16,Tr"
+        "1. Estimate of  Solar Panels for water works at Gidderbaha",
+        "2. Labour Supply in Sewerage branch of  mc Gidderbaha Pump Operator (iti)-6,Sewerman-16,Tr",
+        "3. Suppy of  Steel Tanki (5000) ltr. at mc office Gidderbaha"
       ]
     },
     {
@@ -91,8 +95,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Widening of road in front of PWD Rest House in Sector 1 Panchkula including mtc. and de",
-        "2. Maintenance of Horticulture...",
+        "1. Maintenance of Horticulture...",
+        "2. Widening of road in front of PWD Rest House in Sector 1 Panchkula including mtc. and de",
         "3. Annual Maintenance"
       ]
     },
@@ -103,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Duimuhani to Pandakimal via- Baniabandha road",
-        "2. Construction of VSS Building at Jogimunda  of Bamra WL Range",
-        "3. Construction of VSS Building at Khairdihi of Jamankira WL Range"
+        "2. Construction of VSS Building at  Ganghosa of Jamankira WL Range",
+        "3. Construction of VSS Building at  Dimirimunda of Jamankira WL Range"
       ]
     },
     {
@@ -124,8 +128,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Water Source Development including Distribution System in Lift Irrigation Sch",
-        "2. Providing Distribution System in Lift Irrigation Scheme Chakkoh under HPCDP (Phase-II)-",
+        "1. RM of LWSS Solan from Ashwani Khad Tehsil and Distt. Solan",
+        "2. Providing Water Source Development including Distribution System in Lift Irrigation Sch",
         "3. Providing Distribution System in Lift Irrigation Scheme Chak Kathal under HPCDP(Phase-I"
       ]
     },
@@ -135,8 +139,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SELECTION OF AGENCY FOR COMPREHENSIVE DISASTER MANAGEMENT PLANNING HAZARD RISK VULNERAB",
-        "2. Construction of road from Lat. Shri Chamkaur Singh house to Mandir in village nandrampu",
+        "1. Construction of road from Lat. Shri Chamkaur Singh house to Mandir in village nandrampu",
+        "2. SELECTION OF AGENCY FOR COMPREHENSIVE DISASTER MANAGEMENT PLANNING HAZARD RISK VULNERAB",
         "3. TD07"
       ]
     },
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f00b567a010>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fab52faafd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Project no-125/26-27 Maintenance of Manjamattam Subcentre building-AKLM-26-27",
-        "2. Project No.23/2026-27 Maintanance of Parappallithazhe Kuzhikkattu colony road - ward 4 ",
-        "3. Project No. 145/2026 Anganwadi Maintanance - AKLM GP"
+        "1. Project No. 145/2026 Anganwadi Maintanance - AKLM GP",
+        "2. Project No-133/2026-27 Mattakkara Govt LPS maintenance in Akalakunnam Gramapanchayth-AK",
+        "3. Project no-125/26-27 Maintenance of Manjamattam Subcentre building-AKLM-26-27"
       ]
     },
     {
