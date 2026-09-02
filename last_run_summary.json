@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-02 13:14:04",
+  "checked_at_utc": "2026-09-02 18:26:20",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Laying of Water Supply Pipeline for LP-01 Area at North Campus of IIT Man",
-        "2. Tender for the Supply of consumables for the Lexmark Printer at IIM Tiruchirappalli",
-        "3. BLDC Motor Drive System, Switched Reluctance Motor Drive System and Induction Motor Dri"
+        "1. Tender for execution of Work to MW(C) to Narasimha swamy and Ranganatha Swamy temple at",
+        "2. Rewiring and modification of corridor lights at DJAC",
+        "3. Supply and installation of a Color Laser Multifunctional Printer on a buyback basis in "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KOTAWALI WARD CHAUKA PER SAMAGRI APURTI KA KARYA",
-        "2. handling work paddy purchase 26-27 wheat 27-28 BAREILLY S.S/ B.B. LTD KATAIYA AT NAWABG",
-        "3. CHAUK WARD CHAUKI PER SAMAGRI APUTRI KA KARYA"
+        "1. Improvement of footpath work from sbi bank near rahul sweet house and hmp through road ",
+        "2. Construction work of Multipurpose Hall, Library and  Drinking Water Facility at Govt. I",
+        "3. Renovation of Community Center in Sector-23, Noida"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Pathway and drainage system at Shree bajarang welfare  society, Goninaga",
-        "2. State Excise Bhavan Maharashtra Office Cleaning and Gardening Contractual Work Tender",
-        "3. APPOINTMENT OF AGENCY FOR PROVIDING OUTSOURCED MANPOWER SERVICES FOR CSMRDA 2nd Call"
+        "1. Improvement of Passage and Drainage System at Ekta Mitra Mandal Balaram Babu Khedekar M",
+        "2. Improvement of drainage line and passage",
+        "3. Imp. of 8 Seated W.C Block at Navtrun Utsav Mandal Jain Derasar Lane Wadala W in Beat N"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Constriction Material and Providing Equipment in MGNREGA,VB G RAM G and other",
-        "2. Shimla mein suresh putra Shri Prhalad ke Ghar se Satyveer putra Sanwalram ke Ghar tak I",
-        "3. Supply of Cattle Feed Raw Material Items for RM-839-A"
+        "1. NAREGA AND PANCHAYATIRAJ KE NIRMAN KARYO HETU FY 2026-27 ME SAMAGRI SUPPLY AND UPKARAN ",
+        "2. Annual Rate Contract for Maintenance of PHED Tube wells including repairing and rewindi",
+        "3. NAREGA AND PANCHAYATIRAJ KE NIRMAN KARYO HETU FY 2026-27 ME SAMAGRI SUPPLY AND UPKARAN "
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of seal off bushings for bus duct of Generator Transformer, UAT, PT cubicle",
-        "2. Construction Of Anganbadi kendra 24 At Nyas Coloney ward no-12  ( Fourth Call)",
-        "3. Construction Of Anganbadi kendra 22 At Raidas Nagar ward no-11 ( Fourth Call)"
+        "1. Hiring of one no. AC Jeep (6plus1 pax capacity) category,SUV with engine capacity 1450 ",
+        "2. Online Tender for Providing  01 No Hiring Of  New Vehicle Bolero Neo Jeep or equivalent",
+        "3. Construction of RCC Drain from Lal Singh House to Saket Basti at Ward No.30"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBUDMA/EE/SLRD/NIT-05(e)/2026 27 of Executive Engineer, Salt Lake Reclamation Division",
-        "2. WBMAD/ULB/HM/NIT-4e/2026-27",
-        "3. e-NIQ-UKM/MSMK/001(e)/2026-27"
+        "1. NIe-T- 62/2026-27 (Sl. No.- 19)",
+        "2. NIe-T- 62/2026-27 (Sl. No.- 18)",
+        "3. QUOTATION NOTICE FOR SUPPLY OF TRAY DRYER FOR FOOD PROCESSING"
       ]
     },
     {
@@ -73,21 +73,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TNVPM-Vallam-Illodu-SBMG",
-        "2. Construction of Segregation Shed at NallammalSamuthiram in Nallammalsamuthiram Panchaya",
-        "3. Construction of Segregation Shed at K. Rayavaram in K.Rayavaram Panchayat"
+        "1. Providing Lifting Gate and Barricading arrangements infront of Library block and to sep",
+        "2. Construction of Segregation Shed at Embal in Embal Panchayat",
+        "3. Special Repairs to Revenue Inspector Office Cum Quarters Building at Okkur in Sivaganga"
       ]
     },
     {
       "name": "Punjab",
       "state": "Punjab",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Renovation and Repair of Dharamshala amar darshan colony ward no. 37   Est Cost Rs. 9.0",
-        "2. Renovation and repair of Dharamshala Dhiru Basti near Mata Rani mandir and dharamshala ",
-        "3. Runoff Control structure, Crate wire structure and Retaining wall of pond"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eproc.punjab.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Haryana",
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ANNUAL MTC. OF INTERNAL SEW...",
-        "2. Repair of HSVP Staff Qtr. No. 2890 GF in Sector 15 Panchkula",
-        "3. ANNUAL MTC. OF INTERNAL SEW..."
+        "1.  Supply of plants in the re...",
+        "2. Special Repair of the master road dividing Sectors 3a/4 and 3a/9a, Gurugram, including ",
+        "3. Construction of CC street and storm water drain in front of 8 Biswa Choupal in ward no."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Area Development work of  Mangalajodi Bird Museum at  Chilika, Odisha for the year 2026",
-        "2. Expression of Interest EoI for Shortlisting of Consulting Firm for Master Planning and ",
-        "3. Upgradation and Renovation work at Balaramprasad PHC under AMA Hospital Building phases"
+        "1. Upgradation and Renovation work at Thakurgarh PHC under AMA Hospital Building phases II",
+        "2. Area Development work of  Mangalajodi Bird Museum at  Chilika, Odisha for the year 2026",
+        "3. Expression of Interest EoI for Shortlisting of Consulting Firm for Master Planning and "
       ]
     },
     {
@@ -117,8 +113,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Road in Hanuman Nagar, Lower Kulhi and In Motiya Patti different locati",
-        "2. Construction of RCC Drain from near KC girls high school to laxmaniya more near Gopinat",
+        "1. Construction of Road from Cholhaiya to Kalimada via Talab (L-1.900 Km), RWD/GIRIDIH/03/",
+        "2. Construction of Road in Hanuman Nagar, Lower Kulhi and In Motiya Patti different locati",
         "3. Construction of Road from Mangar Tilaiya School to Doka Singha via Lukaiya (L-1.600 Km)"
       ]
     },
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing of WSS Shiladesh in GP Shiladesh Tehsil Chirgaon  Distt Shimla HP",
-        "2. Providing WSS Shelapani in GP Gawas Tehsil Rohru Distt Shimla HP",
-        "3. Drilling,Lowering of assembly, Development of Tubewell,80 m deep (DTH Method) at Siuni "
+        "1. Providing WSS Shelapani in GP Gawas Tehsil Rohru Distt Shimla HP",
+        "2. Providing of WSS Shiladesh in GP Shiladesh Tehsil Chirgaon  Distt Shimla HP",
+        "3. HPSEBL/AMD/DB-8/2025-26-042"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF 114 NOS 33KV OUTDOOR POLE MOUNTED COMBINED CT-PT UNIT WITH METER BOX",
-        "2. Annual Rate Contract for Alumino Ferric Grade-IV in the form of naked loose slabs",
-        "3. ISI marked H.D.P.E. Pipe material grade P.E. 80 for Pressure rating 6 and 10 Kg/cm2, co"
+        "1. Annual Rate Contract for Supply of Pre-cast Concrete Platform 1.2 meter dia. with chowk",
+        "2. Annual Rate contract for Supply of Energy Efficient Submersible Pump sets of various du",
+        "3. SUPPLY OF 114 NOS 33KV OUTDOOR POLE MOUNTED COMBINED CT-PT UNIT WITH METER BOX"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f053dfb9510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1174647050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,8 +164,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 136/27-Pappattungal Khabarsthan road renovation Pookkottur GP Ward 16",
-        "2. 124/27 RENOVATION OF CHEMBRA KAVUMKANDI ROAD",
+        "1. 142/27-Vellur Edasserithodi road in Pookkottur GP Ward 20",
+        "2. 136/27-Pappattungal Khabarsthan road renovation Pookkottur GP Ward 16",
         "3. 269/26-Renovation of Aalakkad anganvadi in Pookkottur GP"
       ]
     },
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Horticulture Development Office at Departmental Fruit Plant Nursery Rin",
-        "2. Survey Demarcation and Boundary Protection (Construction and installation of missing, f",
-        "3. Construction of water guage/concrete bund near Batti Khann,Nagam enabling farmers of Ba"
+        "1. Construction of Link road from Baghu Nallah to Eidgah Batote Under UT Capex 2026-27",
+        "2. Up-gradation of Road From Dak Mohalla to Kala Hill w.no.9 Pyt. Pathanateer Block Mendha",
+        "3. Construction of Gate, Chain Fencing of Park at entry point opposite MC office (Court Ro"
       ]
     }
   ],
