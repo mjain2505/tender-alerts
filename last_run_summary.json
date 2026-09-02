@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-02 18:26:20",
+  "checked_at_utc": "2026-09-02 22:59:10",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of footpath work from sbi bank near rahul sweet house and hmp through road ",
-        "2. Construction work of Multipurpose Hall, Library and  Drinking Water Facility at Govt. I",
-        "3. Renovation of Community Center in Sector-23, Noida"
+        "1. 4-\tWork on constructing the access road to the Ramlila Ground in Ward No. 06.",
+        "2. Work for Execution of various tasks for the requirement of Pre and Post Exam Processing",
+        "3. Improvement of road by Interlocking Tiles And Drain From S.B.I. ATM To Machhariya Gaadi"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Passage and Drainage System at Ekta Mitra Mandal Balaram Babu Khedekar M",
+        "1. Appointment of Consultant for providing Architectural and Project Management Consultanc",
         "2. Improvement of drainage line and passage",
-        "3. Imp. of 8 Seated W.C Block at Navtrun Utsav Mandal Jain Derasar Lane Wadala W in Beat N"
+        "3. Providing and Fixing RCC Cover 1000x500x75mm at  various places in beat no.100 of H/W w"
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NAREGA AND PANCHAYATIRAJ KE NIRMAN KARYO HETU FY 2026-27 ME SAMAGRI SUPPLY AND UPKARAN ",
-        "2. Annual Rate Contract for Maintenance of PHED Tube wells including repairing and rewindi",
+        "1. Annual Rate Contract for Maintenance of PHED Tube wells including repairing and rewindi",
+        "2. GAON TATARMALA NE SAMUDAYIK BHAWAN KE PASS TINSHED DOM KARYA",
         "3. NAREGA AND PANCHAYATIRAJ KE NIRMAN KARYO HETU FY 2026-27 ME SAMAGRI SUPPLY AND UPKARAN "
       ]
     },
@@ -63,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. NIe-T- 62/2026-27 (Sl. No.- 19)",
-        "2. NIe-T- 62/2026-27 (Sl. No.- 18)",
-        "3. QUOTATION NOTICE FOR SUPPLY OF TRAY DRYER FOR FOOD PROCESSING"
+        "2. QUOTATION NOTICE FOR SUPPLY OF TRAY DRYER FOR FOOD PROCESSING",
+        "3. NIe-T- 62/2026-27 (Sl. No.- 17)"
       ]
     },
     {
@@ -73,17 +73,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Lifting Gate and Barricading arrangements infront of Library block and to sep",
-        "2. Construction of Segregation Shed at Embal in Embal Panchayat",
-        "3. Special Repairs to Revenue Inspector Office Cum Quarters Building at Okkur in Sivaganga"
+        "1. Providing Cupboard arrangements Administrative block at first floor in Kanniyakumari Go",
+        "2. Providing Internal and External electrification to the Yoga and Naturopathy block build",
+        "3. Construction of Segregation Shed at Embal in Embal Panchayat"
       ]
     },
     {
       "name": "Punjab",
       "state": "Punjab",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.punjab.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Purchase of chin up bar",
+        "2. Purchase of Gym Mirror",
+        "3. Renovation and Repair of Sanjay Colony dharamshala block 4,5 ward no 35 Est Cost Rs. 9."
+      ]
     },
     {
       "name": "Haryana",
@@ -113,8 +117,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Road from Cholhaiya to Kalimada via Talab (L-1.900 Km), RWD/GIRIDIH/03/",
-        "2. Construction of Road in Hanuman Nagar, Lower Kulhi and In Motiya Patti different locati",
+        "1. Construction of RCC Drain from near KC girls high school to laxmaniya more near Gopinat",
+        "2. Construction of Road from Cholhaiya to Kalimada via Talab (L-1.900 Km), RWD/GIRIDIH/03/",
         "3. Construction of Road from Mangar Tilaiya School to Doka Singha via Lukaiya (L-1.600 Km)"
       ]
     },
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing WSS Shelapani in GP Gawas Tehsil Rohru Distt Shimla HP",
-        "2. Providing of WSS Shiladesh in GP Shiladesh Tehsil Chirgaon  Distt Shimla HP",
-        "3. HPSEBL/AMD/DB-8/2025-26-042"
+        "1. Providing of WSS Shiladesh in GP Shiladesh Tehsil Chirgaon  Distt Shimla HP",
+        "2. Providing WSS Shelapani in GP Gawas Tehsil Rohru Distt Shimla HP",
+        "3. Drilling,Lowering of assembly, Development of Tubewell,80 m deep (DTH Method) at Siuni "
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1174647050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fae2f0ed050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -166,7 +170,7 @@
       "sample_titles": [
         "1. 142/27-Vellur Edasserithodi road in Pookkottur GP Ward 20",
         "2. 136/27-Pappattungal Khabarsthan road renovation Pookkottur GP Ward 16",
-        "3. 269/26-Renovation of Aalakkad anganvadi in Pookkottur GP"
+        "3. 1 1 9 / 2 7 C O N C R E T E O F ALINTHOTTATHIL FOOTPATH WARD 7"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Link road from Baghu Nallah to Eidgah Batote Under UT Capex 2026-27",
-        "2. Up-gradation of Road From Dak Mohalla to Kala Hill w.no.9 Pyt. Pathanateer Block Mendha",
-        "3. Construction of Gate, Chain Fencing of Park at entry point opposite MC office (Court Ro"
+        "1. Macadamization of  Siara Jourian Mata ji road Km.4th  (Under City and Town) (Capex Budg",
+        "2. Construction of Govt. Primary School Bheri-A under SAMAGRA PAB-2025-26 Distt. Ramban.",
+        "3. Construction  of Cattle Sheed at Moh. Banta W.No 1 Pyt. Salwah Chapperdara Block Mendha"
       ]
     }
   ],
