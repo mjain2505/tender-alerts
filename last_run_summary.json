@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-03 18:21:29",
+  "checked_at_utc": "2026-09-03 22:59:04",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Installation, Testing and Commissioning of 8 passenger lift at Old Administrati",
-        "2. FILTERING DEHYDRATION AND REFILLING OF TRANSFORMER OIL IN TRANSFORMER INSTALLED IN SUB ",
-        "3. PROVIDING AND FIXING OF FALSE CEILING IN MULTIPURPOSE HALL OF CAPFS CH BSF KADAMTALA SH"
+        "1. UG cable from Jwalamukhi Jn to  firing range",
+        "2. Repair of Plaster/RCC at all heights of Residences in Zone A at IIT Roorkee",
+        "3. NHIDCL/RO-Imphal/Ukhrul Town/0.00-9.00/2026-27"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. \tSelection of a bidder for operation and maintenance of a 250 TPD municipal solid waste",
+        "2. Supply of Wheat Bhusa in temporary Gauvansh Ashray Sthal, Vill- Nagli Wajidpur, Sec-135",
+        "3. Improvement of RCC Drain Both side from Krishna Medical Store to Yogi Rajpoot House in "
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. IMP OF DIVIDERS ALONG L M ROAD DAHISAR WEST BEAT NO.7 R/N WARD.",
-        "2. IMP OF DRAINAGE AND PASSAGE NEAR MASALA DUNK NAVAGAON BEAT NO.7 R/N WARD.",
-        "3. REPAIR TO NAVAGAON DISPENSARY AT DAHISAR WEST R/N WARD."
+        "1. REPAIR TO NAVAGAON DISPENSARY AT DAHISAR WEST R/N WARD.",
+        "2. Improvement of garden at Shree Datta Kurpa Bldg., Dr B A Road in E Ward",
+        "3. Improvement of Passage and Drainage system at Mominpura Patra  Chawl in  E Ward"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. sarv cc block khurh nirman kary sharwan jat ke ghar se pemaram motiyani ke ghar ki aur ",
-        "2. sarv cc block khurh nirman kary kalsum teli ke ghar se degana sadak ki aur tarnau",
-        "3. Library Bhawan Nirman and Anya Vikas Karya Taliya"
+        "1. CONSTRUCTION OF GRAVEL ROAD UPTO CHAP RIVER GP BHIMSORE PS GARHI",
+        "2. Rate Contract for BSR 2026-27 FOR MATERIAL AND EQUIPMENT SUPPLY FOR GRAM PANCHAYAT DHOB",
+        "3. sarv cc block khurh nirman kary sharwan jat ke ghar se pemaram motiyani ke ghar ki aur "
       ]
     },
     {
@@ -55,9 +59,13 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. REPAIRING AND RESTORATION OF BITUMINOUS ROAD Start from Tapan Kabasis hosue to Buromar ",
+        "2. REPAIRING AND RESTORATION OF BITUMINOUS ROAD Start from Pijush Sarkars house to Rabi Pa",
+        "3. REPAIRING AND RESTORATION OF BITUMINOUS ROAD 1. Start from Nagarpur Aktar Mondals house"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CE-MTPSI-SE-ES-EM-2-OT26-26-27",
-        "2. Construction of Customs office and AO block in (utility area) at SIPCOT Industrial Park",
-        "3. TN04-04-01 / Panchayat General Fund (2026-2027) - Harur Block P01 - Deepining and Flush"
+        "1. Civil Works",
+        "2. Road Cut Restoration  (BT road)made by CMWSSB(WSS)at Kannagi Nagar Link Road in Dn.-196",
+        "3. Civil Works"
       ]
     },
     {
@@ -77,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Sports Stadium and Synthetic Track in the Village of Fatehmajri, Tehsil",
-        "2. Supply of ACB AND VCB",
-        "3. REPAIR OF SOOT BLOWER"
+        "2. REPAIR OF SOOT BLOWER",
+        "3. Dismentaling fabrication erection"
       ]
     },
     {
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Town Road Portion from Medical Junction to Court Junction of Paralakhemu",
-        "2. Construction of office building of District Excise Office at Rayagada for the year 2025",
-        "3. Construction of Paddy Procurement centre at Korsanda SCS in Gosani Block, Gajapati Dist"
+        "1. Construction of office building of District Excise Office at Rayagada for the year 2025",
+        "2. Construction of Paddy Procurement centre at Korsanda SCS in Gosani Block, Gajapati Dist",
+        "3. Construction of Sub-Registrar Office (Type-II) for Tahasil Office at Kashinagar in the "
       ]
     },
     {
@@ -109,8 +117,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Single Village Scheme for Left Over House Holds with 1.0 HP DC Solar Mo",
-        "2. Construction of Single Village Scheme for Left Over House Holds with 1.0 HP DC Solar Mo",
+        "1. Upgradation of Existing Medical College and  Teaching Hospital, Existing 100 UG Seats U",
+        "2. Empanelment for supply of globally available pre-owned Single / Multi Engine Piston air",
         "3. EE/RDSD/LATEHAR/25/2026-27 (3rd call) Gr_6"
       ]
     },
@@ -122,7 +130,7 @@
       "sample_titles": [
         "1. Short e Tender notice for the hiring of Controlled Atmosphere  Store along with Grading",
         "2. Request for Proposals for Exposure Visit",
-        "3. Transportation Work"
+        "3. R/M of various LWSS in JSV Section Patta under JSV sub Division Chandi in Tehsil Kasaul"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9ab2e84350>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fbea11268d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -162,7 +170,7 @@
       "sample_titles": [
         "1. GENERAL-RM 2026-27 -RC -2 ,-Zone1 -One year Running Contract for various PWD Roads unde",
         "2. DEPOSIT- Microbiology Lecture hall-Renovation of Microbiology Lecture hall in Academic ",
-        "3. DEPOSIT- Microbiology Lecture hall-Renovation of Microbiology Lecture hall in Academic "
+        "3. GENERAL-Comprehensive Maintenance Contract of UPS at MSB MCH TVM-CMC of Three numbers 3"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Consultancy Services for (i) Permanent Restoration of 35 Mtr. Span Foot Bridge over Cha",
-        "2. R/wall nr Graveyard w no 02 Dongi Gai part no 2 Pyt. Mahra-B  Block Buffliaz  Under PRI",
-        "3. Construction of Kul nr Rafaqat Hussain w. no. 05 Pyt. Fazlabad Lower-A  Block Buffliaz "
+        "1. Construction of P/Bund both sides of panchayat roads at ward 2 at Galwanpora",
+        "2. Construction of Drain from House of Ab. Razaq Dar to mohd shaban beigh and others at Ch",
+        "3. imp of road from Main road to abdul qayoom khan and abdul latief sheikh and others"
       ]
     }
   ],
