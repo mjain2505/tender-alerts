@@ -1,16 +1,20 @@
 {
-  "checked_at_utc": "2026-09-05 12:22:00",
+  "checked_at_utc": "2026-09-05 17:09:09",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. FORMATION OF PRE-TENDER TIE-UP AND POST-AWARD EXECUTION TIE-UP THROUGH MOU FOR PROCUREM",
-        "2. Re-tender for Dry-dock repair of CSD Sweta for the F.Y.2026-27",
-        "3. Electrical Wiring for upcoming Computer Lab at New Building 1st Floor at Satellite Camp"
-      ]
+      "tenders_seen": 0,
+      "status": "0 results (check URL / site structure)",
+      "sample_titles": [],
+      "diagnostic": {
+        "final_url": "https://eprocure.gov.in/Announcement.html",
+        "status_code": 200,
+        "html_length": 1676,
+        "page_title": "Under Maintenance",
+        "total_links_on_page": 0,
+        "sample_links": []
+      }
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +22,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation and maintenance work at the Estate Managers Office UP Housing and Developmen",
-        "2. Empanelment of agencies for hiring of tractors, trollies, excavators for land developme",
-        "3. 4-Construction of drain and interlocking road from Ramesh Beldar house to Omprakash hou"
+        "1. Supply of miscellaneous items for Anurakshan Maah Sept-2026 in EUDC-I, Prayagraj",
+        "2. Work",
+        "3. Shifting work of Poles and lines for the widening and strengthening of the FatanpurBira"
       ]
     },
     {
@@ -29,9 +33,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Samajik Sabhagruh at Dr. Babasaheb Aambedkar Chouk In Grampanchayat Sha",
-        "2. Estimate No.111442 of 2026.2027",
-        "3. SITC of Potentiostat/Galvanostat at Yeshwant Mahavidyalaya, Nanded."
+        "1. Temporary work at Ganpati festival",
+        "2. Temporary Work Ganpati Fastival",
+        "3. Supply various Item  At Gp Palaskund"
       ]
     },
     {
@@ -40,9 +44,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Civil Work Meterial Supply in Gram Panchayat  BOHAT,  P.S. Mangrol  Under MGNREGA, RD, ",
-        "2. 1 ACR IN GOVT. PRIMARY SCHOOLPURA MANGRI GP GHATED",
-        "3. Repair and Maintenance of Govt. Ayurved Hospital Mahala Distt. Jaipur"
+        "1. Nala Nirman karya nooruddin ke Ghar Se men road ki or khedli kaji",
+        "2. Work including door-to-door (residential and commercial) garbage collection and segrega",
+        "3. Rajkiy Vidyalay Chandupura me furniture vah pankhe kiriye ka karya Chandupura"
       ]
     },
     {
@@ -51,9 +55,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. BLOCK-B LEFTOVER ELECTRICAL MATERIALS SUPPLY IN CENTRAL JAIL REWA M.P.4TH CALL",
-        "2. LEFTOVER VEGETABLE/FRUITS SUPPLY IN SUB JAIL TEONTHAR DIST REWA M.P.4TH CALL",
-        "3. Oil and Lubricant"
+        "1. SUUPLY OF BUNAAI SILAAI AND POWERLOOM UDHYOG",
+        "2. SPPLY OF STEEL AND LOHARI UDHYOG",
+        "3. Regarding setting up of temporary tanks for idol immersion in an eco-friendly manner un"
       ]
     },
     {
@@ -62,9 +66,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 153/MKT of 2026-27",
-        "2. 150/MKT OF 2026-27",
-        "3. KMC/EEC/VII/59/13/26-27/R"
+        "1. WBMAD/NIeT/36/BM/2026-27/PWD /E",
+        "2. WBMAD/NIeT/38/BM/2026-27/PWD/C",
+        "3. WBMAD/NIeT/37/BM/2026-27/PWD/B"
       ]
     },
     {
@@ -73,9 +77,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Manpower for Urban II VelloreSub Division",
-        "2. General fund work 2026-2027 - 7",
-        "3. Purchase of Printer"
+        "1. Providing Play Material at GM Nagar Park in Ward no 84 Central zone, Coimbatore Corpora",
+        "2. Reconstruction of existing damaged Storm Water drain and Culvert  at Ramasamy Street in",
+        "3. Construction of new ugd chamber at valankulam Near  in ward no 83 central zone of coimb"
       ]
     },
     {
@@ -85,8 +89,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Supply of Rice Bran, Rice Bran Extraction and Mustard Extraction at Kapurthala and Gidd",
-        "2. ANNUAL RATE CONTRACT FOR OUTSOURCING OF ALL ACTIVITIES OF CITY SUPPLY DISPATCH DOCK",
-        "3. Providing Sewerage System and all other works contingent thereto to at Sri Kiratpur Sah"
+        "2. Providing Sewerage System and all other works contingent thereto to at Sri Kiratpur Sah",
+        "3. ANNUAL RATE CONTRACT FOR OUTSOURCING OF ALL ACTIVITIES OF CITY SUPPLY DISPATCH DOCK"
       ]
     },
     {
@@ -95,21 +99,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SKILL JOBS OF CONTRACT BASIS",
-        "2. FD FAN",
-        "3. Construction of Mahima Patt..."
+        "1. State Plantation Fencing work",
+        "2. State Plantation Fencing work",
+        "3. SKILL JOBS OF CONTRACT BASIS"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Kanika to Kusumel_Road_Paver Block_2.300 to 2.740",
-        "2. WORKSTATIONS FOR HMI SYSTEM",
-        "3. Construction of Approach road for R.W. Division Office at Kuchinda in the District of S"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of small size kitchen cum store  (Size 32.5 x 22.5) and laying of pavers b",
-        "2. CONSTRUCTION OF BRIDGE ACROSS MAINETIGRI RIVER BETWEEN LAWAGARDHA AND PATKI IN GOMIA BL",
-        "3. Invitation of e-tender for supply of AC Taxis of Various Type on Hire Basis for use of "
+        "1. Anti erosion work (edge crating with crated toe wall In 250m length)  on the Right bank",
+        "2. Renovation  of Upgraded  Middle  School Amjhariya And   Construction of Boundary wall A",
+        "3. EE/RDSD/LATEHAR/31/2026-27/ Gr_2"
       ]
     },
     {
@@ -128,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Protection work of truck parking at Suncity road Baddi",
-        "2. Renovation construction of Existing DIET as CoE at Dharamshala District kangra HP",
-        "3. Renovation of Girls Hostel at College of Horticulture and Forestry Neri, Hamirpur"
+        "1. R/M of DWSS to Solan Town from Giri River",
+        "2. Restoration of rain damages of DWSS Solan Town from Giri River Tehsil and Distt. Solan",
+        "3. Restoration of rain damages to GWSS Dahar Tehsil Kandaghat Distt. Solan"
       ]
     },
     {
@@ -139,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. IMPROVEMENT WORK WITH NTERLOCKING TILE ON DEVALTHAL MARKET APPROACH ROAD",
-        "2. SUPPLY OF T AND P FOR VARIOUS SUBSTATIONS UNDER EDD PITHORAGARH",
-        "3. Modification of Juice Rotary Screen 1900 mm x 3500 mm"
+        "1. EDC(R)-66/2026-27",
+        "2. EDC(R)-65/2026-27",
+        "3. Clearing of jungle, shrubs, grass, vegetation from the periphery of land, demarcation a"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f34197a6350>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fea4922ff50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ANNUAL QUALITY ASSURANCE TESTING CONTRACT FOR PRIMARY DAIRY COOPERATIVE SOCIETIES AT VA",
-        "2. Supply of Green Fodder Grasses in Wayanad",
-        "3. GENERAL-ANNUAL PLAN 2025-26-IMNS GHSS MAYYIL-MAINTENANCE WORK AT MAYYIL IMNS GOVT HIGHE"
+        "1. Tender for providing breakfast and lunch to approximately 1,300 persons attending the A",
+        "2. GENERAL RM  2026 27 RC 2 ZoneVII One year Running Contract for various PWD Roads under ",
+        "3. Maintenance of Street Light"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of culvert near house of Noor Mohammad Ganie at Tundpora Hajin",
-        "2. Construction of Sumps, intake channels including providing of Trash Guards and allied w",
-        "3. Construction of Soakpit at Chakru W.no.02 Pyt Behota Lower Block Marmat (SBM-G) 2nd Cal"
+        "1. RDDDC2627107159 -(CONST OF LANE AT SHALGOFAN LONEPORA TUJAN (SHADIM))",
+        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Chill",
+        "3. RDDDC2627115211 Earthfilling of Main Graveyard along with tiled Footpath and footsteps "
       ]
     }
   ],
