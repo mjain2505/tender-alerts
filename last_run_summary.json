@@ -1,20 +1,12 @@
 {
-  "checked_at_utc": "2026-09-05 17:09:09",
+  "checked_at_utc": "2026-09-05 19:56:07",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
       "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)",
-      "sample_titles": [],
-      "diagnostic": {
-        "final_url": "https://eprocure.gov.in/Announcement.html",
-        "status_code": 200,
-        "html_length": 1676,
-        "page_title": "Under Maintenance",
-        "total_links_on_page": 0,
-        "sample_links": []
-      }
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -22,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of miscellaneous items for Anurakshan Maah Sept-2026 in EUDC-I, Prayagraj",
-        "2. Work",
-        "3. Shifting work of Poles and lines for the widening and strengthening of the FatanpurBira"
+        "1. Work",
+        "2. VEHICAL RATE",
+        "3. EXTENSION OF CONTROL ROOM AT 33/11 KV SUB STATION- BADALAPUR RURAL, DISTT-JAUNPUR."
       ]
     },
     {
@@ -35,7 +27,7 @@
       "sample_titles": [
         "1. Temporary work at Ganpati festival",
         "2. Temporary Work Ganpati Fastival",
-        "3. Supply various Item  At Gp Palaskund"
+        "3. Temporary work at Ganpati festival"
       ]
     },
     {
@@ -46,7 +38,7 @@
       "sample_titles": [
         "1. Nala Nirman karya nooruddin ke Ghar Se men road ki or khedli kaji",
         "2. Work including door-to-door (residential and commercial) garbage collection and segrega",
-        "3. Rajkiy Vidyalay Chandupura me furniture vah pankhe kiriye ka karya Chandupura"
+        "3. Nali Nirman karya Ibrahim ke Ghar Se pokhar ki or"
       ]
     },
     {
@@ -66,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/NIeT/36/BM/2026-27/PWD /E",
-        "2. WBMAD/NIeT/38/BM/2026-27/PWD/C",
-        "3. WBMAD/NIeT/37/BM/2026-27/PWD/B"
+        "1. WBMAD/NIeT/35/BM/2026-27/PWD /A",
+        "2. WBMAD/NIeT/35/BM/2026-27/PWD /B",
+        "3. WBMAD/NIeT/36/BM/2026-27/PWD /D"
       ]
     },
     {
@@ -77,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Play Material at GM Nagar Park in Ward no 84 Central zone, Coimbatore Corpora",
-        "2. Reconstruction of existing damaged Storm Water drain and Culvert  at Ramasamy Street in",
-        "3. Construction of new ugd chamber at valankulam Near  in ward no 83 central zone of coimb"
+        "1. Deepam Ghee",
+        "2. Maintenance and Repair works to the Park at Raja Annamalairoad and Nesavalar colony in ",
+        "3. CE-MTPSI-SE-ES-EM-I-OT27-26-27"
       ]
     },
     {
@@ -89,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Supply of Rice Bran, Rice Bran Extraction and Mustard Extraction at Kapurthala and Gidd",
-        "2. Providing Sewerage System and all other works contingent thereto to at Sri Kiratpur Sah",
-        "3. ANNUAL RATE CONTRACT FOR OUTSOURCING OF ALL ACTIVITIES OF CITY SUPPLY DISPATCH DOCK"
+        "2. ANNUAL RATE CONTRACT FOR OUTSOURCING OF ALL ACTIVITIES OF CITY SUPPLY DISPATCH DOCK",
+        "3. Providing Sewerage System and all other works contingent thereto to at Sri Kiratpur Sah"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Anti erosion work (edge crating with crated toe wall In 250m length)  on the Right bank",
-        "2. Renovation  of Upgraded  Middle  School Amjhariya And   Construction of Boundary wall A",
-        "3. EE/RDSD/LATEHAR/31/2026-27/ Gr_2"
+        "1. Renovation  of Upgraded  Middle  School Amjhariya And   Construction of Boundary wall A",
+        "2. Anti erosion work (Edge crating with crated toe wall in 200m length) on the Right bank ",
+        "3. Anti erosion edge crating work in 250m length on the Right bank of Gumani river of Barh"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/M of DWSS to Solan Town from Giri River",
-        "2. Restoration of rain damages of DWSS Solan Town from Giri River Tehsil and Distt. Solan",
-        "3. Restoration of rain damages to GWSS Dahar Tehsil Kandaghat Distt. Solan"
+        "1. R/M of LWSS Damrog Tehsil and Distt. Solan HP",
+        "2. Restoration of rain damages of LWSS Saproon Tehsil and Distt. Solan.",
+        "3. Restoration of rain damages of LIS Kanyari Tehsil Kandaghat Distt. Solan HP"
       ]
     },
     {
@@ -141,14 +133,14 @@
       "sample_titles": [
         "1. EDC(R)-66/2026-27",
         "2. EDC(R)-65/2026-27",
-        "3. Clearing of jungle, shrubs, grass, vegetation from the periphery of land, demarcation a"
+        "3. Design, supply and installation of location identification, multi-directional, directio"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fea4922ff50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f71f4177890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627107159 -(CONST OF LANE AT SHALGOFAN LONEPORA TUJAN (SHADIM))",
-        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Chill",
-        "3. RDDDC2627115211 Earthfilling of Main Graveyard along with tiled Footpath and footsteps "
+        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Haripora Haran",
+        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Soibugh C",
+        "3. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Wahabpora"
       ]
     }
   ],
