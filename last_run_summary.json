@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-04 22:47:01",
+  "checked_at_utc": "2026-09-05 02:52:11",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,8 +7,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Extension of Floor with Light Gauge Steel Framing LGSF System including Civil Works Roo",
-        "2. Upgradation of First Second and Third floor corridor and staircase flooring at VITM",
+        "1. Upgradation of First Second and Third floor corridor and staircase flooring at VITM",
+        "2. Extension of Floor with Light Gauge Steel Framing LGSF System including Civil Works Roo",
         "3. MC and EW (CAM) to Ruined Dutch Fort and cemetery (Conservation of Fortification wall) "
       ]
     },
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Consultancy Services for Management of O and M part of PPP Agreement for 24x7 Water Sup",
-        "2. Improvement of Passage and drainage system at  Patra chawl 1st Peerkhan Street in E War",
-        "3.  Construction of Concrete Road at house of Mote Bhai to Shakil Bhai house in prabhag No"
+        "1. Improvement of Garbage Collection Center at Azad Mohalla in Beat No. 181 In F/North War",
+        "2. Strengthening of Road MDR 11 to Taluka Border Dighi Road Chithali Dhangrwadi VR118 Km 1",
+        "3. 2026-27"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1 C C Sadak Nirman Karya Main Khejroli Road Se Kishan Bichhwaliya Ki Dhani Tak G P Kanw",
-        "2. Gravel Road Construction Work Udal Ka Pura to Hanuman Ji Mandir",
-        "3. Bounadary Wall Construction Work at Shamshan Ghat Agarri."
+        "1. Classroom Construction work Govt Senior Secondary School Agarri.",
+        "2. Gravel Road Khootiyan Ka Pura to Goshala",
+        "3. Interlocking Road Construction Work Lakkhe Ke Dande To River ki Side Agarri."
       ]
     },
     {
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/L Interlocing tiles in streets of  Manchanda ,Jagdish Bajaj, Subash (Bhashi Cha wala)",
-        "2. P/L interlocking tiles in streets of Sukhdev Singh Thethi , Gulshan Conductor, Channa H",
-        "3. P/L Interlocing tiles in streets of  Gurjinder Singh, Back Side Gurdwara Sahib,Gian Dak"
+        "1. P/L Interlocing tiles in streets of Shanti-Banti, Mahinder Kumar, Neeta Kalra .",
+        "2. P/L Interlocking tiles in streets of Ramesh Tailor, Darshan Choudhry, Subash Tailor,Nan",
+        "3. P/L interlocking tiles in streets  of Gora Kalra, Ashok Pan wala,Dr.Mohan Lal, Harbans "
       ]
     },
     {
@@ -95,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Amtc of EPHS in sector 13 a...",
-        "2. Construction of IPB streets...",
-        "3. Amtc of EPHS in sector 22..."
+        "1. Amtc of EPHS in sector 18 U...",
+        "2. Amtc of EPHS in sector 13 a...",
+        "3. Amtc of EPHS in sector 21 U..."
       ]
     },
     {
@@ -107,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Supply of Manpower towards privatization of sanitation in all wards of Bhanjanagar Muni",
-        "2. Construction of Paddy Procurement centre at Korsanda SCS in Gosani Block, Gajapati Dist",
-        "3. Construction of office building of District Excise Office at Rayagada for the year 2025"
+        "2. Improvement of Town Road Portion from Medical Junction to Court Junction of Paralakhemu",
+        "3. Construction of Sub-Registrar Office (Type-II) for Tahasil Office at Kashinagar in the "
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of P.C.C Road from Mahulla Railway Bridge to Jhajha Hansda House under Blo",
-        "2. CAMPUS DEVELOPMENT OF DC RESIDENCE  PAKUR DIST PAKUR",
-        "3. Renovation of Primary School Dhamni, Bara Dumerhir under Block - Boarijore, District - "
+        "1. Renovation of Primary School Dhamni, Bara Dumerhir under Block - Boarijore, District - ",
+        "2.  Construction of P.C.C Road from House of Tula Hansda house to Mahula River under Block",
+        "3. Construction of P.C.C Road from Mahulla Railway Bridge to Jhajha Hansda House under Blo"
       ]
     },
     {
@@ -139,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Strengthening of earthing system at different tower (More than 41 year old) locations o",
-        "2. Replacement and installation of anti climbing devices across various towers (More than ",
-        "3. Replacement of 2x315MVA, 400/220KV Transformer-1st and 2nd (ABB make) protection access"
+        "1. Replacement of 2x315MVA, 400/220KV Transformer-1st and 2nd (ABB make) protection access",
+        "2. Strengthening of earthing system at different tower (More than 41 year old) locations o",
+        "3. Replacement and installation of anti climbing devices across various towers (More than "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7faf5f185710>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd53d34d150>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairing of Hay Shed, Protection of Nursery beds from adjoining water by way of DRSM/ ",
-        "2. P/Wall at Land of Ab Majeed So Atta Mohd ward no 5 Kralhal Pyt KHARI UPPER B BLOCK KHAR",
-        "3.  P/Work Irshad Ahmed to Firdous Ah Pyt KHARI Upper B BLOCK KHARI"
+        "1. Repairing of old Fencing (Wooden posts with BW), Plantation of Fodder Plants, Patch Sow",
+        "2.  F/Wall NHO Ghulam Qadir Sehmat Pyt KHARI LOWER B BLOCK KHARI",
+        "3.  Constt of P/Work Nho Hafiz Yousuf Gujjar Bawa at Ward No 4 Block Khari"
       ]
     }
   ],
