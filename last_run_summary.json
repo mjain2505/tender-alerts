@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-09-05 19:56:07",
+  "checked_at_utc": "2026-09-05 22:39:05",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. NHIDCL/ROImphal/NH102A/PKG4/26",
+        "2. Restoration of damaged protection work at D/s of Badoh Bridge on right bank of river ne",
+        "3. MKK/B903-000-QY-MR-9380/31"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work",
-        "2. VEHICAL RATE",
-        "3. EXTENSION OF CONTROL ROOM AT 33/11 KV SUB STATION- BADALAPUR RURAL, DISTT-JAUNPUR."
+        "1. Construction work of passenger waiting room near Surajpur intersection of development b",
+        "2. Supply of miscellaneous items for Anurakshan Maah Sept-2026 in EUDC-I, Prayagraj",
+        "3. Construction work of passenger waiting room near village Bhithaura of development block"
       ]
     },
     {
@@ -37,7 +41,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Nala Nirman karya nooruddin ke Ghar Se men road ki or khedli kaji",
-        "2. Work including door-to-door (residential and commercial) garbage collection and segrega",
+        "2. Rajkiy Vidyalay Chandupura me furniture vah pankhe kiriye ka karya Chandupura",
         "3. Nali Nirman karya Ibrahim ke Ghar Se pokhar ki or"
       ]
     },
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/NIeT/35/BM/2026-27/PWD /A",
-        "2. WBMAD/NIeT/35/BM/2026-27/PWD /B",
-        "3. WBMAD/NIeT/36/BM/2026-27/PWD /D"
+        "1. WBMAD/NIeT/37/BM/2026-27/PWD/F",
+        "2. WBMAD/NIeT/37/BM/2026-27/PWD/A",
+        "3. WBMAD/NIeT/37/BM/2026-27/PWD/B"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Deepam Ghee",
-        "2. Maintenance and Repair works to the Park at Raja Annamalairoad and Nesavalar colony in ",
-        "3. CE-MTPSI-SE-ES-EM-I-OT27-26-27"
+        "1. CE-MTPSI-SE-ES-EM-I-OT29-26-27",
+        "2. Reconstruction of Storm Water Drain at Sri Ramapuram in ward no 49, Central Zone , Coim",
+        "3. Construction of new ugd chamber at valankulam Near  in ward no 83 central zone of coimb"
       ]
     },
     {
@@ -81,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Supply of Rice Bran, Rice Bran Extraction and Mustard Extraction at Kapurthala and Gidd",
-        "2. ANNUAL RATE CONTRACT FOR OUTSOURCING OF ALL ACTIVITIES OF CITY SUPPLY DISPATCH DOCK",
-        "3. Providing Sewerage System and all other works contingent thereto to at Sri Kiratpur Sah"
+        "2. Providing Sewerage System and all other works contingent thereto to at Sri Kiratpur Sah",
+        "3. ANNUAL RATE CONTRACT FOR OUTSOURCING OF ALL ACTIVITIES OF CITY SUPPLY DISPATCH DOCK"
       ]
     },
     {
@@ -99,9 +103,13 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Const. of 6 Nos. F type Qtr. at Kotpad FS, Koraput.",
+        "2. Const. of 8 Nos. F type Qtr. at Chauliaganj FS, Cuttack.",
+        "3. Cluster for 1. Const. of 8 Nos. F Type Qtr. and 2. Const. of 8 Nos. F Type Qtr. (For ER"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -109,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation  of Upgraded  Middle  School Amjhariya And   Construction of Boundary wall A",
-        "2. Anti erosion work (Edge crating with crated toe wall in 200m length) on the Right bank ",
-        "3. Anti erosion edge crating work in 250m length on the Right bank of Gumani river of Barh"
+        "1. Anti erosion work (edge crating with crated toe wall In 250m length)  on the Right bank",
+        "2. EE/RDSD/LATEHAR/31/2026-27/ Gr_3",
+        "3. Renovation  of Upgraded  Middle  School Amjhariya And   Construction of Boundary wall A"
       ]
     },
     {
@@ -120,8 +128,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/M of LWSS Damrog Tehsil and Distt. Solan HP",
-        "2. Restoration of rain damages of LWSS Saproon Tehsil and Distt. Solan.",
+        "1. R/M of DWSS to Solan Town from Giri River",
+        "2. R/M of LWSS Damrog Tehsil and Distt. Solan HP",
         "3. Restoration of rain damages of LIS Kanyari Tehsil Kandaghat Distt. Solan HP"
       ]
     },
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f71f4177890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5ef0ab6a10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender for providing breakfast and lunch to approximately 1,300 persons attending the A",
-        "2. GENERAL RM  2026 27 RC 2 ZoneVII One year Running Contract for various PWD Roads under ",
+        "1. GENERAL RM  2026 27 RC 2 ZoneVII One year Running Contract for various PWD Roads under ",
+        "2. Tender for providing breakfast and lunch to approximately 1,300 persons attending the A",
         "3. Maintenance of Street Light"
       ]
     },
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Haripora Haran",
-        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Soibugh C",
-        "3. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Wahabpora"
+        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa Khospora",
+        "2. Development of Tourist Place at Nabni Devta Moh. Kalai Pyt. Mangnar Upper Block Poonch ",
+        "3. RDDDC2627107149 -(CONST OF DRAIN LANE AT NEW COLONY AT TUJAN (SHADIM))"
       ]
     }
   ],
