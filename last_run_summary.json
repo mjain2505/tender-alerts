@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-06 02:50:23",
+  "checked_at_utc": "2026-09-06 07:37:16",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of passenger waiting room near Kalli Chauraha of development block Go",
+        "1. Regarding sanitation arrangements in Goga Mhadi Mela and Mela Gughal",
         "2. Work",
-        "3. Construction work of passenger waiting room near village Behatbiram of development bloc"
+        "3. Work"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Temporary Work Ganpati Fastival",
-        "2. Temporary work at Ganpati festival",
-        "3. Construction of 7 nos of Artifical ponds at newly identified locations in M/W Ward Chem"
+        "1. Construction of various civil work in Vijay Nagar area in ward no. 14 C under Lokmanya ",
+        "2. Fixing of Benches in Dawle Nagar area in ward no. 14 C under Lokmanya Savarkarnagar War",
+        "3. Fixing of Signboards at Korus Road Area in ward no. 14 C under Lokmanya Savarkarnagar W"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rajkiy Vidyalay Chandupura me furniture vah pankhe kiriye ka karya Chandupura",
-        "2. Nali Nirman karya Ibrahim ke Ghar Se pokhar ki or",
-        "3. Nala Nirman karya nooruddin ke Ghar Se men road ki or khedli kaji"
+        "1. CONTRUCTION OF C C ROAD NIRAMAN KARYA RAJENDRA PRAJAPAT KI DUKAN SE SURAJ MAL DHOBI JAG",
+        "2. CONTRUCTION OF C C ROAD NIRAMAN KARYA  PANI KI TANKI SE MOHAN LAL SANTRAM GURJAR CHIRAN",
+        "3. SAFIE WORK GP ALAWADA"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/NIeT/37/BM/2026-27/PWD/C",
-        "2. WBMAD/NIeT/38/BM/2026-27/PWD/A",
-        "3. WBMAD/NIeT/36/BM/2026-27/PWD /D"
+        "1. CIF/CD/eNIT-3/26-27",
+        "2. KMC/IX/080/006/2026-2027",
+        "3. WBMAD/NIeT/36/BM/2026-27/PWD /B"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of new ugd chamber at valankulam Near  in ward no 83 central zone of coimb",
-        "2. CE-MTPSI-SE-ES-EM-I-OT29-26-27",
-        "3. Works Contract for kaveripakkam section."
+        "1. Improvements of Pump Room at East Kalmandapam Road in Dn-50, Unit-12, Zone-5",
+        "2. Repairs to Cluster Kitchen in Thoppai Street in Div - 52, Unit - 12, Zone -5.",
+        "3. Raising of SW Drain at GM Nagar and Ward Areas in ward no. 84 Central Zone, Coimbatore "
       ]
     },
     {
@@ -106,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of 6 Nos. F type Qtr. at Kotpad FS, Koraput.",
-        "2. Peripheral Development of Balunkeswar temple at Rayagada such as improvement of the Mai",
-        "3. Const. of 8 Nos. F type Qtr. at Chauliaganj FS, Cuttack."
+        "1. Cluster for 1. Const. of 8 Nos. F Type Qtr. and 2. Const. of 8 Nos. F Type Qtr. (For ER",
+        "2. Construction of 6 Nos. (S plus 3) F type Revenue staff quarter (1 Block) at Revenue col",
+        "3. Const. of Boundary Wall at Gunupur FS, Rayagada"
       ]
     },
     {
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Anti erosion works 7 No. of  studs in 300 m length 50 m cc on the Right bank of Gumani ",
-        "2. EE/RDSD/LATEHAR/31/2026-27/ Gr_3",
-        "3. Renovation  of Upgraded  Middle  School Amjhariya And   Construction of Boundary wall A"
+        "1. Anti erosion edge crating work in 250m length on the Right bank of Gumani river of Barh",
+        "2. Anti erosion work (Edge crating with crated toe wall in 200m length) on the Right bank ",
+        "3. EE/RDSD/LATEHAR/31/2026-27/ Gr_3"
       ]
     },
     {
@@ -128,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/M of DWSS to Solan Town from Giri River",
-        "2. Restoration of rain damages of LIS Kanyari Tehsil Kandaghat Distt. Solan HP",
-        "3. Restoration of rain damages of DWSS Solan Town from Giri River Tehsil and Distt. Solan"
+        "1. Extension of Stadium at Kalpa in District Kinnaur (HP) (SH- C/O 400 Mtr. Synthetic Trac",
+        "2. Restoration of rain damages of DWSS to Solan Town from Giri River Tehsil and Distt. Sol",
+        "3. Restoration of rain damages of LWSS Saproon Tehsil and Distt. Solan."
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f807b70a050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fce044b9510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Lalpora",
-        "2. Up-gradation of T Road W.No.5 Pyt. Salootri Block Poonch Under  PRI Grant Year 2026-27",
-        "3. RDDC2627104512 C/O TILE PATH OF HOSPITAL AT LEROW KAKAPORA"
+        "1. Installation of New Water Supply Pipeline from HO Showkat Ah Mir to HO Mohd Ashraf Bhat",
+        "2. Construction of Water tanky(02 No.) near Zameh Pokhri and Tolkha Pokhri at shojan panzo",
+        "3. Providing and Fixing Water Facility to outgrowth habitation at village Handoora Aripal "
       ]
     }
   ],
