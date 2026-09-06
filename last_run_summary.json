@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-06 20:00:19",
+  "checked_at_utc": "2026-09-06 22:41:28",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NHIDCL/ROImphal/NH102A/PKG4/26",
-        "2. Restoration of damaged protection work at D/s of Badoh Bridge on right bank of river ne",
-        "3. MKK/B903-000-QY-MR-9380/31"
+        "1. MKK/B903-000-QY-MR-9380/31",
+        "2. NHIDCL/ROImphal/NH102A/PKG4/26",
+        "3. Restoration of damaged protection work at D/s of Badoh Bridge on right bank of river ne"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Increasing Capacity of 33/11 KV Substation Rajepur Farrukhabad From (1x5) to(2x5) MVA",
+        "2. Regarding sanitation arrangements in Goga Mhadi Mela and Mela Gughal",
+        "3. Work"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,8 +29,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Fixing of Benches in Vijay Nagar area in ward no. 14 C under Lokmanya Savarkarnagar War",
-        "2. Fixing of Signboards at Korus Road Area in ward no. 14 C under Lokmanya Savarkarnagar W",
+        "1. Fixing of Benches in Dawle Nagar area in ward no. 14 C under Lokmanya Savarkarnagar War",
+        "2. Fixing of Signboards at Vijay Nagar Area in ward no. 14 Cunder Lokmanya Savarkarnagar W",
         "3. Fixing of Signboards at Dawle Nagar Area in ward no. 14 C under Lokmanya Savarkarnagar "
       ]
     },
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GP Khariya khangar mai kanwararam saran ke bade ke pas se nemaram saran ke ghar ki  tar",
-        "2. gram panchayat khariya khangar ke khasra shankya 1625/108 mai tanka nirman",
-        "3. gram panchayat khariya khangar me nemaram saran ke ghar se prakash lomror ke ghar ki ta"
+        "1. gram panchayat khariya khangar ke khasra shankya 1625/108 mai tanka nirman",
+        "2. gram panchayat khariya khangar me nemaram saran ke ghar se prakash lomror ke ghar ki ta",
+        "3. GP Khariya khangar mai kanwararam saran ke bade ke pas se nemaram saran ke ghar ki  tar"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/NIeT/35/BM/2026-27/PWD",
-        "2. WBMAD/NIeT/37/BM/2026-27/PWD/B",
-        "3. WBMAD/NIeT/36/BM/2026-27/PWD /A"
+        "1. WBMAD/NIeT/36/BM/2026-27/PWD /C",
+        "2. WBMAD/NIeT/36/BM/2026-27/PWD /E",
+        "3. WBMAD/NIeT/38/BM/2026-27/PWD/B"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvements of Pump Room at East Kalmandapam Road in Dn-50, Unit-12, Zone-5",
-        "2. Repairs to Cluster Kitchen in Thoppai Street in Div - 52, Unit - 12, Zone -5.",
-        "3. CE-MTPSI-SE-ES-EM-I-OT28-26-27"
+        "1. Repairs to Cluster Kitchen in Thoppai Street in Div - 52, Unit - 12, Zone -5.",
+        "2. Improvements of Pump Room at East Kalmandapam Road in Dn-50, Unit-12, Zone-5",
+        "3.  Desilting the Channel at  Good Shed Road in Ward No. 82 of Central Zone , Coimbatore C"
       ]
     },
     {
@@ -99,9 +103,13 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Const. of Truck Terminal (Boundary Wall and Land Development) at Kalinga, Kandhamal.",
+        "2. Const. of 8 Nos. F type Qtr. at Chauliaganj FS, Cuttack.",
+        "3. Cluster for 1. Const. of 8 Nos. F Type Qtr. and 2. Const. of 6 Nos. E Type Qtr. at Puri"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -109,7 +117,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EE/RDSD/LATEHAR/31/2026-27/ Gr_3",
+        "1. Renovation  of Upgraded  Middle  School Amjhariya And   Construction of Boundary wall A",
         "2. Anti erosion work (Edge crating with crated toe wall in 200m length) on the Right bank ",
         "3. Anti erosion work (edge crating with crated toe wall In 250m length)  on the Right bank"
       ]
@@ -121,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Extension of Stadium at Kalpa in District Kinnaur (HP) (SH- C/O 400 Mtr. Synthetic Trac",
-        "2. Restoration of rain damages to GWSS Dahar Tehsil Kandaghat Distt. Solan",
-        "3. Restoration of Rain Damages of Various LWSS Chabbiar Patti, Tehsil and Distt.-Solan, H."
+        "2. Restoration of Rain Damages of Various LWSS Chabbiar Patti, Tehsil and Distt.-Solan, H.",
+        "3. Restoration of rain damages of LIS Kanyari Tehsil Kandaghat Distt. Solan HP"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fb94dbd5ed0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4625eb5510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,8 +168,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL RM  2026 27 RC 2 ZoneVII One year Running Contract for various PWD Roads under ",
-        "2. Tender for providing breakfast and lunch to approximately 1,300 persons attending the A",
+        "1. Tender for providing breakfast and lunch to approximately 1,300 persons attending the A",
+        "2. GENERAL RM  2026 27 RC 2 ZoneVII One year Running Contract for various PWD Roads under ",
         "3. Maintenance of Street Light"
       ]
     },
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Water tanky(02 No.) near Zameh Pokhri and Tolkha Pokhri at shojan panzo",
-        "2. Installation of New Water Supply Pipeline from HO Showkat Ah Mir to HO Mohd Ashraf Bhat",
-        "3. Providing of Tap Water line to Girls Middle School Kaigam K Koot Block Awantipora  (Und"
+        "1. Providing of Tap Water line to Girls Middle School Kaigam K Koot Block Awantipora  (Und",
+        "2. Providing and Fixing Water Facility to outgrowth habitation at village Handoora Aripal ",
+        "3. Providing of Tap Water line to Boys Middle School Katipora Chersoo Block Awantipora (Un"
       ]
     }
   ],
