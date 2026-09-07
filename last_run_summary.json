@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-07 07:55:29",
+  "checked_at_utc": "2026-09-07 14:47:39",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Design, Detail Engineering, Manufacture, SITC of 25 kV AC Traction (RIGID OHE), 33 kV A",
-        "2. Renovation and upgradation of students room in various hostels at NIT Rourkela.",
-        "3. Electrification of Security Barrack at FSD Dimapur"
+        "1. Construction of Gents and Ladies Toilet at POPSK Sidhi",
+        "2. ALHW ENV RFP-2 2026-27 Recall",
+        "3. Certain Essential Repair / Maintenance Work in P-1 Building, Metcalfe House, Delhi"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work of Lighting System on main roads of 65 Nos  of Pradhan Mantri Awas Yojana Unnao",
-        "2. Construction of a CC road and drain in the Thakur Ki Kothi neighborhood (Ward No. 65), ",
-        "3. Construction of drains and CC roads in Ward 66 (Shahpir Gate, Naugaja)specifically from"
+        "1. Handling work for Shahjahanpur Center BPACS Ltd. Audapur Shakha Kurriya Dhodho",
+        "2. Handling work for Shahjahanpur Center Sahkari Sangh Ltd. Areli Shakha Vyor",
+        "3. Handling work for Shahjahanpur Center Sahkari Sangh Ltd. Mirzapur Shakha Jalalabad Mand"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Flood Protection Guide Wall in Additional Length for Strengthening of Riverba",
-        "2. Mauje Mhase Khurd Yethil Ejima 122 Rajendra Baban Madage Aaran Te Kate Farm Rasta Khadi",
-        "3. Construction Of Sakav At Kolwadi Salunkewasti Tal.Haveli Dist.Pune"
+        "1. Providing and Fixing Door and Other Allied Works at Toilet Situtated in Dr. Ambedkar Ga",
+        "2. Arrangement of Mandap on Rent for immersion of Ganapati Idol at Gaodevi Near Police Sta",
+        "3. IMP of passage and drainage at Narayan Sawant Chawl Ambewadi jogeshwari W in beat No. 6"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GRAM RAJPURA ME SAMUDAYIK BHAWAN NIRMAN KARY GP BAMBULIYA KALA PS ITAWA MADA PS ITAWA K",
-        "2. GRAM KHERLI NONERA ME RAJKIYE PRATHMIL SCHOOL ME SHALA BHWAN ,CHAR DIWARI MARRMAT AND T",
-        "3. E Tender"
+        "1. NEW TYUBWELL WORK",
+        "2. BINJUSAR NEW TYUBWEL",
+        "3. Construction of 7 check dams in forest areas under the Mandalgarh Range."
       ]
     },
     {
@@ -51,65 +51,45 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT 13/2026-27 Smart Fish Parlour Nirman Karya Sohagpur Ke Pass Gramin Kshetra Janpad P",
-        "2. NIT 11/2026-27 Smart Fish Parlour Nirman Karya Haat Bazar Nadi Raod Ke Pass Dolariya Ja",
-        "3. NIT 13/2026-27 Smart Fish Parlour Nirman Karya Pathrota  Janpad Panchayat Kesla"
+        "1. Construction work of C.C. Road at ward no 10 mukharji nagar main road hanuman mandir to",
+        "2. Providing labour services cleaning  maintenance of sanitation system of 05 Nos. utility",
+        "3. Repairing and Maintenance work of Sub Station in                              \t    Kath"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SWM-I/T.C/02/2026-2027",
-        "2. SWM-I/T.C/13/2026-2027",
-        "3. SWM-I/T.C/12/2026-2027"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Purchase of consumables for the Department of Mechanical Engineering",
-        "2. Dismantling the existing damaged IWSC at Vaniyakudy in Simoncolony Village Panchayat of",
-        "3. Improvement estimate for 2nos insertion of 40RSJ pole in various locations in 11KV Anai"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://tntenders.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Punjab",
       "state": "Punjab",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Estimate for providing Anti Crash barrier (W-Rail) at various bridges of Second Patiala",
-        "2. Estimate for Brickwork lining of watercourse of Outlet at Rd 949/R of Nadampur Disty",
-        "3. Repair/Renovation of Canteen on 11th floor at Punjab Civil Secretariat-1, Chandigarh"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://eproc.punjab.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SUPPLY OF FOOD ARTICLES",
-        "2. Estimate for Re-construction of collapsed boundary wall in canal colony kosli.",
-        "3. Estimate for internal clearance of Saidpur minor 0.000 to 2.438 (tail) for kharif 2026."
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://etenders.hry.nic.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of Higher Secondary School under Samgra Shiksha plus2 Science Stream at Ch",
-        "2.  Supply and Installation of Aerosel based Fire Fighting Equipment at SDH building Bhanj",
-        "3. Supply and Installation of Aerosel based Fire Fighting Equipment at SDH building Aska,K"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
@@ -117,9 +97,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 03/2026-27/RWD/SIMDEGA",
-        "2. 03/2026-27/RWD/SIMDEGA",
-        "3. 03/2026-27/RWD/SIMDEGA"
+        "1. Construction of  PCC at Swami vivekanand chowk camp  Under DMFT Fund",
+        "2. Construction of bridge over Chainpur river near house of Bajrang Mahto s at Balsagra Gr",
+        "3. Construction of Dhumkuriya Bhawan at village Dhegam of Narda panchayat under Potka bloc"
       ]
     },
     {
@@ -128,9 +108,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 5424-36 dated 02/09/2026",
-        "2. Restoration of rain damages on Jagnoli Bhatta Bhawara road km. 0.00 to 5.00 Under SDRF",
-        "3. 5424-36 dated 02/09/2026"
+        "1. Annual Running and Maintance of Sewerage Scheme to Nadaun Town in tehsil Nadaun and Dis",
+        "2. Maintaining/Observation of water level at forebay, cleaning of trash rack and forebay a",
+        "3. Restoration of rain Damages of WSS Paprola in Tehsil Baijnath Distt Kangra HP"
       ]
     },
     {
@@ -139,16 +119,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Ghat at Shivpuri (Rishikesh) Dehradun, Uttarakhand 2nd Call",
-        "2. Ward 97 and Community SWM ScaleUp Cat G",
-        "3. Char Dham Organic Waste Disposal Category E"
+        "1. ADDITIONAL WORKS AT MINI STADIUM, YOUTH WELFARE AND PRD DIRECTORATE, TAPOWAN ROAD, DEHR",
+        "2. Electrification, Fire Fighting and Allied work for Examination Hall and Multiskill Deve",
+        "3. Flood Protection Work Of Gram Jakhana Toli Tingarh Kot Bishan Inter College  Lok Jivan "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa226a4fc50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8202240490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +137,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Assam made Liquor(AML)Vend license",
-        "2. Const. of ICBP",
-        "3. Notice inviting tender for the grant of AML Vend license"
+        "1. Cleaning and De-siltation of Kalmoni Rivulet for Augmentation of Flow Capacity for the ",
+        "2. Comprehensive Annual Maintenance Contract of DG Set including POL for all DG Set Ambula",
+        "3. Supply of 5nos of Drugs"
       ]
     },
     {
@@ -168,9 +148,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Medium Protein Extruded Fish Feed",
-        "2. GENERAL-Leprosy sanatorium NooranadTouching clearance 2026 -Touching clearance from OH ",
-        "3. SITC of 7 Mtr Solar Mini Mast with 3 Nos 50W LED Flood light at Kidangayam Panthallur- "
+        "1. NCFRW-2023-24/Sl No. 34/MLPM - Aanakkallu - Uppu Kallu Road at Edayoor GP - General Civ",
+        "2. GENERAL-Budget - 2025-2026 - Annexure II, - Vol -II, SL. No 2820 - Mankada Legislative ",
+        "3. Annual Plan-Malappuram DP (2026-27), Project No 349-27 -Improvement of Peringattambalam"
       ]
     },
     {
@@ -179,9 +159,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  BLACKTOPPING OF ROAD  FROM GALA TO MANNA  BETWEEN W NO 3 AND 7",
-        "2. TOILET BATHROOM NHO HAJI  AKHTER",
-        "3. TOILET BATHROOM NHO  MEHMOOD AHMED"
+        "1. Construction of culvert near the house of mohd ashraf dar ,imtiyaz ahmad wani and other",
+        "2. RDDDC2627108265 - CONSTT OF CULVERT NEAR REOGODJI WAHAND AT MANDAKPAL",
+        "3. Constt of p bund with fencing near Bus stand jalwapora"
       ]
     }
   ],
