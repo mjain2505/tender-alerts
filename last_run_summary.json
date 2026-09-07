@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-07 18:59:52",
+  "checked_at_utc": "2026-09-07 23:17:33",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ALHW ENV RFP-2 2026-27 Recall",
-        "2. Construction of Gents and Ladies Toilet at POPSK Sidhi",
-        "3. Supply of Certified Wheat Seed in HURL APNA BEEJ  brand in the states of Uttar Pradesh,"
+        "1. Construction of Gents and Ladies Toilet at POPSK Sidhi",
+        "2. ALHW ENV RFP-2 2026-27 Recall",
+        "3. Repair and maintenance of Old Composite Hospital Building ( Being used by recruitment C"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Handling work for Shahjahanpur Center BPACS Ltd. Andhidei Samiti Bhawan",
-        "2. Handling work for Shahjahanpur Center BPACS Ltd. Atri Nizampur Samiti Bhawan",
-        "3. Handling work for Shahjahanpur Center BPACS Ltd. Shrinagar Samiti Bhawan"
+        "1. Handling work for Shahjahanpur Center BPACS Ltd. Kutuapur Samiti Bhawan",
+        "2. Handling work for Shahjahanpur Center BPACS Ltd. Audapur Shakha Kurriya Dhodho",
+        "3. Handling work for Shahjahanpur Center BPACS Ltd. Narayanpur Jathiya Shakha Safora"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Fixing RCC Cover and Frame at various location in beat no. 62 K West Ward",
-        "2. Providing and Fixing Door and Other Allied Works at Toilet Situtated in Dr. Ambedkar Ga",
-        "3. Providing a mobilised truck for immersion of idols during ganpati visarjan-2026 at Vari"
+        "1. Providing and Fixing Door and Other Allied Works at Toilet Situtated in Dr. Ambedkar Ga",
+        "2. Improvement of Passage and Drainage Systenm Near Ganesh Annadurai Devendra Home in Nehr",
+        "3. Repairs of chamber at various locations Andheri West in Beat No.64 at KWest Ward"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "sample_titles": [
         "1. E.L.D.C.No.SMII/P10/3272/2026 Refurbishment of existing defective 40 to 50 W 90 to 120 ",
         "2. ONLINE TENDER FOR FIXING RATE CONTRACT FOR SUPPLY AND INSTALLATION OF WATER PURIFICATIO",
-        "3. E1-3315-2026-6-ERODE CITY MUNICIPAL CORPORATION-Construction of collection sump for Dra"
+        "3. Intercom arrangements Central Library Tiruppur"
       ]
     },
     {
@@ -86,7 +86,7 @@
       "sample_titles": [
         "1. Rate Contract for medicines  PK-II",
         "2. Rate Contract for medicines",
-        "3. 1\tConstructing/Development of Park Front Singh Sabha Gurudwara Sunder Enclave W.NO 15 a"
+        "3. Construction of Dharamshala Islampur at Mc Rajpura"
       ]
     },
     {
@@ -106,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Upgraded Higher Secondary School building at Takarla in the district of",
-        "2. Construction of Upgraded Higher Secondary School building at Mohangiri in the district ",
-        "3. Construction of Upgraded Higher Secondary School building at Rupra Road in the district"
+        "1. Construction of Upgraded Higher Secondary School building at Mohangiri in the district ",
+        "2. Construction of Upgraded Higher Secondary School building at Takarla in the district of",
+        "3. Construction of Drain on Kathajodi Right Embankment road between Naraj-Trisulia from 0/"
       ]
     },
     {
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Annual Running and Maintance of Sewerage Scheme to Nadaun Town in tehsil Nadaun and Dis",
-        "2. Restoration of rain Damages of WSS Paprola in Tehsil Baijnath Distt Kangra HP",
-        "3. Restoration of Rain Damage on Sarkaghat Maseran Durgapur Road"
+        "2. Aug. of Sewerage Scheme for Mandi Town and Providing Sewerage Facility to adjoining of ",
+        "3. Construction of Community Centre for skill Up-gradation in Sports Discipline near the S"
       ]
     },
     {
@@ -141,14 +141,14 @@
       "sample_titles": [
         "1. ADDITIONAL WORKS AT MINI STADIUM, YOUTH WELFARE AND PRD DIRECTORATE, TAPOWAN ROAD, DEHR",
         "2. Electrification, Fire Fighting and Allied work for Examination Hall and Multiskill Deve",
-        "3. Flood Protection Work Of Gram Jakhana Toli, Tingarh, Kot Bishan Inter College  Lok Jiva"
+        "3. Flood Protection Work Of Gram Jakhana Toli Tingarh Kot Bishan Inter College  Lok Jivan "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f31a73c5c10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd1ed081dd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Malappuram DP (2025-26), Project No 1213-26 Rennovation of 55 mail theyyott",
-        "2. Annual Plan-Malappuram DP (2024-25 and 2025-26), Project No 1790-25 -Kolathrakunnu SC N",
-        "3. LAC-ADS-(2025-26), Thavanur LAC,  Hon. MLA Dr. K.T. JALEEL (ID 23434) -Valyad Kayattuma"
+        "1. NCFRW-2023-24/Sl No. 34/MLPM - Aanakkallu - Uppu Kallu Road at Edayoor GP - General Civ",
+        "2. NCFRW-2023-24/Sl No.35/MLPM - Rahmath Nagar - Aalooli Temple Road - Edayoor GP-General ",
+        "3. Annual Plan- Malappuram District Panchayath GHSS Moothedam Electrification- S1267/27-Ge"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Protection Bund near Land of Bashir Ahmad Bhat and Abdul Rashid Bhat Pa",
-        "2. c/o of culvert near H/O Riyaz Ah Wani on Vorvall Khul Chewdara B",
-        "3. Development of a Ghat on the Bank of River Ravi near Gurukul, Basohli  (Under 023-M and"
+        "1. DEVELOPMENT OF GROUND AND LAND LEVELING NEAR SHIV MANDIR KIBVER NALLAH",
+        "2. B/Path Nr. H/o Ilyas Ahmed S/o Bashir Ahmed W.No. 01 Pyt. Chacktroo  Block Sathra Under",
+        "3. P/Work Nr. Main Road NAABRD Bridge RD-100 Metres Hume Pipe No 14 (600MM) Pyt. Arai Mali"
       ]
     }
   ],
