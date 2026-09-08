@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-09-08 18:18:31",
+  "checked_at_utc": "2026-09-08 23:13:48",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Civil Maintenance/ Renovation work in Residences and Convocation Hall in Zone H at IIT ",
+        "2. Civil Maintenance/ Renovation work in Residences, Hostels and Departments in Zone E at ",
+        "3. SUPPLY OF MATERIAL FOR REPAIR AND CONSERVATION WORK OF UNPROTECTED MONUMENT GOVERDHAN D"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ward No. 23 Moh. Lalpur  me Rajendra ke makan se wa link galiyon se hote hue Mithlesh k",
-        "2. Ward No. 23 Moh. Lalpur Aanshik  me Noor Mohammad ke makan se Pramod Mishra ke makan se",
-        "3. Magh Mela 2026-27 hetu Kali Pantoon Pul pahuch Marg ke Nirmad Rakh Rakhaw ewam Dismentl"
+        "1. Magh Mela 2026-27 hetu Gangoli Shivala Pantoon Pul pahuch Marg ke Nirmad Rakh Rakhaw ew",
+        "2. Magh Mela 2026-27 hetu Mahaveer Pantoon Pul pahuch Marg ke Nirmad Rakh Rakhaw ewam Dism",
+        "3. Ward No. 23 Moh. Lalpur Aanshik  me Noor Mohammad ke makan se Pramod Mishra ke makan se"
       ]
     },
     {
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Applying of thermoplastic road marking paint at national college junction of linking ro",
+        "1. Improvement of Passage and Drainage System at Near Pooja General Store Vikas Ngar Behra",
         "2. Beat No 178 Councillor Fund",
-        "3. Improvement of Passage and Drainage System at Near Pooja General Store Vikas Ngar Behra"
+        "3. Improvement of Gate and other work at panchshil niwas ,MR Road in E ward"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CC INTERLOCKING BLOCK WORK UPTO ATALPATH GP BORI PS GARHI",
-        "2. Rate Contract for BSR 2026-27 FOR MATERIAL AND EQUIPMENT SUPPLY FOR GRAM PANCHAYAT BEED",
-        "3. PLAY GROUND DEVELOPMENT WORK BHABHA KI WAW GP BORI PS GARHI"
+        "1. SARY SIVREJ PAEP LAEN DANLE KA AKR MAHAVEER GODARA K GAR SE PARHLAD REWAR K GAR KI TARA",
+        "2. CONSTRUCTION OF DRAIN UPTO SARPANCH FARM GP BORI PS GARHI",
+        "3. Supply of Constriction Material and Providing Equipment in MGNREGA,VB G RAM G and other"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIe-T-65/Sl.-11/2026-27",
-        "2.  \t03/EE/O and M-IIA/W and S/KMDA of 2026-27 SL-02",
-        "3. 03/EE/O and M-IIA/W and S/KMDA of 2026-27 SL-01"
+        "1. NIe-T- 63/2026-27 (Sl. No. 12)",
+        "2. 03/EE/O and M-IIA/W and S/KMDA of 2026-27 SL-01",
+        "3. NIe-T-65/Sl.-14/2026-27"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repairs to   Damaged Flooring, Doors and windows, Water supply and Sanitary arr",
-        "2. Special Repairs to  Leaky roof Doors and Windows, Painting arrangements in Primary Heal",
-        "3. Dismantling of  Damaged AC Sheet  Roof Anganwadi Building at Kaveripatti  H/O Koneripat"
+        "1. Dismantling of  Damaged  Tiled Roof Building at PUES School Sankari Ward II  Chinnagoun",
+        "2. Dismantling of  Damaged Kitchen Shed at Kalvadangam H/O Koneripatty Agraharam  Sankari ",
+        "3. Dismantling of  Damaged  Kitchen Shed at Kaikolapalayam H/O Koneripatty  Sankari Block "
       ]
     },
     {
@@ -81,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. EV Litter Picker for Patrolling and Litter Picking including Operation and Maintenance ",
-        "2. Repair of Street/Open Drain in Various Place Ward No 11 to 13 Mc Dhariwal",
-        "3. Providing Sewerage System and all other works contingent thereto to at Near Shivalik Ho"
+        "2. Supply of Loader in MC Dhariwal",
+        "3. Repair of Street/Open Drain in Various Place Ward No 11 to 13 Mc Dhariwal"
       ]
     },
     {
@@ -114,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Road from Khetko Panchayat Main Road Tiranga Chowk to Banaso-Madamo Roa",
-        "2. Construction of Road from Piluwa More REO Road to Tingridhar Panchyat Sachiwalay REO Ro",
-        "3. Renovation and Augmentation work of Old IPD Block at RIMS, Ranchi"
+        "2. Renovation and Augmentation work of Old IPD Block at RIMS, Ranchi",
+        "3. Construction of Road from Piluwa More REO Road to Tingridhar Panchyat Sachiwalay REO Ro"
       ]
     },
     {
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Maintenance of Himachal Niketan Dwarka  Sector 19  New Delhi. SH Providing various manp",
-        "2. Development of civil and electrical charging infrastructure for operation of electric b",
-        "3. Tender for Annual Operation and Maintenance contract for 33/11 KV Sub-Station Janjehali"
+        "2. DED83-2026/27",
+        "3. Balance work for Repair  Maintenance of HSC Thanikpura SH Flooring Plastering Painting "
       ]
     },
     {
@@ -135,8 +139,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Jila Udhyog Kendra Pithoragarh ke Dharchula Parisar me Carding Unit ki Sthapana",
-        "2. Gram Panchhu me track root vikas kary (Nanda devi base camp tak)",
+        "1. Gram Panchhu me track root vikas kary (Nanda devi base camp tak)",
+        "2. Jila Udhyog Kendra Pithoragarh ke Dharchula Parisar me Carding Unit ki Sthapana",
         "3. Work of Capacity Enhancement of 132KV Bus from Single Moose to Twin Moose at 132KV SS M"
       ]
     },
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efdf778ef50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9243fb1a10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -172,13 +176,9 @@
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Raising of Poly Bags  and Naked Root",
-        "2. Providing Structural and Architectural consultancy for Construction of motorable bridge",
-        "3. Upgradation of DFO Office Bandipora in Bandipora Forest Division under scheme UT-CAPEX "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='jktenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     }
   ],
   "new_matches_found": 0
