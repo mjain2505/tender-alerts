@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-07 23:17:33",
+  "checked_at_utc": "2026-09-08 02:58:50",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Gents and Ladies Toilet at POPSK Sidhi",
-        "2. ALHW ENV RFP-2 2026-27 Recall",
-        "3. Repair and maintenance of Old Composite Hospital Building ( Being used by recruitment C"
+        "1. ALHW ENV RFP-2 2026-27 Recall",
+        "2. Construction of Gents and Ladies Toilet at POPSK Sidhi",
+        "3. Supply of Certified Wheat Seed in HURL APNA BEEJ  brand in the states of Uttar Pradesh,"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Handling work for Shahjahanpur Center BPACS Ltd. Kutuapur Samiti Bhawan",
-        "2. Handling work for Shahjahanpur Center BPACS Ltd. Audapur Shakha Kurriya Dhodho",
-        "3. Handling work for Shahjahanpur Center BPACS Ltd. Narayanpur Jathiya Shakha Safora"
+        "1. Handling work for Shahjahanpur Center BPACS Ltd. Audapur Shakha Kurriya Dhodho",
+        "2. Handling work for Shahjahanpur Center Sahkari Sangh Ltd. Areli Shakha Vyor",
+        "3. Handling work for Shahjahanpur Center Sahkari Sangh Ltd. Mirzapur Shakha Jalalabad Mand"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Fixing Door and Other Allied Works at Toilet Situtated in Dr. Ambedkar Ga",
-        "2. Improvement of Passage and Drainage Systenm Near Ganesh Annadurai Devendra Home in Nehr",
-        "3. Repairs of chamber at various locations Andheri West in Beat No.64 at KWest Ward"
+        "1. Repairs of Chamber at Veera Desai Road Andheri West in beat no.64 at KWest Ward.",
+        "2. Upgradation and Renovation of VC Hall in Collector Office Wardha Ta - Dist- Wardha.",
+        "3. PR.KR. 11 D MADHE VIVIDH THIKANI TASECH JAY BHAWANI NAGAR YETHE MOTHE (HIGH) MAST LIGHT"
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 7 check dams in forest areas under the Mandalgarh Range.",
-        "2. NEW TYUBWELL WORK",
+        "1. NEW TYUBWELL WORK",
+        "2. Construction of 7 check dams in forest areas under the Mandalgarh Range.",
         "3. BINJUSAR NEW TYUBWEL"
       ]
     },
@@ -63,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. 03/SE(Prog)/SD/KMDA OF 2026-2027(2nd Call)",
-        "2. 160/MKT of 2026-27",
-        "3. 161/MKT of 2026-27"
+        "2. 161/MKT of 2026-27",
+        "3. 160/MKT of 2026-27"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E.L.D.C.No.SMII/P10/3272/2026 Refurbishment of existing defective 40 to 50 W 90 to 120 ",
+        "1. PROVIDING TRANSFORMER TO THE EXISTING COMMUNITY HALL AT C.P.RAMASAMY ROAD IN DIV-123, U",
         "2. ONLINE TENDER FOR FIXING RATE CONTRACT FOR SUPPLY AND INSTALLATION OF WATER PURIFICATIO",
-        "3. Intercom arrangements Central Library Tiruppur"
+        "3.  E1-3315-2026-7-ERODE CITY MUNICIPAL CORPORATION- Providing UGSS Main line interlinking"
       ]
     },
     {
@@ -86,7 +86,7 @@
       "sample_titles": [
         "1. Rate Contract for medicines  PK-II",
         "2. Rate Contract for medicines",
-        "3. Construction of Dharamshala Islampur at Mc Rajpura"
+        "3. 1\tConstructing/Development of Park Front Singh Sabha Gurudwara Sunder Enclave W.NO 15 a"
       ]
     },
     {
@@ -106,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Upgraded Higher Secondary School building at Mohangiri in the district ",
-        "2. Construction of Upgraded Higher Secondary School building at Takarla in the district of",
+        "1. Construction of Upgraded Higher Secondary School building at Rupra Road in the district",
+        "2. Construction of Upgraded Higher Secondary School building at Mohangiri in the district ",
         "3. Construction of Drain on Kathajodi Right Embankment road between Naraj-Trisulia from 0/"
       ]
     },
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Annual Running and Maintance of Sewerage Scheme to Nadaun Town in tehsil Nadaun and Dis",
-        "2. Aug. of Sewerage Scheme for Mandi Town and Providing Sewerage Facility to adjoining of ",
-        "3. Construction of Community Centre for skill Up-gradation in Sports Discipline near the S"
+        "2. Restoration of Rain Damage on Sarkaghat Maseran Durgapur Road",
+        "3. Maintaining/Observation of water level at forebay, cleaning of trash rack and forebay a"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd1ed081dd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3262585c50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NCFRW-2023-24/Sl No. 34/MLPM - Aanakkallu - Uppu Kallu Road at Edayoor GP - General Civ",
-        "2. NCFRW-2023-24/Sl No.35/MLPM - Rahmath Nagar - Aalooli Temple Road - Edayoor GP-General ",
-        "3. Annual Plan- Malappuram District Panchayath GHSS Moothedam Electrification- S1267/27-Ge"
+        "1. Annual Plan- Malappuram District Panchayath GHSS Moothedam Electrification- S1267/27-Ge",
+        "2. Annual Plan-Malappuram DP (2026-27), Project No 1473-27 -Implementation of priority pro",
+        "3. NCFRW-2023-24/Sl No. 34/MLPM - Aanakkallu - Uppu Kallu Road at Edayoor GP - General Civ"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DEVELOPMENT OF GROUND AND LAND LEVELING NEAR SHIV MANDIR KIBVER NALLAH",
-        "2. B/Path Nr. H/o Ilyas Ahmed S/o Bashir Ahmed W.No. 01 Pyt. Chacktroo  Block Sathra Under",
-        "3. P/Work Nr. Main Road NAABRD Bridge RD-100 Metres Hume Pipe No 14 (600MM) Pyt. Arai Mali"
+        "1. Construction of road from Takiya Samsun (Mohalla) to Lalwani Yarikha Budgam",
+        "2. CONSTT OF C/PATH BACHAIN TO KAMACH",
+        "3. RDDDC2627108265 - CONSTT OF CULVERT NEAR REOGODJI WAHAND AT MANDAKPAL"
       ]
     }
   ],
