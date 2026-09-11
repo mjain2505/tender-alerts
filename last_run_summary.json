@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-09-11 18:11:14",
+  "checked_at_utc": "2026-09-11 22:58:23",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Rate Contract for Repair/Refurbishment and Coating of Runners for 10 Nos. Power Station",
+        "2. CAMC of different type of air conditioners under Z5 NM MTNL Mumbai",
+        "3. Renovation/ Maintenance Work in Residence at Zone B in IIT Roorkee"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CMR TRANSPORT WORK FOR PADDY PURCHASE 2026-27 FOR RICE MILL OF DISTRICT MAHARAJGANJ",
-        "2. SITC of D/F DI suitable Flow Control Valve Under Magh Mela 2026-27 District Prayagraj.",
-        "3. Ramganganagar Aawasiya Yojana Sector-7 mein sthit park ke saundaryikaran ka karya."
+        "1. 71/EDC(G)/2026-27",
+        "2. CMR TRANSPORT WORK FOR PADDY PURCHASE 2026-27 FOR RICE MILL OF DISTRICT DEORIA",
+        "3. CMR TRANSPORT WORK FOR PADDY PURCHASE 2026-27 FOR RICE MILL OF DISTRICT GORAKHPUR"
       ]
     },
     {
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E-Tender Cum E-Auction For Tadi Shop License under Nagpur-1 for Buttibori Nagpur",
-        "2. PROVIDING STREET LIGHT AT GAONDEVI CRICKET MAIDAN SANPADA  SECTOR-5 AT TURBHE",
-        "3. E-Tender Cum E-Auction For Tadi Shop License under Nagpur-2 for Kamptee Nagpur"
+        "1. E-Tender Cum E-Auction For Tadi Shop License under Nagpur-1 for Kalamana Market Nagpur",
+        "2. E-Tender Cum E-Auction For Tadi Shop License under Nagpur-1 for Khamla Nagpur",
+        "3. Providing And Fixing Wooden Ballies And G.I Sheets Baraketting For Temporary Closing Of"
       ]
     },
     {
@@ -36,8 +40,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. sarvajanik gavai sand ghar mai lohe ka tin shed nirman karya",
-        "2. 01/SBM/2026-27/GP kanasar",
+        "1. sarvajanik shiv bagechi mai cc block mai nali nirman karya chirdhani",
+        "2. sarvajanik shiv bagechi mai lohe ka tin shed nirman karya chirdhani",
         "3. Tin Shed Nirman Kary Ra.U.Ma.Vi. Kankalavas"
       ]
     },
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of C.C. Road From Ramleela to Gallamandi Chouk via Bajrariya Chouk road le",
-        "2. Hiring Of 01 nos Boleroa or Equivalent vehicle for use of Govt work to Executive Engine",
-        "3. MOW/AR/SR/Anurakshan work of  F Type Govt. Resi. Qtrs. in Section No. 16 under RTC Sub "
+        "1. Construction of C.C. Road From NH 86 to Karaiya Kheda road length 2.40 km.",
+        "2. MOW/AR/SR/Anurakshan work of  E Type Govt. Resi. Qtrs. in Section No. 19 under RTC Sub ",
+        "3. INSTALLATION OF PORTABIL SEWAGE TRETMENT PLANT NEAR SELL SAGAR TALAB  TIKAMGARH"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 4.REPAIRING OF C.C. ROAD FROM NEAR THE HOUSE OF SASTHI DHIBAR TO DUTTAPARA....WARD NO 1",
-        "2. Notice Inviting e-Tender No. 12/ EE(R and B) / NKDA/ 2026-27",
-        "3. 1. REPAIRING OF C.C. ROAD FROM NEAR THE HOUSE OF MANU MADDI TO SIDHU KANU PRIMARY SCHOO"
+        "1. NIT No- 2027/PHE(C)/BMC  ,  Dated-11/09/2026",
+        "2. 2.REPAIRING OF C.C. ROAD FROM NEAR PALLYSHREE LODGE TO KALI MANDIR AT WARD NO 05 AND 07",
+        "3. Development of Approach Road using Paver block Replacement of old chequered tile with n"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing 150mm dia borewell at Maniyankudi 30000 Lit OHT Near PUE school in Anniyur pa",
-        "2. Restoration of Road Cut Made by CMWSSB at Beerkaran 1st Street in Division-118, Unit-24",
-        "3. CONSTRUCTION OF COMMUNITY SOAK PIT IN PETTAIMEDU COLONY OHT AT VADAMADURAI PANCHAYAT 2 "
+        "1. NCTPS I SE MI circle Boiler Maintenance Division Annual Overhaul work for the year 26 2",
+        "2. NCTPS I SE MI circle Boiler Maintenance Division Annual Overhaul work for the year 26 2",
+        "3. NCTPS I SE MI circle Turbine Maintenance Division Annual Overhaul work for the year 26 "
       ]
     },
     {
@@ -82,7 +86,7 @@
       "sample_titles": [
         "1. DNIT for Providing Installing and Commission of Online data Logger, Data Connectivity C",
         "2. Supply of Double Ended/Single Ended/ Metal Halide/HPMV Lamps/Chokes/Holders/Ignitors fo",
-        "3. Cleaning of vacant Plots in B-Block Sh.Guru Teg Bahadur Nagar (Mall Mandi ) Scheme."
+        "3. Installation of New Statue at Maharaja Aggarsain Chowk  ward no. 52 Est Cost Rs. 10.00 "
       ]
     },
     {
@@ -92,8 +96,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Complete maintenance of the entire garden features related to Horticulture Works at Mah",
-        "2. Bio-drainage project Clonal Forestry Works under WBI Kharkhoda Block",
-        "3. Bio-drainage project Clonal Forestry Works under WBI Dubheta Block"
+        "2. Bio-drainage project Clonal Forestry Works under WBI Dubheta Block",
+        "3. Bio-drainage project Clonal Forestry Works under WBI Kharkhoda Block"
       ]
     },
     {
@@ -103,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Madhyakhanda Outpost Building at Madhyakhanda_Building",
-        "2. Construction of H.L. bridge over river IB on Bhagapali to Gangpurgarh road",
-        "3. SELECTION OF AGENCY FOR CONCEPTUALIZATION, DESIGNING, EXECUTING ENRICHMENT WORK BY NATU"
+        "2. Periodical Maintenance to Parlimal to Rengali Road for the year 2026-27",
+        "3. Periodical Maintenance to Rengali to Lathore road for the year 2026-27"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Surfacing on Shoghi Salana road km. 0/00 to 8/00",
-        "2. Annual Surfacing on Shakoh to Hanuman Mandir road km. 0/00 to 1/250",
-        "3. R/R damages on Shoghi to Railway Station road km. 0/00 to 1/500"
+        "1. Annual Surfacing on Shoghi Dhari road  km. 0/00 to 6/150",
+        "2. Annual repair and maintenance of residential building at Jail raod Mandi Division No.II",
+        "3. Annual Surfacing on Shoghi Goro Kanawan road km. 0/00 to 5/500"
       ]
     },
     {
@@ -135,8 +139,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Thermal Imaging Camera for Dhakrani Power House",
-        "2. SUPPLY OF A TYPE JUTE BAG 50 KG SCREEN PRINTED WITH LINER AND C TYPE JUTE BAG 50 KG SCR",
+        "1. SUPPLY OF A TYPE JUTE BAG 50 KG SCREEN PRINTED WITH LINER AND C TYPE JUTE BAG 50 KG SCR",
+        "2. Procurement of Thermal Imaging Camera for Dhakrani Power House",
         "3. SUPPLY OF LIME (HAND PICKED UNSLACKED) FOR VARIOUS COOPERATIVE AND CORPORATION SUGAR FA"
       ]
     },
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ffbb30e1c90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4f172998d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,8 +169,8 @@
       "status": "ok",
       "sample_titles": [
         "1. GENERAL-Construction of School Building for Govt. LPS, Adayamon-Pazhayakunnummael GP, T",
-        "2. Maintanance of treckpath various places of Thathoor Forest Section in Kurichiat  Range",
-        "3. Annual Plan-PRNO 127/2026-27, KUNNATHOOR GP-THIPLAVILA -KALEEKKAL ROAD CONSTRUCTION -16"
+        "2. cost of maintenance of trek path from Anjunattumpara to Olikkudy 4.00km in Chinnar Wild",
+        "3.  cost of maintenance of trek path from Chambakkadu to Thoovanam 10.00km in Chinnar Wild"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction/Up-gradation of Link road from nara Masjid to Gali Samote Pyt. Gursai Moor",
-        "2. Construction of Road from Main Road to Moh Choudraian Kopra Ari Pyt. Ari Qasab  Block M",
-        "3. P/bund N/H/O Ali MOhd Hajam at Gund Arjun"
+        "1. R/wall P/Work near Sarfraz Ahmed Ward No 1 Pyt. Gursai Tanvi Block Mendhar Under  UT Ca",
+        "2. Installation of 06 No.S of Hand Pumps for providing of drinking water facilities at Cha",
+        "3. Construction of P/Work W.No. 03 Near haji Mukhtar Pyt. Gursai Tanvi Block Mendhar Under"
       ]
     }
   ],
