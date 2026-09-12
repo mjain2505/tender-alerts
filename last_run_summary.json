@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-12 10:03:36",
+  "checked_at_utc": "2026-09-12 14:58:36",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operating and Maintenance of sewerage treatment plant (STP) at 39 BN BSF Campus Chonp, ",
-        "2. HELIUM GAS TO BE SUPPLIED IN NFC AND PARTY CYLINDERS AS PER THE ANNEXURE ATTACHED",
-        "3. Construction of path way shed from Gate No.4 to EMSD Building, JIPMER Campus, puducherr"
+        "1. Contingent and Misc. Expenditure in Horticulture Zone",
+        "2. Replacement of One span of DAP ET 7 Gantry inside Rashtriya Chemicals and Fertilizers L",
+        "3. Providing proper ventilation in 11kV substations areas of the Institute PGIMER, Chandig"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NPP JALALABAD ward no.13 Mohalla nanu me khurshid ke makan se sajid ke makan tak evm ba",
-        "2. NPP JALALABAD ward no.4 mohalla aaryannagar me Vijaynagar Takies se barat ghar tal rcc ",
-        "3. Arrangement for deligation (6 members) for participation in SIAL PARIS Food Expo (17-21"
+        "1. Temporary Electrification of Parking Area at 1. OLD GT KACHHAR 2.SARASWATI PARKING (NEA",
+        "2. Temporary Electrification of Parking Area at 1.ECC 2.DADHIKANDO MAIDAN KYDGANJ 3.JAMUNA",
+        "3. Temporary Electrification of Parking Area at 1. GANJIYA PARKING 2. ISHU DARBAR 3. DEVRA"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Karad nagarparishad hadditil peth shaniwar joshi bol yethil Hulwan chawl te shri Patweg",
-        "2. Providing repairs to road from G-29 to G-36 in Latur Indl. area.",
-        "3. Revamp Repairing Refurbuishment and allied work of Existing API II Chowki"
+        "1. Construction of Asphalt Road Improvements to Road from Mahatma Nagar to Motiwala Colleg",
+        "2. DHULE/DMC/WD/DMC Fund/133/1-2/2025-26",
+        "3. C/O Of New Girls Toilet In Z.P. School At Village Nagulwahi"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 02 classrooms at Mahatma Gandhi Government School, Gaudu",
-        "2. Construction of two classrooms at Government Primary School, Chak 16 GMR",
-        "3. Gram panchayat Thala ke samstya Gaun m Ghar-Ghar evm vyavsayak prasthano se kachra sang"
+        "1. Swachhata hetu interlocking may naali nirman karya Meghwal basti, Khaka Ka Guda",
+        "2. ROSHAN SINGH KE GHAR SE  KARNAA BOR TAK C C ROAD MAY NALI NIRMAAN",
+        "3. Swachhata hetu Bheru Singh ke makan se chauraye ki aur interlocking may naali nirman ka"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supplying and fixing LED Light at Beeda-Semariya Road Street Light Pole Under Vidhayak ",
-        "2. Development work at Shree Guru Ratneshwar Mahadev mandir, Shree Siddh shani mandir, Shr",
-        "3. Construction of  Swarnim Semariya Selfie Point in nagar parishad Semariya Under Vidhaya"
+        "1. Construction of a drain and concreting of the road from Naeem house to Asif Driver hous",
+        "2. Middle School Bandhwa",
+        "3. Repairs, grill painting, and various other necessary works on different routes under zo"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. EE-III/35/4/26-27/US",
-        "2. E.E. (C)/ VI/062/005/2026-2027/D",
-        "3. E.E. (C)/ VI/055/005/2026-2027/D"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and delivery of 2 HP water pump motor in Thirumuruganpoondi municipality",
-        "2. Construction of Compound Wall at Ammapalayam school building at  Ward No 27 in Thirumur",
-        "3.  Annual Maintanence works to street lights in Thirumuruganpoondi Municipality"
+        "1.  Chidambaram Municipality,Removal of seemakaruvelam trees at municipal limits in Chidam",
+        "2. Tender for Each Shop at VOC central Bus stand KULATHU BYE PASS SALAI WEST FACING OLD SH",
+        "3. Tender for Each Shop at VOC central Bus stand NEAR EB ROOM SOUTH FACING OLD SHOP NO.67"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Reconstruction  of VR Bridge at RD 79120 of Daulatwah Distributary",
-        "2. Reconstruction  of VR Bridge at RD 96750 of Daulatwah Distributary",
-        "3. Hiring of vehicle for inspection under the Project Estimate for the Reconstruction/Reno"
+        "1. Laying RMC in Street Balwant Pardhan Wali in W. No. 3",
+        "2. Laying Interlocking Tiles Shiv Darbar Chowk to chhati Khuhi Durga Mandir Street Ward No",
+        "3. Repair of Interlocking Tiles Street in Babbu Shah Wali Dashmesh Nagar Ward No. 15"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Various Rural Villages - Annual Mtc. Water Supply Scheme 2026-27. Repair of Pumping Mac",
-        "2. Various Rural Villages - Annual Mtc. Water Supply Scheme 2026-27. Repair of Pumping Mac",
-        "3. Daily cleaning and sweeping in all Premises in MC Bhiwani"
+        "1. PURCHASE OF CROWN PINION 25.09.26",
+        "2. PURCHASE OF SPARE OF CHICAGO MAKE COMMPRESSOR",
+        "3. Estimate for providing and laying of 80mm thick interlocking tiles at H.No.438 to H.No."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance and repair of Fire  Station building at Bijepur in the district of Baragada",
-        "2. Maintenance and repair of R.I Office-Cum-Residence  office building at Chhindeikela in ",
-        "3. Construction of SC Building at Soyabali under Joda Block in the Dist. of Keonjhar"
+        "1. Supply and Installation of Aerosol based Fire Fighting equipment at CHC, Belagam Buildi",
+        "2. Supply and Installation of Aerosol based Fire Fighting equipment at CHC, Sumandala Buil",
+        "3. Supply and Installation of Aerosol based Fire Fighting equipment at SDH G1 Chatrapur Bu"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of P.C.C. Roads and R.C.C. Drains at Various Locations from D.A.V. School ",
-        "2. Construction of RCC Drain in Tiwari khatal rajak mohalla  in front of malay dey House m",
-        "3. Construction of PCC Road in 1. Krishna nagar ramavtar house to munni yadav via ravindra"
+        "1. Construction of RCC Drain in sanjay nagar from pathak jee house to Main drain via Sagar",
+        "2. Construction of Drain and Road in New Colony from Om Bhawan to SK Chatterjee  and From ",
+        "3. Construction of bridge over Barakar river at Banka to Gargi road in Chalkusa   Block of"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/R Damages on Marighat Dinger Mathanan road Km 0/0 to  22/0 (SH P/L Patch work in Km 0",
-        "2. R/R damages on Banad Bohal GagalShikore road Km 0/0 to  5/120 (SH- Providing WBM G-III,",
-        "3. R/R damages on Dhabara Bari BhunPandah Road Km 0/0 to  2/300 (SH  M/T in Km 0/00 to 2/3"
+        "1. Maintenance of NH 205 Shimla Matour road from Km 0/00 to 43/100",
+        "2. Maintenance of NH 205 Shimla Matour road from Km 0/00 to 43/100",
+        "3. Improvement of Black Spot on NH 205 Shimla Matour road from km 0/000 to 43/100"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f093b1b5490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff7b5ad6510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of various sizes of Eco friendly cloth carry bags to issue drugs and surgical it",
-        "2. GENERAL-Project no. 782/2025-26-Project no. 782/2025-26 Concreting of west Cherukalam t",
-        "3. DEPOSIT-Govt Guest House Aluva - TV-SITC of TV for Government Guest House Aluva.- Gener"
+        "1. MOE4-KSMART-1295836/2026, Kaseeba Road Interlocking Tile Laying and Drainage Raising in",
+        "2. MOE5-KSMART-1142862/2026, Dismantling the Damaged Lamp post in Opposite of Vettukattil ",
+        "3. MOE5-KSMART-2145268/2026, CORPORATION NEW OFFICE BUILDING 6 th FLOOR CEILING, PARTITION"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Tile path at PHC Marhama for Doctors Quarter",
-        "2. Upgradation of BMO office Building at Veeri",
-        "3. Construction of Chamber, Washout drain at Futlipora SR and RCC Jacketing of bridge pill"
+        "1. Upgradation  (Macadamiation) of the approach  Road leading to Jammu University Campus a",
+        "2. Construction of lane with tile path from house of Ashiq Ahmad Wani to MGNREGA Road at A",
+        "3. Construction of lane from Bashir Ahmad Sofi to Abdul Rashid Sofi and others at Arwah"
       ]
     }
   ],
