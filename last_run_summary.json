@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-15 16:13:06",
+  "checked_at_utc": "2026-09-15 20:51:56",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC of 160 KVA Silent Type EA Set and Dismantling the Existing EA set at O/O GM(F) PAO",
-        "2. Engagement of Contractor for Waste Management for SEEPZ SEZ",
-        "3. M/o schemes under nazul A/C-II, Rohini."
+        "1. M/o schemes under Nazul A/C-II, Rohini.",
+        "2. M/o schemes under nazul A/C-II, Rohini.",
+        "3. SITC of 160 KVA Silent Type EA Set and Dismantling the Existing EA set at O/O GM(F) PAO"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PR.KR.31 K ANTARGAT SHREE GANESHOTSAV KALAMADHE GANDHI BHAVAN V ITAR GANESH MURTI VISAR",
-        "2. TN-64 Work No. 02",
-        "3. prabhag kr 12 a madhe health camp pandavnagar  wadarwadi bhagatil souchalay durusti vik"
+        "1. TN-64 Work No. 04",
+        "2. PR.KR. 31 D MADHE LAXMINAGAR ZOPADPATTI YETHIL SAI MANDAL JAVALIL SARVAJANIK SHAUCHALAY",
+        "3. Improvement of  Passage and drainage system at Hawabai Bldg., M.A. Road in E Ward."
       ]
     },
     {
@@ -41,8 +41,8 @@
       "status": "ok",
       "sample_titles": [
         "1. ITEM NO 02",
-        "2. NIT NO 41",
-        "3. 01/SBM/2026-27/GP"
+        "2. 01/SBM/2026-27/GP",
+        "3. NIT NO 42"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT No- 512/PWD/ROAD/BMC (2nd Call) of 296/PWD/ROAD/BMC, Dated- 15/09/2026",
-        "2. Laying of 33 KV 3X400 sq mm 820mtr XLPE cable through micro tunneling with HDPE pipe an",
-        "3. e-Tender No.05/EE(R and B)/NKDA/2026-27 ( 2ND CALL) ( SL No. 02)"
+        "1. Non-Comprehensive Annual Maintenance Contract Resource Facility Management for Day-to-d",
+        "2. e-Tender No.05/EE(R and B)/NKDA/2026-27 ( 2ND CALL) ( SL No. 02)",
+        "3. NIT No- 512/PWD/ROAD/BMC (2nd Call) of 296/PWD/ROAD/BMC, Dated- 15/09/2026"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. General Fund 2026-2027 Improvenment of Cement Concrete Road at Ward 10  Santhaipuliyamo",
-        "2. TN/VPM/Vlm/El Nino Work/26/P3",
-        "3. TN/VPM/Vlm/El Nino Work/26/P4"
+        "1. Mech_Anna_university_Labour",
+        "2. General Fund 2026-2027 Construction of compound wall and toilet Ward 1 karavilai Amman ",
+        "3. Operation and maintenance of Borewell (20 nos) 12 Months in Ward No 11 North Zone"
       ]
     },
     {
@@ -85,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. 100 MBPS Internet Connectivity Leased 1.1Uncompressed and Unshared at Kisan Bhawan Plot",
-        "2. Laying OGPC in Vatious Streets of Pushp Vihar and Royal Apartment W.No.59",
-        "3. P and Fixing of 60mm thick interlocking titles in various streets of Punjab Mata Nagar "
+        "2. Repair and Renovation of MCL sub zone D-4 Rakh Bagh Ludhiana",
+        "3. Relaying OGPC In Various Streets of Jeevan Preet Nagar on FZR Road Ward No. 58"
       ]
     },
     {
@@ -95,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DEVELOPMENT OF CIVIL INFRA ...",
-        "2. Development and maintenance of different triangles / islands on the roads of Sector 30,",
-        "3. Providing and laying of IPB, DWC pipe in drains and water supply in the street from H/o"
+        "1. Providing and laying of IPB, DWC pipe in drains and water supply in the street from H/o",
+        "2. DEVELOPMENT OF CIVIL INFRA ...",
+        "3. Development and maintenance of different triangles / islands on the roads of Sector 30,"
       ]
     },
     {
@@ -106,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 100 Seated (G Plus 1) Boys Hostel for Gandhmardan ITI Titlagarh in the ",
-        "2. Construction of 200 Seated Boys Hostel (G Plus 2) for Govt ITI Dhenkanal, Odisha",
+        "1. Construction of 200 Seated Boys Hostel (G Plus 2) for Govt ITI Dhenkanal, Odisha",
+        "2. Construction of 100 Seated (G Plus 1) Boys Hostel for Gandhmardan ITI Titlagarh in the ",
         "3. Construction of Addl. Class room at Govt. Primary School Balangi GP-Birikot"
       ]
     },
@@ -148,19 +148,15 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fbe685e2d90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f07fd7ae4d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Anti-erosion measures to T/dyke along the R/B of river Buridehing from Deochalli Hill t",
-        "2. Anti-Erosion measures to protect the L/B embankment of river Puthimari at Mutkuchi U/S ",
-        "3. Protection work from the erosion of river Gomnadi on its both banks."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='assamtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='assamtenders.gov.in', port=443): Failed to resolve 'assamtenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Kerala",
@@ -169,8 +165,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Electification of Anganawadi  37 and 63 In Kattakada GP",
-        "2. GENERAL-Maintenance of Faculty Apartment in Judicial Academy Campus, Athani-Repair and ",
-        "3. Procurement of Multi unit Battery charger"
+        "2. GENERAL-FDR-2025-26-Mallad Thekkiniyedathpadi road ch 1/800 to 2/000- Reconstruction of",
+        "3. GENERAL-Urgent Improvement of Drainage facilities between km. 1/240 to 1/400 of Thavinj"
       ]
     },
     {
@@ -180,8 +176,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of link road from Shaldan to Washigharat Under District Capex Budget 2026-",
-        "2. Repair and Renovation of DSEO Rajouri Quarter.",
-        "3. Macadamization of  Siara Jourian Mata ji road Km.4th  (Under City and Town) (Capex Budg"
+        "2. Macadamization of road from Hansa Bhullari road to Chownri Shiv Mandir (Under City and ",
+        "3. Upgradation of road by Construction of R Wall on road from Gurdhan Bala to Mohra Dhara "
       ]
     }
   ],
