@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-17 20:57:26",
+  "checked_at_utc": "2026-09-17 23:23:06",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 06 Dismantling of Naala OR reconstruction of Naala besides of Z Square mall Bada chaura",
-        "2. Ward No 6 mein Submersible Boaring Ke liye kamre ka Nirman Karye",
-        "3. 01 Laying of 300 mm dia 260 mtr sewer line from house no.55/71 to 55/78 Maniram Bagiya "
+        "1. Construction of an RCC drain from the Mandi Samiti to the PWD culvert.",
+        "2. 10 Replacedment of 110 mm dia 200 mtr PVC Pipe Line from house no.44/402 to 93/191 at W",
+        "3. 03 Laying of 250 mm dia 75 mtr sewer line at Kuliyana, Ward 89 Cooperganj, Kanpur."
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF  AANGANWADI BUILDING  AT VILLAGE  TAPOVAN TQ. MOTALA.DIST. BULDANA",
-        "2. CONSTRUCTION OF  AANGANWADI BUILDING  AT VILLAGE  WAGHJAL TQ. MOTALA.DIST. BULDANA",
-        "3. Providing Pipeline System At Village Pashte TAL SHINDKHEDA Dist Dhule"
+        "1. Providing Pipeline System At Village Pashte TAL SHINDKHEDA Dist Dhule",
+        "2. CONSTRUCTION OF  AANGANWADI BUILDING  AT VILLAGE  BHAROSA TQ. CHIKHALI.DIST. BULDANA",
+        "3. CONSTRUCTION OF  AANGANWADI BUILDING  AT VILLAGE  TAPOVAN TQ. MOTALA.DIST. BULDANA"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Materials and equipment supply for mgnrega/vbgramg other scheme for gp SONELI",
-        "2. samudayik bhawan nirman karya narangi mata ke pas bhil basti",
-        "3. bramhpuri sardargarh me vachnalay nirman karya"
+        "1. SUPPLY OF CATTLE FEED RAW MATERIALS UNDER RM-840-A",
+        "2. VBGRAMG/MGNREGA MATERIAL SUPPLY JOCHINA",
+        "3. SARY SHAMSHAN BHUMI KHASRA NO 2314/887 ME CHAR DIWARI NIRMAN KHIYALA"
       ]
     },
     {
@@ -59,9 +59,13 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. WBMAD/NDDM/ELEC/NIQ302/26-27_1",
+        "2. Notice Inviting e-Tender No. 13/EE(R and B)/NKDA/2026-27",
+        "3. Estimate for Repairing of Road with Paver Block  from  Bus Stand to TamlukGhatalco.oper"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and Delivery of Liquid Chlorine for CTH OHT,Nagammai Nagar OHT,Sekkadu OHT in Av",
-        "2. Ramanathapuram Municipality Repair and Maintenance works for OCEMS and Electromagnetic ",
-        "3. Providing tree Plantation, pit excavation, supply of plants, fencing guard  at ward 22,"
+        "1. TVN/MPLAD/26-27/PAVANDHUR1",
+        "2. Repair and Rectification of damaged 110mm dia,180mm,225mm dia HDPE  Water Distribution ",
+        "3. Providing New Bore Well Pump Set, Pump Room With Pipe Line  Makkankottai to Muniyappan "
       ]
     },
     {
@@ -82,7 +86,7 @@
       "sample_titles": [
         "1. Estimate for reconstruction of water course lining of outlet RD 37818/L of Doda Disty",
         "2. Estimate for relining/lining of watercourse of outlet RD of 43222 tail Doda disty",
-        "3. \tEstimate for reconstruction of water course lining of outlet RD 290000/R of Sirhind Fe"
+        "3. Estimate for relining/lining of watercourse of outlet RD of 12347/L Doda disty"
       ]
     },
     {
@@ -91,8 +95,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Road cleaning, tree pruning, and maintenance of green areas along master roads in Secto",
-        "2. Mandothi DNIT for Design, Supply and erection of transformer of standard make Required ",
+        "1. Mandothi DNIT for Design, Supply and erection of transformer of standard make Required ",
+        "2. Road cleaning, tree pruning, and maintenance of green areas along master roads in Secto",
         "3. Supply of plants and shrubs..."
       ]
     },
@@ -102,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of VSS building at Ambapada",
-        "2. Construction of VSS Building at Nepal",
+        "1. Construction of VSS Building at Nepal",
+        "2. Construction of VSS building at Ambapada",
         "3. Construction of VSS building of Maa Haladigundi VSS Odakapa"
       ]
     },
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Running Coffee Counter in Kamla Nehru State Hospital For Mother And Child Shimla",
+        "1. HPSEBL/BED/DB-Tender JOB No.16/26-27",
         "2. Deployment  of  Two Data Entry Opertor",
-        "3. GED-63/2026-27"
+        "3. Houskeeping services Etc"
       ]
     },
     {
@@ -137,14 +141,14 @@
       "sample_titles": [
         "1. Rehabilitation of Damaged Head Works and GI Pipeline of Nagun Gad Water Supply Line to ",
         "2. Selection of Advertising Agency for Publication of Various Notices/Advertisements in Ne",
-        "3. 1885 BAIKUNTH CHATURDASHI MELA ME SOUND KI NIVIDA"
+        "3. BAIKUNTH CHATURDASHI MELA ME STALL FAD JHULA CHARKHI KI NIVIDA"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc3bf5a5e10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3ba1dd9a90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Pattanakkad BP-2026-27-Proj no.19/27-Metalling and Tarring of Karalam thodu Parayil jun",
-        "2. Pattanakkad BP-2026-27-Proj no.74/27-Tarring of Parinjappally road in Thuravoor GP",
-        "3. Pattanakkad BP-2026-27-Proj no. 156/27-Renovation of Chavadi market road in ward 2 of K"
+        "1. Pattanakkad BP-2026-27-Proj no. 156/27-Renovation of Chavadi market road in ward 2 of K",
+        "2. Pattanakkad BP-2026-27-Proj no.19/27-Metalling and Tarring of Karalam thodu Parayil jun",
+        "3. Pattanakkad BP-2026-27-Proj no.74/27-Tarring of Parinjappally road in Thuravoor GP"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FENCING OF GRAVEYARD AT JUNJOORI MOHALLA SADIPORA, TAHAB",
-        "2. RDDDC2627105867-(IMP OF TILE LANE FROM HO SHAFI MOHAND TO ONWARDS AT SHAIRABAD TRAL)",
-        "3. RDDDC2627105786- CO P BUND NEAR FRESNARD SPRING AT BARSOO BLOCK AWANTIPORA"
+        "1. RDDDC2627104741 - CONSTRUCTION OF LANE FROM HOUSE OF AB SAMAD MIR TO HOUSE OF GH MOHIDI",
+        "2. RDDDC2627105545 -CONSTRUCTION OF 02 NUMBER LANES FROM HOUSE PERVAIZ AHMAD KHANDAY TO HO",
+        "3. RDDDC2627111232 CO CULVERT NLO ALI MOHD BHAT NAZIR AH BHAT MUSHTAQ AH BHAT AND OTHERS A"
       ]
     }
   ],
