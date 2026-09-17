@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-17 10:56:55",
+  "checked_at_utc": "2026-09-17 16:13:20",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. I.15032/NIT/Engr/MW/6Sect/ 2026-27/258",
-        "2. Misc. civil work in qtr. No. D-37 P and T colony, Moti Bagh, New Delhi.",
-        "3. Sheeting Works and Miscellaneous Civil AND Structural Works for Renovation of Template "
+        "1. PRE BID TIEUP SERVICES AND POST BID CONSTRUCTION FOR THE WORK",
+        "2. NHIDCL/RO Agt/STMC/Risk Cost/NH-108B NH-208/Pkg-I II IV V/2026-27/783",
+        "3. DEVELOPMENT OF ARCHAEOLOGICAL GARDEN AT GOKESHWAR MAHADEV TEMPLE"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Strengthening and beautification work of Taj Road going from Mall Road Phool Syed Squar",
-        "2. Construction of a new road from the  Adampur paved road (via Ambedkar  Park) to Pabna D",
-        "3. 2 Patch repair at SHMDRODR roads in jurisdiction of AE-II Provincal Division PWD Shamli"
+        "1. Construction of an RCC drain from the Mandi Samiti to the PWD culvert.",
+        "2. 01 Laying of 300 mm dia 260 mtr sewer line from house no.55/71 to 55/78 Maniram Bagiya ",
+        "3. Construction of an RCC drain from Nagla Ramvaks to the PWD Road."
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Strengthening to Road from SH 177 to Koparde Padal Majgaon Porle to joining SH 191 road",
-        "2. Supply Of Installation CCTV Camera At Savatkhede",
-        "3. Renovation of the sewage treatment plant under the Shirdi Municipal Councils Undergroun"
+        "1.                 CONSTRUCTION OF  AANGANWADI BUILDING  AT VILLAGE  PINGLI JAHANGIRTQ.SAN",
+        "2. CONSTRUCTION OF  AANGANWADI BUILDING  AT VILLAGE  TAPOVAN TQ. MOTALA.DIST. BULDANA",
+        "3. CONSTRUCTION OF  AANGANWADI BUILDING  AT VILLAGE  PANHERA TQ. MOTALA.DIST. BULDANA"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 06/26-27 GP DAULATPURA",
-        "2. Supply of Mini sprinkler",
-        "3. BID NO 01/2026-27 GP AADURI PS POOGAL"
+        "1. Materials and equipment supply for mgnrega/vbgramg other scheme for gp SONELI",
+        "2. samudayik bhawan nirman karya narangi mata ke pas bhil basti",
+        "3. SARY SHAMSHAN BHUMI KHASRA NO 2314/887 ME CHAR DIWARI NIRMAN KHIYALA"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. STRENGTHENING WORK OF KHANDWA KALMUKHI KHELWA ROAD Length 3.178 K.M. TEMBI TO DOMADA RO",
-        "2. DEVELOPMENT OF PARK AT BDA COLONY TEELAJAMALPUR WARD 13 ZONE 03.",
-        "3. STRENGTHENING WORK OF AWLIYA TO POKHAR ROAD Length 2.39 K.M.BARUR TO KALDAKHEDI ROAD (P"
+        "1. Construction of C.C. Road from Sarla Kahar to Sardar Mehra in Gurunanak Ward, Nagar Pal",
+        "2. Const. of Drain from Archana Sadi to Raju Patel via Hanuman Mandir and Const. of CC Roa",
+        "3. Supply of Sports and Awards Items for Divisional/State/National Level School Sports Com"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. KMC/XIV/127/020/26-27/R",
-        "2. Procurement of Special Protective Head Gear for Law and Order Duty in c/w Advance QRT m",
-        "3. KMC/XIV/132/005/26-27/R"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MS Back Clamp for PSC Pole  200 Kg",
-        "2. Supply of Guarding Cross Arm",
-        "3. Procurement of Office Waste paper White Records in Bale form from Karnataka on FOR Kagi"
+        "1. TVN/MPLAD/26-27/PAVANDHUR1",
+        "2. Repair and Rectification of damaged 110mm dia,180mm,225mm dia HDPE  Water Distribution ",
+        "3. Providing New Bore Well Pump Set, Pump Room With Pipe Line  Makkankottai to Muniyappan "
       ]
     },
     {
@@ -84,21 +80,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supplying and Pouring of Hypochlorite for 18 Nos. Tubewell at Samana and all other work",
-        "2. THE CONSTRUCTION OF SEWERAGE AT VILLAGE- MATTEWARA, BLOCK- LUDHIANA-2 DISTRICT LUDHIANA",
-        "3. Operation and Maintenance of Sewage Treatment Plant 3 MLD capacity on SBR Technology at"
+        "1. \tEstimate for reconstruction of water course lining of outlet RD 290000/R of Sirhind Fe",
+        "2. Estimate for reconstruction of water course lining of outlet RD 37818/L of Doda Disty",
+        "3. Estimate for relining/lining of watercourse of outlet RD of 12347/L Doda disty"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Repair of Control Panels at various Pumping Installation in Sector 5  Panchkula",
-        "2. Replacement of Unserviceable Contractor Block Land T   BCH  Overload Relay  SDz5 Timer ",
-        "3. Replacement of 02 No. Lifts..."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Odisha",
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 33kV UG line with RMU to provide 33kV Power Supply to Gaudaput Industri",
-        "2. 170 GSM GLOSSY ART COVER PAPER (without Water Mark) (62 X 90 CM SIZE)",
-        "3. 70GSM VIRGIN PULP  MAPLITHO REEL PAPER WITH WATERMARK"
+        "1. Construction of VSS Building at Nepal",
+        "2. Construction of VSS building at Ambapada",
+        "3. Construction of VSS building of Maa Haladigundi VSS Odakapa"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and Maintenance of AE Residence Building at Ronhat.",
-        "2. Restoration of rain damages on Renuka Sataun Road km 13/450 to 29/060.",
-        "3. R/R damages on Various roads Under HP PWD  Sub- Division Kamrau."
+        "1. Deployment  of  Two Data Entry Opertor",
+        "2. Houskeeping services Etc",
+        "3. FED-22A/2026-27"
       ]
     },
     {
@@ -139,8 +131,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Selection of Advertising Agency for Publication of Various Notices/Advertisements in Ne",
-        "2. TENT SHAMIYANA PANDAAL KI NIVIDA",
+        "1. Rehabilitation of Damaged Head Works and GI Pipeline of Nagun Gad Water Supply Line to ",
+        "2. Selection of Advertising Agency for Publication of Various Notices/Advertisements in Ne",
         "3. 1885 BAIKUNTH CHATURDASHI MELA ME SOUND KI NIVIDA"
       ]
     },
@@ -148,7 +140,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f13c131e690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff9a7f79c50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,21 +149,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Infrstructure Development of Chutia Student  Hostel Campus and Building at Guwahati Meg",
-        "2. Infrstructure Development of Sadhani Bhawan at Megzin  Guwahati",
-        "3. Construction of Bir Raghab Moran and others 8 Nos Statues and Memorial Park at Gelapukh"
+        "1. Bid for Empanelment of agencies/firms for production of TVCs/ Documentaries /Audio Jing",
+        "2. Construction of Ekalavya Model Residential School(EMRS) at Bedlangmari, Kokrajhar, Assa",
+        "3. Supply and Installation of Laptops and Accessories"
       ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Selection of an End-to-End Custom Development, Implementation, and Financing Partner fo",
-        "2. Retender - Ring Compost",
-        "3. 64/27-KALPOOR AMBALAM PUZHIYORA ROAD MAINTENANCE,WARD 3"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://etenders.kerala.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -179,9 +167,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Khanpur Banyeri road to Daanna link road   (Under road sector (New Work",
-        "2. Timber logging, Extraction, Transportation of timber stocks of Co. D-09 upto Sale Depot",
-        "3. Timber logging, Extraction, Transportation of timber stocks of Co. D-05 upto Sale Depot"
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Sonabanger",
+        "2. RDDDC2627104294 -(DEV OF CHOPAN MOHALLA GRAVEYARD AT PH II AT DRABGAM (SHADIM))",
+        "3. RDDDC2627104627 - CONSTRUCTION OF LANE FROM HOUSE OF ALI MOHD SHEIKH TO JAVAID AHMAD VI"
       ]
     }
   ],
