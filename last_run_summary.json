@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-16 23:32:43",
+  "checked_at_utc": "2026-09-17 03:20:29",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance of Completed Scheme under Nazul Account-II Narela Zone.",
+        "1. Transportation of materials from departmental stack yard at Mangalore to departmental s",
         "2. Maintenance of completed works Narela Zone. (A/R and M/O estimate for the year 2026-27)",
-        "3. Transportation of materials from departmental stack yard at Mangalore to departmental s"
+        "3. Maintenance of Completed Scheme under Nazul Account-II Narela Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New construction of Chitehri road to Nagra link road.",
-        "2. New construction of Akbarganj to Laharpur link road.",
-        "3. Construction of Boundary Wall at Multi Level Parking at Collectorate, Kanpur."
+        "1. Construction of Boundary Wall at Multi Level Parking at Collectorate, Kanpur.",
+        "2. New construction of B.P. Road to Ramnagar, Ahladpur, Angadpur, Mathuranagar, Vishunpur,",
+        "3. New construction of Jholahanpurwa to Madhwapur Gulariya road."
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M and R to water Supply distribution system at Various places in Zone No. 3",
-        "2. Improvement of  Passage and drainage system at Razia Bldg., M. U. R. Road in E Ward",
-        "3. Improvement of passage and drainage system"
+        "1. Improvement of passage and drainage system",
+        "2. Improvement of passage and drainage system",
+        "3. Providing Paver blocks at from H/o Taur Patil to Dhareshwar School in Shivajinagar Prab"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF MAJOR WORK BOYS ASHRAAM HOSTEL NIHALPURA",
-        "2. LED street light nirman karya shiv mandir ka pas garm thikriya",
-        "3. CONSTRUCTION OF ADDITIONAL ROOM AND MAJOR WORK AT GIRLS ASHRAAM HOSTEL BHAVTA BHAVTI"
+        "1. 01/SBM/2026-27/GP",
+        "2. CONSTRUCTION OF ADDITIONAL ROOM AND MAJOR WORK AT GIRLS ASHRAAM HOSTEL BHAVTA BHAVTI",
+        "3. CONSTRUCTION OF MAJOR WORK BOYS ASHRAAM HOSTEL NIHALPURA"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Appointment of Third Party Inspection Agencies (TPIAs) for inspection of works to be im",
+        "1. Supply of Hand Operated Waste Collection Vehicle in Nagar Palika Parishad Gadarwara - a",
         "2. White Topping of Road from DIG Bunglow to Best Price (Ayodhya Bypass Road) via Kalipare",
-        "3. Supply of Hand Operated Waste Collection Vehicle in Nagar Palika Parishad Gadarwara - a"
+        "3. Appointment of Third Party Inspection Agencies (TPIAs) for inspection of works to be im"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. NIT No- 530/PWD/ROAD/BMC , Dated- 16/09/2026",
-        "2. NIT No- 530/PWD/ROAD/BMC , Dated- 16/09/2026",
-        "3. NIT No- 531/PWD/ROAD/BMC, Dated- 16/09/2026"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Community Sanitary Complex for Girls Type 4 at Thirugongimalai in Mulli",
-        "2. Kilpazar/EB Surplus -2025-26/Pakage-2",
-        "3. Providing  CC Pavement  from Puthupalayam Bt Road  to  Vinayagar Kovil  H/O Puthupalaya"
+        "1. Kilpazar/EB Surplus -2025-26/Pakage-2",
+        "2. Annual maintenance House Keeping and Engaging Watch man for 3 Nos of Schools in Ward No",
+        "3. MTPS I  TM  ReBabbitting and Machining of worn-out MOP Bearings and  TG  Bearings No 1 "
       ]
     },
     {
@@ -85,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Request for Proposal from reputed and experienced consultancy firms/agencies for the Ap",
-        "2. Procurement for IPad pro",
-        "3. Rehabilitation of Feeder No 1  from RD 0 to 14000"
+        "2. Erection of Tower Material/Tower Structures, Beams, Busbars for various 220/132kV Subst",
+        "3. Procurement for IPad pro"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. A/mtc of l/s work in sector-21,part-III,Panchkula for the year 2026-27.(Clearing jungle",
-        "2. Lowa Khurd DNIT for laying of 100mm i/ D.I. pipe balance,in place of damaged,irreparabl",
-        "3. JOBNO.HSVP/AMB/2026-27/E-538"
+        "1. JOBNO.HSVP/AMB/2026-27/E-538",
+        "2. A/mtc of l/s work in sector-21,part-III,Panchkula for the year 2026-27.(Clearing jungle",
+        "3. A/Mtc. of P.H Services in Sector-1 to 21 and I/A Ph-I and II, Panchkula. (Providing and"
       ]
     },
     {
@@ -106,8 +102,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 100 Seated (G Plus 1) Boys Hostel for Gandhmardan ITI Titlagarh in the ",
-        "2. Construction of 200 Seated Boys Hostel (G Plus 2) for Govt ITI Dhenkanal, Odisha",
+        "1. Construction of 200 Seated Boys Hostel (G Plus 2) for Govt ITI Dhenkanal, Odisha",
+        "2. Construction of 100 Seated (G Plus 1) Boys Hostel for Gandhmardan ITI Titlagarh in the ",
         "3. Construction of Addl. Class room at Govt. Primary School Balangi GP-Birikot"
       ]
     },
@@ -119,7 +115,7 @@
       "sample_titles": [
         "1.  E-Quotation for 1 NO. V.T. PUMPSET AND OTHER ALLIED ACCESSORIES ALONG WITH ASSOCIATED ",
         "2. Construction of RCC Drain with Slab in Jharia from Children Park More via Poddar Pada R",
-        "3. Construction of RCC Pucca Nala from Naya Bazaar Bora Patty Puliya to the house of Dines"
+        "3. For Supplying and laying of Pavers Block in Gharib Nawaz Colony from Zahra Khatoon ke g"
       ]
     },
     {
@@ -129,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. RRD on Shimla Mandi via Tattapani road km. 115/00 to 135/00 (SH Repai of pot holes in k",
-        "2. RRD on Sauli khad to Badog road KM. 0/00 to 4/00. (SH C/O V-shape drain at RD 0/00 to 0",
-        "3. R/M of various LWSS/GWSS under JSV Section Patta under JSV Sub Division Chandi in Tehsi"
+        "2. Restoration of rain damages on Khad Kalyana Dolra Harizan Basti road Km. 0/00 to 6/200.",
+        "3. Relocating the stone idols from Bindrawani (Himachal Darshan Art Gallery) to GSS School"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f38a6a3a150>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5589081850>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. m/road bukhara colony to house ofgh hassan Malik and others at sholipora A",
-        "2. TILE PATH FHO NADEEM BAGWAN TO MAIN ROAD W.NO. 6",
-        "3. Construction of P-Bund near the house of Abdul Karim Chopan on both sides at Waterhail."
+        "1. Construction of Infra Works of Dhundak Mata Kali Mandir Surankote. (Under UT Capex 2026",
+        "2. construction p.bund from house ofgh rasool dar to Abdul majid dar and others at maqdamp",
+        "3. Dev of dar Mohalla graveyard near H/ o Hafizulla wani, Ab Rehman Dar others at Sebdan."
       ]
     }
   ],
