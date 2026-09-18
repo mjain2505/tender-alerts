@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-18 15:48:42",
+  "checked_at_utc": "2026-09-18 20:24:04",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,8 +7,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. INVITATION FOR PRE-TENDER MEET",
-        "2. SUPPLY OF CABLE TRAYS (MT0-05)-LOT-2",
+        "1. Tender for supply of Sulphuric Acid in bulk",
+        "2. INVITATION FOR PRE-TENDER MEET",
         "3. ANNUAL MAINTENANCE OF NAVIGATIONAL AIDS AT KADAMATH ISLAND FOR THE YEAR 2026-27"
       ]
     },
@@ -25,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of various Location Chamber Etc in K.B.P.S  Road and Other Road at Partiksha Nag",
-        "2. Supply of GI and UPVC Pipe etc at Various Location near Railway Track Sanjay Gandhi Nag",
-        "3. Improvment of Passage and Drainage System at Sofa Vala Gully Vijay Nagar Sion Koliwada "
+        "1. Improvement of Passage and Drainage System at Electric Poll No A1 STC 28 Opp Rajesh Air",
+        "2. Supply and Installation of Rumblers and Cat eyes at Various Roads at Partiksha Nagar in",
+        "3. Supply of GI and UPVC Pipe etc at Various Location near Railway Track Sanjay Gandhi Nag"
       ]
     },
     {
@@ -36,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 02/2026-27/solar lightchocra",
-        "2. kachara sangharan, prathikkaran,nali safai and samudik switchta parish DHAGAWAN",
-        "3. Construction of a room at the Ayurvedic dispensary in Village Melusar"
+        "1. Construction of a room at the Ayurvedic dispensary in Village Melusar",
+        "2. Construction of interlocking road from Shankarlal house towards Mukhram Meghwal house i",
+        "3. Work including door-to-door (residential and commercial) garbage collection and segrega"
       ]
     },
     {
@@ -47,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairing of Bridges and Culverts of Road Under PWD Sub Division Beohari Division Shahd",
-        "2. Supply of  ALUM GRADE -4 for  WTP vidisha financial year 2026-27",
-        "3. Supply of chlorine gas cylinder with liquid gas 900 kg for  WTP vidisha financial year "
+        "1. SUPPLY OF LT DISTRIBUTION BOX SUITABLE FOR 315 KVA DTR",
+        "2. Supply of 11 KV and 33 KV Control and Relay Panel",
+        "3. Repair and Maintenance work on Chipadnath Mandir Approach  Road Length 1.00 km Mantola "
       ]
     },
     {
@@ -58,7 +58,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT/BM/00066/Eng/EO/2026-27",
+        "1. NIT/BM/00066/ENG/EO/2026-27 18.09.2026",
         "2. NIT/BM/00066/Eng/EO/2026-27",
         "3. NIT/BM/00066/Eng/EO/2026-27"
       ]
@@ -69,8 +69,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction Of Cow Shed Building to Arulmigu Mariamman Temple, Samayapuram, Trichy Dis",
-        "2. Painting to the walls,  including painting of doors,  windows, and iron works, at  the ",
+        "1. Painting to the walls,  including painting of doors,  windows, and iron works, at  the ",
+        "2. Supply of GUARDING CROSS ARM AS PER RESPECTIVE SPECIFICATIONS",
         "3. Electrical works"
       ]
     },
@@ -82,19 +82,15 @@
       "sample_titles": [
         "1. Sugar Bag Handling 2026-27",
         "2. Sale of Press Mud",
-        "3. Rate contract for medicine"
+        "3. Renovation of repair of Bhatara Mohalla dharamshala and Shri Ram Mandir dharamshala war"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. New Rasing of Plants in Baroda Nursery of Uchana Block in Narwana Range under Forest Di",
-        "2. ANNUAL MAINTENANCE CONTRACT OF 389 Nos. OF FIRE EXTINGUISHERS LYING WITH HARYANA STATE ",
-        "3. Out source the sweeping work (ZONE-1)"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Odisha",
@@ -103,8 +99,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of ROB  2 lane with carriage width of 7.5mtr with Railway portion span 1x6",
-        "2. Supply and installation of 90  120 Watt.Street Light Fitting from Employment Office to ",
-        "3. Sadangi to Ankudi_Road_SDBC, Road Furniture_0.000 to 2.280"
+        "2. RD road to Nishagadia_Road_SDBC, Road Furniture_0.000 to 2.350",
+        "3. Repairing of 25Mtr Highmast fitting at Balughat Truck Parking, Near HiTech Chowk, Power"
       ]
     },
     {
@@ -113,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 03-Construction and Renovation of Project  Plus 2 High School Manladih Tundi, Dhanbad",
+        "1. Construction work of Indoor Stadium in Curzon Ground Hazaribag",
         "2. 02-Construction and Renovation of UPG HS at Kamardih, Dhanbad (Part-2)",
-        "3. Construction work of Indoor Stadium in Curzon Ground Hazaribag"
+        "3. Construction of Road from Kida tola mandal ji home to Harimandir Ramesh Mahatos home."
       ]
     },
     {
@@ -125,8 +121,8 @@
       "status": "ok",
       "sample_titles": [
         "1. AR  MO to WSS Pukhar Nalhar Kumarka in GP Saproth in Tehsil Churah Distt Chamba HP",
-        "2. HPSCSC LPG Jhandutta",
-        "3. Expression of Interest (EOI) for Empanelment of Architect Consultants/ Structural Engin"
+        "2. Repair of damaged drain at Market Yard at Paonta Sahib, Distt. Sirmour, H.P.",
+        "3. C/o renovation of office and rest house at RM Yard Bilaspur, Distt. Bilaspur, H.P."
       ]
     },
     {
@@ -135,8 +131,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual maintenance work under the year 2025-26 in Badrinath assembly constituency of Ch",
-        "2. Reconstruction and strengthening of the Selwani-Manjgaon- Rajkhil-Kalavan-Tegna motor r",
+        "1. Reconstruction and strengthening of the Selwani-Manjgaon- Rajkhil-Kalavan-Tegna motor r",
+        "2. Annual maintenance work under the year 2025-26 in Badrinath assembly constituency of Ch",
         "3. Under A.R. 2025-26 Renewal work by BC in the Km 10, 12, 18 and 20 of Pokhari-Karanpraya"
       ]
     },
@@ -144,7 +140,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5935541690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7faaea5fd850>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,8 +161,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Koodathumthazhe microwatershed under the scheme Development of Microwatersheds in Kannu",
-        "2. DEPOSIT-Renovation of Microbiology HOD room in Academic block attached to Govt. Medical",
-        "3. ENERAL-Urgent replacement of damaged UPS batteries -replacement of damaged UPS batterie"
+        "2. ENERAL-Urgent replacement of damaged UPS batteries -replacement of damaged UPS batterie",
+        "3. GENERAL-Repair and maintenanace of E-1 staff Quarters of Govt Medical college Thiruvana"
       ]
     },
     {
@@ -175,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairment and Renovation of building and Boundary wall at HS Raithan",
-        "2. Balance work at CEO Office Budgam",
-        "3. Construction of Drain from Bilal Ahmad Shah to Nazir Ahmad Shah with Protection Bund be"
+        "1. Improvement  OF AABSHARE COLONY ROAD AT PETHZANIGAM",
+        "2. CONSTRACTION OF LANE FROM MAIN ROAD TO HOUSE OF  NAZIR AHMAD WANI AND CONSTRACTION OF P",
+        "3. Construction of fencing at graveyard Gutlipora"
       ]
     }
   ],
