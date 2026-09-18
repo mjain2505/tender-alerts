@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-18 20:24:04",
+  "checked_at_utc": "2026-09-18 23:02:11",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender for supply of Sulphuric Acid in bulk",
-        "2. INVITATION FOR PRE-TENDER MEET",
-        "3. ANNUAL MAINTENANCE OF NAVIGATIONAL AIDS AT KADAMATH ISLAND FOR THE YEAR 2026-27"
+        "1. ANNUAL MAINTENANCE OF NAVIGATIONAL AIDS AT KADAMATH ISLAND FOR THE YEAR 2026-27",
+        "2. ANNUAL MAINTENANCE OF NAVIGATIONAL AIDS AT KILTAN,CHETLATH AND BITRA ISLAND FOR THE YEA",
+        "3. Tender for supply of Sulphuric Acid in bulk"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. RTWH Comp. School Navada EtOH block kuthond",
+        "2. Const. of RTWH system composite school goran block dakore",
+        "3. RTWH INTER COLLAGE KUSHMILIYA BLOCK DAKORE"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Passage and Drainage System at Electric Poll No A1 STC 28 Opp Rajesh Air",
-        "2. Supply and Installation of Rumblers and Cat eyes at Various Roads at Partiksha Nagar in",
-        "3. Supply of GI and UPVC Pipe etc at Various Location near Railway Track Sanjay Gandhi Nag"
+        "1. Improvement of passage and Drainage System Behind Jaybhim Boddha Vihar in beat no 173. ",
+        "2. Chandivali Vidhansabha beat no.161 L Ward",
+        "3. Improvement of Passage and Drainage System Behind Bldg No 7 in KD Gaikwad Nagar  in Bea"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of a room at the Ayurvedic dispensary in Village Melusar",
-        "2. Construction of interlocking road from Shankarlal house towards Mukhram Meghwal house i",
-        "3. Work including door-to-door (residential and commercial) garbage collection and segrega"
+        "1. 02/2026-27/solar lightchocra",
+        "2. kachara sangharan, prathikkaran,nali safai and samudik switchta parish DHAGAWAN",
+        "3. Construction of a room at the Ayurvedic dispensary in Village Melusar"
       ]
     },
     {
@@ -59,7 +63,7 @@
       "status": "ok",
       "sample_titles": [
         "1. NIT/BM/00066/ENG/EO/2026-27 18.09.2026",
-        "2. NIT/BM/00066/Eng/EO/2026-27",
+        "2. NIT/BM/00066/ENG/EO/2026-27 18.09.2026",
         "3. NIT/BM/00066/Eng/EO/2026-27"
       ]
     },
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Painting to the walls,  including painting of doors,  windows, and iron works, at  the ",
-        "2. Supply of GUARDING CROSS ARM AS PER RESPECTIVE SPECIFICATIONS",
-        "3. Electrical works"
+        "1. Electrical works",
+        "2. Construction Of Cow Shed Building to Arulmigu Mariamman Temple, Samayapuram, Trichy Dis",
+        "3. Electrical Work"
       ]
     },
     {
@@ -82,7 +86,7 @@
       "sample_titles": [
         "1. Sugar Bag Handling 2026-27",
         "2. Sale of Press Mud",
-        "3. Renovation of repair of Bhatara Mohalla dharamshala and Shri Ram Mandir dharamshala war"
+        "3. Crate Wire Structure, Retaining Wall"
       ]
     },
     {
@@ -99,8 +103,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of ROB  2 lane with carriage width of 7.5mtr with Railway portion span 1x6",
-        "2. RD road to Nishagadia_Road_SDBC, Road Furniture_0.000 to 2.350",
-        "3. Repairing of 25Mtr Highmast fitting at Balughat Truck Parking, Near HiTech Chowk, Power"
+        "2. Repairing of 25Mtr Highmast fitting at Balughat Truck Parking, Near HiTech Chowk, Power",
+        "3. Sadangi to Ankudi_Road_SDBC, Road Furniture_0.000 to 2.280"
       ]
     },
     {
@@ -109,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of Indoor Stadium in Curzon Ground Hazaribag",
-        "2. 02-Construction and Renovation of UPG HS at Kamardih, Dhanbad (Part-2)",
-        "3. Construction of Road from Kida tola mandal ji home to Harimandir Ramesh Mahatos home."
+        "1. 03-Construction and Renovation of Project  Plus 2 High School Manladih Tundi, Dhanbad",
+        "2. Construction work of Indoor Stadium in Curzon Ground Hazaribag",
+        "3. 02-Construction and Renovation of UPG HS at Kamardih, Dhanbad (Part-2)"
       ]
     },
     {
@@ -121,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. AR  MO to WSS Pukhar Nalhar Kumarka in GP Saproth in Tehsil Churah Distt Chamba HP",
-        "2. Repair of damaged drain at Market Yard at Paonta Sahib, Distt. Sirmour, H.P.",
-        "3. C/o renovation of office and rest house at RM Yard Bilaspur, Distt. Bilaspur, H.P."
+        "2. C/o toilet block at apple market Solan (kather) Distt. Solan, H.P.",
+        "3. RM Sub Yard at Patlikuhal Distt. Kullu, H.P. (Phase-1)  SH C/o septic tank."
       ]
     },
     {
@@ -131,8 +135,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Reconstruction and strengthening of the Selwani-Manjgaon- Rajkhil-Kalavan-Tegna motor r",
-        "2. Annual maintenance work under the year 2025-26 in Badrinath assembly constituency of Ch",
+        "1. Annual maintenance work under the year 2025-26 in Badrinath assembly constituency of Ch",
+        "2. Reconstruction and strengthening of the Selwani-Manjgaon- Rajkhil-Kalavan-Tegna motor r",
         "3. Under A.R. 2025-26 Renewal work by BC in the Km 10, 12, 18 and 20 of Pokhari-Karanpraya"
       ]
     },
@@ -140,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7faaea5fd850>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa75dcc1f10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,13 +161,9 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Koodathumthazhe microwatershed under the scheme Development of Microwatersheds in Kannu",
-        "2. ENERAL-Urgent replacement of damaged UPS batteries -replacement of damaged UPS batterie",
-        "3. GENERAL-Repair and maintenanace of E-1 staff Quarters of Govt Medical college Thiruvana"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -171,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement  OF AABSHARE COLONY ROAD AT PETHZANIGAM",
-        "2. CONSTRACTION OF LANE FROM MAIN ROAD TO HOUSE OF  NAZIR AHMAD WANI AND CONSTRACTION OF P",
-        "3. Construction of fencing at graveyard Gutlipora"
+        "1. Construction of drain Virshut and Bren Nari at Khospora and construction of drain from ",
+        "2. Fencing Around Masjid Shareef Jamdar Mohalla Wachoo",
+        "3. CONSTRUCTION OF DRAIN AT DIFFERENT SPOTS OF DELINA B , BLOCK BARAMULLA UNDER ADP-PRI , "
       ]
     }
   ],
