@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-18 10:32:38",
+  "checked_at_utc": "2026-09-18 15:48:42",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rectification of Settled Flooring in the Ground Floor of PG-1A Hostel at Housing Comple",
-        "2. Construction of infrastructure at Nelong AOR 35 Bn ITBP",
-        "3. IISER-K/IWD/Elect/26-27/20"
+        "1. INVITATION FOR PRE-TENDER MEET",
+        "2. SUPPLY OF CABLE TRAYS (MT0-05)-LOT-2",
+        "3. ANNUAL MAINTENANCE OF NAVIGATIONAL AIDS AT KADAMATH ISLAND FOR THE YEAR 2026-27"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Handling work for Rampur Kothajagir BPACS at Bilaspur Mandi II",
-        "2. Railway track crossing by pipe pushing method at KM/TP-66/27-29 and KM/TP-66/28-30 betw",
-        "3. 24/W/EUDC/SRE/2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF LIBRARY AT RAHUL NAGAR, BHADRAWATI IN TALUKA BHADRAWATI DIST- CHANDRAPU",
-        "2. CONSTRUCTION OF LIBRARY AT GAUTAM NAGAR, IN TALUKA BHADRAWATI DIST- CHANDRAPUR (MINING ",
-        "3. Making Water Supply Arrangement  At  Talni  Tq Sengaon Dist Hingoli"
+        "1. Repair of various Location Chamber Etc in K.B.P.S  Road and Other Road at Partiksha Nag",
+        "2. Supply of GI and UPVC Pipe etc at Various Location near Railway Track Sanjay Gandhi Nag",
+        "3. Improvment of Passage and Drainage System at Sofa Vala Gully Vijay Nagar Sion Koliwada "
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Gram Salodi mein Amraram ji Brahman Ke Ghar Se Kesaram Sutha ke ghar Tak CC Sadak Ka Ni",
-        "2. Construction of the boundary wall for the Panchayat Bhawan Village Ladpura Gram Panchay",
-        "3. Construction of two rooms at Government Senior Secondary School 10 DWD GP 29 DWD"
+        "1. 02/2026-27/solar lightchocra",
+        "2. kachara sangharan, prathikkaran,nali safai and samudik switchta parish DHAGAWAN",
+        "3. Construction of a room at the Ayurvedic dispensary in Village Melusar"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Vehicles on rental (Daily) basis for 2026-27 as per bill of quantity in Appen",
-        "2. Supply of Furniture Items",
-        "3. 133/GS/BMC/2026"
+        "1. Repairing of Bridges and Culverts of Road Under PWD Sub Division Beohari Division Shahd",
+        "2. Supply of  ALUM GRADE -4 for  WTP vidisha financial year 2026-27",
+        "3. Supply of chlorine gas cylinder with liquid gas 900 kg for  WTP vidisha financial year "
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMC/XIV/129/006/26-27/R",
-        "2. HIRING OF 15 KVE GENERATOR DG SET (SOUND PROOF)",
-        "3. SWM-II/DIST-II/06/2026-27"
+        "1. NIT/BM/00066/Eng/EO/2026-27",
+        "2. NIT/BM/00066/Eng/EO/2026-27",
+        "3. NIT/BM/00066/Eng/EO/2026-27"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Chemicals",
-        "2. leasing of fishery rights of Palar Porandalar   Reservoir in Dindugal district.",
-        "3. Providing paver block at Gandhi Nagar H/O Tajpura Panchayat"
+        "1. Construction Of Cow Shed Building to Arulmigu Mariamman Temple, Samayapuram, Trichy Dis",
+        "2. Painting to the walls,  including painting of doors,  windows, and iron works, at  the ",
+        "3. Electrical works"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for Construction of Head Regulator of New Tarmala Link Channel off taking at R",
-        "2. Rooftop Rainwater Harvesting projects in Schools",
-        "3. Laying UGPL Community Projects distt Sangrur"
+        "1. Sugar Bag Handling 2026-27",
+        "2. Sale of Press Mud",
+        "3. Rate contract for medicine"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of street and P/L of NP-2 Pipe from H/o Rakesh Bhatia to H/o Ravinder in W",
-        "2. OVERHAULING OF ENGINE OF CESSNA 172 R VT-ACN AIRCRAFT ALONG WITH THE MANDATORY SPARES R",
-        "3. Supply of Black Polythene Sheet"
+        "1. New Rasing of Plants in Baroda Nursery of Uchana Block in Narwana Range under Forest Di",
+        "2. ANNUAL MAINTENANCE CONTRACT OF 389 Nos. OF FIRE EXTINGUISHERS LYING WITH HARYANA STATE ",
+        "3. Out source the sweeping work (ZONE-1)"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. supply of Drugs and  Medical Consumables",
-        "2. Construction of Kalyan Mandap at Tangarpali of Tangarpali G.P.",
-        "3. Construction of Additional Structures with Balance work from RD 35000M to 54000M of Bai"
+        "1. Construction of ROB  2 lane with carriage width of 7.5mtr with Railway portion span 1x6",
+        "2. Supply and installation of 90  120 Watt.Street Light Fitting from Employment Office to ",
+        "3. Sadangi to Ankudi_Road_SDBC, Road Furniture_0.000 to 2.280"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Construction of Pcc Road from  NH-2 Tumadaha to Khudiya River(L-1.50 Km",
-        "2. Construction of PCC Road From shankardih Kumardih Road to Kenduatand Anganbadi via Scho",
-        "3. Construction of PCC Road From Main Road Kokrad Karmatand to Lalkhadi Prabhu Hembrams Ho"
+        "1. 03-Construction and Renovation of Project  Plus 2 High School Manladih Tundi, Dhanbad",
+        "2. 02-Construction and Renovation of UPG HS at Kamardih, Dhanbad (Part-2)",
+        "3. Construction work of Indoor Stadium in Curzon Ground Hazaribag"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Execution of sweeping and  cleaning work of the various areas and floors of Larji Power",
-        "2. Carrying out the job of upkeeping and maintenance of departmental store at Uba includin",
-        "3. execution of sweeping andcleaning work of LPHD Store including unloading, unboxing and "
+        "1. AR  MO to WSS Pukhar Nalhar Kumarka in GP Saproth in Tehsil Churah Distt Chamba HP",
+        "2. HPSCSC LPG Jhandutta",
+        "3. Expression of Interest (EOI) for Empanelment of Architect Consultants/ Structural Engin"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Turfing and gravelling at nearby area of 2x40MVA Transformers of 132KV S/s, ELDECO, Sit",
-        "2. Changing of suspension insulator, repairing of conductor and applying bird diverter fro",
-        "3. Tower strengthening from tower No. 22 to tower No. 13 section of 132KV D/C Khatima to P"
+        "1. Annual maintenance work under the year 2025-26 in Badrinath assembly constituency of Ch",
+        "2. Reconstruction and strengthening of the Selwani-Manjgaon- Rajkhil-Kalavan-Tegna motor r",
+        "3. Under A.R. 2025-26 Renewal work by BC in the Km 10, 12, 18 and 20 of Pokhari-Karanpraya"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fde1e899650>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5935541690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Blankets. Mosquito nets, GCI Sheet and utensils to the storm affected fa",
-        "2. Collection of Nikori from Beel Fisheries",
-        "3. Construction of Officers Hostel at Karbi Langpi Middle-II Hydro Power Project, Morinto,"
+        "1. Anti erosion to protect the Rowta river at Niz Rangapani and Khagrabil area.",
+        "2. AE measures to R/B of River Buridehing at Bhogamur Tiniali (Nadi Kinar Gaon).",
+        "3. Shifting and Dismantling of 11KV Feeder No.5 with MVCC at the approach road of AVFCCL, "
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 56/26-27- Maintenance of vettitharappadi Karikkattil Road Ward 8",
-        "2. GENERAL-5462975-2026- AMC - Cutting damaged and low laying cables along various road in",
-        "3. PROJECT NO.272/27-MAKKELPADY ANTHYALANKAVU KUNNELPADI PARACKALPADI ROAD MAINTENANCE IN "
+        "1. Koodathumthazhe microwatershed under the scheme Development of Microwatersheds in Kannu",
+        "2. DEPOSIT-Renovation of Microbiology HOD room in Academic block attached to Govt. Medical",
+        "3. ENERAL-Urgent replacement of damaged UPS batteries -replacement of damaged UPS batterie"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. IMP OF KHUL NLO FAROOQ AHMAD LONE AND OTHERS AT GAGAL",
-        "2. RATE CONTRACT for Conducting Survey Contouring Preparation of detailed DPR and Digital ",
-        "3. Const of filing of Graveyard Syed Mohalla Dragger ward No.7 at Dragger"
+        "1. Repairment and Renovation of building and Boundary wall at HS Raithan",
+        "2. Balance work at CEO Office Budgam",
+        "3. Construction of Drain from Bilal Ahmad Shah to Nazir Ahmad Shah with Protection Bund be"
       ]
     }
   ],
