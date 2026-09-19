@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-19 03:03:10",
+  "checked_at_utc": "2026-09-19 10:17:21",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF CABLE TRAYS (MT0-05)-LOT-2",
-        "2. Tender for supply of Sulphuric Acid in bulk",
-        "3. ANNUAL MAINTENANCE OF NAVIGATIONAL AIDS AT KILTAN,CHETLATH AND BITRA ISLAND FOR THE YEA"
+        "1. IISER-K/EOI/1270/G/DORD/26-27",
+        "2. OPERATION AND MAINTENANCE OF ELECTRICAL AND MECHANICAL ENM INSTALLATIONS AT CCE(RND)SOU",
+        "3. Invitation for Expression of Interest (EOI)   for Selection of Architectural and Engine"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of RTWH system composite school gagoura block kuthond",
-        "2. Construction of  Minor Bridge Over   Dabri River between Saidpur Mustkil and Akat in Bl",
-        "3. Const. of RTWH system composite school goran block dakore"
+        "1. KMS 2026-27 (PADDY) AND RMS 2027-28 (WHEAT) PURCHASE TRANSPORT WORK District Hardoi UPS",
+        "2. Road improvement work by HMP from Yateemkhana to Dada Miyan Crossing in Talaq Mohal und",
+        "3. PADDY PURCHASE 2026-27 AND WHEAT PURCHASE 2027-28 HANDLING WORK IN DISTRICT CHANDAULI"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Improvement of passage and Drainage System at Depot Road Opposite KP Collection Shop a",
-        "2. Supply of GI and UPVC Pipe etc at Various Location near Railway Track Sanjay Gandhi Nag",
-        "3. Improvement of Passage and Drainage System Behind Bldg No 7 in KD Gaikwad Nagar  in Bea"
+        "1. G.P.PARSODI ANNUAL SUPPLY OF ALL CIVIL MATERIALS YEAR 2026-27",
+        "2. 2nd Call for Materials",
+        "3. Replacement of the existing old, Corroded and deteriorated underground G.I. water suppl"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. kachara sangharan, prathikkaran,nali safai and samudik switchta parisheR BRAHAMBAD",
-        "2. kachara sangharan, prathikkaran,nali safai and samudik switchta parisher  BEERAMPURA",
-        "3. Work including door-to-door (residential and commercial) garbage collection and segrega"
+        "1. Additional work of Various repair and Mtc of Circuit house Sri Ganganagar",
+        "2. Construction of Panchayat Learning Centre (Atal Gyan Kendra), Ranjitpura",
+        "3. Construction of Anicut Renovation at Sabla Distt Dungarpur"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY OF LT DISTRIBUTION BOX SUITABLE FOR 315 KVA DTR",
-        "2. Supply of 11 KV and 33 KV Control and Relay Panel",
-        "3. Repair and Maintenance work on Chipadnath Mandir Approach  Road Length 1.00 km Mantola "
+        "1. Construction/beautification work of the park near House No. 660 in Bhukamp Colony under",
+        "2. Construction/beautification work of Narmada Vihar Colony Park under Zone No. 01 Sardar ",
+        "3. Construction/beautification work of the park near Shri Ram Parisar, New Community Hall,"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT/BM/00066/ENG/EO/2026-27 18.09.2026",
-        "2. NIT/BM/00066/Eng/EO/2026-27",
-        "3. NIT/BM/00066/ENG/EO/2026-27 18.09.2026"
+        "1. Expression of Interest for short listing of Catering Service Providers for Running of C",
+        "2. KMC/WS/EE/S/091/2026-27/04/1st Call",
+        "3. KMC/WS/EE/S/MAINS/93/2026-27/1  l"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Painting to the walls,  including painting of doors,  windows, and iron works, at  the ",
-        "2. Construction Of Cow Shed Building to Arulmigu Mariamman Temple, Samayapuram, Trichy Dis",
-        "3. Electrical Work"
+        "1. Palapallam TP 2026-2027 General Fund",
+        "2. Palapallam TP 2026-2027 General Fund",
+        "3. Procurement of Office Waste paper White Records in Bale form from Tamil Nadu on FOR Kag"
       ]
     },
     {
@@ -84,17 +84,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Sugar Bag Handling 2026-27",
-        "2. Sale of Press Mud",
-        "3. Repair and renovation of Dhanka mohalla ward no. 51  Est Cost Rs 8.00 lacs dt 28/29.09."
+        "1. LAYING OF PVC UNDER GROUND PIPE LINE OF 01 NO. TUBWELL AT VILLAGE BAIRAMPUR OF BHUNGA B",
+        "2. LAYING OF PVC UNDER GROUND PIPE LINE OF 01 NO. TUBWELL AT VILLAGE TAGGAR OF BHUNGA BLOC",
+        "3. LAYING OF PVC UNDER GROUND PIPE LINE OF 01 NO. TUBWELL AT VILLAGE DHADE FATEH SINGH OF "
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. TENDER FOR THE CONSUMABLE ITEMS ExaminatiTender for providing the Gynaecology Kit AT BP",
+        "2. TENDER FOR THE CONSUMABLE ITEMS Examination Gloves and othersAT BPS GMC FOR WOMEN KHANP",
+        "3. TENDER FOR THE CONSUMABLE ITEMS NITRILE GLOVES LARGE SIZE AT BPS GMC FOR WOMEN KHANPUR "
+      ]
     },
     {
       "name": "Odisha",
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of ROB  2 lane with carriage width of 7.5mtr with Railway portion span 1x6",
-        "2. RD road to Nishagadia_Road_SDBC, Road Furniture_0.000 to 2.350",
-        "3. Sadangi to Ankudi_Road_SDBC, Road Furniture_0.000 to 2.280"
+        "1. Construction of H.L. bridge over Local Nallah at 7th Km. on PWD road to Kankana road in",
+        "2. Restoration of Damaged infrastructures due to Cyclonic storm",
+        "3. Construction of H.L. bridge over Dandamara Nallah on Pokharia to Bankia road in the Dis"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 03-Construction and Renovation of Project  Plus 2 High School Manladih Tundi, Dhanbad",
-        "2. Construction of Road from Kida tola mandal ji home to Harimandir Ramesh Mahatos home.",
-        "3. Renovation and Augmentation work of Old IPD Block at RIMS, Ranchi"
+        "1. Construction of a 50 ft bathing ghat at Hirkataand Baniyabandh under Baghmara Block (2)",
+        "2. construction of boundary wall for open bhukhand near mig b-13 to mig b-23 in hirapur dh",
+        "3. Construction of mini water supply scheme with HYDT, Steel structure, 1.0 HP DC Solar Mo"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AR  MO to WSS Pukhar Nalhar Kumarka in GP Saproth in Tehsil Churah Distt Chamba HP",
-        "2. C/o Electrical installation work of packing grading shed at Takarla, Distt Una, H.P.",
-        "3. C/o renovation of office and rest house at RM Yard Bilaspur, Distt. Bilaspur, H.P."
+        "1. R/R damages on vaid ka Johar to Village Sarour km 0/0 to 1/500 (SH C/O 900 mm dia hume ",
+        "2. Transportation",
+        "3. R/O rain damages on Bagheri Tandi Kotla Kundlu road in km 0/0 to 7/300 (SH C/O B/wall a"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Reconstruction and strengthening of the Selwani-Manjgaon- Rajkhil-Kalavan-Tegna motor r",
-        "2. Annual maintenance work under the year 2025-26 in Badrinath assembly constituency of Ch",
-        "3. Under A.R. 2025-26 Renewal work by BC in the Km 10, 12, 18 and 20 of Pokhari-Karanpraya"
+        "1. Kuda Vaahan Uplabdh Krane Ke Sambandh mein",
+        "2. Reconstruction and Improvment of Jakhot kotiya Musoli Link  Road",
+        "3. 71/EDCRDDUN/2026-27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4d91da1c50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f45a7c3a250>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Anti erosion to protect the Rowta river at Niz Rangapani and Khagrabil area.",
-        "2. AE measures to R/B of River Buridehing at Bhogamur Tiniali (Nadi Kinar Gaon).",
-        "3. Shifting and Dismantling of 11KV Feeder No.5 with MVCC at the approach road of AVFCCL, "
+        "1. Construction of ICBP road from Narayanpur to Bhagpur village via Mainawgudi LP School u",
+        "2. Construction of ICBP road (3 Mtr Wide) from Bhaoraguri link road to Dobhai village link",
+        "3. Construction of CC Block from PWD road to Jahan Uddin house at Guwabari village (Activi"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Koodathumthazhe microwatershed under the scheme Development of Microwatersheds in Kannu",
-        "2. DEPOSIT-Renovation of Microbiology HOD room in Academic block attached to Govt. Medical",
-        "3. ENERAL-Urgent replacement of damaged UPS batteries -replacement of damaged UPS batterie"
+        "1. GENERAL-Investigation work for Junction improvement at Puthuvely-Investigation work for",
+        "2. SUPPLY INSTALLATION  TESTING AND COMMISSIONING OF 10 METER MINI MAST WITH 06 NOS OF 150",
+        "3. LAC-ADS-Kannur LAC- Supply Installation and Commissioning of On Grid Solar Power Plant "
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Protection Bund with fencing of graveyard at Rawalpora",
-        "2. C/O PBUND OPPOSITE TO PANCHAYAT GHER NEAR CHINNAR MASJID DELINA ,DELINA B ,PANCHAYAT DE",
-        "3. C/O FENCING OF OLD GRAVEYARD NEAR GUL DAR AND C/O TILE PATH MASJID UMAR BIN KHATAB DELI"
+        "1. Construction of Children Park Nr. H/o Mumtaz Ahmed and Others W.No 09 Passan Pyt.  Tant",
+        "2. Construction of Tile Work froam Main Road to H/o Bashir Ahmed Terwa Kallar Pyt.  Arigam",
+        "3. Construction of Drain at Makhuwala Nr. H/o Irshad Ahmed Parray Pyt.  Arigam  Block Lora"
       ]
     }
   ],
