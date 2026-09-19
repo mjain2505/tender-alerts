@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-19 15:21:09",
+  "checked_at_utc": "2026-09-19 20:01:56",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,15 +9,19 @@
       "sample_titles": [
         "1. Maintenance of Various Sports Complexes.",
         "2. CARRYING OUT SUPPLY AND APPLICATION OF VARIOUS TYPES OF INSULATION AS PER STANDARD SPEC",
-        "3. Electrical maintenance work of swimming pool"
+        "3. SITC of 19 street light and 01 Nos post top lantern at various locations inside Hall 3 "
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1.  Karyashala yantriki vibhag mein vibhinn prakar ke vahan jaise tata ACE magic tata yodw",
+        "2. Reconstruction Work of the Damage Culvert at Mahua Kheda to G.T. Road Gurushikran Road ",
+        "3. Hot mix plant through patch work from awas vikas mohalla ambedra puram madhuwan sweet h"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Passage and Drainage System at Akhatar Ali House S P Road Sangam Nagar A",
-        "2. Improvement of passage and drainage system at sangam nagar dr neelu pandey  Chawl in be",
-        "3.  Repair to Footpath from Pole No DAC 27 to Shree Siddhart Super Market  in beat no. 180"
+        "1.  Repair to Footpath from Pole No DAC 27 to Shree Siddhart Super Market  in beat no. 180",
+        "2. Improvement of Passage and Drainage System at Seva Samiti Sangam nagar Antop hill Wadal",
+        "3. Improvment of Passage and Drainage System at Near Amrush House Vijay Nagar Sion Koliwad"
       ]
     },
     {
@@ -36,28 +40,28 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work including door-to-door (residential and commercial) garbage collection and segrega",
-        "2. CIVIL REPAIR WORK IN QTR NO F-421 UNDER SUB DN GANDHI NAGAR II JAIPUR (SANCTION WORK)",
-        "3. Development work of Shamshan Ghat At Pajantori"
+        "1. Civil repair work in Qtr No G-770 Section III Under Sub Dn Gandhi Nagar I, Jaipur  (San",
+        "2. Construction work of 1 class room in Govt. Higher Secondary School Netawato ka Guda, Gr",
+        "3. 02-boundry wall evam mitti bhart nirman karya govt. sr. sec. school pura madari"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Baricading work for the fairs held at Ratangarh Mata Temple during Navdurga and on the ",
+        "2. Whitewashing and painting work in non-residential buildings under the Bhander Sub-divis",
+        "3. Construction of approach roads and ramps, and leveling work for vehicle parking for the"
+      ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. KMC/EEC/BrIV/027/PIT-2/26-27/R",
-        "2. KMC/EEC/BrIV/025/59/26-27/UTT",
-        "3. KMC/EE(C)/Br-IV/023/E7/26-27/R"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -65,8 +69,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OT 5/26-27",
-        "2. Special repairs to Tiruvaranganerikulam, Palankulam and Arumuganeri supply channel in s",
+        "1. Special repairs to Tiruvaranganerikulam, Palankulam and Arumuganeri supply channel in s",
+        "2. OT 5/26-27",
         "3. ORDINARY REPAIRS CUDDALORE SUB DIVISION"
       ]
     },
@@ -76,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for reconstruction of Head Regulator of Haripur Sub Minor cum Cross Regulator ",
-        "2. Hiring a Innova Crysta Car for Chief Engineer (South) Pb. W/S and Sewerage Board Bathin",
-        "3. Estimate for Construction of Cross cum Head Regulator and Bridge at RD 11800 of Akash d"
+        "1. Hiring a Innova Crysta Car for Chief Engineer (South) Pb. W/S and Sewerage Board Bathin",
+        "2. Estimate for reconstruction of Head Regulator of Haripur Sub Minor cum Cross Regulator ",
+        "3. Estimate for CC lining of Akash Disty from RD 20000-28400 including other allied works."
       ]
     },
     {
@@ -98,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Main Gate at CT and GST office Building, Jharsuguda for the year 2026-2",
-        "2. L039-RD road to Paitabori_Road_PMC Seal Coat_3.500 to 3.850",
-        "3. Somanathapur to Tavagorada _Road_PMC and SC Coat _0.620 to 0.970"
+        "1. S/R to Govt. ITI, Jharsuguda such as construction of Cycle Stand, DG shed and repair an",
+        "2. N.B. Road to Gadatorihan_Road_Paver Block_2.090 to 2.190",
+        "3. Construction of Main Gate at CT and GST office Building, Jharsuguda for the year 2026-2"
       ]
     },
     {
@@ -122,7 +126,7 @@
       "sample_titles": [
         "1. Restoration of Rain damages on various locations under Shimla Urban Division. SH C.O pr",
         "2. Restoration to various residential qtrs. under Brock Hurst Shimla SH Construction of re",
-        "3. Restoration of Rain damages on Balh to Ropa road Km 0/00 to 5/100 (PDNA-2023)"
+        "3. Restoration of Rain damages on Sakrog to Tikker road km 0/00 to 3/720 (PDNA-2023)"
       ]
     },
     {
@@ -132,15 +136,15 @@
       "status": "ok",
       "sample_titles": [
         "1. P.C. work on Palsari-Bamiyala motor road (length 2.14 Km). Under Annual repair (renewal",
-        "2. Reconstruction work on the building of Government Primary School, Mahad, in Bhilangana ",
-        "3. RENOVATION/REJUVENATION AND APPURTENANT WORKS AT UCF HALDUCHAUR (ENTRANCE GATE TO BUILD"
+        "2. Construction of the Government Primary School building at Sirola in Kirtinagar Block (P",
+        "3. Reconstruction work of the Government Primary School building at Sondhar, Jakhanidhar B"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efd8ced9c90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f169aa9ae10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -151,7 +155,7 @@
       "sample_titles": [
         "1. Anti erosion measures to protect Golakganj Town and its adjoining areas from the erosio",
         "2. Anti Erosion measures to protect Singimari Habi area  from the erosion on the R/B of ri",
-        "3. Construction of Buildingless Sub Health Centre in Pachim Baghmara SC in Barpeta Distric"
+        "3. Construction of BPHU at Kharsimalu MPHC in Biswanath District under PM ABHIM  for the F"
       ]
     },
     {
@@ -160,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-NLY GP 2026-27 PROJECT NO 1 4 7 P U L I Y A N A M K U N N U R O A D CONCRET",
-        "2. GENERAL KyIP CADA 2026 27 Rennovation and Modernisation of vellarakkad distributary can",
-        "3. Annual Plan-NLY GP 2026-27 PROJECT NO 1 0 1 A R E E K K A L P A D I V A R Y A R A M B A"
+        "1. Annual Plan-NLY GP 2026-27 PROJECT NO 114 PARAKKAL ROAD CONCRETE",
+        "2. Annual Plan-NLY GP 2026-27 PROJECT NO 112 CHERUVASERRY AMBALAM ROAD CONCRETE",
+        "3. Annual Plan-NLY GP 2026-27 PROJECT NO 1 4 7 P U L I Y A N A M K U N N U R O A D CONCRET"
       ]
     },
     {
@@ -171,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/o p bund with fencing of sheikh mohalla graveyard ward no 11 at rathsun B",
-        "2. C/o P/Bund near L/o Mohd Maqbool and H/o Bashir Ah Tali with Drain from H/o Mohd Ramzan",
-        "3. C/O P BUND WITH TILE PATH FROM H/O GH RASOOL DAR TO BATHROOM OF PUBLIC SCHOOL BUNDGAM"
+        "1. Development of Spring and construction of tile path near Ahlihadees Masjid Sharief at P",
+        "2. Construction of tile path from Masjid Sharief to Graveyard at Dalwan",
+        "3. Construction of Tile Path Around Astan At Malpora"
       ]
     }
   ],
