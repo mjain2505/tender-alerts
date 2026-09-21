@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-20 22:58:13",
+  "checked_at_utc": "2026-09-21 03:13:57",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,8 +18,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LOT3",
-        "2. LOT2",
+        "1. LOT2",
+        "2. LOT5",
         "3. LOT1"
       ]
     },
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvment of Passage and Drainage System at Near Amrush House Vijay Nagar Sion Koliwad",
-        "2. Improvement of Passage and Drainage System at Akhatar Ali House S P Road Sangam Nagar A",
-        "3. Improvement of passage and drainage system at Shiv shankar nagar Prashant patil chawl i"
+        "1. Improvement of passage and drainage system at Shiv shankar nagar Prashant patil chawl i",
+        "2. Improvment of Passage and Drainage System at Near Amrush House Vijay Nagar Sion Koliwad",
+        "3. Improvement of Passage and Drainage System at Akhatar Ali House S P Road Sangam Nagar A"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Kachra sangrahan Kendra Nirman karya Gram Panchayat jatvada Kalan",
-        "2. Gups Sanskrit dunda mein apuran chardiwari ko purn karana work",
-        "3. CONSTRUCTION WORK OF BLOCK STATICS SALUMBER"
+        "1. Gups Sanskrit dunda mein apuran chardiwari ko purn karana work",
+        "2. Kachra sangrahan Kendra Nirman karya Gram Panchayat jatvada Kalan",
+        "3. REPAIR AND MAINTENANCE WORK AT SUB TRESAURY LASADIYA"
       ]
     },
     {
@@ -52,8 +52,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Baricading work for the fairs held at Ratangarh Mata Temple during Navdurga and on the ",
-        "2. Construction of approach roads and ramps, and leveling work for vehicle parking for the",
-        "3. Whitewashing and painting work in non-residential buildings under the Bhander Sub-divis"
+        "2. Whitewashing and painting work in non-residential buildings under the Bhander Sub-divis",
+        "3. Construction of approach roads and ramps, and leveling work for vehicle parking for the"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "sample_titles": [
         "1. KMC/EE(C)/Br-IV/023/E8/26-27/R",
         "2. KMC/EEC/BrIV/027/PIT-2/26-27/R",
-        "3. KMC/EE(C)/Br-IV/023/E7/26-27/R"
+        "3. KMC/EEC/BrIV/025/59/26-27/UTT"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OT 5/26-27",
+        "1. Special repairs to Tiruvaranganerikulam, Palankulam and Arumuganeri supply channel in s",
         "2. ORDINARY REPAIRS CUDDALORE SUB DIVISION",
-        "3. Special repairs to Tiruvaranganerikulam, Palankulam and Arumuganeri supply channel in s"
+        "3. OT 5/26-27"
       ]
     },
     {
@@ -85,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Hiring a Innova Crysta Car for Chief Engineer (South) Pb. W/S and Sewerage Board Bathin",
-        "2. Estimate for CC lining of Akash Disty from RD 20000-28400 including other allied works.",
-        "3. Estimate for reconstruction of Head Regulator of Haripur Sub Minor cum Cross Regulator "
+        "2. Estimate for reconstruction of Head Regulator of Haripur Sub Minor cum Cross Regulator ",
+        "3. Estimate for CC lining of Akash Disty from RD 20000-28400 including other allied works."
       ]
     },
     {
@@ -106,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Revitalization of the TISCO Ponds at Rourkela",
+        "1. Astaranga to Naiguan - Gopalapur_Road_ PMC, Seal Coat_2.100 to 2.450",
         "2. M.D road to Davar_Road_PMC, Seal Coat_ 0.000 to 0.350",
-        "3. Astaranga to Naiguan - Gopalapur_Road_ PMC, Seal Coat_2.100 to 2.450"
+        "3. Construction of Main Gate at CT and GST office Building, Jharsuguda for the year 2026-2"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "sample_titles": [
         "1. Repair and renovation to various non residential buildings under Urban Division Shimla.",
         "2. Restoration of rain damages on various locations under Shimla Urban Division SH Providi",
-        "3. Repair  Renovation of Various residential buildings under Division no.III, Shimla SH Re"
+        "3. Repair renovation to various non Residential Buildings under Division No III Shimla . S"
       ]
     },
     {
@@ -140,15 +140,15 @@
       "status": "ok",
       "sample_titles": [
         "1. P.C. work on Palsari-Bamiyala motor road (length 2.14 Km). Under Annual repair (renewal",
-        "2. Hiring of diesel operated jeep alongwith driver for Chief Engineer (Project), UPCL, Gai",
-        "3. Reconstruction work of the Government Primary School building at Pakh in Bhilangana Blo"
+        "2. Reconstruction work of the Government Primary School building at Tuniyar, Block Jakhani",
+        "3. Construction of the Government Primary School building at Sirola in Kirtinagar Block (P"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f2dd8fa27d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5abb88e590>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL KyIP CADA 2026 27 Rennovation and Modernisation of vellarakkad distributary can",
-        "2. Annual Plan-NLY GP 2026-27 PROJECT NO 106 AMBILIPPADI KULKUNNIKULAM ROAD CONCRETE",
-        "3. Annual Plan-NLY GP 2026-27 PROJECT NO 114 PARAKKAL ROAD CONCRETE"
+        "1. Annual Plan-NLY GP 2026-27 PROJECT NO 136 IRUMBALASERRY MILLUMPADI ROAD CONCRETE",
+        "2. Annual Plan-NLY GP 2026-27 PROJECT NO 114 PARAKKAL ROAD CONCRETE",
+        "3. Annual Plan-NLY GP 2026-27 PROJECT NO 128 KIZHAKKETHILPADI PAINGULLY ROAD CONCRETE"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of retaining wall on Maqbara near Salfia School at Arath",
-        "2. Construction of 2 No roads from main road to house of Ab Rashid sheikh and from main ro",
-        "3. Development of Graveyard by way of fencing along with retaining wall at arath near jami"
+        "1. Construction of drain of barmugh dara from land of Gh Mohd Mir, Ajaz Ahmad Mir, Zahid A",
+        "2. Construction of Retaining Wall/Drain near land of Gh Qadir Ganie, Rashid Parray and hou",
+        "3. Construction of Latrine Point near Ziyarat Sharief at Arampora"
       ]
     }
   ],
