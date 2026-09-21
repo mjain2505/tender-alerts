@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-21 11:57:48",
+  "checked_at_utc": "2026-09-21 17:57:14",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of QUV Accelerated Weathering Tester",
-        "2. White washing and painting of GH 1 and hall-4 room painting ( As per pingala complain )",
-        "3. E-Tender for Dry-Dock repair of CSD Mahananda at Kolkata/Howrah (NW-1) for the year 202"
+        "1. Development of a Solar Power Plant at GLR Sy No. 103, Babina Cantt which shall be capab",
+        "2. Day to day civil maintenance works of pocket-1B, Sector A1 to A4, Narela.",
+        "3. Filtering dehydration and refilling of transformer oil in transformer installed in Sub-"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SELECTION OF AN EVENT MANAGEMENT AGENCY (EMA) FOR THE CONCEPTUALIZATION, EXECUTION AND ",
-        "2. NIRMAN WORK",
-        "3. Construction of Ruined Building and Toilet Block for Kasturba Gandhi Vidyalaya Sakaran "
+        "1. BHAIRONATH CHOURAHA SE HOTE HUE MAHAMRITYUNJAY MAHADEV MANDIR TAK EVAM VIRESHWAR MAHADE",
+        "2. RECONSTRUCTION/BEAUTIFICATION WORK OF BHIMABAI AMBEDKAR PARK LOCATED IN PRATAP VIHAR SC",
+        "3. Work to commission an 800 kVA transformer at the Malviya Nagar Sewer Pumping Station, i"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Shastrinagar Chowk yethe navyane tayar honarya Uddanpul Grade Separator chya kamamadhe ",
-        "2. GPY/FFC/ET/02/2026-27",
-        "3. 25/26 construction of toilet block At Shri Gurudev Sewashram Vithhal mandir Mohgaon Dho"
+        "1. C/O Of New Girls Toilet In Z.P. School At Village Puskoti",
+        "2. Improvement of Drainage  line and Passage at Suthari Chawl Old Khar  Market  in Beat No",
+        "3. 1.Construction of Gutter From Ayodhya Building to Bhagat Doctor House Bhavani Mal In Wa"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SISI SADAK NIRMAN NAIYO KA MOHHLA ME DOVAD  GRAM PANCHAYAT KANADEV KA GUDA",
-        "2. Door to Door residential or community Garbedge collection, street and drain cleaning an",
-        "3. Door to Door residential or community Garbedge collection, street and drain cleaning an"
+        "1. Aanganbadi kinder ward no 5 me jalkund shouchaaly av Pyau Nirman kariya chani",
+        "2. 05- CC Road nirman kary lalpura main road se bhanji koya ke ghr tak lalpura bhatbhamriy",
+        "3. Construction of boundary wall length 2000 Rmt. And height 0.45 Mtr. for base of chainli"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Color Washing White Distempering Emulsion Putty and Painting Work in  G Type Quarter PW",
-        "2. Construction Work of Line Quarter Range Office Tapti Campus, Betul (M.P.)",
-        "3. Construction of building"
+        "1. INVITING RATE FOR PROCUREMENT OF HANDPUMP SAMAGRI FINANCIAL YEAR 2026-27  NAGAR PARISHA",
+        "2. AR/SR Deposit work of govt.  Residencial buildings under sub division Kukshi",
+        "3. INVITING RATE FOR SANITARY MATERIAL  SUPPLY FOR  FINANCIAL YEAR 2026-27  NAGAR PARISHAD"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. WBMAD/ULB/KNJ/04(2nd Call)/ROAD/26-27",
-        "2. NIeT-03-SL No 02",
-        "3. NIeT-03-SL No 01"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NCTPS  I  ES Circle  EM II Division  S Dn  I  Unit I  Overhauling of ID Fan motor  1A S",
-        "2. Providing Chairman Board room at the 1st Floor of TNMSC Head Office Building",
-        "3. Dindigul EDC - Hiring of one no.Diesel /Petrol driven Van/Jeep such as TATA SUMO,BOLERO"
+        "1. Construction of MLA Office Building with amenities including E-Seva Centre, Visitors wa",
+        "2. Special Repairs to Internal and External Elecrification,1No.Split AC Unit and 1No.UPS i",
+        "3. Vanur/Pulichapallam"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Various street at ward no 2,3 and 5 at Municipal Council, Jandiala Guru",
-        "2. Hiring of One Vehicle AC on regular basis for Sangur Barnala PWRMDC Division Barnala re",
-        "3. Hiring of One Vehicle AC on regular basis for Sangur  Barnala PWRMDC Division Barnala P"
+        "1. Supply of Safai Sewak for NP Kiratpur Sahib",
+        "2. Extension of SHB at 66 Kv S/Stn Mukerian under Hoshiarpur Circle",
+        "3. Construction of Community Hall near Sewa Samiti Dhuri, Distt. Sangrur"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Job No.1351/2026 (HEW)     Work Construction Construct...",
-        "2. ANNUAL MAINTENANCE OF LANDSCAPING WORK OF HARYANA HOUSING COMPLEX SHALIMAR BAGH NEW DEL",
-        "3. DNIT for O and M Repair of ..."
+        "1. Tatka - Estimate for provi...",
+        "2. Gadli - Estimate for provi...",
+        "3. Samalkha - Estimate for pr..."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of Administrative Bldg. at OUAT, Bhubaneswar, Khurda",
-        "2. Const. of 6 Nos. F type Qtr. At Gumuda FS, Rayagada",
-        "3. Construction of Approach Road from Saptyasajya Road to M/s Kalyani Steel Limited at Gaj"
+        "1. Construction of Gandharibhuin Chhak to Darju road in the District of Kandhamal under MM",
+        "2. Construction of RD road to Tarkaro road in the District of Kandhamal under MMSY for the",
+        "3. Construction of PWD road to Sesakera road in the District of Kandhamal under MMSY for t"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 09-Renovation and New Construction Works for High School (H.S.) Bhuli Nagar, Dhanbad (P",
-        "2. GROUP-01, CONSTRUCTION OF MULTIPURPOSE COMMUNITY CENTRE UNDER, JHMDI BLOCK SISAI",
-        "3. GROUP-01, CONSTRUCTION OF HEALTH SUB CENTER BUILDING, AT- PAHAN TOLI, PANCHAYAT- BAGHIM"
+        "1. The District Sports cum District Tourism Officer, Latehar, invites Request for Proposal",
+        "2. Supply of THR TKR and Biopolar Implants with supporting instruments",
+        "3. Request for proposal (RFP)For Selection of agency for rate contract of supply, installa"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages of LWSS Gagal, Simas, Kalehroo, Bhager in Tehsil Lad Bharol",
-        "2. Restoration of damages on Indoa to Indpur via Thath road Km. 0.00 to 5.500",
-        "3. PED/NIT/ 85 /2026-27"
+        "1. Restoration of rain damages to various WSS Flow Irrigation Scheme under Jal Shakti Sub ",
+        "2.  Restoration of rain damages of WSS Ropa Padhar in Tehsil Joginder Nagar Distt Mandi",
+        "3. Restoration of rain damages  of WSS Upper Guma in Tehsil Joginder Nagar Distt Mandi"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Plastic Kilta",
-        "2. As per the announcement number 639/2024 of Honble Chief Minister, beautification work o",
-        "3. Electrification work at Tea Garden Experience Champawat under Swadesh Darshan 2.0."
+        "1. MEDICINE",
+        "2. SURGICAL ITEMS GMC RUDRAPUR",
+        "3. Providing a Diesel Operated Jeep Mahindra Bolero Equivalent vehicle model not before 20"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efd23571510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9f730fe890>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,8 +153,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Temporary Design and Decoration of  both interior and exterior of Assam  Pavilion inclu",
-        "2. No.KDB/15th FC(UT)-01 of 2026-27",
+        "1. APPOINTMENT OF 20 NOS OF DEDICATED TANKERS",
+        "2. Temporary Design and Decoration of  both interior and exterior of Assam  Pavilion inclu",
         "3. PRINTING AND SUPPLY OF BLANK ANSWER SCRIPTS AND ADDITIONAL SHEETS"
       ]
     },
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 147/27-Renovation of Valluvambram Ippuzhi road in Pookkottur GP Ward 22",
-        "2. 112/27-RENOVATION OF THIYYATH COLONY NELLIKKAT PARAMB ROAD",
-        "3. 391/27-Koompara road renovation in Pookkottur GP Ward 14"
+        "1. SUPPLY OF 10,000 MT HIGH GRADE SWEETENER LIMESTONE TO MALABAR CEMENTS LIMITED, ON FOR W",
+        "2. Anjoottinaalu-Perinjayil road maintenance in ward no 7",
+        "3. Petty Ward-55-Patch works at various roads in Pallikkunnu Zonal"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Tile path/lane from house of Gh Nabi Mir to House of Nazir ahmad Rather",
-        "2. Renovation of Control Room of Receiving Station Sangam by way of Construction and Exten",
-        "3. Repair/Renovation of PMGSY Office Sub-Division Tehsil Surankote District Poonch. (Under"
+        "1. Construction of lane from Main Road to Naseer Ahmad Bhat and from Main Road to house of",
+        "2. Construction of protection bund from mohd maqbool wani to Abdul waheed wani  others at ",
+        "3. Construction of Drain from house of Aalim Imtiaz Banday to house of Mohammad Siraj Para"
       ]
     }
   ],
