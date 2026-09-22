@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-22 10:57:21",
+  "checked_at_utc": "2026-09-22 16:15:54",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and Replacement with wall panels and floor Tiling D o Medicine JNMCH",
-        "2. Raising of Existing boundary wall by 03 feet with P F concertina coil fencing near Abad",
-        "3. construction of 1670 MT capacity godown on Food Corporation of India land on Build Fina"
+        "1. Rectification of Acoustic treatment at Auditorium of DSCT",
+        "2. Repair and Non- Comprehensive AMC of Motorized Sliding                                 ",
+        "3. Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ward 13 Construction of cc road and drain from house of munilal to rakesh sharma",
-        "2. Construction of Guard Room and Mid Day Meal Shed at Composite School, Akholi, Bisalpur,",
-        "3. supply/installation of 6X200 watt high mast lights on 27 nos. 09.00 meter poles at vari"
+        "1. Janpad Barabanki me Jiladhikari Awas ke nikat rikat rajaswa bhumi par type 04 ke 06 nag",
+        "2. Construction of Yatri shed  At Ghanta ghar Chauraha Kanpur Nagar",
+        "3. Construction of Security wall  Security Gate Security Hut and Approach Road and other C"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Est no 121020 2026 27 Providing Solar on grid system and 500 LPH RO Plant at Rural  Hos",
-        "2. Est No 121021 2026 27  Providing Replacement of Existing Solar On Grid System of  Distr",
-        "3. EST NO 111021 2026 27  Providing 15 passanger Hospital  Lift to Sub District Hospital  "
+        "1. 1 Maintenance of Drain and cleaning 2 C/o Undra Ground Pipe Drainage 3 C/o Undra Ground",
+        "2.  Improvement Drainage line  and Passage at Shaan Mobile Ambedkar  Road in Beat No. 100 ",
+        "3. Hiring and arrangement of swagat Mandap watch tower and other relevant necessary things"
       ]
     },
     {
@@ -40,32 +40,24 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Requirement of HT flange slotted Nut (2 3/4 inch -8UN) of HP inlet (L and R) flange of ",
-        "2. INTERLOCK SHAM BHUMI/N04/66",
-        "3. Work on the drainage of wastewater and rainwater in Gram Panchayat Shergarh."
+        "1. C C ROAD Nirman kary main road school se Sahabsingh ke ghar ki or hathodi",
+        "2. SAMUDAYIK BHAWAN NIRMAN KARYA GHATWASAN MATA MANDIR KE PASS PATAN",
+        "3. work GRAM PANCHAYAT kucheel"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SCORPIO   N  MODEL OR EQUIVALENT VEHICLE  FOR INSPECTION OF GOVT. WORK TO EXECUTIVE ENG",
-        "2. CONSTRUCTION OF A GATE AT OKHLESHWAR CREMATION GROUND IN WARD NO. 02.",
-        "3. BEAUTIFICATION OF PARK AT WARD NO 12 COMMISSIONER COLONY MUNICIPAL COUNCIL NARMADAPURAM"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. SCMF/MD/ENG/NIT-04/R1/2026-27",
-        "2. SCMF/MD/ENG/NIT-05/R1/2026-27",
-        "3. 70 GSM , 57 CM, CONQUEST PAPER"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://wbtenders.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FOOD PRODUCT",
-        "2. Supply of Diet",
-        "3. Supply of Earth Pipe GI 40mm Dia 3Mtr Length"
+        "1. Auction for Shopping Complex Shops at Market in Madukkarai Municipality",
+        "2. NCTPS I SE M II Circle AHP Dn Unit I 2026 27 O H BAH Dismantling the existing worn out ",
+        "3. MTPS I BM Unit I to IV Boiler Pressure Parts Safety Valve floating during AOH COH 2026"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Laying Interlocking Tiles on Parking area at Kotkapura Jaitu Road Kotkapura District Fa",
-        "2. 66KV line for 66KV SStn Mathi",
-        "3. SPECIAL REPAIR OF OFFICE BUILDING OF GENERAL MANAGER INDUSTRIES CENTRE BATHINDA"
+        "1. Estimate for Clearance of Internal Section weed jala deeela jungle butti sarkanda dhora",
+        "2. Estimate for Clearance of Internal Section weed jala deeela jungle butti sarkanda dhora",
+        "3. Estimate for clearance of (weed, jalla, deela,sarkanda,jungle butti,dhorra,silts cleara"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation on kashyap dharmshala in w.no.6",
-        "2. Completion of community center ward no 2 MC Rajound",
-        "3. Gray water management under..."
+        "1. Creation of 132 kV and 66 k...",
+        "2. Replacement of existing con...",
+        "3. Replacement of existing con..."
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. S/R to R.I.Office at Shyamsundarpur for the year 2026-27_building",
-        "2. S/R to Sub-Register Office at Tihidi for the year 2026-27_building",
-        "3. Providing arrangement for Short Stay of Habishyalis during the month of Kartika under H"
+        "1. Construction of 2 Nos E-Type Quarter Building at Jagdalpur PHC(N) of Muniguda Block in ",
+        "2. Construction of 2 Nos E-Type Quarter Building at Majhiguda PHC(N) of Rayagada  Block in",
+        "3. Const. of two Nos. of Class rooms, four smart class rooms, one community toilet for Boy"
       ]
     },
     {
@@ -117,8 +109,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of PCC Road Jeetpur Nunukdih Overman Colony Babubasa and its connecting Dr",
-        "2. Construction of P.C.C.  Road  in  Near Simaldih law College More and different lcation ",
+        "1. Construction of P.C.C.  Road  in  Near Simaldih law College More and different lcation ",
+        "2. Construction of PCC Road Jeetpur Nunukdih Overman Colony Babubasa and its connecting Dr",
         "3. Construction of PCC Road from Bharat Mata Chowk to New Mines Railway Fatak in ward no. "
       ]
     },
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of Rain Damage on Dunali to Brehi road km 0/0 to 6/00 (under PDNA 2025) (SH",
-        "2. EXPRESSION OF INTEREST EOI  FOR CONTRACT MANUFACTURING OF FRUIT-BASED BEVERAGES IN ASEP",
-        "3. A/R and M/O WSS Rehlu Rait Nerti in Tehsil Shahpur Distt. Kangra HP"
+        "1. Restoration of Rain damages to WSS Loa Bara in GP Darwin Tehsil and distt Chamba SH C/o",
+        "2. Development of civil and Electrical charging infrastructure for operation of Electric b",
+        "3. Restoration of Rain damages to WSS Bandla in GP Fagri Tehsil and distt Chamba Under PDN"
       ]
     },
     {
@@ -139,16 +131,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender No. T-04/EE(TandC)D/RSH/Tender (2026-27)",
-        "2. SUPPLY LT XLPE Al. Cable 1x70Sq.mm 25Km",
-        "3. 07/EE(E M)/ICHARI/2026-27"
+        "1. Damreekaran Work from Nikhil Haldar culvert towards Gopal Mandal house under the Distri",
+        "2. Construction of road from km 2 of Devkali link road to canal Patri towards residences o",
+        "3. Reconstruction of road from Bailakheda to Pahsaini in Nanakmatta constituency of Udham "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fab1aeadb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff5597e6090>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +149,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of road from Nihanglangso to Rongsamphri link road under Special Grant to ",
-        "2. Construction of cement concrete road from 1st gate from Ch.90 m to Ch. 180.00m at Cance",
-        "3. Construction of road with ICBP at Rongcheklam under Special Grant to KAAC for the year "
+        "1. Construction of Retaining wall at Taralangso Dikreng under Special Grant to KAAC for th",
+        "2. Painting of concrete wall, kerb stone etc inside periphery of Cancer hospital under Spe",
+        "3. ACCF/Nursing College /26-27/138"
       ]
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC Of 8 Mtr Minimast with 4 Nos of 150W LED Flood Lights in Panipra junction ,ward 9,",
-        "2. Annual Plan-26-27 - Koduvally Block Panchayat Office Renovation Pr. No.136-27-  Koduval",
-        "3. Fisheries - Fisheries Complex Pannivelichira - Infrastructure development of GIFT hatch"
+        "1. GENERAL KyIP CADA 2026 27 Renovation and modernisation works at Kuttipuram FB between C",
+        "2. Annual Plan-2026-2027 PROJECT No-525-CONSTRUCTION OF CULVERT AT OSSARAKUNDU ROAD IN WAR",
+        "3. GENERAL KyIPACP Plan 2026 27Rectification of Mokavoor Sub Dty  in b/w  Ch 0/500 km to C"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. BATHROOM NHO ABDUL HAFIZ W NO 7 PYT LOORKOTE",
-        "2. CONSTRUCTION OF PROTECTION WALL AND PLATEFORM OF TALAB (CHAPAD) NEAR TEMPLE AT GULABA C",
-        "3. C/O DRAIN OPPOSITE SIDE OF JAMIA MASJID SHARIF CHRINGPORA UPTO DRAINAGE CUT"
+        "1. Macadamization of Asso Chachal road Km.1st to 3rd (Under City and Town) (Capex Budget 2",
+        "2. Construction of road from Km 1st of Approach road Dowain bridge to Kathyala Ziarat via ",
+        "3. Construction of grill fencing of  Graveyard opp Syed Masjid at  Saderbal"
       ]
     }
   ],
