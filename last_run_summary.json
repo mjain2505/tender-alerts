@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-09-23 16:05:03",
+  "checked_at_utc": "2026-09-23 21:03:56",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Renovation Up Gradation PCVR (Old pattern) in BOP Petrapole of 05 Bn (Now 172) BSF unde",
+        "2. M/o Completed Scheme under Nazul Account-II, Horticulture Zone.",
+        "3. Water proofing treatment of Roof at primary school of 172 Bn    BSF Kalyani campus unde"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Passage and Drainage System at Shama Manjil Scout camp road Kadam nagar ",
-        "2. To lease out the vacant shop premises in various markets owned by Kolhapur Municipal Co",
-        "3. Tender For Supply Installation Testing and Commissioning of Studio Items at Bhonsala Mi"
+        "1. Tender For Supply Installation Testing and Commissioning of Studio Items at Bhonsala Mi",
+        "2. Construction of Administrative Building for Regional Forensic Science Laboratory, Nashi",
+        "3. To lease out the vacant shop premises in various markets owned by Kolhapur Municipal Co"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIT 358 Swachhata hetu Bheru Singh ke makan se Hanuman Mandir tak interlocking may nali",
-        "2. SBM  GRAM PANCHAYAT KHATOLI",
-        "3. Samudayik Bhavan (Community Hall) nirman karya Roopnarayan mandir ke paas sevantry"
+        "1. Regulation of Branch, Ditributry,minors of Patan Section Ist of Patan Sub div. for year",
+        "2. Variyavar se Bedi Bavdi tak side diwar va puliya nirman Atdumba",
+        "3. Kachra Sangrahn Kendra Nirman Karya GP Dungarsaran"
       ]
     },
     {
@@ -47,17 +51,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. For Supply of Combined CT PT Testing Analyser Portable",
-        "2. Procurement of 16.5/17 TR air conditioner units for administrative and canteen building",
-        "3. Procurement of DEW point transmitter for measurement of generator H2 gas dewpoint insta"
+        "1. Construction  asphalt work at ward no 05 Mahesh sharma  to shiv mandir .",
+        "2. Procurement of DEW point transmitter for measurement of generator H2 gas dewpoint insta",
+        "3. Construction asphalt work at ward no 05 mohangiri shikshak colony various place ."
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. WBNKDA/20/EE-E/ IT-SEC/NKDA OF 2026-27",
+        "2. WBHSD/EE/MED/eNIT-01/2026-27/2",
+        "3. WBHSD/EE/MED/eNIT-01/2026-27/1"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -66,7 +74,7 @@
       "status": "ok",
       "sample_titles": [
         "1. NCTPS I SE MI circle Boiler Maintenance Division Annual Overhaul work for the year 26 2",
-        "2. NCTPS I SE MI circle Turbine Maintenance Division Annual Overhaul work for the year 26 ",
+        "2. Procurement of Hydrochloric Acid 30 to 33 percentage  purity 25MT required for DM Water",
         "3. NCTPS I SE MI circle Turbine Maintenance Division Annual Overhaul work for the year 26 "
       ]
     },
@@ -76,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for concrete lining of 1-R Disty from RD 78000-85300 including reconstruction ",
-        "2. Estimate for concrete lining of 1-R Disty from RD 85300 - 92500 (tail) including recons",
-        "3. Estimate for concrete lining of 1-R Disty from RD 59210-69875."
+        "1. Estimate for reconstruction of Cross cum Head regulator of Jarg Minor offtaking at RD 5",
+        "2. Estimate for concrete lining of 1-R Disty from RD 69875-78000",
+        "3. Estimate for concrete lining of 1-R Disty from RD 54520-59210"
       ]
     },
     {
@@ -87,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of street and drain ...",
+        "1. Const. of street and Drain ...",
         "2. PTP/POM-101097 Supply of AHU filters for Central AC system PTPS, Panipat.",
-        "3. Const. of street and Drain ..."
+        "3. Repair of street and drain ..."
       ]
     },
     {
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair to Bridge over river Prachi on Ramachandrapur to Chittalpur road_Road_Paver Bloc",
-        "2. Construction of Internal road and Parking area for ATS at Rantalei, Anugola- Buildings",
-        "3. RD road at Nuasahi to Biswalsahi_Road_SDBC and PCC Protection wall0.000 to 1.460 0.920 "
+        "1. Construction of Internal road and Parking area for ATS at Rantalei, Anugola- Buildings",
+        "2. RD road at Nuasahi to Biswalsahi_Road_SDBC and PCC Protection wall0.000 to 1.460 0.920 ",
+        "3. Repair to Bridge over river Prachi on Ramachandrapur to Chittalpur road_Road_Paver Bloc"
       ]
     },
     {
@@ -121,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Procurement of Spy Glass Digital Controller",
-        "2. Repair and Restoration of 400KVA , 11/0.4 DTR LWSS Shat a/w  CTPT Unit washed away due ",
-        "3. Providing Sewerage scheme to Baddi Town in Tehsil Baddi District Solan (HP"
+        "2. Restoration of rain damages WSS Manali Town Tehsil Manali Distt Kullu HP SH Providing s",
+        "3. Aug of various WSS in GP Baloth and Radi Tehsil and distt Chamba SH Laying jointing and"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f86b57019d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f595f0fab50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL KyIP CADA 2026 27 Rectification works to Perambra FB between ch 0 270 and 0 730",
-        "2. PRO NO 300 2026 27 PERUMBAVOOR MUNICIPALITY KALACHANDHA PENTA BYPASS ROAD MAINTENANCE P",
-        "3. GENERAL-KyIP CADA 2026-27-Renovation and modernization works to Velom distributary inbe"
+        "1. PROJ NO.289/2026-27 WARD 4 POOPANI KANJIRAKKAD LP SCHOOL ROAD EDATHARAMALI CHAKKARAKKAT",
+        "2. GENERAL-KyIP ACP (PLAN) 2026-27- Rectification of Iringal Branch Canal between ch 6/050",
+        "3. PRO NO 307 2026 27 PERUMBAVOOR MUNICIPALITY INSTALLATION OF SHEET ROOFING AND ALLIED FA"
       ]
     },
     {
@@ -173,7 +181,7 @@
       "sample_titles": [
         "1. Supply of moisture free Baghati/Kiker/Apricot firewood duly chopped to Bhukhari and Ham",
         "2. Supply of moisture free Baghati/Kiker/Apricot firewood duly chopped to Bhukhari and Ham",
-        "3. Providing and fixing of Barbed wire fencing with Angle Iron Posts in cement concrete Bl"
+        "3. P/Path at W no 3 NHO ajau Kumar Village Karrian"
       ]
     }
   ],
