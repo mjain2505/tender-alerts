@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-24 11:05:40",
+  "checked_at_utc": "2026-09-24 16:29:09",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TENDER DOCUMENT FOR THE SUPPLY OF Spinning Wheel",
-        "2. Miscellaneous repair work at Sanchar Colony Ahmedabad",
-        "3. R/M/O of Gymnasium/fitness center at Kanti Nagar (LADIES) under Poorv Delhi Khel Parisa"
+        "1. Rent for Office Building",
+        "2. Repairing, Servicing and Rewinding of Transformers under Zone 1 and 3, MTNL, Mumbai.",
+        "3. M/o Completed Scheme under Nazul Account-II, Horticulture Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development / Beautification and Construction of Boundary Walls of Parks at I.A. S.S.G.",
-        "2. Strengthing/ Widening of Roads and Construction of R.C.C. Drains of Plot C-37 to C-38, ",
-        "3. WARD NO 16 sarsauli gautam vihar colony meerapur bashi park me pathway ka nirman karya"
+        "1. New Construction of Burhera to Nagla Udaiya road",
+        "2. New Construction of Nagla Maath to Jagat Singh Thar in Pura Lodhi village road",
+        "3. New Construction of Syed Pulia Chamad Devi and Kamal Singh house in gamri village"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. STRENGTHENING TO BANDA KHALCHI SATMATWADI ROAD NO.113  TAL. SAWANTWADI",
-        "2. E-36 (26-27) Pediatric Intensive Care Unit on Turnkey Basis",
-        "3. Construction of Anganwadi Building  AT Khancha Bangala in V.P. Wanvanje  TAL Panvel. DI"
+        "1. Imp of Passage and Drainage system surrounding Ganesh Tambe House Indira Nagar No 3  Mu",
+        "2. Improvement of  Passage and drainage system at Hawabai Bldg., M.A. Road in E Ward.",
+        "3. E TENDER NOTICE NO.26-27"
       ]
     },
     {
@@ -40,21 +40,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Water holes in Jawai Range",
-        "2. Providing Pipeline for improvement of pressure and mitigation of low pressure at tail-a",
-        "3. CC road construction work from Dharmraj Ji Deora place to the lane near Devilal Ji Suth"
+        "1. Construction of  Community Hall Dob lalsot",
+        "2. WORK OPEN TENDER GP BEGLIYAWAS",
+        "3. WORK OPEN TENDER GP DHOLADATA"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Consultancy Services for assisting and supporting in Project Management to Madhya Prade",
-        "2. COBALT STONE WORK FROM MANSHAPURNA HANUMAN TEMPLE IN ALAKHDHAM NAGAR, WARD NO. 47 TO TH",
-        "3. JALI REPAIRING CHAMBER AND BOUNDARY WALL REPAIR WORK AT VARIOUS PLACES UNDER ZONE NO. 0"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. supply of various spares parts for Govt. vehicles and Motor cycles",
-        "2. supply of Labour and Service Charge of various vehicles Machinery Parts Repair and  mai",
-        "3. Empanelment Procurement 2026"
+        "1. 1023(63)-WBSWC-17034/1/2024",
+        "2. 1023(63)-WBSWC-17034/1/2024",
+        "3. 1023(63)-WBSWC-17034/1/2024"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. VELLORE DISTRICT PROVIDING NEW PIPELINE  ARRANGEMENT AT LATHERI MAIN ROAD TO RAJESHWARI",
-        "2. Construction of Mini CSC for Boys (Type-5) at PUES Vellithiruppur H/O Vellithiruppur Pa",
-        "3. General fund - ABC equipments"
+        "1. Function work",
+        "2. ONLINE TENDER FOR FIXING RATE CONTRACT FOR SUPPLY AND INSTALLATION OF STAINLESS STEEL T",
+        "3. Providing Pipe Line from Srinivasan House to Mini Tank Via Thumbalam Road in Mangalam P"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Resoling of tiles and laying of pipe in street Dashmesh tent wali Gali Ward no C",
-        "2. Repair of PT Normal Variovs Place in MC Mansa",
-        "3. C/O Shed and other misc. work in basti Gobindgarh Ward no 01"
+        "1. P/L interlocking tiles in streets of Guru Kirpa Acedami, khushdil Furniture, Manohar Ba",
+        "2. P/L Interlocking tiles in streets of  Dr Ravinder Kumar, Near Gulati Sweet House.",
+        "3. P/L interlocking tiles in streets  of Gora Kalra, Ashok Pan wala,Dr.Mohan Lal, Harbans "
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Sale of Molasses",
-        "2. Tender Form for purchase of ACB",
-        "3. Additional Arrangement through Engagement of an Agency for Street Sweeping, Drain Clean"
+        "1. Internal and outer clearanc...",
+        "2. Internal and outer clearanc...",
+        "3. Maintenance of various central verge hedges of ward no. 7,8,9 and 10 and disposal of he"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Widening and Strengthening of Rangadihi Fuljhar Balabhadrapur Jagadal Dam road from Ch ",
-        "2. Construction of Paddy Procurement Center at Dihagaon District Nayagarh in Odisha.",
-        "3. STMC works of 4 Nos. Roads for total length of 9.170 km under Kataka  (R and B) Divisio"
+        "1. Construction of D-Type Quarter Building at Dongasil PHC(N) of Kashipur Block in the Dis",
+        "2. Construction of D-Type Quarter Building at Jangili PHC(N) of Rayagada  Block in the dis",
+        "3. Construction of proposed 1 No of F-Type Quarter Building at Tikiri of Kashipur  Block i"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Segregation of old control and relay panel room for ambient operating condition of powe",
-        "2. Consultancy Services for Environmental Clearance (EC), Environmental Management Plan (E",
-        "3. Repairing of 132 kV main and side cable trench slabs at 220/132 kV GSS, Adityapur-II (R"
+        "1. CONSTRUCTION OF CHHALKA BRIDGE OVER BAHERNALA OF  VILL- PURANI DUNDU , PANCHAYAT- DUNDU",
+        "2. Request for proposal from OEM Authorized dealer of OEM  Manufacturing Repairing company",
+        "3. Construction of Guardwall and Approach road for the Bridge on Kulbeda sugi joria in Gov"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Recovery and reconstruction RGMSJ road Km. 0.000 to 61.000",
-        "2. R.R damages on Rattanpur Majheoli Shah Uchhi Dofda road Km. 0.000 to 16.780",
-        "3. R.R damages on RGMSJ road Km. 0.000 to 61.000"
+        "1. Construction of  Indoor Stadium at  GSSS Giabong  in District Kinnaur ( HP) (SH- Buildi",
+        "2. Providing WSS Dhakgaon in GP Dhakgaon Tehsil Chirgaon Distt Shimla HP",
+        "3. Providing WSS Khilocha Dogri in GP Diswani Tehsil Chirgaon Distt Shimla HP"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Sports kit",
-        "2. CONSTRUCTION OF 300 KL RCC CWR AND ALLIED PIPELINE WORKS FOR KULHAN AREA OF IT PARK ZON",
-        "3. Establishment open gyms in various districts at difference 08 places in Uttarakhand"
+        "1. 77/EDCRDDUN/2026-27",
+        "2. 49/2026-27/EDC(CH)",
+        "3. 50/2026-27/EDC(CH)"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff5ce186450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6526682b90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Drinking water Booth including maintanance for one year",
-        "2. Construction of RCC office for Howly ESD",
-        "3. Height Raising of 2 (Two) Nos. of Towers of 132KV S/C Nathkuchi-Barnagar Line at Loc 19"
+        "1. A/E measures to protect Dehing bund 1st section from Aghunibari to Sessughat at Garuhor",
+        "2. Construction of Sluice Gates on Pokoria R/B embankment from Teteliguri to Patekibori.",
+        "3. Construction of Hostel at Nabhanga Bapuji High School, Dist Golaghat"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AS-01/2026",
-        "2. State Plan 2026 2027 Optimization of Production and Transmission UWSS to Pala Supply Er",
-        "3. SALE OF CENEX"
+        "1. Annual Plan-Trikkalangodu GP PRO NO 238/26-27-Ippirayal footpath concrete ward 21-Gener",
+        "2. Annual Plan-Trikkalangodu GP-Pro no 245/26-27 Velliyamkavu ottulli road concrete ward 2",
+        "3. Annual Plan-Trikkalangodu GP PRO NO 247/26-27-Arafa road concrete ward 24-General Civil"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Stablilization and improvement of 33 KV Budgam Ompora Line for backup supply to Airforc",
-        "2. Installation and commissioning of CCTV Surveillance System at the Office of JandK Rural",
-        "3. SITC of Security and Monitoring  System"
+        "1. Upgradation of Set No. 28-E, Poonch House Flats Talab Tillo Jammu. CNo-286 P",
+        "2. Construction of road from Danser Gali to Heer Pindi road",
+        "3. C/O DRAIN FROM LAND OF M YOSUF PARRAY TO SHIVA ROAD VIA LANF OF GH QADIR BHAT DANGERPOR"
       ]
     }
   ],
