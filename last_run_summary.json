@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-24 21:08:29",
+  "checked_at_utc": "2026-09-25 03:21:09",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New Construction of Kheragadh Lakhanpura to Nagla Santhal road",
-        "2. New Construction of Amrupura to  Rajasthan border road",
-        "3. New Construction of Tarakpur to Nagla Maharam road"
+        "1. New Construction of paved road from Garhi Jassa to Banswala, Banswala to Nagla Durvesh ",
+        "2. New Construction of Kheragadh Lakhanpura to Nagla Santhal road",
+        "3. New Construction of Bhandai to Nagla Daulatiya in Agra district"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Imp of Passage and Drainage system surrounding Ganesh Tambe House Indira Nagar No 3  Mu",
-        "2. PR.KR.11 MADHIL KELEWADI, RAUTWADI, MORE SHRAMIK V ITAR THIKANI PRAKASH VYAVASTHA KARNE",
-        "3. Improvement of  Passage and drainage system at Hawabai Bldg., M.A. Road in E Ward."
+        "1. Improvement of Passage at Fish Market in Khardanda in Beat No. 100 H West Ward.",
+        "2. Improvement of  Passage and drainage system at Kazi ki chawl, 3rd Ghelabai street in E ",
+        "3. Various Material Supply under xvth Finance Commission at Dharna GP Dharna Tq. Pandharka"
       ]
     },
     {
@@ -40,24 +40,32 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WORK OPEN TENDER GP BEGLIYAWAS",
-        "2. WORK OPEN TENDER GP DHOLADATA",
-        "3. Construction of  Community Hall Dob lalsot"
+        "1. WORK OPEN TENDER GP DHOLADATA",
+        "2. Construction of  Community Hall Dob lalsot",
+        "3. WORK OPEN TENDER GP BEGLIYAWAS"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://mptenders.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Procurement of spare parts of 32.5 VIMT 2000(72 PA) BHEL make Air Preheaters installed ",
+        "2. Construction of P.C.C. Road from Raju Patel to Sonu Kushwaha in Shivaji Ward, Nagar Pal",
+        "3. Laying of Paver Block at in-front of Gadhera Pond in Gandhi Ward, Nagar Palika Parishad"
+      ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. 1023(63)-WBSWC-17034/1/2024",
+        "2. 1023(63)-WBSWC-17034/1/2024",
+        "3. 1023(63)-WBSWC-17034/1/2024"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Chain Link Fencing for RD Additional Nursery at Valavanthi Village in Valavan",
-        "2. Providing Pipe Line from Srinivasan House to Mini Tank Via Thumbalam Road in Mangalam P",
-        "3. Providing Green Net for RD  Additional Nursery  at Valavanthi Habitation in Valavanathi"
+        "1. ONLINE TENDER FOR FIXING RATE CONTRACT FOR SUPPLY OF TWIN TRANSFER TROLLEY, EXAMINATION",
+        "2. Function work",
+        "3. Addl man power at VDL Sub division."
       ]
     },
     {
@@ -76,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/L Interlocing tiles in streets of  Manchanda ,Jagdish Bajaj, Subash (Bhashi Cha wala)",
-        "2. P/L Interlocking tiles in streets of  Dr Ravinder Kumar, Near Gulati Sweet House.",
-        "3. P/L interlocking tiles in streets of Guru Kirpa Acedami, khushdil Furniture, Manohar Ba"
+        "1. Repair works of Interlocking Tiles, Drain, Pulli and Other Maintenance works in ward no",
+        "2. P/L interlocking tiles in streets of Guru Kirpa Acedami, khushdil Furniture, Manohar Ba",
+        "3. P/L Interlocing tiles in streets of  Gurjinder Singh, Back Side Gurdwara Sahib,Gian Dak"
       ]
     },
     {
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of proposed 1 No of F-Type Quarter Building at Khambesi PHC(N) of Bissamcu",
-        "2. Construction of D-Type Quarter Building at Jangili PHC(N) of Rayagada  Block in the dis",
-        "3. Construction of D-Type Quarter Building at Durgi PHC(N) of Bissamcuttack  Block in the "
+        "1. Construction of proposed 1 No of F-Type Quarter Building at Jangili PHC(N) of Rayagada ",
+        "2. Construction of proposed 1 No of F-Type Quarter Building at Tikiri of Kashipur  Block i",
+        "3. Construction of D-Type Quarter Building at Jagdalpur PHC (N) of Muniguda Block in the D"
       ]
     },
     {
@@ -111,7 +119,7 @@
       "sample_titles": [
         "1. CONSTRUCTION OF CHHALKA BRIDGE OVER BAHERNALA OF  VILL- PURANI DUNDU , PANCHAYAT- DUNDU",
         "2. Request for proposal from OEM Authorized dealer of OEM  Manufacturing Repairing company",
-        "3. OPEN E TENDER IS BEING INVITED FOR OPERATING AND RUNNING CANTEEN SERVICE AT RIMS, RANCH"
+        "3. Construction of Dhumkudia Bhawan in Village Budhadih of Panchayat Sumandih of Bundu Blo"
       ]
     },
     {
@@ -122,7 +130,7 @@
       "sample_titles": [
         "1. Construction of  Indoor Stadium at  GSSS Giabong  in District Kinnaur ( HP) (SH- Buildi",
         "2. Providing WSS Dhakgaon in GP Dhakgaon Tehsil Chirgaon Distt Shimla HP",
-        "3. HPSEBL/LPH/CMDT/DB-8/2026-050"
+        "3. Construction of an additional 100 bedded Girls Community Centre at Nadaun District Hami"
       ]
     },
     {
@@ -131,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 77/EDCRDDUN/2026-27",
-        "2. 49/2026-27/EDC(CH)",
-        "3. 48/2026-27/EDC(CH)"
+        "1. 48/2026-27/EDC(CH)",
+        "2. 50/2026-27/EDC(CH)",
+        "3. 77/EDCRDDUN/2026-27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4e2c5b1110>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7eff76fe57d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Thrikkalamkodu GP PRO NO 232/26-27-Pallippadi Pannikuzhy road concrete ward",
+        "1. Annual Plan-Trikkalankodu GP PRO NO 191/26-27-Anganavadi pilakundil road concrete ward ",
         "2. Annual Plan-Trikkalangodu GP PRO NO 108/26-27-Concrachaal kurikkalppadi ambalakandi roa",
-        "3. GENERAL-RM / 2026 -27 - RC 2/ ZONE IIIOne Year Running Contract for various PWD roads u"
+        "3. Annual Plan-Trikkalangodu GP PRO NO 101/26-27-Kunnummalppadi -Melayil road concrete war"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/O DRAIN FROM LAND OF M YOSUF PARRAY TO SHIVA ROAD VIA LANF OF GH QADIR BHAT DANGERPOR",
-        "2. Upgradation of Set No. 28-E, Poonch House Flats Talab Tillo Jammu. CNo-286 P",
-        "3. C/O DRAIN FROM HO FAYAZ AHMAD GANAIE TO HO SHOWKAT AHMAD GANIE AND DRAIN FROM HO NAZIR "
+        "1. UPGRADATION OF LANE FROM MAIN ROAD TO THE HOUSE OF MUSHTAQ AHMAD RATHER AT NEW COLONY B",
+        "2. Construction of New Range Office including ROs Residential building at Bandipora for So",
+        "3. Electric repair and renovation and other allied works of 08 Nos of Washroom at Civil Se"
       ]
     }
   ],
