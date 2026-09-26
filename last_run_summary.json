@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-26 10:47:49",
+  "checked_at_utc": "2026-09-26 15:45:19",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ED/IIMC/NIT/1/26-27/196",
-        "2. Procurement of Genotyping reagents/kits for Immunohematology Laboratory on One year Rat",
-        "3. Maintenance of DDA Lake View Golf Course, DDA"
+        "1. e-Tender No. PMBI/FOODPRODUCT/RC-237/2026 for the procurement of 34 food products",
+        "2. M/o Completed scheme under NA-II in  Narela zone",
+        "3. Repair and painting of prefab buildings, repair of MS Grills and MS Staircase at Urja V"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Ward No 10 Ganesh gaund ke ghar se brahm sthan hote hue vajir ansari ke ghar tk cc road",
-        "2. Ward No.14 Abdul Kalam Nagar me mubarak ali ke makan se chandi nishad ke ghar tk cc roa",
-        "3. Ward No.05 Atal nagar me varanshi ke makan se vakil miya ke ghar tk cc road v bhumigat "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Paving Block in Smashanbhumi At Kurha Tq Risod Dist Washim",
-        "2. Ashwin Navratr Yatra Parking Contract for Four Wheeler, Two Wheeler and Cycle Parking A",
-        "3. Construction of Cement Concrete Road Towards Smashanbhumi At Kurha Tq Risod Dist Washim"
+        "1. eTENDER FOR 2026-27",
+        "2. E Tender Notice No.01/2026-27",
+        "3. 1) Construction of Approch Road to Smashanbhumi 2) Beautification of Dr. Babasaheb Ambe"
       ]
     },
     {
@@ -40,21 +36,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of work for Missing Link Roads under Constituency Kaman (Package No. RJ-06",
-        "2. Establishment of Space and Children Gallery at Jaipur and Jodhpur",
-        "3. Annual contract of operation and maintenance of STP at RGTPP, Ramgarh"
+        "1. Tanki va pipe line may tubewell sthapana karya Bhilo ki ber, Gram Panchayat Sunkhar.",
+        "2. Samudayik bhavan nirman karya Pipliya Bheruji Mandir ke paas Dang ka was, Gram Panchaya",
+        "3. Samudayik bhavan navin Ashapura Mataji Mandir ke paas Gram Panchayat Morcha"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Auction of shop No 14 situated near Tehsil Office on Indore Khandwa main road",
-        "2. Auction of shop No 10 situated near Tehsil Office on Indore Khandwa main road",
-        "3. Toilet construction work under the Swachh Bharat Mission in the market area of Nagar Pa"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  \tUKM/PWD/002(e)/2026-27(2nd Call) (SL-08)",
-        "2. B13/CXVII/26-27/SLM",
-        "3. B13/WCXIX/26-27/SLM"
+        "1. UKM/PWD/002(e)/2026-27(2nd Call) (SL-10)",
+        "2. Supply, Installation and Commissioning of Hyper Converged Infrastructure with Virtualiz",
+        "3. UKM/PWD/002(e)/2026-27(2nd Call) (SL-04)"
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SCRAP SALES FOR KUMBAKONAM REGION",
-        "2. Tirupathur District Panchayath General Fund - 2025-26 Provinding and laying of Delivery",
-        "3. Equipment"
+        "1. Construction of Multi Sports Turf at P and T Colony in Ward No 29 North Zone",
+        "2. Construction of Storm water drain and culvert at P.N. Palayam main road near Avrampalay",
+        "3. Ramanathapuram District/Kamuthi block/Pasumpon panchayat/I and AF 2023-24 savings fund/"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Laying Interlocking Tiles 60MM Thick at Circular Road Mori Gate to Kamiya",
-        "2. P/L Interlocking Tiles In 60 MM Thick at Mohinder Singh DSFO De Ghar TO Karamjit Singh ",
-        "3. P/L Interlocking Tiles In 60 MM Thick at Thakur Singh De Ghar to Laike Surinder Singh D"
+        "1. Supply of Street Light Ladder at MC Tarn Taran",
+        "2. Supply of Street Material for maintenance of Street light points at MC Tarn Taran",
+        "3. Beautification of dividers of MC Tarn Taran"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TENDER FOR CONSUMABLE ITEMS anti ccp  and others  AT BPS GMC FOR WOMEN KHANPUR KALAN SO",
-        "2. AMtc of EPHS in Sector 13 UE Kurukshetra",
-        "3. TENDER FOR CONSUMABLE ITEMS GENERAL WASTE COLLECTION BAGS  AT BPS GMC FOR WOMEN KHANPUR"
+        "1. Estimate For Providing and laying of RMC M-30 at Shispal pandit to kartar pandit ji and",
+        "2. JAMtc of EPHS in Sec 5 UE Kurukshetra",
+        "3. Estimate for providing and laying of RMC M-30 at Chauhan chuupal wali gali To Rajeev wa"
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of road from Taramakanta Chhaka to Rugudi Sahi with construction of bridge",
-        "2. Construction of H.L. Bridge over Kani Nallah at 2nd Km on RD road to Akhuasahi road und",
-        "3. Construction of Office  building of Assistant Labour Officer at Bari Block"
+        "1. Construction of Jadabanka to Siadimalia from 0/000 Km. to 1/800 Km. in the District of ",
+        "2. Construction of H.L. bridge over Baripal Canal on Balighai to Baripal road under SBY",
+        "3. Construction of Panasadiha to Asanabani from 0/000 Km. to 4/000 in the District of Keon"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 09 Seater toilet at Barik Toli, Near Imli Tree Ward No-43 under RMC (CT",
-        "2. Construction of 09 Seater toilet Near at Dhurwa Bus stand ram mandir Ward No-38 under R",
-        "3. Construction of 09 Seater toilet Near Argora birsa chowk main road Ward No-42 under RMC"
+        "1. Construction of 09 Seater toilet in Sindwar Toli Ward No-03 under RMC (PT)",
+        "2. Construction of PCC road from Plandu pul to Ramnavmi Mela Tand in Village Palandu under",
+        "3. Construction of road from Panchayat Bendgi Barhi Tilaiya road to four lane via  Keshri "
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LABOUR WORK AT HPSCSC WS GODOWN KHANIARA",
-        "2. (T2011-306-1106) R/M to GWSS Manan in G.P. Kot Shilaroo in Tehsil Theog Distt. Shimla",
-        "3. LABOUR WORK AT HPSCSC WS GODOWN LAMBAGAUM"
+        "1. 07/2026-27(Nahan)",
+        "2. E- tender fro the procurement of various equipement for Department of Orthopaedic surge",
+        "3. E-TENDER FOR THE PROCUREMENT OF ELECTROSURGICAL UNIT WITH VESSEL SEALING AND BIPOLAR FO"
       ]
     },
     {
@@ -139,16 +131,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. For Laying of AB Cable",
-        "2. E-Tender/Bio Medical Waste/2026-27/1208",
-        "3. Vehicle for AE(Line), 220KV Substation Chamba(TG)"
+        "1. 81/EDCRDDUN/2026-27",
+        "2. Renewal work by microsurfacing of four-lane road ODR-35 from National Highway Number 58",
+        "3. Interlocking Tiles on the motor road"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f63c6f394d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f2fe23b8050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Urgent Electrical Maintenance Work at Kannur Sports School Hostel - Block 2-Class 6th t",
-        "2. VBGRAMG MATERIAL SUPPLY",
-        "3. Annual Plan-AZHOOR G.P 2026-27, PROJECT NO.293/27-KOLICHIRA KUNNIL CHARUVILA NADAYAL PA"
+        "1. Annual Plan Vandiperiyar GP WARD 15 ARANAKKAL S C CHURCH AREA FOOTPATH   100/26 General",
+        "2. Annual Plan Vandiperiyar GP WARD 21 AMBEDKAR NAGAR NUMBER 1 DIVISION ROAD CONCRETE 123/",
+        "3. GENERAL KyIP CADA 2026 27 Renovation and Modernization of Koodathumpoyil FB in b w ch  "
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Revival and Restoration of existing shed and allied works at Dori-Dager Temple, Block K",
-        "2. Construction of road at Gulaba Mohalla Ward No. 5 Pyt. Dhok Khalsa   Block Bhalwal Brah",
-        "3. Civil Works"
+        "1. RDDDC2627104573 -(INSTALLATION OF BOREWELL NEAR HOUSE OF MOHD SHAFI BHAT AT GABARPORA (",
+        "2. CONSTRUCTION OF DRAIN FROM L/O GH MOHD LONE TO L/O MOHD SULTAN NAIK DAYAL KHAH AT AMIRA",
+        "3. CONSTRUCTION OF STEPS AT GUFKRAL HALQA AMIRABAD"
       ]
     }
   ],
