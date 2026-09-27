@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-27 16:22:26",
+  "checked_at_utc": "2026-09-27 20:52:04",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of a new RCC minor protective structure (3x5x3 span) over the drain and a ",
-        "2. Ward - Malviya Nagar",
-        "3. BELI KACHAR STP RASULABAD GHAT HOTE HUE GANGA JI KE KINARE TAK INTERLOCKING MARG KE MAR"
+        "1. New Construction work of Basera Enclave Colony, Dayalbagh missing link Road",
+        "2. OLD GT MARG PAR KATKA STORE KE BHUMI PAR AWASHYAK STORE SAMAGRI BHANDARAN HETU SHED BOU",
+        "3. OLD GT MARG PAR GANGA BANK KE KINARE MELA KSHETRA ME ISTHIT STORE KE CHHATIGRASTH JARJA"
       ]
     },
     {
@@ -70,13 +70,9 @@
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Maintenance and repair works to the Burial Ground at Maniyakaranpalayam in Ward No 19 N",
-        "2. Formation of park at KRG Nagar in Ward No 20 North  Zone",
-        "3. Construction of Compound Wall and improvement works for shelter for Urban Homeless host"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Punjab",
@@ -85,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Beautification of dividers of MC Tarn Taran",
-        "2. Supply and Errection of High Mask Street Light Poles at MC Tarn Taran",
-        "3. Supply of Street Material for maintenance of Street light points at MC Tarn Taran"
+        "2. Supply of Street Material for maintenance of Street light points at MC Tarn Taran",
+        "3. Supply and Errection of High Mask Street Light Poles at MC Tarn Taran"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and fixing of MS Structure for wrestling Stadium Ward no. 46 Jharsently in MC",
-        "2. JAMtc of EPHS in Sec 5 UE Kurukshetra",
-        "3. Construction of road gully grating of 350mm dia RCC NP3 pipe in front of H. No. 161 gat"
+        "1. Estimate for providing and laying 80mm thick interlocking paver blocks M-40 grade Tilpa",
+        "2. Estimate for providing and laying of RMC M-30 at Chauhan chuupal wali gali To Rajeev wa",
+        "3. JAMtc of EPHS in Sec 5 UE Kurukshetra"
       ]
     },
     {
@@ -106,8 +102,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Jadabanka to Siadimalia from 0/000 Km. to 1/800 Km. in the District of ",
-        "2. Construction of H.L. bridge over Baripal Canal on Balighai to Baripal road under SBY",
+        "1. Construction of H.L. bridge over Baripal Canal on Balighai to Baripal road under SBY",
+        "2. Construction of Jadabanka to Siadimalia from 0/000 Km. to 1/800 Km. in the District of ",
         "3. Construction of Panasadiha to Asanabani from 0/000 Km. to 4/000 in the District of Keon"
       ]
     },
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of PCC road from REO road to Bhatwachak via Karma Ahar Pind in Village Pan",
-        "2. Construction of 09 Seater toilet Near Baniya toil Tigor Hill Ward No-03 under RMC (PT)",
-        "3. Construction of PCC road from Plandu pul to Ramnavmi Mela Tand in Village Palandu under"
+        "1. Construction of 09 Seater toilet in Tiril Basti near govt. school Ward No-09 under RMC ",
+        "2. Construction of PCC road from REO road to Bhatwachak via Karma Ahar Pind in Village Pan",
+        "3. Construction of 09 Seater toilet Near Baniya toil Tigor Hill Ward No-03 under RMC (PT)"
       ]
     },
     {
@@ -130,7 +126,7 @@
       "sample_titles": [
         "1. Selection of agency for operation and maintenance of Leasing of Newly Constructed Rest ",
         "2. E-TENDER FOR THE PROCUREMENT OF ELECTROSURGICAL UNIT WITH VESSEL SEALING AND BIPOLAR FO",
-        "3. 02/2026-27(Nahan)"
+        "3. E- tender fro the procurement of various equipement for Department of Orthopaedic surge"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7a1dbc4a90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efeab78a610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan Vandiperiyar GP WARD 17 MANJUMALA FACTORY ROAD MAINTENANCE 108/26 General C",
-        "2. Annual Plan Vandiperiyar GP WARD 15 ARANAKKAL MASTER ROAD MAINTENANCE  95/26 General Ci",
-        "3. GENERAL Annual Plan Vandiperiyar GP WARD 16 GRANBY HARIJAN NAGAR FOOTPATH 107/26 Genera"
+        "1. GENERAL Annual Plan Vandiperiyar GP WARD 13 PARUTHIPARA ROAD MAINTENANCE 71/26 General ",
+        "2. GENERAL Annual Plan Vandiperiyar GP WARD 12 SATHRAM 20 ACRE ROAD CONCRETE  91/26-Genera",
+        "3. GENERAL  Annual Plan Vandiperiyar GP WARD 21 PASUMALA DIVISON 1 ROAD MAINTENANCE 122/26"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DEVELOPMENT OF ROAD AT CHARLIGUND FROM HOUSE OF ALI MOHD LAWAY TO UPS CHARLIGUND NOORPO",
-        "2. RDDDC2627114771 C/O P-Bund NLO Mushtaq Ahmad Bhat S/o Ghulam Ahmad Bhat to onwards at S",
-        "3. CONSTRUCTION OF COMMUNITY SANITARY COMPLEX NEAR HIGH SCHOOL SINGHPORA SINGHPORA BARAMUL"
+        "1. Construction of Lane and Drain  from House of Kuldeep Sharma to House of Ajay Gupta inc",
+        "2. RDDDC2627103742 Co Graveyard lane at lassidaban and Co lane drain at ward 4 Achgooza Bl",
+        "3. Construction of left side wall of Taru Chak Minor of Disty No. 5A damaged during flash "
       ]
     }
   ],
