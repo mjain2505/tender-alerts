@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-27 11:22:50",
+  "checked_at_utc": "2026-09-27 16:22:26",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. e-Tender No. PMBI/FOODPRODUCT/RC-237/2026 for the procurement of 34 food products",
         "2. M/o Completed scheme under NA-II in  Narela zone",
-        "3. Repair and painting of prefab buildings, repair of MS Grills and MS Staircase at Urja V"
+        "3. Maintenance of completed Scheme of Nazul A/C under South Zone."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New construction work along the Paltuapura route, covering Thar Bahadur, Thar Manikchan",
-        "2. New construction work from Pakkapura-Luhari Road to the Agra-Lucknow Expressway",
-        "3. New construction work from Moosepura to the Hiralal ki Thaar-Raipura Ahir road"
+        "1. Construction of a new RCC minor protective structure (3x5x3 span) over the drain and a ",
+        "2. Ward - Malviya Nagar",
+        "3. BELI KACHAR STP RASULABAD GHAT HOTE HUE GANGA JI KE KINARE TAK INTERLOCKING MARG KE MAR"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF MAIN GATE AT NAGAR VAN SANGOD",
-        "2. Repairing and Maintenance Work at Repeater Station Gurushikhar Mount ABU",
-        "3. Repairing and MTC work and construction of New Toilet Block TAD GIRLS Sports Hostel San"
+        "1. Construction of Sub Health Center Building at Mithadi, Block Ahore, District Jalore",
+        "2. Civil work at Lok Bhawan , Mount Abu",
+        "3. Maintenance and Repairing of  Vth and VIth Type Govt Resi.Qtr.in Div.Aburoad"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Multi Sports Turf at P and T Colony in Ward No 29 North Zone",
-        "2. Ramanathapuram District/Kamuthi block/Pasumpon panchayat/I and AF 2023-24 savings fund/",
-        "3. Maintenance repair and Additional Improvements works to the Bharathi colony urban welln"
+        "1. Maintenance and repair works to the Burial Ground at Maniyakaranpalayam in Ward No 19 N",
+        "2. Formation of park at KRG Nagar in Ward No 20 North  Zone",
+        "3. Construction of Compound Wall and improvement works for shelter for Urban Homeless host"
       ]
     },
     {
@@ -86,7 +86,7 @@
       "sample_titles": [
         "1. Beautification of dividers of MC Tarn Taran",
         "2. Supply and Errection of High Mask Street Light Poles at MC Tarn Taran",
-        "3. Supply of Street Light Ladder at MC Tarn Taran"
+        "3. Supply of Street Material for maintenance of Street light points at MC Tarn Taran"
       ]
     },
     {
@@ -95,8 +95,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Palla wine Shop to Basantpur (Length 4900 Mtr.)",
-        "2. Estimate for providing and laying of precast slab on sehatpur road nallah from in ward ",
+        "1. Providing and fixing of MS Structure for wrestling Stadium Ward no. 46 Jharsently in MC",
+        "2. JAMtc of EPHS in Sec 5 UE Kurukshetra",
         "3. Construction of road gully grating of 350mm dia RCC NP3 pipe in front of H. No. 161 gat"
       ]
     },
@@ -117,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 09 Seater toilet in Sindwar Toli Ward No-03 under RMC (PT)",
-        "2. Construction of PCC road from Plandu pul to Ramnavmi Mela Tand in Village Palandu under",
-        "3. Construction of road from Panchayat Bendgi Barhi Tilaiya road to four lane via  Keshri "
+        "1. Construction of PCC road from REO road to Bhatwachak via Karma Ahar Pind in Village Pan",
+        "2. Construction of 09 Seater toilet Near Baniya toil Tigor Hill Ward No-03 under RMC (PT)",
+        "3. Construction of PCC road from Plandu pul to Ramnavmi Mela Tand in Village Palandu under"
       ]
     },
     {
@@ -129,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Selection of agency for operation and maintenance of Leasing of Newly Constructed Rest ",
-        "2. 04/2026-27(Nahan)",
-        "3. E- tender fro the procurement of various equipement for Department of Orthopaedic surge"
+        "2. E-TENDER FOR THE PROCUREMENT OF ELECTROSURGICAL UNIT WITH VESSEL SEALING AND BIPOLAR FO",
+        "3. 02/2026-27(Nahan)"
       ]
     },
     {
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f997e9a5a50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7a1dbc4a90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL KyIP CADA 2026 27 Renovation and Modernization of Koodathumpoyil FB in b w ch  ",
-        "2. GENERAL Annual Plan Vandiperiyar GP WARD 16 VEDIKUZHY PRIYADHARSHINI NAGAR ROAD CONCRET",
-        "3. GENERAL Annual Plan Vandiperiyar GP  WARD  10 AMBEDKAR ROAD MAINTENANCE  58/26 General "
+        "1. Annual Plan Vandiperiyar GP WARD 17 MANJUMALA FACTORY ROAD MAINTENANCE 108/26 General C",
+        "2. Annual Plan Vandiperiyar GP WARD 15 ARANAKKAL MASTER ROAD MAINTENANCE  95/26 General Ci",
+        "3. GENERAL Annual Plan Vandiperiyar GP WARD 16 GRANBY HARIJAN NAGAR FOOTPATH 107/26 Genera"
       ]
     },
     {
@@ -179,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/O COMMUNITY SANITARY COMPLEX AT PYT. CHANUM. PANCHAYAT CHANUM. BLOCK RAFIABAD SCHEME ",
-        "2. C/O COMMUNITY SANITARY COMPLEX AT PYT. BEHRAMPORA-B. PANCHAYAT BEHRAMPORA-B. BLOCK RAFI",
-        "3. Construction of tile works from House of Refit Najar to Manoj Kotwal Ward No. 2 MC Kish"
+        "1. DEVELOPMENT OF ROAD AT CHARLIGUND FROM HOUSE OF ALI MOHD LAWAY TO UPS CHARLIGUND NOORPO",
+        "2. RDDDC2627114771 C/O P-Bund NLO Mushtaq Ahmad Bhat S/o Ghulam Ahmad Bhat to onwards at S",
+        "3. CONSTRUCTION OF COMMUNITY SANITARY COMPLEX NEAR HIGH SCHOOL SINGHPORA SINGHPORA BARAMUL"
       ]
     }
   ],
