@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-27 20:52:04",
+  "checked_at_utc": "2026-09-27 23:38:01",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. e-Tender No. PMBI/FOODPRODUCT/RC-237/2026 for the procurement of 34 food products",
         "2. M/o Completed scheme under NA-II in  Narela zone",
-        "3. Maintenance of completed Scheme of Nazul A/C under South Zone."
+        "3. Toilet Bathroom and Kitchen Renovation and Painting other civil work in  A14 in ISI Cam"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. New Construction work of Basera Enclave Colony, Dayalbagh missing link Road",
-        "2. OLD GT MARG PAR KATKA STORE KE BHUMI PAR AWASHYAK STORE SAMAGRI BHANDARAN HETU SHED BOU",
-        "3. OLD GT MARG PAR GANGA BANK KE KINARE MELA KSHETRA ME ISTHIT STORE KE CHHATIGRASTH JARJA"
+        "1. New construction work using cement concrete (CC) on the missing link roads at Neerav Ni",
+        "2. New Construction of a new road from Rasulpur to Sahata",
+        "3. New construction work from Dhimshri Nagla Shadi Road, via Gayatri Higher Secondary Scho"
       ]
     },
     {
@@ -62,17 +62,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Installation and Commissioning of Hyper Converged Infrastructure with Virtualiz",
-        "2. UKM/PWD/002(e)/2026-27(2nd Call) (SL-10)",
-        "3. UKM/PWD/002(e)/2026-27(2nd Call) (SL-05)"
+        "1. UKM/PWD/002(e)/2026-27(2nd Call) (SL-10)",
+        "2. Supply, Installation and Commissioning of Hyper Converged Infrastructure with Virtualiz",
+        "3. UKM/PWD/002(e)/2026-27(2nd Call) (SL-04)"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tntenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Improvement works to Peelamedu Corporation Urban Primary Health Center at Pioneer Mill ",
+        "2. Maintenance repair and Additional Improvements works to the Bharathi colony urban welln",
+        "3. Construction of Dining Hall  at Peelamedu Higher Secondary School Toilet Campus in Ward"
+      ]
     },
     {
       "name": "Punjab",
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Beautification of dividers of MC Tarn Taran",
-        "2. Supply of Street Material for maintenance of Street light points at MC Tarn Taran",
-        "3. Supply and Errection of High Mask Street Light Poles at MC Tarn Taran"
+        "1. Supply and Errection of High Mask Street Light Poles at MC Tarn Taran",
+        "2. Supply of Street Light Ladder at MC Tarn Taran",
+        "3. Supply of Street Material for maintenance of Street light points at MC Tarn Taran"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for providing and laying 80mm thick interlocking paver blocks M-40 grade Tilpa",
-        "2. Estimate for providing and laying of RMC M-30 at Chauhan chuupal wali gali To Rajeev wa",
-        "3. JAMtc of EPHS in Sec 5 UE Kurukshetra"
+        "1. Estimate for providing and laying of precast slab on sehatpur road nallah from in ward ",
+        "2. JAMtc of EPHS in Sec 5 UE Kurukshetra",
+        "3. Palla wine Shop to Basantpur (Length 4900 Mtr.)"
       ]
     },
     {
@@ -102,8 +106,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of H.L. bridge over Baripal Canal on Balighai to Baripal road under SBY",
-        "2. Construction of Jadabanka to Siadimalia from 0/000 Km. to 1/800 Km. in the District of ",
+        "1. Construction of Jadabanka to Siadimalia from 0/000 Km. to 1/800 Km. in the District of ",
+        "2. Construction of H.L. bridge over Baripal Canal on Balighai to Baripal road under SBY",
         "3. Construction of Panasadiha to Asanabani from 0/000 Km. to 4/000 in the District of Keon"
       ]
     },
@@ -115,7 +119,7 @@
       "sample_titles": [
         "1. Construction of 09 Seater toilet in Tiril Basti near govt. school Ward No-09 under RMC ",
         "2. Construction of PCC road from REO road to Bhatwachak via Karma Ahar Pind in Village Pan",
-        "3. Construction of 09 Seater toilet Near Baniya toil Tigor Hill Ward No-03 under RMC (PT)"
+        "3. Construction of road from Panchayat Bendgi Barhi Tilaiya road to four lane via  Keshri "
       ]
     },
     {
@@ -125,7 +129,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Selection of agency for operation and maintenance of Leasing of Newly Constructed Rest ",
-        "2. E-TENDER FOR THE PROCUREMENT OF ELECTROSURGICAL UNIT WITH VESSEL SEALING AND BIPOLAR FO",
+        "2. 05/2026-27(Nahan)",
         "3. E- tender fro the procurement of various equipement for Department of Orthopaedic surge"
       ]
     },
@@ -136,15 +140,15 @@
       "status": "ok",
       "sample_titles": [
         "1. Fish Pond",
-        "2. 81/EDCRDDUN/2026-27",
-        "3. Renewal work by microsurfacing of four-lane road ODR-35 from National Highway Number 58"
+        "2. Renewal work by microsurfacing of four-lane road ODR-35 from National Highway Number 58",
+        "3. 81/EDCRDDUN/2026-27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efeab78a610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd92356ac10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL Annual Plan Vandiperiyar GP WARD 13 PARUTHIPARA ROAD MAINTENANCE 71/26 General ",
-        "2. GENERAL Annual Plan Vandiperiyar GP WARD 12 SATHRAM 20 ACRE ROAD CONCRETE  91/26-Genera",
-        "3. GENERAL  Annual Plan Vandiperiyar GP WARD 21 PASUMALA DIVISON 1 ROAD MAINTENANCE 122/26"
+        "1. Annual Plan Vandiperiyar GP Kottapparambu 5th number puthuval road concreting 50 26",
+        "2. GENERAL Annual Plan Vandiperiyar GP  WARD  10 AMBEDKAR ROAD MAINTENANCE  58/26 General ",
+        "3. Annual Plan Vandiperiyar GP WARD 21 AMBEDKAR NAGAR NUMBER 1 DIVISION ROAD CONCRETE 123/"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Lane and Drain  from House of Kuldeep Sharma to House of Ajay Gupta inc",
-        "2. RDDDC2627103742 Co Graveyard lane at lassidaban and Co lane drain at ward 4 Achgooza Bl",
-        "3. Construction of left side wall of Taru Chak Minor of Disty No. 5A damaged during flash "
+        "1. RDDDC2627113801 C/O BOREWELL AT UPS UZRAMPATHRI",
+        "2. RDDDC2627104242 -(INSTALLATION OF BOREWELL NEAR HOUSE OF MUSHTAQ AH BHAT S O AB GANIE B",
+        "3. C/O CSC AT MASJID SHARIEF BOMAI ADDA BLOCK TUJJER SHARIEF"
       ]
     }
   ],
