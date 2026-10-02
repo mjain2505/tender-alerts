@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-10-02 17:26:31",
+  "checked_at_utc": "2026-10-02 21:48:52",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Barbed Wire Fencing at Une-Nala BOP of 61 BN ITBP, Arunachal Pradesh",
+        "2. Providing and installation of lightning conductors for camera control centre at BN HQ 3",
+        "3. Improvement of existing panel switchgear at BOP Samruchera of 199 Bn BSF under SHQ BSF "
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -25,8 +29,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of protection compound wall for area under the jurisdiction of Nashik Muni",
-        "2. Proposed Repairing and maintenance of Various Bridges  ulvertsin P.No.1 to 6,in Panchav",
+        "1. Proposed Repairing and maintenance of Various Bridges  ulvertsin P.No.1 to 6,in Panchav",
+        "2. Construction of protection compound wall for area under the jurisdiction of Nashik Muni",
         "3. Construction of Cement concrete road B S. of Mahadev Mandir, Sharamik Nagar in P.No.09,"
       ]
     },
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Air Conditioning work in  30 Bedded CHC Building at Kunwariya,Rajsamand",
-        "2. S/R to CD on various under PWD Sub Division Padampur under SR Programme 2026-27",
-        "3. Construction of main gate and road of  Chodhary Mallu ram bhabhu Polytechnic Collage  S"
+        "1. Electrification work in  30 Bedded CHC Building and quarters at Taal Deogarh, Rajsamand",
+        "2. CHOKI KA BADIYA ME DANA BABA KE STHAN KE PAAS SARWAJANIK SARYA NIRMAAN BARLA CHODA",
+        "3. Fire Fighting and Fire Detection system work in CHC Building Taal Deogarh,Rajsamand"
       ]
     },
     {
@@ -60,7 +64,7 @@
       "sample_titles": [
         "1. Printing, Preparation, Binding, Serial Numbering, Packing and Delivery of C-Khata / Bla",
         "2. WBMAD/ULB/HM/4137/NIT-2682 Dt-01.10.2026",
-        "3. WBMAD/ULB/KHARAGPURNIT/84eWL_2"
+        "3. WBMAD/ULB/KHARAGPURNIT/84eWL_3"
       ]
     },
     {
@@ -81,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. laying  Of Interlocking Tiles streets in ward no 41.",
-        "2. laying  Of Interlocking Tiles in adjoining old ghalkalan road ward no 43",
-        "3. Laying  Of Interlocking Tiles streets in ward no 41."
+        "2. laying  Of Interlocking Tiles streets in ward no 42.",
+        "3. laying  Of Interlocking Tiles in adjoining old ghalkalan road ward no 43"
       ]
     },
     {
@@ -92,8 +96,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Completion of Hostel building in Mata Parkash kaur Welfare center for persons with spee",
-        "2. Construction of 03 Nos. Pub...",
-        "3. Construction of Hall near Guru Ravidas Choupal in Village Phoosgarh, Karnal (Only for L"
+        "2. Construction of open hall GBNA in Nirmal Vihar Colony, Karnal (Under D-Plan Scheme 2026",
+        "3. Construction of RCC Drain f..."
       ]
     },
     {
@@ -115,7 +119,7 @@
       "sample_titles": [
         "1. Relocation of defunct tube well of 125/115 mm dia with. 90.0 mtrs deep drilled tube wel",
         "2. Relocation of defunct tube well of 125/115 mm dia with. 90.0 mtrs deep drilled tube wel",
-        "3. Relocation of defunct tube well of 125/115 mm dia with. 90.0 mtrs deep drilled tube wel"
+        "3. Relocation of defunct tube well of 300mm dia x 115 mm dia GPT cum drilled tube well 60."
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of 12 no. Safaai karamcharies,1no. Supervisor",
+        "1. Hiring of 27 no. Safaai karamcharies,1no. Supervisor",
         "2. Hiring of 27 no. Safaai karamcharies,1no. Supervisor",
-        "3. Hiring of 27 no. Safaai karamcharies,1no. Supervisor"
+        "3. Hiring of 12 no. Safaai karamcharies,1no. Supervisor"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Maintenance and  Repair of Old Control Room and its Conversion as Store , Speci",
-        "2. Construction of Boundary Wall and  Other Miscellaneous Civil Works at 33/11 KV Sub-Stat",
-        "3. Construction of Store ,Toilet in SDO Room and  Special Maintenance of Old Billing Cente"
+        "1. Construction of Store ,Toilet in SDO Room and  Special Maintenance of Old Billing Cente",
+        "2. Construction of J.E. room, Store room ,Revenue Collection room ,Boundary wall/Fencing a",
+        "3. Construction of Boundary Wall and  Other Miscellaneous Civil Works at 33/11 KV Sub-Stat"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f47e03c6790>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f49349be190>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,7 +168,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procuring high end furniture for Tented Niche Teak at Anappady Campus under Sungam Rang",
+        "1. Procuring high end furniture for Tented Niche Ashokam at Anappady Campus under Sungam R",
         "2. Procuring high end furniture for Tented Niche Jamun at Anappady Campus under Sungam Ran",
         "3. Procuring high end furniture for Tented Niche Sandal at Anappady Campus under Sungam Ra"
       ]
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/O TILEPATH OLD EIDGAH TO JAMAL WAGAY AND OTHERS PYT HALQA YK PORA A BLOCK QAZIGUND",
-        "2. C/O TILEPATH FROM KULGAM ROAD TO H/O GH MOHD TELI PYT HALQA YK PORA A BLOCK QAZIGUND",
-        "3. C/O FENCING AT PUBLIC PARK FATROO NLO MOHD ABAS AHANGAR BLOCK HILLER SHAHABAD"
+        "1. C/O DRAIN FHO NAZIR AHMAD TO ASTANBAL LADH AT SRANSOO PYT HALQA SRANSOO BLOCK QAZIGUND",
+        "2. C/O P BUND NEAR GRAVEYARD RESHIPITA DANGI NLO JAVID AHMAD RESHI BLOCK SHANGUS",
+        "3. C/O IRRIGATION LADH AT LGPORA A BLOCK VESSU"
       ]
     }
   ],
