@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-10-02 09:20:35",
+  "checked_at_utc": "2026-10-02 17:26:31",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. M/o Staff Qtrs at Lawrence Road.",
-        "2. tower dismentaling cbganj and kanman bly",
-        "3. MCW and ARMO Civil Works for FY 2026 27 at FSD Badarpurghat"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RENOVATION OF SERVICE ROAD FROM KM 2.750 TO KM 3.300 OF BARIPUR MR.",
-        "2. RENOVATION OF SERVICE ROAD  FROM KM 9.874 TO KM 10.497 OF DEEGH DY, KM 13.869 TO KM 14.",
-        "3. CONSTRUCTION OF ANGANVADHI KENDRA PRATHMIK PATHSHALA HARRIYA SAHIMPUR VIKAS KHAND-MALLA"
+        "1. Painting of footpath, drain and divider from Kesa Tiraha to Shiv Shakti Apartment and f",
+        "2. Improvement and Horticultural Development in Basant Udyan Sitauted in ward 88 Basant Vi",
+        "3. Improvement work of Precast Boundary wall from LML Chaurahe  to Solid waste Management "
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROVIDING AND FIXING PAVING BLOCKS IN MAHATMA JYOTIBA PHULE NAGAR VILLAGE DEOGAON",
-        "2. RETENDER OF AMRUT 2.0 RAJYA SAROVAR SANVARDHAN YOJANA-  MANGROVE AREA REJUVENATION, DEV",
-        "3. Special Repair to Z.P. Pri Marathi School Building At. Vill. Khadki Tanda  Gp. Tiwari T"
+        "1. Construction of protection compound wall for area under the jurisdiction of Nashik Muni",
+        "2. Proposed Repairing and maintenance of Various Bridges  ulvertsin P.No.1 to 6,in Panchav",
+        "3. Construction of Cement concrete road B S. of Mahadev Mandir, Sharamik Nagar in P.No.09,"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Sub Health Center Building at Nurpur Kheda (Block Tonk), Distt. Tonk.",
-        "2. Construction of Sub Health Center Building at Aliyari (Block Todaraisingh), Distt. Tonk",
-        "3. Construction of SHC at Sujhana District Sikar"
+        "1. Air Conditioning work in  30 Bedded CHC Building at Kunwariya,Rajsamand",
+        "2. S/R to CD on various under PWD Sub Division Padampur under SR Programme 2026-27",
+        "3. Construction of main gate and road of  Chodhary Mallu ram bhabhu Polytechnic Collage  S"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and renovation work of the TIT Complex.",
-        "2. Supply of Food Items Sub Jail Patan",
-        "3. EXPRESSION OF INTEREST (EOI) FOR DESIGN , DEVELOPMENT IMPLEMENTATION OPERATION AND MAIN"
+        "1. CONSTRUCTION OF FEMALE URINAL/TOILET AT DIFFERENT PLACES  IN NAGAR PARISHAD MANPUR DIST",
+        "2. CONSTRUCTION OF CC OVERLAY OVER EXISTING ROAD WARD NO. 07 NAND VIHAR COLONY RAU",
+        "3. Sale Of Disposed Scrap Material Of 1000 M.T. Damaged Godown Of Markfed At Jaitpura Dist"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/ULB/HM/4131/NIT-2676 Dt-01.10.2026",
-        "2. WBMAD/ULB/HM/4130/NIT-2675 Dt-01.10.2026",
-        "3. WBMAD/ULB/HM/4110/NIT-2670 Dt-01.10.2026"
+        "1. Printing, Preparation, Binding, Serial Numbering, Packing and Delivery of C-Khata / Bla",
+        "2. WBMAD/ULB/HM/4137/NIT-2682 Dt-01.10.2026",
+        "3. WBMAD/ULB/KHARAGPURNIT/84eWL_2"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TTPS MechIIBMUnit I II IIIReplacement of wornout platform supports stepfloor grills han",
-        "2. TTPS Mech II BM Unit I Replacement of wornout ESP hopper lower part with hopper door re",
-        "3. TTPSMechIIBMUnit III Reconditioning of PRDS pressure control valve and CBD control valv"
+        "1. 041/2023/A7/2 01/10/2026",
+        "2. 041/2023/A7/1 01/10/2026",
+        "3. TTPS MechIIBMUnit I II IIIReplacement of wornout platform supports stepfloor grills han"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC CCTV Cameras in Gorsian Kadar Baksh Ldh",
-        "2. Disposal of old Bardana",
-        "3. SITC 2 nos. Boom Barrier and Tyre Killer at Gorsian Kadar Baksh Ldh"
+        "1. laying  Of Interlocking Tiles streets in ward no 41.",
+        "2. laying  Of Interlocking Tiles in adjoining old ghalkalan road ward no 43",
+        "3. Laying  Of Interlocking Tiles streets in ward no 41."
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Independent Expert with requisite technical expertise, knowledge and experience in Deve",
-        "2. Providing and laying of sewer line and water supply DI Pipeline near hanuman mandir and",
-        "3. Providing 11 Tractor Trolley and 02 Tractor Loader with driver, diesel and maintenance "
+        "1. Completion of Hostel building in Mata Parkash kaur Welfare center for persons with spee",
+        "2. Construction of 03 Nos. Pub...",
+        "3. Construction of Hall near Guru Ravidas Choupal in Village Phoosgarh, Karnal (Only for L"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SITC of Automatic Sprinkler System, Yard Hydrant, Under Ground Static Storage Water Sto",
-        "2. Construction of Bridge over river Salandi at 1.35km on Bhadrakali Temple to Raghupatibi",
-        "3. Construction of bridge over river Salandi at 1.750Km on L-65 to Deulipal road (Near Bar"
+        "1. Construciion of Bridge over Gahira Khala on Hatigarh to Dhanghera road in the District ",
+        "2. Construction of H.L. Bridge over Kapali river on PMGSY road Biripada to HL Canal via Bi",
+        "3. Construction of H.L. Bridge over Nuanai Nallah on Ghatpur to Ratani road in the Distric"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PRINTING EMPANELMENT",
-        "2. Construction Of 13 Nos Toilet in Anganwari Center Block Kuchai Rajnagar, Chandil Nimdih",
-        "3. 2\tConstruction Work of double unit Toilet and Leach Pit at different school in Saraikel"
+        "1. Relocation of defunct tube well of 125/115 mm dia with. 90.0 mtrs deep drilled tube wel",
+        "2. Relocation of defunct tube well of 125/115 mm dia with. 90.0 mtrs deep drilled tube wel",
+        "3. Relocation of defunct tube well of 125/115 mm dia with. 90.0 mtrs deep drilled tube wel"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Operation and Management of Glass deck/Pathway of Bajrang Setu (132 m Span) over the Ga",
-        "2. Construction of 02 nos Store , approach Road and  Other Civil works at 33/11 KV Substat",
-        "3. 18/2026-27/EE/PCM(GV)/Mayapur"
+        "1. Special Maintenance and  Repair of Old Control Room and its Conversion as Store , Speci",
+        "2. Construction of Boundary Wall and  Other Miscellaneous Civil Works at 33/11 KV Sub-Stat",
+        "3. Construction of Store ,Toilet in SDO Room and  Special Maintenance of Old Billing Cente"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fd229cb9e10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f47e03c6790>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -158,8 +154,8 @@
       "status": "ok",
       "sample_titles": [
         "1. CONSTRUCTION OF AIDEW HANDIKOI SANSKRITIK PRAKALPA AT BOKAKHAT TOWN UNDER MPLADS (R/S) ",
-        "2. A/E measures to protect village Tokeamari-II and its adjoining areas from the erosion o",
-        "3. A/E Measures to protect Desang Bund Right Bank from Bahgarh to AT Road at Deroimukh Koi"
+        "2. A/E measures to protect Mahakal Mandir at Kashipur area on L/B of river Borak.",
+        "3. A/E measures to protect village Tokeamari-II and its adjoining areas from the erosion o"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OTHUKUNNU VAYAL ROAD RETARRING",
-        "2. PADIKKIL VALIYAPOYIL ROAD RETARRINGPADIKKIL VALIYAPOYIL ROAD RETARRING",
-        "3. CONSTRUCTION OF MINI MCF IN DIFFERENT WARDS IN PILICODE GP UNDER ANNUAL PLAN"
+        "1. Procuring high end furniture for Tented Niche Teak at Anappady Campus under Sungam Rang",
+        "2. Procuring high end furniture for Tented Niche Jamun at Anappady Campus under Sungam Ran",
+        "3. Procuring high end furniture for Tented Niche Sandal at Anappady Campus under Sungam Ra"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Desilting of Ganie Khul Mir Danter Canal from RD 0-2500 mtrs at spots",
-        "2. Construction of lining wall on right side and Bed treatment of Shah 1st near RD 1100 mt",
-        "3. Construction of lining wall on right side of Vailoo Ladi from RD 580 mtrs to 700 mtrs a"
+        "1. C/O TILEPATH OLD EIDGAH TO JAMAL WAGAY AND OTHERS PYT HALQA YK PORA A BLOCK QAZIGUND",
+        "2. C/O TILEPATH FROM KULGAM ROAD TO H/O GH MOHD TELI PYT HALQA YK PORA A BLOCK QAZIGUND",
+        "3. C/O FENCING AT PUBLIC PARK FATROO NLO MOHD ABAS AHANGAR BLOCK HILLER SHAHABAD"
       ]
     }
   ],
