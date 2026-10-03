@@ -1,19 +1,27 @@
 {
-  "checked_at_utc": "2026-10-03 15:43:48",
+  "checked_at_utc": "2026-10-03 20:36:43",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. C/O GOs MESS G plus 1 AT BN HQ KLP BAISHNAVNAGAR UNDER SHQ BSF BHP.",
+        "2. CONSTRUCTION OF QUARTER GUARD G plus 1 AT BN HQ KLP BAISHNAVNAGAR UNDER SHQ BSF BHP.",
+        "3. SITC of surface light in common area and mirror light in Badminton of Hall 6 at IIT Kan"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. GRAM PANCHAYAT SAICHANA ME AMBEDKAR PARK KA BOUNDRIWALL AND SUNDARIKARAN KARY",
+        "2. Magh Mela 2026-27 hetu Kali Pantoon Pul pahuch Marg ke Nirmad Rakh Rakhaw ewam Dismentl",
+        "3. CONSTRUCTION OF ANGANBADI CUM LIBRARY IN VILLAGE SINGHAI SOUTH"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -32,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. \tHand Pump installation work in all the gram panchayat under panchayat samiti bonli",
-        "2. SAFAI WORK JONE 03",
-        "3. SAFAI WORK JONE 05"
+        "1. SAFAI WORK JONE 02",
+        "2. Wall Painting in Ajmer and Bewar District.",
+        "3. SAFAI WORK JONE 01"
       ]
     },
     {
@@ -43,17 +51,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REQUEST FOR PROPOSAL FOR DISPOSAL OF MORTGAGED RESIDENTIAL PLOTS IN ISHA CORRIDOR COLON",
-        "2. WW/CW/Painting  work of  F, G, H Type and Other Sections of Govt. qtrs. in  Sect. No. 4",
-        "3. AR/SR/Anurakshan  work of  C Type Govt. Resi. bunglow  and other Section Govt. qtrs. in"
+        "1. WW/CW/Painting  work of  F, G, H and I Type of  Govt. qtrs . and Other Sections Residen",
+        "2. MOW/AR/SR/Anurakshan work of  Various Govt. Residence  under M-2 Sub Division, PWD Bhop",
+        "3. WW/CW/Painting work of  B, C and D Type Govt. Resi. bunglow  and other bunglow in  Sect"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Supply, Erection, Testing  and Commissioning of Control and Relay Panel for 220 132 KV,",
+        "2. Annual Contract for Regular Cleaning and Operational Assistance of Coal Handling Plant ",
+        "3. 8. Repairing of pump motor of Deep Tube Wells at Bagpara Padma Pukur, Ward-23 under Ris"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -61,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing pipe line connection between OHT to existing distribution Line system at 1. C",
-        "2. Surface Coating of PMC2 Dryer Felt roll  (Dia.506MM, FL-7320 MM",
-        "3. Procurement of Hydraulic Main Pump for Sennebogen Wood Grab, Bosch Rexroth make"
+        "1. Surface Coating of PMC2 Dryer Felt roll  (Dia.506MM, FL-7320 MM",
+        "2. Procurement of Hydraulic Main Pump for Sennebogen Wood Grab, Bosch Rexroth make",
+        "3. Providing pipe line connection between OHT to existing distribution Line system at 1. C"
       ]
     },
     {
@@ -72,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/F 60mm Thick Interlocking Tiles on Streets of w-29",
-        "2. P/L 60mm Thick Interlocking Tiles on Different Streets of Preet Nagar and shri Guru Cha",
-        "3. Supply of Baricades for systematic flow of traffic moga"
+        "1. P/L 60mm Thick Interlocking Tiles on Different Streets of Preet Nagar and shri Guru Cha",
+        "2. Supply of Baricades for systematic flow of traffic moga",
+        "3. Laying 60mm Thick Interlocking Tiles Nachhatar Singh Teacher Colony gali no. 2,3,23,22,"
       ]
     },
     {
@@ -83,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Khejdi plantation works in Balsamand Block",
-        "2. Job No 10 A/mtc of L/s work in .......",
-        "3. Requirement of additional 20 JCB for implementation of better sanitation services, in M"
+        "1. Requirement of additional 20 JCB for implementation of better sanitation services, in M",
+        "2. Plants purchase for Air port Plantation",
+        "3. Khejdi plantation works in Balsamand Block"
       ]
     },
     {
@@ -94,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of Atal Bus Stand (C Type) at Gobindapur Town Unit-II (Dumeramundabada) Under Ba",
+        "1. Const. of Atal Bus Stand (C Type) at Lakhanpur Under Lakhanpur Block, Jharsuguda",
         "2. Cluster for Const. of Atal Bus Stand (A Type) at Sanapalla Under Khurdha Municipality B",
-        "3. Const. of Atal Bus Stand (A Type) at Hatiatangar Bhairabpur Unit-7 Under Keonjhargarh B"
+        "3. Const. of Truck Terminal (Boundary Wall and Land Development) at Panchapada, Jharsuguda"
       ]
     },
     {
@@ -107,7 +119,7 @@
       "sample_titles": [
         "1. Construction of Road from Pathardih Coal Washrey C Type CISF Inspector House to Ravindr",
         "2. 267/PR/JBVNL/26-27",
-        "3. 268/PR/JBVNL/26-27"
+        "3. 257/PR/JBVNL/26-27"
       ]
     },
     {
@@ -118,7 +130,7 @@
       "sample_titles": [
         "1. Restoration of rain damage to WSS Kushmal Bhagotla in Tehsil Palampur Distt. Kangra H P",
         "2. Balance work for the Construction of Multistory Parking at Ramleela Ground Reckong Peo ",
-        "3. Restoration of rain damages to WSS Jana GP Jana in Tehsil  Distt Kullu HP Providing wel"
+        "3. Construction of link road from Siyun to Siyun Khadd Km 0/0 to 2/500"
       ]
     },
     {
@@ -129,14 +141,14 @@
       "sample_titles": [
         "1. Renewal work by the plant through PC at km 1, 2, 3 and 4 of Nalapani Khalanga to Maldev",
         "2. Supply and installation of traffic barricades under Kumbh Mela-2027.",
-        "3. Construction work of temporary steel pile girder motor bridge adjacent to the under-con"
+        "3. SUPPLY OF 3 NOS 33/0.4KV 1000 KVA BIS MARK EEL2 NEW COPPER WOUND DTR"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f860def09d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9b7bd9e1d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -156,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-(2026-27) Porur Grama Panchayat, Pr.No.169/27, Construction of Ankappoyil P",
-        "2. ALIPARAMBA GP 200/26-27 NEELANCHERIPPADI THIRUTHILTHODU ROAD NAVEEKARANAM",
-        "3. ALIPARAMABA GP 193/26-27 Koombampara Chirayilpadam road concreting - ward 13"
+        "1. ALIPARAMBA GP 384/26-27 ERUMATHADAM NEERITILI ROAD MAINTANANCE-",
+        "2. ALIPARAMBA GP 198/26-27 KOTTA MOOCHIKKUNN ROAD CONCRETING - WARD 22-",
+        "3. ALIPARAMBA GP 88/26-27 Dring water project for Buds School"
       ]
     },
     {
@@ -167,8 +179,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Extension of Varandah at main building of the Honble CM residence at Wazarat Road, Jamm",
-        "2. Development of Eco-tourism Park in Co. 113/N Nowshera of Nowshera Forest Range of Nowsh",
+        "1. Restoration of Shoolipora Pursoo Roads",
+        "2. Restoration of Wara Sagam Roads",
         "3. Macadamization of Asso Chachal road Km.1st to 3rd (Under City and Town) (Capex Budget 2"
       ]
     }
