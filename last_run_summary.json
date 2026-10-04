@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-04 16:25:54",
+  "checked_at_utc": "2026-10-04 20:52:24",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF QUARTER GUARD G plus 1 AT BN HQ KLP BAISHNAVNAGAR UNDER SHQ BSF BHP.",
-        "2. C/O GOs MESS G plus 1 AT BN HQ KLP BAISHNAVNAGAR UNDER SHQ BSF BHP.",
-        "3. SITC of surface light in common area and mirror light in Badminton of Hall 6 at IIT Kan"
+        "1. Improvement of TS Barracks being used as Jawan Barrack near gate no 04 at BSF Campus Am",
+        "2. M/o completed scheme under NA-II Hort. Zone.",
+        "3. C/O GOs MESS G plus 1 AT BN HQ KLP BAISHNAVNAGAR UNDER SHQ BSF BHP."
       ]
     },
     {
@@ -18,7 +18,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dr Bheem Rao Ambedkar Murti Vikas Yojna ke antargat Kshatrapati Sahuji Mahraj Pratima B",
+        "1. Dr Bheem Rao Ambedkar Murti Vikas Yojna ke Antargat B R Ambedkar Pratima Sisav Andupur ",
         "2. Dr Bheem Rao Ambedkar Murti Yojna ke Antargat Dr B R Ambedkar Pratima Parsahna Ka Saund",
         "3. Dr Bheem Rao Ambedkar Murti Yojna ke Antargat Dr B R Ambedkar Pratima Kotha Bhitri Ka S"
       ]
@@ -52,8 +52,8 @@
       "status": "ok",
       "sample_titles": [
         "1. AR/SR/Anurakshan  work of  B Type Govt. Resi. bunglow  and other Section Govt. qtrs. in",
-        "2. MOW (Strutural Wrok) and Other work of  Govt. Resi. Qtrs. in Section No. 20 under RTC S",
-        "3. WW/CW/Painting work of  B Type Govt. Resi. bunglow  and other bunglow in  Sect. No. 1, "
+        "2. REQUEST FOR PROPOSAL FOR DISPOSAL OF MORTGAGED RESIDENTIAL PLOTS IN ISHA CORRIDOR COLON",
+        "3. WW/CW/Painting work of  B, C and D Type Govt. Resi. bunglow  and other bunglow in  Sect"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Contract for Regular Cleaning and Operational Assistance of Coal Handling Plant ",
-        "2. Supply, Erection, Testing  and Commissioning of Control and Relay Panel for 220 132 KV,",
-        "3. 5.Repairing and lifting lowering of pump motor of Lalkuthi Deep Tube Well at ward no.-1"
+        "1. Supply, Erection, Testing  and Commissioning of Control and Relay Panel for 220 132 KV,",
+        "2. Annual Contract for Regular Cleaning and Operational Assistance of Coal Handling Plant ",
+        "3. Maintenance Contract for 03 months period for Room AC machines at Plant and TShip under"
       ]
     },
     {
@@ -73,8 +73,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Hydraulic Main Pump for Sennebogen Wood Grab, Bosch Rexroth make",
-        "2. Surface Coating of PMC2 Dryer Felt roll  (Dia.506MM, FL-7320 MM",
+        "1. Surface Coating of PMC2 Dryer Felt roll  (Dia.506MM, FL-7320 MM",
+        "2. Procurement of Hydraulic Main Pump for Sennebogen Wood Grab, Bosch Rexroth make",
         "3. Providing pipe line connection between OHT to existing distribution Line system at 1. C"
       ]
     },
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and Fixing open air gym at Kothe Patti Mahhobat.",
-        "2. P/L 60mm Thick Interlocking Tiles in various Streets of Kothe Patti Mohabbat and other ",
-        "3. P/F 60mm Thick Interlocking Tiles on Streets of w-29"
+        "1. Repair and Laying 60mm Thick Interlocking Tiles in Shri Guru Chander Nagar and others s",
+        "2. Supply and Fixing open air gym at Kothe Patti Mahhobat.",
+        "3. Laying  Of Interlocking Tiles Back Side Cambrige International School and various stree"
       ]
     },
     {
@@ -97,15 +97,19 @@
       "sample_titles": [
         "1. Job No 10 A/mtc of L/s work in .......",
         "2. Various Spares for Chemical division",
-        "3. Job No 9 A/mtc of L/s work in.... ..."
+        "3. Khejdi plantation works in Balsamand Block"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Devlopment of Durga Temple  at  in ward no 9",
+        "2. Devlopmentof of open space near school in ward no 12",
+        "3. DEVELOPMENT OF TRIJANGA PARK IN WARD NO3"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -114,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Road from Pathardih Coal Washrey C Type CISF Inspector House to Ravindr",
-        "2. 268/PR/JBVNL/26-27",
-        "3. 267/PR/JBVNL/26-27"
+        "2. 267/PR/JBVNL/26-27",
+        "3. 257/PR/JBVNL/26-27"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Gramin Hatt Near New Bus Stand at Kunihar in Gram Panchyat Hat Kot Up-T",
-        "2. Construction of Govt. Senior Secondary School (Boys) at Kunihar Tehsil Arki, District-S",
-        "3. Restoration of rain damage to WSS Kushmal Bhagotla in Tehsil Palampur Distt. Kangra H P"
+        "1. Construction of Govt. Senior Secondary School (Boys) at Kunihar Tehsil Arki, District-S",
+        "2. Construction of Gramin Hatt Near New Bus Stand at Kunihar in Gram Panchyat Hat Kot Up-T",
+        "3. Balance work for the Construction of Multistory Parking at Ramleela Ground Reckong Peo "
       ]
     },
     {
@@ -137,14 +141,14 @@
       "sample_titles": [
         "1. Renewal work by the plant through PC at km 1, 2, 3 and 4 of Nalapani Khalanga to Maldev",
         "2. Supply and installation of traffic barricades under Kumbh Mela-2027.",
-        "3. For Increasing Capacity Transformer"
+        "3. SUPPLY OF 3 NOS 33/0.4KV 1000 KVA BIS MARK EEL2 NEW COPPER WOUND DTR"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f630bd07550>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f344ca96250>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -161,13 +165,9 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Annual Plan-(2026-27) Porur Grama Panchayat, Pr.No.381/26, Improvements to Karakkad Ang",
-        "2. Supply of equipment, accessories, tools and other materials for the erection, maintenan",
-        "3. Annual Plan-Annual Plan-(2026-27) Porur Grama Panchayat, Pr.No.242/27 ,Govt Homeo Dispe"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -176,7 +176,7 @@
       "status": "ok",
       "sample_titles": [
         "1. OPERATION and MAINTENANCE OF THE  PROJECT POLLUTION ABATEMENT OF RIVER DEVIKA and RIVER",
-        "2. CONSTRUCTION OF R WALL AT TAHAB SADIPORA STARTING FROM THE LO HAJRA BANOO TO THE LO GUL",
+        "2. Construction of Niabat office Batamaloo Srinagar.",
         "3. Macadamization of Bani Dhaggar road Km.5th  to 6th (Under City and Town)    (Capex Budg"
       ]
     }
