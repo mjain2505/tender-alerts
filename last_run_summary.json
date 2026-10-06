@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-05 21:49:40",
+  "checked_at_utc": "2026-10-06 04:46:23",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Stationery, Photocopy, and Binding Services Shop at NIT Warangal Campus",
-        "2. Renovation of Electrical Installations i/c provision of fan, fittings, Computer points,",
-        "3. TENDER FOR SUPPLY, INSTALLATION, TRAINING AND COMMISSIONING OF  PMSG WIND TURBINE EMULA"
+        "1. River bank protection work in Rakh village, situated along the Ravi River",
+        "2. Conservation of water bodies under Rohini Zone",
+        "3. repair and renovation of 10 kwp solar power plant at bop sumer nagar under 39 Bn ssb pa"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of interlocking road and drain from Lautan house via Santlal, Ram Shekhar ",
-        "2. Development of Ramleema Park Near By Kadkad Gao In Sahibababd Site-4, Ghaziabad",
-        "3. Construction of interlocking road and retaining wall from front of Lakhan Pal house to "
+        "1. Supply and Boring Work",
+        "2. Lot-23-Maharajganj Bela pmgsy Marg per kotiya chaurahe se kotiya bhaiya Purva Tak sampa",
+        "3. Scraping and jungle clearance of Rasin Left main canal from km 0.00 to 5.800 km (Lot-6)"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Appointment of Project Management Consultancy for the work of Design and Construction o",
-        "2. Improvement of Passage and Drainage System at Arjun Chawl Nehru Nagar Vile parle west i",
-        "3. Imp of pathway and drainage line at gully no 16 at GMN part 3 in beat no 226 in A ward"
+        "1. (100999) Beautification of Riksha Stand Area at Sector-6, Ward no-9(A) in Ghansoli Ward",
+        "2. (101001) Improvement of Pathway near Trimurti CHS and Akshay CHS, Sector-4, Ward no-9 (",
+        "3. (101007) Repairing of Annasaheb patil Udyan Main Entry gate at Sector-4, Ward no-9 (D) "
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation of Two Cottages at HCM RIPA, Jaipur (Including Electrical work)",
-        "2. Navsrijit Panchayat Samiti Charbhuja mukhyalay Gadbor ke asthai karyalay bhawan (Mahatm",
-        "3. CONSTRUCTION OF DRAIN WORK FROM MUNNA LAL NAGAR KE MAKAN SE RAMU MAHAWAR, MOTI LAL RESW"
+        "1. CONSTRUCTION OF NEW BUILDING AT GPS JOJRIYA BLOCK- SAYRA DISTRICT- UDAIPUR",
+        "2. CONSTRUCTION OF NEW BUILDING AT GSSS PANER BLOCK- SAYRA DISTRICT- UDAIPUR",
+        "3. CONSTRUCTION OF NEW BUILDING AT GGSSS PALA KALAN BLOCK- KHEMLI DISTRICT- UDAIPUR"
       ]
     },
     {
@@ -51,17 +51,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Supplying Mini Excavator Having Minimum Operating Weight 3.5 Town at Kemo",
-        "2. Supply of cattle catcher vehicle at vidisha municipality",
-        "3. Procurement of 5 HP, 7.5 HP and 12.5 HP submersible and monoblock dewatering pumps for "
+        "1. Construction of Semi Urban Thana Gaurihar Dist Chhatarpur",
+        "2. Regarding purchase of machinery as per attachment for 08 nos. fish parlors constructed ",
+        "3. DEVELOPMENT OF PARK AT SHANTI NAGAR WARD NO 18 NEAR R V MEHRA AND DR SANTOSH KUMAR HOUS"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://wbtenders.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. LT DIST BOX 3PH CON WH ST STRAP AND BUCKLE ABC",
+        "2. Carriage of Furnitures form the Joinery and Carpentary Unit of the Marketing Range, GM ",
+        "3. RM/24-PGNS(S)/Civil/ e-Tender/2026-27/06  Date 28.09.2026"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of New Sub Registrar Office Building at Perungalur in Pudukkottai District",
-        "2. Construction of Bus Shelter at Nathakottai  Village in Nagarikathan Panchayat",
-        "3. Special repairs to Painting doors and windows in Judicial Magistrate 1 Quarters at Poon"
+        "1. Providing paver Block Arrangements at Panchayat Office Front Portion in Keelamudiman Vi",
+        "2. Providing New Borewell (150mm Dia), 5HP Motor and Extension of Pipe Line Arrangements (",
+        "3. Additional Work of Panchayat Office Building at Keelamudiman Village and Panchayat"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DNT for Construction of 3600 KLD Capacity RCC Underground Clear Water Reservoir (UGSR) ",
-        "2. ESTIMATE  FOR  LAYING  PIPELINE  OF BAHADUR  KHERA  MINOR  FROM  RD 0-3670",
-        "3. Hiring of milk powder plants having surplus milk conversion capacity in the range of 01"
+        "1. Construction of Gymnasium Building Mohalla Gazipur at MC Adampur",
+        "2. Construction of Shed at the Cremation Ground Mohalla Gazipur at MC Adampur",
+        "3. Replacement of damaged sewerage pipes and construction of manhole chambers at Khai moha"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of synthetic track by providing and fixing tensile roofing shed on warm up ",
-        "2. Construction of shed for material recovery facilities (MRF) in MDU Rohtak",
-        "3. Providing and fixing of interlocking paver blocks on Way/road to solid waste management"
+        "1. Shifting 0f 2 nos 66kV Line...",
+        "2. ADDITIONAL WORKS AT CIVIL ENCLAVE AT AMBALA FOR COMMENCEMENT OF FLIGHT OPERATIONS UNDER",
+        "3. Estimate for white washing,..."
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. S/R such as fixing of UPVC windows to quarters and construction of cubicle meant for in",
-        "2. Repair and renovation of Govt Boys High School Building at Kotpad Buildings.",
-        "3. S/R such as repair and renovation work at Chandanbada High School, Jeypore Buildings."
+        "1. Repair of Internal Electrical and PH works of FIAC, Badamba",
+        "2. Construction of 07(Seven) nos of Recharge Shafts in Jaleswar Block of Baleshwar Distric",
+        "3. Restoration to Rushikulya Main Canal from village Bahadaguda to Sunamuhi   (RD 13800 m "
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF HL RCC BRIDGE BETWEEN VILLAGE BARAMURLIDUM AND DAHUJOR IN DUMKA BLOCK D",
-        "2. CONSTRUCTION OF HL RCC BRIDGE OVER JORIYA AT VILLAGE DURGADIH BETWEEN DURGADIH AND JITP",
-        "3. CONSTRUCTION OF HL RCC BRIDGE OVER NUNBIL RIVER BETWEEN ASTAJORA AND BELIYAJOR UNDER KU"
+        "1. Supply of foods, Green Vegetable Food Grains , fruits and other various materials in Di",
+        "2. Supply of tools, machines, and equipment under the State Scheme Development of Handicra",
+        "3. CONSTRUCTION OF P.C.C. ROAD FROM BAGHMARA SINDRI MUKH ROAD TO KUWARDIH SACHIN KARAMKAR "
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages to various WSS Flow Irrigation Scheme under Jal Shakti Sub ",
-        "2. Restoration of rain damage to Flow Irrigation Scheme Gran di Kuhl in Tehsil Palampur Di",
-        "3. Flow Irrigation Scheme Ronki Kuhl in Tehsil Palampur Distt. Kangra H P"
+        "1. A/R and M/O residential accommodation at Changer Sector Bilaspur",
+        "2. Providing and fixing split AC and stabilizer for Division No.1 Bilaspur.",
+        "3. Restoration of Rain Damages on Various Roads Under HPPWD Sub Division Bangana."
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. UPGRADATION OF BRIDGE FROM SINGLE LANE TO TWO LANE SILKYARA BANGAWN CHAPDA SAROT MOTAR ",
-        "2. Upgradation work of 15 meter RCC Bridge for one lane to two lane at Km 26 of Badethi-Ba",
-        "3. Supply of 25 quick response team vehicles"
+        "1. Earthing of Power TF and VCB Panel",
+        "2. For Increasing Capacity Transformer",
+        "3. Maintenance and repair of 11 KV HT/LT lines under chinimill substion Gadarpur"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0d46b96d50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3e1ece9a10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Parallel Rate Contracts For Engagement Of Firms/Agencies To Provide Event Management Se",
-        "2. Engagement of Transporter for providing Insulated Vehicle",
-        "3. Township Road, Drain and Associated Utilities at AVFCCL"
+        "1. Overhauling of BPCL Make Gas Booster Compressor Unit No. #1 along with the supply of re",
+        "2. Supply of Solar Street Light",
+        "3. Construction of Integrated Public Health Laboratory at 100 bedded MCH wing (Paruwa) in "
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Malappuram DP (2026-27), Project No 91-27 -Improvements for Alungal Neelith",
-        "2. Annual Plan-Malappuram DP (2026-27), Project No 1216-27 -Maintenance for GVHSS Vengara ",
-        "3. Annual Plan-Malappuram DP (2026-27), Project No 443-27 -Kozhissery Kunnu SC Nagar Samag"
+        "1. Vorkady GP  Proj No 63 2026 27  NACHADAPADVU PALDAR ROAD WARD 5",
+        "2. Vorkady GP Proj No 44 2026 27 DAIGOLI VANINAGAR ROAD IMPROVEMENT WARD 12",
+        "3. SUPPLY INSTALLATION  TESTING AND COMMISSIONING OF 08MTR LOW MAST WITH 05 NOS OF 150W LE"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement Development of Panzwath road at Kanigund",
-        "2. Construction of Drain from house of Mohd Yaseen Sheikh to land of Latief Tantray Pir at",
-        "3. Fencing around Masjid Ibrahim Wani Mohalla at Churumujroo"
+        "1. Extraction of firewood from Compartments 18/SL, 19/SL, 21/SL, 23/SL, 24/SL, 26/SL, 29/S",
+        "2. Extraction of firewood from Compartments 17/Mtl, 33/Mtl, 38/Mtl, 42/Mtl, 43/Mtl. and 45",
+        "3. Repair/Renovation of 10000Gln GSR at Dandi Pyt. Tanger and construction of Valve Pit un"
       ]
     }
   ],
