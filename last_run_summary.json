@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-06 12:43:58",
+  "checked_at_utc": "2026-10-06 19:59:35",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair Renovation and Replacement of Pipeline, Flooring etc in Flat No 6, 7 and 9  at P",
-        "2. Replacement of rusted/damaged power distribution panel, faulty power cable and allied w",
-        "3. Comprehensive Annual Maintenance Rate Coontract of HVAC Equipment and installations and"
+        "1. CONSULTANCY SERVICES FOR IE FOR 4-laning of Cuncolim to Bendordem (Including Cuncolim b",
+        "2. Repair/ maint of external water pipe line with connected wks at Jwalamukhi Grn.",
+        "3. SR TO CONSERVATION OF ADINATH JAIN And AMBIKA DEVI TEMPLE COMPLEX AT RUINED FORT DISTRI"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Road construction work using cement concrete (CC) on the main road of Ward 36, Yamunana",
-        "2. Construction of a CC road in Ward-67, from Nandan Cinema to Shanta Smarak School.",
-        "3. Construction of a Meter Room for releasing an electricity connection of 3287 KW load to"
+        "1. Construction of RCC Central verge on 45.0m wide road in sector Techzone-2, Greater Noid",
+        "2. Repairing of DSC road near Boysen Co. and Mastic Asphalt wearing course at different lo",
+        "3. Gram Nagla masand block s.rau men pappu ke ghar se mukhya marg kee tataf interlocking c"
       ]
     },
     {
@@ -29,21 +29,34 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of Pathways and Drainage System at Room no. 1126 Shree Shekhar Atmaram Hous",
-        "2. Renovation to Entrance Gate",
-        "3. Chandivali Vidhansabha beat no.159 L Ward"
+        "1. BEAT NO. 209",
+        "2. Improvement of Footpath and SWD Drain at Nobel Chemist Swami Smarth Metro Stationin bea",
+        "3. Beat No 173 Councillor Fund"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Package - 2",
-        "2. Elisa Reader and Washer",
-        "3. Package - 4"
-      ]
+      "tenders_seen": 0,
+      "status": "0 results (check URL / site structure)",
+      "sample_titles": [],
+      "diagnostic": {
+        "final_url": "https://eproc.rajasthan.gov.in/nicgep/app",
+        "status_code": 200,
+        "html_length": 2584,
+        "page_title": "eTender System",
+        "total_links_on_page": 2,
+        "sample_links": [
+          {
+            "text": "«Click here to Re-Login »",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "«For Further Information Please Contact HelpDesk »",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          }
+        ]
+      }
     },
     {
       "name": "Madhya Pradesh",
@@ -51,9 +64,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Aatisbazi on Festival of Vijaydasmi Dashara Festival  Itemvais Rate Tender",
-        "2. Construction Of Teen Shed Work At Muktidham Ward No 07, Lakhnadon",
-        "3. Construction of 1 No. 33 KV Feeder Bay at 132 KV Substation Maksi for providing power s"
+        "1. On Turnkey Basis Construction of Chitkana Barrage, as per detailed scope of work but no",
+        "2. Construction work of District Institute of Education and Training COE at Dist. Ujjain M",
+        "3. Construction work of District Institute of Education and Training COE at Dist. Shahdol "
       ]
     },
     {
@@ -62,9 +75,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AIC/AED/NIeT-184/26-27/Gr_3",
-        "2. AIC/AED/NIeT-182/26-27/Gr_4",
-        "3. AIC/AED/NIeT-184/26-27/Gr_4"
+        "1. WBMAD/GHATAL/NIT-9e/2026-27, sl2",
+        "2. 545/HIDCO/GMIV/EOI-03/26-27",
+        "3. WBMAD/UM/126/e-Tender/2026-27 SL 15"
       ]
     },
     {
@@ -73,9 +86,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hydrogen Seal Ring for shaft assembly",
-        "2. Fabrication and erection of shed for Sulphuric Acid Dosing System in TM#5 Plant at TNPL",
-        "3. Purchase of Arbitrary Function Generator (AFG)"
+        "1. Upgradation The Road From Kurunikulathupatty to Kalathupatty Road R 258 Km 1/0-1/1",
+        "2. Security Services",
+        "3. ESP cleaning by water washing in Power Boiler # 1 - 7 at Energy Dept"
       ]
     },
     {
@@ -84,9 +97,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Conversion of Old Sodium light into LED Street light in zone A and B of MC Phagwara",
-        "2. Estimate for Rehabilitation of Feeder No.1 from RD 14000 to 27801",
-        "3. Providing and Installing Rig Bore Tubewell at Santokhpura Mohalla Phagwara Distt. Kapur"
+        "1. Estimate for restoration of water course at outlet RD 42500/R of Ibban Minor by laying ",
+        "2. Estimate for restoration of water course at outlet RD 40500/R of Ibban Minor by laying ",
+        "3. PROVIDING/RENOVATION OF PUBLIC HEALTH SERVICES AND PROVIDING KITCHEN EQUIPMENTS IN THE "
       ]
     },
     {
@@ -95,32 +108,41 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Internal clearance and remo...",
-        "2. A/Mtc. of Staff Quarter at ...",
-        "3. Remodeling/Rehabilitation of lining of watercourse at outlet RD 8000/R Basra Sub Minor "
+        "1. Providing and fixing of decorative Pole with lights on various Park under Ward No. 12 a",
+        "2. Shifting of 9 mtr. Pole and High Mast Light Ward no.9 Municipal Corporation Karnal. (On",
+        "3. Providing and fixing of decorative Pole with lights from Purani Janata anaaj Mandi Khat"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. CONSTRUCTION OF KORAPUT COFFEE AND MILLET SHAKTI OUTLET AT CHANDILI GATE AT KOTPAD UNDE",
-        "2. CONSTRUCTION OF DINING HALL FOR BOYS AT ALMONDA UPS UNDER BANDHUGAON BLOCK.",
-        "3. CONSTRUCTION OF ADIVASI SANSKRUTI BHAWAN DASAMANTHPUR UNDER DASAMANTHPUR BLOCK."
-      ]
+      "tenders_seen": 0,
+      "status": "0 results (check URL / site structure)",
+      "sample_titles": [],
+      "diagnostic": {
+        "final_url": "https://tendersodisha.gov.in/nicgep/app",
+        "status_code": 200,
+        "html_length": 2581,
+        "page_title": "eTender System",
+        "total_links_on_page": 2,
+        "sample_links": [
+          {
+            "text": "«Click here to Re-Login »",
+            "href": "/nicgep/app?service=restart"
+          },
+          {
+            "text": "«For Further Information Please Contact HelpDesk »",
+            "href": "/nicgep/app?page=FrontEndContactUs&service=page"
+          }
+        ]
+      }
     },
     {
       "name": "Jharkhand",
       "state": "Jharkhand",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of Fifty Bedded Scheduled Caste SC Girls Hostel G PLUS 1 in the Campus of ",
-        "2. Construction of Fifty Bedded Scheduled Tribes ST Girls Hostel G PLUS 1 in the Campus of",
-        "3. Infrastructure Upgradation Work at JAP-IT, Engineering Hostel No-01, HEC, Dhurwa, Ranch"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://jharkhandtenders.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Himachal Pradesh",
@@ -128,39 +150,39 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Providing Sewerage System to Ribba Village in Tehsil Moorang Distt Kinnaur HP",
-        "2. Construction of Ambulance road from village Bharadta to Badhera P.O. Gwalpather  km 0/0",
-        "3. Link road from Gref Junction to Mall road at Killar Km 0/0 to 2/500"
+        "1. Operation and Maintenance of LWSS Sirdi Sai Baba in Tehsil and Distt. Hamirpur HP",
+        "2. Operation and Maintenance of LWSS Jhanjhiani and Balhi Sugal Mushlana in Tehsil Barsar ",
+        "3. Operation and Maintenance of LWSS Maharal Dakhyora 1st Phase and 2nd Phase in Tehsil Ba"
       ]
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of 10 Nos of C.C.chekdams and water Conservation work at the head of 10 ca",
-        "2. Construction of 10 Nos of C.C.chekdams and water Conservation work at the head of 10 ca",
-        "3. Maintenance and repair work of Ranibagh IH"
-      ]
+      "tenders_seen": 0,
+      "status": "0 results (check URL / site structure)",
+      "sample_titles": [],
+      "diagnostic": {
+        "final_url": "https://uktenders.gov.in/Announcement.html",
+        "status_code": 200,
+        "html_length": 1681,
+        "page_title": "Under Maintenance",
+        "total_links_on_page": 0,
+        "sample_links": []
+      }
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9fefbaa310>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fce0e792a10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. GUWAHATI UG CABLING PROJECT UNDER RDSS",
-        "2. Const. of 1 km ICBP road at Bathoupuri from Pranab Baro house to Kamleswar Mushahary ho",
-        "3. Construction of Additional Classroom at Nartap ME School, Dimoria District- Kamrup(M) u"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://assamtenders.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Kerala",
@@ -168,21 +190,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-2026-27 AKKAPPARAMBU MADAPULLY ROAD RETARRING IN WARD 12 OF THIRUVILWAMALA ",
-        "2. (17) Prjno 321/26-27 Varikkachal Vayanasala Perul Road Tarring and Cross Drainage",
-        "3. KONNATHADI GP WORKS 2026-2027 Fencing In Ayurveda Hospital"
+        "1. Annual Plan-2026-27-Project No 704/27, Resolving water logging on Kalambadi Usthad road",
+        "2. GENERAL-2026-27-Improvement works to Alukkal Anganavadi in ward 01 of Malappuram Munici",
+        "3. Annual Plan-Malappuram Municipality 2026- 27 P No. 676-Manalthodi Pumphouse Road Concre"
       ]
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. CONSTT OF P/ WALL NHO TARIQ AHMED BOHROO S/O SHAMS DIN BOHROO GUDAR W NO 7",
-        "2. Construction of Ghat (Yarbal) near Jamia Masjid Sharief Athkharoo Gundrosha Rabitar Blo",
-        "3. C/O Irrigation Koul from Hajibal  to Garbaldagi phase 2nd  Year 2026-27 Block Tangmarg "
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://jktenders.gov.in/nicgep/app",
+      "sample_titles": []
     }
   ],
   "new_matches_found": 0
