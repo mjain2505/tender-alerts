@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-10-07 09:46:49",
+  "checked_at_utc": "2026-10-07 18:25:54",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Digital Storage Oscilloscope 4 Channels, Current Probe and Differential Probe",
-        "2. Maintenance of various sports complexes/Golf courses (A/R and M/O of works at DDA Lake ",
-        "3. Purchase of Working Tube for vertical furnace along with product collection setup"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement work of road and drain from Arra Main Road to Lakhan Singh house via Pangu ",
-        "2. Construction of a CC road in Ward-14 (Residency) from Rameshs house to Raja Bhais house",
-        "3. Civil work 9"
+        "1. REPLACEMENT OF OLD AND DAMAGED 36KV ISOLATOR WITH NEW ONE AND OTHER ASSOCIATED WORK AT ",
+        "2. Repair of fuel room constructed at Andhau Airstrip, painting of guest house, repair of ",
+        "3. Work-01 Ghaziabad Municipal Corporation has allotted 13 shops constructed by the Munici"
       ]
     },
     {
@@ -29,21 +25,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing  Erecting street light pole at jaspalsing birdi cycle track sainath nagar sig",
-        "2. Providing electrification/maintenanace work at various NMC building,hospitals, school b",
-        "3. Providing Maintenance works in 15 passengers cum Stretcher (G 2) 2 No.lift and 01 Nos. "
+        "1. Supply Of M25 Steel Reinfarced Precast cover of size at various locations for repair of",
+        "2. Improvement or Pathway and drainage line at Vijaya Gaikwad Gully Machimar Nagar no 05 B",
+        "3. Improvement of Passage and Drainage System near Farro Parlour at Kismat Nagar iin Beat "
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of SHC Building at Jaitpura Gujran, Distt. Alwar",
-        "2. SITC of New R.O. Plant at Nahargarh Fort and AMC of existing ROs at Sisodiya Rani Ka Ba",
-        "3. DASHAHARA MELE KE AVSAR PAR AAKARSHAK JHANKIYA (RAM DARBAR EVM ANYA 7) EVM BHAVYA SHOBH"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -51,9 +43,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. HIRING OF 01 NO. UTILITY PICKUP (LCV) OR MAHINDRA BOLERO CAMPER GOLD / TATA XENON OR EQ",
-        "2. Inviting tender for Rented 1 Nos. Mahindra Bolero Pickup 1.7 Ton rewa division and 1 No",
-        "3. EMPANELMENT OF AGENCIES FOR RATE CONTRACT FOR THE WORK FOR ARTISTIC PAINTING AT VARIOUS"
+        "1. SUPPLY OF CLASSROOM FURNITURE",
+        "2. PARKING NO. 1 MELA PARISHAR",
+        "3. Strengthening of Karail Gadwahi road Length- 6.00 Km., Under PWD Sub Division. Majhauli"
       ]
     },
     {
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of unskilled workers related to maintenance of roof cleaning, sweeping, cleaning",
-        "2. EE-VI/T-05 of 2026-27",
-        "3. KMC/WS/W80-4/T-15/26-27"
+        "1. 10/EE/O and M-IIB/W and S/KMDA of 2026-27",
+        "2. Notice Inviting e-Tender No.  22/EE(R and B)/NKDA/2026-27",
+        "3. Notice Inviting e-Tender No.      24/EE(R and B)/NKDA/2026-27 ( Sl No.02)"
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repairs to VAO office Building at Thirumoolasthanam in Kattumannarkoil Taluk of",
-        "2. Special Repairs to Public Waiting Shed and Providing Toilet and Drinking Water Arrangem",
-        "3. Special Repairs to VAO Office Building at Killai (South) in Chidambaram Taluk of Cuddal"
+        "1. Special Repairs to Damaged Flooring, Doors ,Windows, Water Supply ,sanitary arrangement",
+        "2. Maintaining the Non System Tanks, Channels and SG Arrangements",
+        "3. Proposed Comprehensive annual maintenance of 1 No of 100 KVA diesel generator for a per"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of New Culvert on Bullowal Bhogpur Road to Dhade Baba Mohar Singh Road.",
-        "2. Construction of Homeopathy Dispensary at Sadiq District Faridkot (6th  Call)",
-        "3. SaleCMLotsRMPHL2026-27/19"
+        "1. Upgradation of Internal Road Malerkotla Byepass to Dhuri Byepass (Upto BC) Sangrur Side",
+        "2. Estimate for restoration of water course at outlet RD 12106/R of Rampur Minor by laying",
+        "3. Construction of Boundry Wall at NGM Guruharshai MC Guruharshai Distt Ferozepur Work Cod"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ARC of for the Purchase of CI Right Angle Pop-up Valves",
-        "2. Annual Rate Contract for the supply of Oxygen, D.A., Argon and  LPG (Commercial) Gas",
-        "3. Purchase of Antiscalent and Hydrochloric Acid (HCL) for the operation of RO Plant at 12"
+        "1. Comprehensive Maintenance Contract (CMC) of Medical Gas Pipeline System (MGPS) at BPS G",
+        "2. Construction of 1st type drain and P/L 80mm thick inter locking Paver Block M-40 grade ",
+        "3. Annual Maintenance for Repair/Rehabilitation of GMDA Roads from Sector 81 to 87, Gurugr"
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Atal Bus Stand (A-Type) at Patrapalli under Sundergarh Sadar Block, Sun",
-        "2. Construction of AddI. Mission Sakti Bhaban Building at Ashrubahal under DMF in the Dist",
-        "3. Construction of AddI. Mission Sakti Bhaban Building at Baliamba  under DMF in the Distr"
+        "1. Construction of AddI. Mission Sakti Bhaban Building at Nunukaposi  under DMF in the Dis",
+        "2. Periodical Maintenance to Bhalukhai to Banmal road for the year 2026-27",
+        "3. Construction of 3 Nos BT road at EMC Park Infovalley II Bhubaneswar khordha"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 270/PR/JBVNL/2026-27",
-        "2. Construction of Drainage System Infront of Bhakuwadih Park Under N.P. Bundu",
-        "3. 271/PR/JBVNL/2026-27"
+        "1. Construction of 200 x165 mm dia X 120 mtr  depth HYDT  with Installation of Deep I M II",
+        "2. Construction of Drain with RCC cover slab and laying of Hume pipe at Bhakuwadih ward no",
+        "3. Renovation of Police Head Quarter (D.R.P.D.) Building at HEC, Dhurwa, Ranchi"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual maintenance Plan for the year 2026 27 on Ladrour to Khutrin road km 0 00 to 5 00",
-        "2. Restoration of rain damages to GWSS Kuhal Jugal in GP Kungal Balti Tehsil Nankhari Dist",
-        "3. Selection of Operator for Hospitality and Conducting Water and Allied Sports, Tourism, "
+        "1. Construction of CH Building 50 bedded Hospital  at Sh Naina Devi ji",
+        "2. Restoration on various roads under Sub Division Sh Naina Devi Ji  Bhakra road",
+        "3. Balnce work Providing Sewerage scheme to left out  Nadaun Town and Left out area Nadaun"
       ]
     },
     {
@@ -139,16 +131,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SELECTION OF A TRAINING AGENCY FOR OUTDOOR EDUCATION WILDERNESS MEDICINE GUIDE CAPACITY",
-        "2. Tender for Smart Toilet",
-        "3. Under the state Plan, New construction work of Km 6 to 7 of Pothig to Toli motor road ("
+        "1. Improvement and repair work of internal roads in Central Haridwar area of Haridwar city",
+        "2. Medicine and IV Fluids",
+        "3. 18/2026-27 EDD Sitarganj"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fb98d57a590>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f39cb61cb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +149,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Fish Fry IMC Seed for Pen Culture",
-        "2. Supply of Mustard Oil Cake (MOC) and Rice Polish for Pen culture and Integrated Farming",
-        "3. MMUPPNA_RIDF_XXVIII_22_23_71_ Balance work of Improvement of i) Sonari Bhojo Kakotibari"
+        "1. Procurement of flood fighting materials (PSC Porcupine) for Water Resources Department ",
+        "2. Door to Door Collection and Transportation of Municipal Waste in Package 3- Wards Cover",
+        "3. Proposed Establishment of Children Park at Udalguri Town"
       ]
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-892 2027 DP EKM GHS EAST MARADY URGENT MAINTENANCE WORKS-Marady GP-General ",
-        "2. 155/27 Improvements to Basic Facilities at FHC",
-        "3. GENERAL-S0835-27-ELECTRICAL WORKS IN GIFD NJARAKKAL-General Electrical Work"
+        "1.  \tDigitization and Implementation of DMR Tier II (Trunk line communication)",
+        "2. Digitization and Implementation of a DMR Tier II Wireless Communication System at Sabar",
+        "3. Elappara GP 261 / 2026-27  Vagamon Kaithapathal SC Nagar Road in ward 17"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LEASING OUT  JKRTC Business Community Centre",
-        "2. Deep Drilling of 125 mm dia Bore Holes by using ODEX method including providing, instal",
-        "3. Construction/ Upgradation of 33 kV Lines to overcome LCP constraints for various Divisi"
+        "1. Construction of stair steps and lane side wall R wall from PMGSY road to house of Mohd ",
+        "2. DEVELOPMENT EIDGAH PARK AT WATERHAIL.",
+        "3. FIXING OF RATE CONTRACT FOR CARRYING OUT PREVENTIVE MAINTENANCE /EMERGENT WORKS OF DIST"
       ]
     }
   ],
