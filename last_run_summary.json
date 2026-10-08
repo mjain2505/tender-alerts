@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-10-07 18:25:54",
+  "checked_at_utc": "2026-10-08 00:43:04",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Maintenance of office Complex Under Project Zone-II",
+        "2. Short Term Maintenance to NH-17(New) / NH-31(old) for the year 2026-27 from (i) Km 816/",
+        "3. SHORT TERM MAINTENANCE CONTRACT STMC OF ROAD FROM KM 254 000 TO KM 298 000 RAIPUR TO JA"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REPLACEMENT OF OLD AND DAMAGED 36KV ISOLATOR WITH NEW ONE AND OTHER ASSOCIATED WORK AT ",
-        "2. Repair of fuel room constructed at Andhau Airstrip, painting of guest house, repair of ",
-        "3. Work-01 Ghaziabad Municipal Corporation has allotted 13 shops constructed by the Munici"
+        "1. 2 - RS farm se Bismillah dhaba Tak nale ka Nirman karya",
+        "2. Work-01 Ghaziabad Municipal Corporation has allotted 13 shops constructed by the Munici",
+        "3. Repair of fuel room constructed at Andhau Airstrip, painting of guest house, repair of "
       ]
     },
     {
@@ -25,17 +29,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply Of M25 Steel Reinfarced Precast cover of size at various locations for repair of",
-        "2. Improvement or Pathway and drainage line at Vijaya Gaikwad Gully Machimar Nagar no 05 B",
-        "3. Improvement of Passage and Drainage System near Farro Parlour at Kismat Nagar iin Beat "
+        "1. Constructing One Room Building at Zilla Parishad Primary School New Jainpur Tal. Newasa",
+        "2.  Repairs to UCR wall at Nappo Garden Beat No 177 Matunga East in F/north Ward",
+        "3. Repairs to UCR Wall at Mahatma Gandhi Nagar CGS Colony Beat No 177 Matunga East in F/no"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.rajasthan.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Light Work",
+        "2. LIMITED BIDDING TENDER FOR SUPPLY OF RAW MATERIAL AT CATTLE FEED PLANT KALADERA",
+        "3. Solar system as per NIT"
+      ]
     },
     {
       "name": "Madhya Pradesh",
@@ -55,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. 10/EE/O and M-IIB/W and S/KMDA of 2026-27",
-        "2. Notice Inviting e-Tender No.  22/EE(R and B)/NKDA/2026-27",
-        "3. Notice Inviting e-Tender No.      24/EE(R and B)/NKDA/2026-27 ( Sl No.02)"
+        "2. KMC/LTG/Z-IV/BR-X/155/26-27",
+        "3. Notice Inviting e-Tender No.  22/EE(R and B)/NKDA/2026-27"
       ]
     },
     {
@@ -65,7 +73,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repairs to Damaged Flooring, Doors ,Windows, Water Supply ,sanitary arrangement",
+        "1. Providing Distribution Pipeline at Mitta Mandagapattu Panchayat",
         "2. Maintaining the Non System Tanks, Channels and SG Arrangements",
         "3. Proposed Comprehensive annual maintenance of 1 No of 100 KVA diesel generator for a per"
       ]
@@ -76,8 +84,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of Internal Road Malerkotla Byepass to Dhuri Byepass (Upto BC) Sangrur Side",
-        "2. Estimate for restoration of water course at outlet RD 12106/R of Rampur Minor by laying",
+        "1. Estimate for restoration of water course at outlet RD 12106/R of Rampur Minor by laying",
+        "2. Upgradation of Internal Road Malerkotla Byepass to Dhuri Byepass (Upto BC) Sangrur Side",
         "3. Construction of Boundry Wall at NGM Guruharshai MC Guruharshai Distt Ferozepur Work Cod"
       ]
     },
@@ -87,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Comprehensive Maintenance Contract (CMC) of Medical Gas Pipeline System (MGPS) at BPS G",
-        "2. Construction of 1st type drain and P/L 80mm thick inter locking Paver Block M-40 grade ",
-        "3. Annual Maintenance for Repair/Rehabilitation of GMDA Roads from Sector 81 to 87, Gurugr"
+        "1. Special Repair Rehabilitation of Footpaths of GMDA Roads in Sector 67 to 86, Gurugram",
+        "2. Comprehensive Maintenance Contract (CMC) of Medical Gas Pipeline System (MGPS) at BPS G",
+        "3. Khatkar- Estimate for inst..."
       ]
     },
     {
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of AddI. Mission Sakti Bhaban Building at Nunukaposi  under DMF in the Dis",
-        "2. Periodical Maintenance to Bhalukhai to Banmal road for the year 2026-27",
-        "3. Construction of 3 Nos BT road at EMC Park Infovalley II Bhubaneswar khordha"
+        "1. Construction of Reconstruction of AWC Building at Gobindapur under DMF in the District ",
+        "2. Construction of AddI. Mission Sakti Bhaban Building at Nunukaposi  under DMF in the Dis",
+        "3. Construction of departmental building at Govt Ayurvedic College, Balangir."
       ]
     },
     {
@@ -132,7 +140,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Improvement and repair work of internal roads in Central Haridwar area of Haridwar city",
-        "2. Medicine and IV Fluids",
+        "2. 19/2026-27 EDD Sitarganj",
         "3. 18/2026-27 EDD Sitarganj"
       ]
     },
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f39cb61cb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f960075ded0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of stair steps and lane side wall R wall from PMGSY road to house of Mohd ",
-        "2. DEVELOPMENT EIDGAH PARK AT WATERHAIL.",
-        "3. FIXING OF RATE CONTRACT FOR CARRYING OUT PREVENTIVE MAINTENANCE /EMERGENT WORKS OF DIST"
+        "1. Finalization of Annual Rate Contract for the supply of Plant Protection (PP) Chemicals,",
+        "2. FINDC26277114602 Development/Upgradation of road at Malik Mohalla Hassaniwani Inder.",
+        "3. RDDDC2627118253-(CONSTRUCTION OF BOREWELL NEAR THE ORCHARD OF ALTAF AHMAD SHAH MEHRAJUD"
       ]
     }
   ],
