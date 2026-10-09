@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-09 17:58:28",
+  "checked_at_utc": "2026-10-09 22:20:45",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Landscape and Gardening works at Planetarium Project COSMOS Mysuru",
-        "2. SS/C050-1P39A-YF-MR-1020/66 - VARIABLE AREA FLOWMETERS (INDICATORS,TRANSMITTERS) for Po",
-        "3. General Production For ENGINEER 26"
+        "1. PRO SHOW PRODUCTION FOR ENGINEER26",
+        "2. Renovation and upgradation 02 Nos SPT structure at Transit Camp SSB Rishikesh",
+        "3. E Tender cum E Auction for Selection of Advertisement Agency for allotment of space for"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Magh Mela 2026-27 hetu Extra 2 Pantoon Pul pahuch Marg ke Nirmad Rakh Rakhaw ewam Disme",
+        "1. Mohalla Chamkani Garipura  me Dr. Faiyaz ki dukan se Iqbal Neta Ji ke makan hote hue Na",
         "2. Construction of a minor bridge at Jani Scap on the Daluheda-Bahrampur road Baghpat Road",
-        "3. Construction of Roof Top Rain Water Harvesting Residential Building PWD Colony at PD Co"
+        "3. Construction of a boundary wall around the dedicated Honble High Court Guest House in D"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "sample_titles": [
         "1. Chandivali Vidhansabha beat no.159 L Ward",
         "2. e Tender Notice 7 for 2026-27",
-        "3. Repairs to Footpath at Carious Locations of DR. B.A Road Dadar E in Beat No 178 F/north"
+        "3. Chandivali Vidhansabha beat no.158 L Ward"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Provision of JCBs on rent for sanitation work",
-        "2. 1.1 Cubic meter container supply work",
-        "3. flex and Baner work"
+        "1. 1.1 Cubic meter container supply work",
+        "2. Provision of JCBs on rent for sanitation work",
+        "3. Construction of Sub District Hospital at Dag, District Jhalawar on EPC Mode"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. JM/ENIT- 53/2026-27",
+        "1. 1125/WBSWC-14016(11)",
         "2. NIT/BM/00088/Eng/EO/2026-27",
         "3. 1119(14)-WBSWC-17034/1/2024"
       ]
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OT 11 Compressor 365 days",
-        "2. NCTPS I SE MI circle Turbine Maintenance Division Annual Overhaul work for the year 26 ",
-        "3. PROCUREMENT OF HEAVY DUTY LDPE SHRINK FILM ROLL 90 AND 100 MICRONS OF VARIOUS SIZES FOR"
+        "1. Restoration of road cuts made by Torrent Gas Chennai Pvt ltd for gas pipeline laying at",
+        "2. NCTPS I SE MI circle Boiler Maintenance Division Annual Overhaul work for the year 26 2",
+        "3. Operation and Maintenance for Electrical Crematorium at Virugambakkam Burial Ground in "
       ]
     },
     {
@@ -84,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Construction of Dr. Ambedkar Dharmshla W no-9",
+        "1. Construction of Shed at Footpath Right Side 1.50 Lac and Left Side 1.50 lac on T Point",
         "2.  P/L DB Paving on edge on road from house of Bakhtori to House of Jagjit Singh",
-        "3. Construction of Shed in Phul Ground"
+        "3.  Supply of Mortuary Van for transport dead bodies at Rambagh"
       ]
     },
     {
@@ -103,9 +103,13 @@
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Office Building of Assistant Labour Officer at Birmaharajpur Dist-Subar",
+        "2. Construction of RCC Drain of NH-57.",
+        "3. Repair to Bridge over river Kusumi on Asuridhipa to Barasahi road such as pothole repai"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Acadmic block in the campus of Vananchal College at Tandwa., At-Kalyanp",
-        "2. Construction of PCC Road from house of Sanjay Paswan to Murtiya tola prathmic vidalaya ",
-        "3. Renovation of 2 Nos CR Gate and 1 No HR Gate at Ch No 128 Pariyarpur Distributary and 2"
+        "1. Construction of PCC Road from house of Sanjay Paswan to Murtiya tola prathmic vidalaya ",
+        "2. Renovation of 2 Nos CR Gate and 1 No HR Gate at Ch No 128 Pariyarpur Distributary and 2",
+        "3. Construction of Acadmic block in the campus of Vananchal College at Tandwa., At-Kalyanp"
       ]
     },
     {
@@ -126,7 +130,7 @@
       "sample_titles": [
         "1. JED-69/2026-27",
         "2. Augmentation of Sainj Nallah to Gharog Ghandal, Distt. Shimla HP",
-        "3. SED-II/DB/(C)Tender-07/2026-27"
+        "3. 2/2026-27 Link Road Bharmera to Banogi"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fdf834c1010>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc2d6152150>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -161,9 +165,13 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. GENERAL-TV at PS to Food and Civil Supplies Minister-Supply and Installation of Televis",
+        "2. ASUMP 2026-27-Information Technology-Establishment of District Training Centre, Kannur ",
+        "3. Annual Plan-2026-27 Manjeri Municipality, Project No-859-RETARRING AND SIDE CONCRETING "
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -171,8 +179,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of HSS Lathoong Zone Surankote. (Under SDRF)",
-        "2. Restoration of HS Marhote Zone Surankote. (Under SDRF)",
+        "1. Providing Consultancy Services for Structural  Design and Drawings duly approved/ vette",
+        "2. Restoration of PS Chapprian Zone Surankote. (Under SDRF)",
         "3. Restoration of GPS Hari Zone Surankote. (Under SDRF)"
       ]
     }
