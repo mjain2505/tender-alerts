@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-10 16:59:23",
+  "checked_at_utc": "2026-10-10 21:08:30",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,16 +8,20 @@
       "status": "ok",
       "sample_titles": [
         "1. STMC for Maintenance and Repair of 4-laning of Dimapur-Kohima section on NH-29 from Km ",
-        "2. Consultancy Services AE for supervision of Upgradation to 4LPS configuration of the Nas",
+        "2. NHIDCL/RO-Agt/STMC/Risk Cost/NH-108B NH-208/P-I,II,IV,V/2026-27/783",
         "3. RPR WORK TE TAJ NAGARI AGRA"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. PROPOSED DEVELOPMENT OF FRUIT MARKET AT BHELUPUR JALKAL, VARANASI.",
+        "2. CONSTRUCTION OF FOOD HUB AND FRUIT MARKET ON CENTRAL JAIL ROAD, SHIVPUR, VARANASI.",
+        "3. Widening and strengthening work on the Deoria Kasaya road (KM 0-21) from Bandar Gate to"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual repairs and maintenance of Asudgaon depot Belapur and Kalamboli Bus terminus and",
-        "2. BEAT NO. 209",
-        "3. Improvement of Passage and drainage at Rocha Building, Hathibaug, DN Singh road in  E W"
+        "1. BEAT NO. 209",
+        "2. Etender Notice No.02 For 2025-26-07",
+        "3. Beautification of T Junction situated at Shefered Road Junction, Mirza Galib Street in "
       ]
     },
     {
@@ -36,24 +40,32 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of 02 rooms in Government Senior Secondary School, Gadiya Jaimal",
-        "2. Construction work of 02 rooms in Government Primary School Sankhedi",
-        "3. Construction work of 01 room in Government Primary School Khoyra Majra Kanwa"
+        "1. Construction work of 1 room and 2 toilets in Government Senior Secondary School, Manpas",
+        "2. Construction work of 1 room in Government Upper Primary School Khati Ka Pura village Ch",
+        "3. Construction work of 02 rooms in Government Primary School Pipaldi"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. TENDER FOR Annual contract for supply of Sports Goods",
+        "2. Allotment of Shop No. 10 of Under Construction Complex from Mangal Bhavan to Forest Off",
+        "3. Allotment of Shop No. 04 of Under Construction Complex from Mangal Bhavan to Forest Off"
+      ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. NIT No- 682/PWD/ROAD/BMC (2ND Call) of 386/PWD/ROAD/BMC , Dated- 09/10/2026",
+        "2. SFDC/MD/NIT-10(e)/2026-27",
+        "3. Reconstruction and Renovation Of Ladies Toilet for SHREE MANDHARI PRIMARY SCHOO, Ward n"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -61,24 +73,32 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Preparation of Detailed Feasibility Report/Detailed Project Report for the installation",
-        "2. Providing Approch  cc road at  Lakshmi Nagar in Siruvanthadu panchayat",
-        "3. Providing Motor and accessoris for Exsisting Bore well with mini power pump  at Poontho"
+        "1. PURCHASE OF 61,84,566 NOS. OF A READY TO EAT PACKAGED SPONGE STYLE SLICE CAKE SWEETS CA",
+        "2. Providing Motor and accessoris for Exsisting Bore well with mini power pump  at Poontho",
+        "3. Providing Approch  cc road at  Manthoppu street in Siruvanthadu panchayat"
       ]
     },
     {
       "name": "Punjab",
       "state": "Punjab",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.punjab.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Repair and Maintenance of House Year Marked to Superintending Engineer, Ludhiana Canal ",
+        "2. Construction of Regulation Hut at RD 187075 of Sidhwan Branch",
+        "3. Renovation of  Regulation Hut at RD 8000 of Sidhwan Branch"
+      ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Annual Maintenance Contract for Painting of Kerbstones Jersey Barriers Grills etc on GM",
+        "2. Annual maintenance and upgradation of thermoplastic road markings in Sectors 1 to 80, G",
+        "3. JOBNO.HSVP/AMB/2026-27/E-633"
+      ]
     },
     {
       "name": "Odisha",
@@ -88,7 +108,7 @@
       "sample_titles": [
         "1. Repair and maintenance of left parallel road from OERC to Hatiasuni Square for the Year",
         "2. Repair and maintenance of road from Governor House to Xavier Square  for the Year 2026-",
-        "3. S/R to Tahashil office at Kantapada for the year 2026-27"
+        "3. S/R to Fire station office building at Adaspur for the year 2026-27"
       ]
     },
     {
@@ -108,8 +128,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and placing Filter media in sand filter No. II at Dr YSP University of Hortic",
-        "2. Repair of UV Plant at main campus, Nauni, Solan",
+        "1. Repair of UV Plant at main campus, Nauni, Solan",
+        "2. Providing and placing Filter media in sand filter No. II at Dr YSP University of Hortic",
         "3. India International Trade Fair, 2026 in New Delhi."
       ]
     },
@@ -121,14 +141,14 @@
       "sample_titles": [
         "1. Upgradation works of existing 1.30 MLD STP at Landour South, Mussoorie under JAL HI AMR",
         "2. Supply, Installation, Testing And Commissioning of 5000 Litre Public Drinking Water Tan",
-        "3. Supply and erection work on 132KV busbars strengthening at 132KV S/s, ELDECO, Sitarganj"
+        "3. Supply of various clamp connector, silicagel, contractor and SF-6 gas at 132KV S/s, Sit"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff552987690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efd61e7a7d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -145,9 +165,13 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Annual Plan-Karivellur Peralam GP Vellavayal Krishnapillai smaraka vayanashala kizhakko",
+        "2. Annual Plan-Karivellur Peralam GP NH Palathara Palam Colony road retarring-95/25-26 (24",
+        "3. Annual Plan-Karivellur Peralam GP Jalam Sulabham - Renovation of Maalap Pond-164/25-26-"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -155,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627104298 -(DEVELOPMENT OF LANE DRAIN FROM HOUSE OF SAJAD AHMAD MIR TO HOUSE OF M",
-        "2. RDDDC2627105476 -(RENOVATION OF PYT GHR WITH FURNITURE AT KAMRAZIPORA (SHADIM))",
-        "3. RDDDC2627107131 -(CONST OF LANE FROM FRASIPORA ROAD TO HOUSE OF GH NABI KHAN AND OTHERS"
+        "1. RDDDC2627104594 -(CONST OF LANE FROM MOHD ALTAF ALIE TO MASJID SHARIEF AT SHADIMARG (SH",
+        "2. RDDDC2627115963 Development of Mohanpora Yarbal",
+        "3. RDDDC2627104246 -(INSTALLATION OF BOREWELL NEAR NEWLY CONSTRUCTED MASJID SHARIEF AT WOO"
       ]
     }
   ],
