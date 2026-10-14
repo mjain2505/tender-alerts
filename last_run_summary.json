@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-14 14:20:02",
+  "checked_at_utc": "2026-10-14 19:11:06",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,7 +8,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Renovation work under POC as per SPA design manual at Kashipur, Head Post Office",
-        "2. Improvement of road stretches on NH 17 from Coronation Bridge to Manpong district  Kali",
+        "2. Maintenance of Various Sports Complexes.",
         "3. MnO of Elect. Water Supply, HVAC, RO Plants, STP Plant inst. DRDO TF, Sply of Potable W"
       ]
     },
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tiling work in the upgraded hostel at Kasturba Gandhi Balika Vidyalaya, Bamour, in Dist",
-        "2. Construction of Remaining Drain and 12m Wide Road in Indirapuram Extension, Ghaziabad.",
-        "3. Repair and other works at the Multi-Purpose Primary Rural Cooperative Society (B-PACS) "
+        "1. Dr Bhim Rao Ambedkar Statue Development Scheme at Village Manikaura Block Pharenda Dist",
+        "2. CC construction work from the Sadhan Sahkari Samiti Godown in Village Ruria towards hou",
+        "3. CC construction work from house of Shri Ankur to the Bamba in Village Surajpur Rudheni."
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. L Ward beat No 168",
-        "2.  Improvement of Passage and Drainage system at Namarta chawl Valluwar Chawl Nehru nagar",
-        "3. DHULE/DMC/PWD/DMC F Fund/137/1-1/2026-27"
+        "1. Improvement of Passage and Draiage System at Sai Baba Gully Vijay Nagar Sion Koliwada B",
+        "2. DHULE/DMC/PWD/DMC F Fund/137/1-1/2026-27",
+        "3.  Improvement of Passage and Drainage system at Namarta chawl Valluwar Chawl Nehru nagar"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "sample_titles": [
         "1. Repair Work of SDO Residence Building Rajakhera",
         "2. Construction of Karmashila Bhawan (Integral Office Complex cum Service Centre) at Bhara",
-        "3. Ward No. 25 me vibhinna sthano par nali,nala, cross nirman evam anya marammat karya (Na"
+        "3. Ward No. 10 me vibhinna sthano par nali,nala, cross nirman evam anya marammat karya (Na"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBHOUSING/EEKN2D/eNIT-04/26-27",
-        "2. NIe-T- 86/2026-27(Sl-05)",
-        "3. NIe-T- 86/2026-27(Sl-03)"
+        "1. KMC/LTG/Z-III/VIII/26-27/59",
+        "2. 19 /EE/O and M-IB/W and S/KMDA/2026-27",
+        "3. 6/EE/HGD/W and S/KMDA of 2026-2027"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dye cast letter_Rajeshwari vedachalam",
-        "2. Supply of 50 Kg A type new jute gunnies with stitched inner liner",
-        "3. 15 classroom in GASC perumbakkam"
+        "1. Supply of Strech wrapping film 1750 Kgs",
+        "2. 15 classroom in GASC perumbakkam",
+        "3. 12 classroom building presidency"
       ]
     },
     {
@@ -84,21 +84,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Laying Interlocking tile 60mm and road gully chamber street Lakhi colony Gall",
-        "2. Providing Laying Interlocking tile 60mm and Road Gully Chamber ,pipe manhole cover in w",
-        "3. Providing Laying 60 mm interlocking tile and road gully chamber main bazar to farwahi b"
+        "1. Supply and laying of premix patch work on different roads in M.C. Barnala.",
+        "2. Installation of tubewell in pyara colony and Sheed Bhagat Singh Park Near old tubewel B",
+        "3. Construction of common work sheds in opp. Senior citizen building chintu park ward No. "
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Deshalpur- DNIT for provid...",
-        "2. Annual Repair of House No 3...",
-        "3. Mugalwali village, installa..."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Odisha",
@@ -106,8 +102,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of road from Tandipur to Padadigi via Polrajpur Dunguruguda Khaira Gothoga",
-        "2. Dukura TadkiKhandabuda Road",
+        "1. Dukura TadkiKhandabuda Road",
+        "2. Construction of road from Tandipur to Padadigi via Polrajpur Dunguruguda Khaira Gothoga",
         "3. Pramanandapur to Balipal-Road work"
       ]
     },
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of vehicle mounted single barrel thermal fogging machine with GPS tracking syste",
+        "1. Construction of RCC Floor at Naga Baba khatal behind sabji market under Ward No-20",
         "2. Construction of RCC Floor at Naga Baba khatal near Dhrna Sthal under Ward No-20",
-        "3. Construction of RCC Floor at Naga Baba khatal behind sabji market under Ward No-20"
+        "3. Supply of vehicle mounted single barrel thermal fogging machine with GPS tracking syste"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages on Chhailla Neripul Yashwantnagar Oachghat Kumarhatti roadk",
-        "2. Repair and maintenance of prisoner kitchen/mess and cupboards, installation of ceiling ",
-        "3. R/R damages on Various road under Solan Sub Division"
+        "1. Restoration of  rain damages on various road under Oachghat sub-division",
+        "2. Restoration of rain damages on Manlog to Bagga Dangta road km 0/0 to 0/700",
+        "3. Restoration of rain damages on Chhailla Neripul Yashwantnagar Oachghat Kumarhatti roadk"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc1e0ef4d90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f99c5e9b690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROJ NO.228/27-STAIR ROOM MAINTENANCE IN ASSISTANT ENGINEERS OFFICE WARD 7",
-        "2. Project no.226/27-CONSTRUCTION OF COMPOUND WALL AT GOVT NEW LPS ARUMANOORTHURA",
-        "3. PROJ NO.114/27-PLANKALA PAMBUKALA ROAD MAINTENANCE WARD 12"
+        "1. PROJ NO.221/27-ERIKKALUVILA ROAD ERIKALLUVILA LAKSHAM VEEDU COLONY ROAD MAINTENANCE WAR",
+        "2. PROJ NO.114/27-PLANKALA PAMBUKALA ROAD MAINTENANCE WARD 12",
+        "3. PROJ NO.228/27-STAIR ROOM MAINTENANCE IN ASSISTANT ENGINEERS OFFICE WARD 7"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Water Tank Nr. Masjid Moh. Chari W.No. 2 Pyt. Banwat Dhokri Block Poonch Under PRI Gran",
-        "2. MINOR REPAIR OF SCHOOL BUILDING BY WAY OF CONSTRUCTION OF ALUMINIUM CABINS AT GOVT HIGH",
-        "3. Up-gradation of Road Moh. Dunga W.No.3 Pyt. Salootri Block Poonch Under PRI Grant  Year"
+        "1. RDDDC2627103906 CO CSC Flush point for PS Bajad Mohalla Sangarwani A Block Achgoza",
+        "2. Construction of lane from the house of Surinder Kumar to Ram Saroop (Ward No. 5).",
+        "3. RDDDC2627103874 const of borewell at jamia masjid wani mohalla bamnoo Block Achgoza"
       ]
     }
   ],
