@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-10-14 00:08:17",
+  "checked_at_utc": "2026-10-14 08:23:47",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Structural repair and painting of passages, staircases and other allied areas of buildi",
-        "2. INVITATION TO PRE-TENDER MEETING FOR BALANCE RCC, UG AND STRUCTURAL STEEL WORKS OF POLY",
-        "3. LT/C050-000-EP-T-0030/1013 -  E-HOUSE PACKAGE FOR POLYPROPYLENE PROJECT OF M/S NUMALIGA"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Work of Gaghat and boundary wall on the land of Public Works Department, Khasra No. 13,",
-        "2. Construction work of toilet for disabled people in the office of Nirman Khand-3, PWD, E",
-        "3.  \tCONSTT. OF BOUNDARY WALL BETWEEN FACTORY AND SCHOOL YR 26-27"
+        "1. Construction of 100 Bedded Girls Hostel in Harcourt Butler Technical University Campus ",
+        "2. Construction of Gau Sanrakshan Kendra At Village Pakhodana Tehsil  Khair District  Alig",
+        "3. SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF SMOKE DETECTOR AND FIRE ALARM SYSTEM"
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Samajik Sabhagruh in Patilwada at Tarsod Tal and Dist Jalgaon .",
-        "2. Chandivali Vidhansabha beat no.162 L Ward",
-        "3. Construction Of Road Towards Sub-Registrar Office In Ward No 6 At Chalisgaon Tal- Chali"
+        "1. Repairs and Renovation of Drainage line Wing No.1 2 3 5 15 16 Rs.3215189",
+        "2. Manitainance,repair and operation of Umare R.R. pipe water supply scheme Tal Sangmeshwa",
+        "3. Repairs Brickworks CC Bedding wing No.8 Rs.2947124"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF NEW BUILDING AT GPS ARIYAWAT PHALA BLOCK- LASADIYA DISTRICT- SALUMBAR",
-        "2. CONSTRUCTION OF NEW BUILDING AT GSSS PANER BLOCK- SAYRA DISTRICT- UDAIPUR",
-        "3. Rampuria to Shiv Mandir"
+        "1. 2026-27/97",
+        "2. Work of installing zebra crossing and speed breakers on main roads in the Nagar Parisha",
+        "3. Wire fencing work at various places in the Nagar Parishad area such as parking etc."
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Ubora to pucchikagusn Road Length 12.00 k.m With Electirification work",
-        "2. Construction of RCC Drain, C.C. Road, Retaining Wall, Community Building, CC/BT Road St",
-        "3. FOR SUPPLY OF 11 KV and 33 KV Current Transformer"
+        "1. Fabrication of open shed for preservation of material beside shed no. 1,2,3 at EE(O and",
+        "2. Road furniture work on various routes/roads under Municipal Corporation limits. (Road M",
+        "3. CONSTRUCTION OF CC ROAD WORK FROM NEERAJ TO SANJAY JHUGGI AND NEAR PHOOL SINGH JATAV JH"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 19 OF 2026-27 OF SE/WBSWC",
-        "2. JM/ENIT- 55/2026-27",
-        "3. WBHB/DDEWII/NIeQ14/26-27/2ndCL"
+        "1. KMC/Tender/Edn/HQ/2026-27/004",
+        "2. SWM-II/DIST-I/11/2026-27",
+        "3. SWM-II/GRU-006/2026-27"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repairs to Shuttering arrangements in Main Canal in LS.22/400Km at Vanapuram vi",
-        "2. Providing development works such as Two wheeler shed, Hose drying yard, (Refer Tender N",
-        "3. Hire Charges for Temporary arrangements of 10 Nos of 62.5 KVA diesel generator for rele"
+        "1. Construction of CommunityHall at Aadhi dravidar Street in S.Kumarapuram Village in Siva",
+        "2. MOVING CONTACT FOR 11KV AB SWITCH FOR DOUBLE POLE- 150 NOS.",
+        "3. Vellore District  Construction  of  Mini  Community  Sanitary Complexes  at GHS School "
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for restoration of water course at outlet RD 2000/TL Extension of Mohanwal dis",
-        "2. Estimate For restoration of watercourse At outlet RD 126972/L of Sarih Disty By Brickli",
-        "3. Rejuvenation of Main Tajpur Road from Main GT Road upto MC Limit."
+        "1. Special Repair of internal roads of Aekta Avenue Patiala",
+        "2. RAMAN",
+        "3. Sale of Sugar"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Servicing of food catering service",
-        "2. Supply of IBR Cast Steel Globe and Spring Safety Valve",
-        "3. Contract regarding Fabrication jobs on schedule Rates"
+        "1. Supply of stainless steel cage of with Two wheel  and base covered with soft calwood",
+        "2. Hiring  and installation  of  LED focus  light  (RGB light),  rice  ladi and  projectio",
+        "3. Internal clearance and bank Clearance of 1-R Kalanaur Minor from RD 0 to 6000."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement to NH 201 - Ratanpur to Arda Road in the District of Bolangir under MMSY-Im",
-        "2. Construction of Additional Godown at FIAC Kalimela, Dist - Malkangiri",
-        "3. Construction of additional Godown at FIAC Papadahandi, Dist - Nabarangapur"
+        "1. Improvement such as widening and strengthening of Lokanathpur - Birasal Road from 10/61",
+        "2. Improvement of Sewerage System to Putupada, Balaka, Duriapada UP school and court build",
+        "3. New Construction of Day care PHC Building at Lodhani in Parjang Block, in the district "
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RWD/DUMKA/21/2026-27",
-        "2. RWD/DUMKA/20/2026-27",
-        "3. RWD/DUMKA/19/2026-27"
+        "1. Installation of New Lift in C.B.I. Building at Civil Court, Ranchi",
+        "2. CONSTRUCTION OF BRIDGE ACROSS LOCAL NALA BETWEEN CHIRUDIH SUDA TOLA TO CHOTA BARMASIA R",
+        "3. Construction of PCC Road from Chatra Chauparan main road to Ravidas Tola, At-Tapez, GP-"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Balance work of gate.",
-        "2. Special repair to college buiilding.",
-        "3. AR  MO of Sewerage Scheme to Hamirpur Town in Tehsil  Distt Hamirpur HP"
+        "1. C/o Forest Guard hutt at Matrech in Wl  Range Chandi",
+        "2. Tender for augmentation of 400 kVA transformer to 630",
+        "3. Conference Hall at Wildlife Chandi Range"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Sulphur Hexafluoride SF6 gas and various clamps at 132 KV Substation Kichha u",
-        "2. Implementation and Installation of Substation Automation System SAS at 18 Substations o",
-        "3. Providing and Fixing of glow sign boards and Nomenclature Plates on Structures of vario"
+        "1. Tractor",
+        "2. Loader and Backhoe",
+        "3. 82/EDCRDDUN/2026-27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f80280fdb10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f351e88cb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of flood fighting materials (Geo-textile Tube) for Water Resources Departme",
-        "2. Strengthening and protection of Bullhead No.1 against flood damages of river Brahmaputr",
-        "3. Procurement of flood fighting materials (Sand Bag) for Water Resources Department for t"
+        "1. Procurement of Dietary articles under Zone-7 Jails of Assam through Annual Rate Contrac",
+        "2. Procurement Of Dietary articles under Zone-6 Jails of Assam through Annual Rate Contrac",
+        "3. Construction of Additional Classroom at Ghagua High School, Bhurbandha, Dist morigaon u"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL KyIP ACP PLAN  2026 27 Rectification work at RBMC in between ch 18 500 km to ch",
-        "2. Annual Plan-Project No -193-27 MUTHALAMADA GP-THOTTIYATHARA GAS CRIMITORIYUM ROAD RENAV",
-        "3. Annual Plan-Project No- 164-27 Rennovation of Valiyachalla Karippalichalla Road in Muth"
+        "1. 266/27-PUTHUKULANGARA COLONY ROAD MAINTENANCE IN WARD 14",
+        "2. Supply of Propylene Glycol IP USP-14,500 KG - Make . SK Picglobal,Manali Petrochemicals",
+        "3. Annual Plan-CHPM 2026-2027 (PRO.NO - 84)-7th MILE - THODUPUZHAPADI -THATTARETTUPADI ROA"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairs renovation of toilet drinking water facility for AWC Karimabad B Pulwama",
-        "2. Road Safety measures at Indira Chowk Jammu",
-        "3. Repairs renovation of toilet drinking water facility for AWC Talangam A Pulwama"
+        "1. Improvement of water supply at CM House under 2216Housing.",
+        "2. C/O Road from Railway Track to Manzimpora ( Mohla Asad Dar ) Via irrigation ladh at Her",
+        "3. Improvement/Upgradation of various roads by way of G-II and other, Naidkhai, Shahgund a"
       ]
     }
   ],
