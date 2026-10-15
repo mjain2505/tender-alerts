@@ -1,27 +1,19 @@
 {
-  "checked_at_utc": "2026-10-15 10:50:32",
+  "checked_at_utc": "2026-10-15 16:18:14",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Procurement and Installment of  Spectrophotometer and accessories,  Computer, Printer,a",
-        "2. Supply and Installation of Workstation",
-        "3. Supply, installation, commissioning, demonstration and training of the Advanced Vitrect"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. BHELUPUR ZONE ANTERGAT WARD NO.54 NARIYA ME RASMI NAGAR COLONY ME SRI ANURAG SHARMA JI ",
-        "2. Floor Raising And Rasing of Boundry Wall At Electricty center Basti",
-        "3. Widening and Strenthning work From Jhanjhri tarabganj road to narayanpur wali vishramgh"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +21,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Etender Notice No.03 For 2026-27-04",
-        "2. Construction of civil work in Kasarvadavali Public Toilet in Ward no. 1 (B)",
-        "3. Consruction of Gutter near Car Craft at Durganagar in ward no. 1 ( C)"
+        "1. Improvement of passage and Drainage System at plote No. 941, Sector no. 9, Charkop, kan",
+        "2. Improvement of Passage and drainage system at plot no. 937,  Sector 9, Charkop  Boriwal",
+        "3. Chandivali Vidhansabha beat no.161 L Ward"
       ]
     },
     {
@@ -40,9 +32,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply Installation Testing and Commissioning of Existing Damaged LBT RGB LED PAR Light",
-        "2. Construction of Entry Gate Near Sankul at MDS University, Ajmer (Excluding cost of Ceme",
-        "3. Repair work of drains and culverts in all the wards of the municipal area"
+        "1. Package V (work under City Div II South) for the work of Strengthening and Improvement ",
+        "2. Auto Tipper with Bin Lifter, Diesel, Maintenance, Lubricant, Driver or Helper sahit",
+        "3. Supply of Driver  for Vehicle Annual Work"
       ]
     },
     {
@@ -51,9 +43,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Lease of Shop No. A 02 on First Floor of Azad Nagar New Meat Market (15th Call)",
-        "2. SHOP NO 37",
-        "3. Construction of Miscellaneous work at Atulya IT Park Distt Indore (M.P)"
+        "1. CONSTRUCTION WORK OF MOTOR CYCLE STAND NEAR COMMANDANT OFFICE AT 13TH BN. SAF, GWALIOR.",
+        "2. REPAIRING WORK OF OUTER PAINTING FOR 12 AND 18 NGO QTRS. AT DRP LINE, BHIND.",
+        "3. Special Repair Work of Thana Mahila Padav and Thana Aantri District Gwalior."
       ]
     },
     {
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  KMC/ELY/ESTM-48/26-27",
-        "2. Comprehensive Operation and maintenance of CCTV (Phase I and Phase II) in New Town Kolk",
-        "3. KMC/ELY/ESTM-31/26-27"
+        "1. Road Repairing of  different streatches and restoration of  pothole at Malkosh Sarani f",
+        "2. Road Repairing of  different streatches and restoration of  pothole at Market Street, D",
+        "3. Road Repairing of  different streatches and restoration of  pothole at Ashabari Sarani "
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation of Anganwadi Building at Melakabisthalam Habitation in Melakabisthalam pt",
-        "2. Running works contract for the Erection works for HT Overhead feeder, LT Overhead feede",
-        "3. Equipment"
+        "1.  Drilling of New Borewell  and Tree plantation under Mettupalayam Road Over Bridge at K",
+        "2. Repair and  Improvement works of Indoor Stadium in Ward No 13 North Zone.",
+        "3. Providing Electrical Work for the Construction Of Revenue Divisional Officers Camp Offi"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair of Street Lights Installed on Roads in All Assembly Constituencies under Municip",
-        "2. Providing Rain Water Harvesting System at DC Residence cum camp Office Amritsar",
-        "3. BARETTA BARRIWALA MALOUT"
+        "1. Estimate for internal clearance of Talwandi Distributary (RD0- 62350), Bassian Sub Mino",
+        "2. Soil and Water Conservation Works in Distt Roopnagar",
+        "3. Construction of Sports Arena in Zone 1,2,3,4 in Bathinda City"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const of streets and P/L of NP-2 Pipe from Ho Ashwani to Satya Narayan Dharamshala, Bha",
-        "2. 1392 Construction of gali n...",
-        "3. 1394 Construction of street..."
+        "1. Design Engineering Supply Erection Construction Testing Commissioning Operation  Mainte",
+        "2. Renovation of House No.60, Officer Colony No.4 at Gurugram",
+        "3. Construction of Additional Washroom Adjacent to the Ladies Bar Room in New Judicial Com"
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and Renovation of Fire control room such as providing aluminium partition at var",
-        "2. Construction of Electrical Panel room at outside of various building at MKCG MCH Berham",
-        "3. Civil works including EI and PH for large production and packaging sheds building for 3"
+        "1. Construction of H.L.Bridge over Ghadaka Nallah on Golanthara (Dhobasahi) to Pallibandha",
+        "2. Construction of H.L.Bridge over Jogia Nallah on Paigada RD road to Jilunda road under S",
+        "3. S/R to JMFC Court Such as fitting and fixing of Mosquito net, Aluminium Partition and D"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 601/PR/JUSNL/2026-27",
-        "2. 600/PR/JUSNL/2026-27",
-        "3. Construction of R.C.C Drain Along with P.C.C Road from Main Road to Kabristhan in Vill-"
+        "1. CONSTRUCTION OF BRIDGE ACROSS GAWAI RIVER BETWEEN KHIRABERA AND PADUDIH UNDER GOPALPUR ",
+        "2. Construction of HL RCC bridge over Hingla river between Patanpur (Jalalpur) and Garsiml",
+        "3. Construction of HL RCC bridge over joriya between Bandlakho and Nischintpur in Nala Blo"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. IED-32/2026-27",
-        "2. C/O Balance work of 600 metre link road from Chamral Chowk to I.T.I Darod in G.P. Chamr",
-        "3. IED-31/2026-27"
+        "1. Restoration of rain damage to various WSS FIS under Jal Shakti Sub Division Banuri in T",
+        "2. Flow Irrigation Scheme Ronki Kuhl in Tehsil Palampur Distt. Kangra H P",
+        "3. Construction of FIS Bharul Kuhl Division Palampur in Tehsil Palampur Distt. Kangra H P"
       ]
     },
     {
@@ -139,16 +131,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of vehicle for the office of AE civil OandM Dehraun",
-        "2. Hiring of vehicle for the office of AE civil OandM Roorkee",
-        "3. Preventive and Routine maintenance of 33KV GIS Modules  Panels  Schneider Make  and swi"
+        "1. SUPPLY OF A TYPE JUTE BAG 50 KG SCREEN PRINTED WITH LINER AND C TYPE JUTE BAG 50 KG SCR",
+        "2. Supply Installation of Multi Sport Training Station",
+        "3. SUPPLY OF NICKEL SCREEN TO VARIOUS CO-OPERATIVE AND CORPORATION SUGAR MILLS IN UTTARAKH"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc8c6bd6790>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fcf3aed8550>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +149,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of computer parts for the web management, Gauhati University",
-        "2. Construction of  Additional classroom at  Namgorumora BB High  Schoool North West Block",
-        "3. Construction of  Additional classroom at  Lakheraj Janajati High  School, North West Jo"
+        "1. A/E measures to protect Dehing bund 1st section from Aghunibari to Sessughat at Garuhor",
+        "2. Anti-erosion measures to Protect Namjalah (U/S), Tokankata and its adjoining areas from",
+        "3. LMC and DMA"
       ]
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RENOVATION OF PUTHANPURAYILMUKKU KULANGARATHU ROAD-WARD 18-Proj No 124/2026-27-",
-        "2. GENERAL-RM / 2026-27 - RC 2 / Zone 1 - - One year running contract for PWD Roads under ",
-        "3. PJ NO181/26-27 Elamad GP Ward-15 -Stadium  Kollukonam road reconcrete improvement work"
+        "1. Ambalapuzha devaswom in Ambalapuzha group-Repair and maintenance to camp shed",
+        "2. Thrippara Devaswom In Aranmula Group-Pucca Maintenance To The Thidappally.Recast Estima",
+        "3. Repairs and maintenance to temple structure -Thattarambalam Devaswom Mavelikkara group"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Constt of Toilet near House of Mohd Sadeeq Kut W.no 04 Pyt Behota Lower Block Marmat (C",
-        "2. Constt of R Wall at Barsal near house of Kalyan Singh Pyt Kotli Block Kastigarh (CDF) 2",
-        "3. Constt of Toilet near House of Abdul Qayoom W.no 05 Pyt Behota Lower Block Marmat (CDF)"
+        "1. Construction of badminton court, tensile roofing of existing sitting tier of volleyball",
+        "2. Installation of Borewell at Check Naira NHO Mohd Sadiq Dar, Zahoor Ahmad Dar, Manzoor A",
+        "3. Installation of Borewell NLO Bilal Ahmad Dar and others at Zasoo Pulwama"
       ]
     }
   ],
