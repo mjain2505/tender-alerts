@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-18 07:48:00",
+  "checked_at_utc": "2026-10-18 12:58:54",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Miscellaneous minor repair works in BSF Campus Gandhinagar under SHQ BSF Gandhinagar",
-        "2. Construction of Chamber and Laying and Cleaning of sewerage Line (Type-II Qtr No. 33 to",
-        "3. Construction of 16680 MT capacity godown under asset monetization policy at FSD Binduku"
+        "1. INVITATION PRE-TENDER MEET",
+        "2. Miscellaneous minor repair works in BSF Campus Gandhinagar under SHQ BSF Gandhinagar",
+        "3. Construction of Chamber and Laying and Cleaning of sewerage Line (Type-II Qtr No. 33 to"
       ]
     },
     {
@@ -26,24 +26,16 @@
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Improvement of flooring and Other allied work at E Ward Maintanance Chowky and M.H Comp",
-        "2. E tender Notice no-2/2026-27",
-        "3. E tender Notice no-1/2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://mahatenders.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Sort-term NIB for procurement of stationery items",
-        "2. Consultancy services for the preparation, submission, and obtaining of forest clearance",
-        "3. Repair and mtc. work in Govt. Non Residential Building at Sawai Madhopur"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://eproc.rajasthan.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OT 23",
-        "2. OT 22 Overhauling of Secondary Air Dampers",
-        "3. Meter Reading of Current Consumption"
+        "1. OT 21 inspection of boiler drum",
+        "2. Meter Reading of Current Consumption",
+        "3. Extension of supply works Capital  Improvement  DCW works in            respect of Cons"
       ]
     },
     {
@@ -85,8 +77,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Day Scholar Sports Wing Diet For Player",
-        "2. Estimate for restoration of water course at outlet RD 77900R of Mukandpur disty by layi",
-        "3. SUPPLY AND RAISING OF MANHOLES AT VARIOUS PALACES IN THE CITY RUPNAGAR"
+        "2. P/L C.C NEAR H.O RAHUL SODA WALA, SHAKTI PAL, NIRMAL SINGH KOLKATE WALE O H.O BUNTY WAR",
+        "3. SUPPLY AND PURCHASE OF 50 NOS. DOUBLE WHEEL BARROW AT MC RUPNAGAR"
       ]
     },
     {
@@ -97,7 +89,7 @@
       "sample_titles": [
         "1. Estimate for Installation of 7 Nos Boky Type Mini Tubewells At Various Places in Ward n",
         "2. A/Mtc. of EPHS in Sector-7,...",
-        "3. Operation, Running Maintenance and Automation of water supply tube wells for outsourcin"
+        "3. Providing and fixing of retro reflective small sign board for mcf no. and street no at "
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Peripheral Dev. such as land scaping Constn of B wall approach road, P.ground Digging, ",
-        "2. Peripheral Development such as land scaping, B wall, approach Rd.and Dismantling of old",
-        "3. Construction of Up-Graded Higher Secondary School Building at Govt. High School, Ambagu"
+        "1. Peripheral Dev. i.e. Site Clearance,landscaping,Const. of Bwall, App.Rd., dismantling o",
+        "2. Peripheral Dev. such as land scaping Constn of B wall approach road, P.ground Digging, ",
+        "3. Peripheral Development such as land scaping, B wall, approach Rd.and Dismantling of old"
       ]
     },
     {
@@ -118,8 +110,8 @@
       "status": "ok",
       "sample_titles": [
         "1. SUPPLYING AND FIXING OF RCC AND FIBER POT OF DIFFERENT DIMENSION AND EMBOSSED RMC  WITH",
-        "2. Installation of solar Jalminar in the old boring area of Lalpahadi village under Kaliya",
-        "3. Construction of 200 ft drain from Rajesh (Press) house to the canal under Govindpur Eas"
+        "2. Construction of a toilet beside Sarkaridih Madrasa School under Matiyala Panchayat",
+        "3. Construction of covered drain from Laxmi Thakur house to the Community Building under H"
       ]
     },
     {
@@ -129,8 +121,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Govt. RA Lot No. 34/2026-27 Theog",
-        "2. Govt. LL Salvage Lot No. 24/2026-27 Shimla Koti",
-        "3. Govt. RA 30/2026-27 Theog"
+        "2. Govt. RA 30/2026-27 Theog",
+        "3. Govt. LL Salvage Lot No. 24/2026-27 Shimla Koti"
       ]
     },
     {
@@ -148,7 +140,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f60e55fccd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fdec1b11590>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,13 +157,9 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Annual Plan 2026-27 PANAYAMKUNNU KHAIRABI ROAD RENOVATION WARD 16 Proj no 148/26 in Mam",
-        "2. Annual Plan MAMPAD 2025-26 KOOLIKKAL MICHA BHOOMI DWSS RENOVATION WARD 14 PRJ NO 208/26",
-        "3. Annual Plan MAMPAD GP 2026-27 PULLIPPADAM KARACHAL ROAD RENOVATION- WARD 21 PRO NO 195/"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://etenders.kerala.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -179,9 +167,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Snow Clearance Stage  16",
-        "2. Construction of protection bund from Gh mohd Malik to Gh Nabi Malik at Mooshan",
-        "3. Construction of Protection bund from H/O Nazir Ahmad Bhat to Gh Mohd Bhat at Peth-Zanig"
+        "1. Snow Clearance Stage  14",
+        "2. Construction of drain near Ahlidees Masjid Sharief at Dassan",
+        "3. Improvement of road from Asthan Sharief to Rashid Malik Bonpora with Improvement of Roa"
       ]
     }
   ],
