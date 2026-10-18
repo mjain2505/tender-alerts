@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-18 12:58:54",
+  "checked_at_utc": "2026-10-18 17:48:47",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -26,16 +26,24 @@
     {
       "name": "Maharashtra",
       "state": "Maharashtra",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://mahatenders.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. E tender Notice no-1/2026-27",
+        "2. E tender Notice no-2/2026-27",
+        "3. Improvement of flooring and Other allied work at E Ward Maintanance Chowky and M.H Comp"
+      ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://eproc.rajasthan.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Link Road Suwasara Km0 0/500",
+        "2. State Highway 34 to Barda Ka Balaji Km. 0/400 to 0/500",
+        "3. Manpura to Bijanta Km. 0/100"
+      ]
     },
     {
       "name": "Madhya Pradesh",
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OT 21 inspection of boiler drum",
-        "2. Meter Reading of Current Consumption",
-        "3. Extension of supply works Capital  Improvement  DCW works in            respect of Cons"
+        "1. OT 22 Overhauling of Secondary Air Dampers",
+        "2. Extension of supply works Capital  Improvement  DCW works in            respect of Cons",
+        "3. Meter Reading of Current Consumption"
       ]
     },
     {
@@ -77,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Day Scholar Sports Wing Diet For Player",
-        "2. P/L C.C NEAR H.O RAHUL SODA WALA, SHAKTI PAL, NIRMAL SINGH KOLKATE WALE O H.O BUNTY WAR",
-        "3. SUPPLY AND PURCHASE OF 50 NOS. DOUBLE WHEEL BARROW AT MC RUPNAGAR"
+        "2. ESTIMATE FOR CONSTRUCTION OF NEW CROSS REGULATOR AT RD 76000  OF PHILLAUR DISTY",
+        "3. P/L C.C NEAR H.O RAHUL SODA WALA, SHAKTI PAL, NIRMAL SINGH KOLKATE WALE O H.O BUNTY WAR"
       ]
     },
     {
@@ -87,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for Installation of 7 Nos Boky Type Mini Tubewells At Various Places in Ward n",
-        "2. A/Mtc. of EPHS in Sector-7,...",
-        "3. Providing and fixing of retro reflective small sign board for mcf no. and street no at "
+        "1. A/Mtc. of EPHS in Sector-7,...",
+        "2. Estimate for Installation of 7 Nos Boky Type Mini Tubewells At Various Places in Ward n",
+        "3. Operation, Running Maintenance and Automation of water supply tube wells for outsourcin"
       ]
     },
     {
@@ -100,7 +108,7 @@
       "sample_titles": [
         "1. Peripheral Dev. i.e. Site Clearance,landscaping,Const. of Bwall, App.Rd., dismantling o",
         "2. Peripheral Dev. such as land scaping Constn of B wall approach road, P.ground Digging, ",
-        "3. Peripheral Development such as land scaping, B wall, approach Rd.and Dismantling of old"
+        "3. Construction of Up-Graded Higher Secondary School Building at Govt. High School, Ambagu"
       ]
     },
     {
@@ -110,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. SUPPLYING AND FIXING OF RCC AND FIBER POT OF DIFFERENT DIMENSION AND EMBOSSED RMC  WITH",
-        "2. Construction of a toilet beside Sarkaridih Madrasa School under Matiyala Panchayat",
-        "3. Construction of covered drain from Laxmi Thakur house to the Community Building under H"
+        "2. Construction of chapakals in Sinidih under Sinidih Panchayat in front of Manoj Gayali h",
+        "3. Construction of a 400 feet PCC road from Amit Gop house to fudan bandh Gawardih  Tola u"
       ]
     },
     {
@@ -120,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Govt. RA Lot No. 34/2026-27 Theog",
-        "2. Govt. RA 30/2026-27 Theog",
-        "3. Govt. LL Salvage Lot No. 24/2026-27 Shimla Koti"
+        "1. Govt. LL Salvage Lot No. 24/2026-27 Shimla Koti",
+        "2. Govt. RA Lot No. 34/2026-27 Theog",
+        "3. Govt. RA 30/2026-27 Theog"
       ]
     },
     {
@@ -140,26 +148,26 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fdec1b11590>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fab5867de90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Cleaning of Intake well Open area adjacent to the Sluice Gates Pipes and Channels",
-        "2. ULTRASONIC THICKNESS (UT) SURVEY OF PRESSURE VESSELS IN 500 TPD METHANOL PLANT OF APL",
-        "3. Construction of Multi Utility Complex (Phase-I) at Industrial Estate, Bamunimaidam, Ghy"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='assamtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))",
+      "sample_titles": []
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://etenders.kerala.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Annual Plan  2026-27 KURINJIMALA SULTHANPADI ROAD CONCRETE WARD 16 proj no  161/26 in M",
+        "2. Annual Plan MAMPAD GP 2026-27 POOVATHIKUNN CHEMMARAM ROAD RE TARRING WARD 11 Proj no 93",
+        "3. Annual Plan 2026-27 MANKUNN P S AUDITORIUM ROAD RE TARRING WARD 5 Proj no 218/27 in Mam"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -167,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Snow Clearance Stage  14",
-        "2. Construction of drain near Ahlidees Masjid Sharief at Dassan",
-        "3. Improvement of road from Asthan Sharief to Rashid Malik Bonpora with Improvement of Roa"
+        "1. Construction of drain near Ahlidees Masjid Sharief at Dassan",
+        "2. Development of Road from Main Road Pethzaingam to H/o Muzamil Ahmad Wani via Rashid Shu",
+        "3. Renovation of Panchayat Ghar by way of Fencing and Electric Fitting at Bonzanigam"
       ]
     }
   ],
