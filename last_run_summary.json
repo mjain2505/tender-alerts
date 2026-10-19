@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-10-18 22:46:26",
+  "checked_at_utc": "2026-10-19 03:10:18",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. INVITATION PRE-TENDER MEET",
+        "2. Construction of Chamber and Laying and Cleaning of sewerage Line (Type-II Qtr No. 33 to",
+        "3. Miscellaneous minor repair works in BSF Campus Gandhinagar under SHQ BSF Gandhinagar"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,8 +18,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation of the Agra Canal Lower Division Agra office complex and the Superintending ",
-        "2. Construction of Bridge at Km. 153.810 of Agra Canal in Distt. Matuhra",
+        "1. Construction of Bridge at Km. 153.810 of Agra Canal in Distt. Matuhra",
+        "2. Renovation of the Agra Canal Lower Division Agra office complex and the Superintending ",
         "3. Construction of a minor bridge over Nahal River at Km 8.000 of Rampur-Badakhas Simra Ha"
       ]
     },
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of flooring and Other allied work at E Ward Maintanance Chowky and M.H Comp",
-        "2. E tender Notice no-1/2026-27",
-        "3. E tender Notice no-2/2026-27"
+        "1. E tender Notice no-1/2026-27",
+        "2. E tender Notice no-2/2026-27",
+        "3. Improvement of flooring and Other allied work at E Ward Maintanance Chowky and M.H Comp"
       ]
     },
     {
@@ -36,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. State Highway 34 to Barda Ka Balaji Km. 0/400 to 0/500",
+        "1. Manpura to Bijanta Km. 0/100",
         "2. Link Road Gudhasadawatiya Km0 11/0",
-        "3. Manpura to Bijanta Km. 0/100"
+        "3. Link Road Ramganj Km00 1/450"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Boundary Wall Construction work at Dhekna depot",
+        "2. Construction Of Drain in Siddhnath Area at Sardar Ballabh Bhai Patel Ward Under Zone-1 ",
+        "3. Selection of Consultant for Development of Amusement Park and Refurbishment of existing"
+      ]
     },
     {
       "name": "West Bengal",
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Meter Reading of Current Consumption",
-        "2. OT 21 inspection of boiler drum",
-        "3. Extension of supply works Capital  Improvement  DCW works in            respect of Cons"
+        "1. Extension of supply works Capital  Improvement  DCW works in            respect of Cons",
+        "2. OT 22 Overhauling of Secondary Air Dampers",
+        "3. OT 23"
       ]
     },
     {
@@ -77,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Day Scholar Sports Wing Diet For Player",
-        "2. PURCHASE AND INSTALLATION OF 100 HP PUMP WITH  FITTING AT DISPOSAL HARGOBIND NAGAR",
-        "3. ESTIMATE FOR CONSTRUCTION OF NEW CROSS REGULATOR AT RD 76000  OF PHILLAUR DISTY"
+        "2. REPAIR OF VARIOUS TUBEWELL ROOMS IN THE CITY RUPNAGAR",
+        "3. Estimate for restoration of water course at outlet RD 77900R of Mukandpur disty by layi"
       ]
     },
     {
@@ -89,7 +97,7 @@
       "sample_titles": [
         "1. Estimate for Installation of 7 Nos Boky Type Mini Tubewells At Various Places in Ward n",
         "2. A/Mtc. of EPHS in Sector-7,...",
-        "3. Providing and fixing of retro reflective small sign board for mcf no. and street no at "
+        "3. Construction of  Rain Water Harvestings in Parks and Storm water System in sector 52 in"
       ]
     },
     {
@@ -99,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Up-Graded Higher Secondary School Building at Govt. High School, Ambagu",
-        "2. Peripheral Dev. such as land scaping Constn of B wall approach road, P.ground Digging, ",
-        "3. Peripheral Development such as land scaping, B wall, approach Rd.and Dismantling of old"
+        "2. Peripheral Dev. i.e. Site Clearance,landscaping,Const. of Bwall, App.Rd., dismantling o",
+        "3. Peripheral Dev. such as land scaping Constn of B wall approach road, P.ground Digging, "
       ]
     },
     {
@@ -110,8 +118,8 @@
       "status": "ok",
       "sample_titles": [
         "1. SUPPLYING AND FIXING OF RCC AND FIBER POT OF DIFFERENT DIMENSION AND EMBOSSED RMC  WITH",
-        "2. Installation of deep boring and Jalminar in Simuldanga village under Madanpur Panchayat",
-        "3. Construction of a drain in Rajpura village under Gopalpura Panchayat, Egarkund Block"
+        "2. Construction of covered drain from Laxmi Thakur house to the Community Building under H",
+        "3. Construction of chapakals in Sinidih under Sinidih Panchayat in front of Manoj Gayali h"
       ]
     },
     {
@@ -120,8 +128,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Govt. RA 30/2026-27 Theog",
-        "2. Govt. RA Lot No. 34/2026-27 Theog",
+        "1. Govt. RA Lot No. 34/2026-27 Theog",
+        "2. Govt. RA 30/2026-27 Theog",
         "3. Govt. LL Salvage Lot No. 24/2026-27 Shimla Koti"
       ]
     },
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f4eb447f690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f8638376a90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -156,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan MAMPAD GP 2026-27 THEKKUMPADAM THEYYATHUMKUNN S C ROAD RE TARRING WARD 10 P",
+        "1. Annual Plan 2026-27 VALAMKODE ROUF ROAD CONGREET WARD 16 Proj no 140/26-27 in Mampad GP",
         "2. ASUMP 2026 27 Information Technology Establishment of District Training Centre Muttatha",
-        "3. Annual Plan 2026-27 MAMPAD GP VADAPURAM U P SCHOOL ROAD RENOVATION WARD 3 Proj no 40/27"
+        "3. Annual Plan 2026-27 THRIKKAIKUTH THEKKUMPADAM SC UNNATHI ROAD RENOVATIONWARD 10  Proj n"
       ]
     },
     {
@@ -167,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Snow Clearance Stage  16",
-        "2. Snow Clearance Stage  10",
-        "3. Development of Sports Stadium at Charligund."
+        "1. Snow Clearance Stage  12",
+        "2. Development of Jinazgah at Khudrawthpora",
+        "3. Construction of Tile path from link road to Mubarak Kumar AND others at Dassan"
       ]
     }
   ],
