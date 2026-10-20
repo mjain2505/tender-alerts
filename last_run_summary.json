@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-20 08:11:01",
+  "checked_at_utc": "2026-10-20 14:05:46",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation Up gradation of T II 12 Nos 01 to 12 Type III 02 Nos 01 to 02 and Type IV 01",
-        "2. Re-carpeting of internal road Main gate No. 02 to Unit Temple at 206 CoBRA Bn, CRPF, Ch",
-        "3. Comprehensive, maintenance and pathway repairing and painting of 1900 KLD sewage treatm"
+        "1. Repair of damaged side walls of Assam type structures class rooms IX B and VIII B of BS",
+        "2. Conservancy of Office Buildings, Toilets and Maintenance of Garden for the Year 2026 27",
+        "3. Providing Security Services in the premises of Kasturba Health Society and MGIMS, Sevag"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of Batminton Court in Gulab Garden Park and E Block Park under ward 45 Vis",
-        "2. Maintenance of Mist Cooling Center Near Tatmil Chauraha Under Kanpur Nagar.",
-        "3. JILA HARDOI ME LUCKNOW ROAD PAR C.S.N. COLLEGE KE HOLDING ARIYA KA NIRMAN KARY"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://etender.up.nic.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Materials for Constructing Cross Drain Work in Internal Village at Bharvas Ta",
-        "2. Provide manpower through external mechanisms on a contractual basis at Rural Water Supp",
-        "3. Supply of Materials for Constructing Cross Drain Work in Internal Village at Bharvas Ta"
+        "1. CONSTRUCTING SABHA MANDAP",
+        "2. WORK UNDER SBM AND 15TH FINANCE COMMISION",
+        "3. WORK UNDER SBM AND 15TH FINANCE COMMISION"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction and Commissioning of Clear Water Reservoir CWR 500 KL at Jalipa Head Works",
-        "2. Construction and Commissioning of Open Well at Farsaram Dogiyal ki dhani Sarnu Chimanji",
-        "3. Annual Rate Contract Prepration of Water Bill etc. in City Sub Dn. R and D Barmer"
+        "1. Construction of a CC road from Dhaniram house to Krishna Dhudia house Ward No 9",
+        "2. Construction and repair of drains and culverts at various locations in Ward Nos 1 to 12",
+        "3. Construction and repair of drains and culverts at various locations in Ward Nos 13 to 2"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RENOVATION AND RESTORATION WORK OF THE ENTIRE FAIR/MEAL CAMPUS UNDER THE BODY AREA",
-        "2. SUPPLY OF MEDICINES  AND CONSUMABLES THE YEAR 2026-27",
-        "3. WHITE WASH COLOUR WASH AND PAINTING WORK FOR JUDICIAL RESIDENTIAL BUILDING AT SUB DIVIS"
+        "1. FOR DISMENTLING AND REMOVAL OF EXISTING DAMAGED 3 NOS SLAB FROM MANDAKINI RIVER BED INC",
+        "2. FOURTH CALL FOR ONLINE SHOP NO. 02 FOR SCHEDULE CASTE CATEGORY IN COMMERCIAL COMPLEX NE",
+        "3. SIXTH CALL FOR ONLINE SHOP NO. 02 AT BACK SIDE FOR ALL CATEGORY IN COMMERCIAL COMPLEX N"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIe-T-89/Sl.No.42/2026-27",
-        "2. NIe-T-89/Sl.No.39/2026-27",
-        "3. NIe-T-89/Sl.No.37/2026-27"
+        "1. WBMAD/ULB/RSM/WS/395/26-27",
+        "2. Supervision, Rectification and Breakdown Maintenance of 02 Nos. 125/25 Ton EOT Cranes i",
+        "3. NIe-T-89/Sl.No.35/2026-27"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Vacuum Centrifuge or Concentrator",
-        "2. Procurement of White Clay for Cement Plant",
-        "3. Installation of Fencing and MS Gate for Nagarpalayam Segregation Shed at Kalingiyam Pan"
+        "1. COLLECTION OF FOOD WASTE AND RELATED PACKING MATERIAL AND DISPOSING OUTSIDE THE FACTORY",
+        "2. BT ROAD PATCH WORKS FROM HOUSING COLONY TO ALAMPATTIPUTHUR RIVER BRIDGE AT TNPL UNIT-II",
+        "3. COBWEB CLEANING IN HIGH RISE BUILDINGS AND GODOWNS AT TNPL UNIT-II TRICHY"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/L I/L Tiles in Raman Patwari wali gali in Ward No.45",
-        "2. Laying of HDPE pipeline at project STP RCF Jalal Bhulana and Repair of Pipeline Motors ",
-        "3. Construction of 4th Addl 20MVA 66/11kv T/f plinth and allied civil works at 220 kv ss P"
+        "1. INVITATION FOR THE APPOINTMENT OF SUPER STOCKIST FOR VERKA MILK PRODUCTS.",
+        "2. P/L I/L Tiles in Raman Patwari wali gali in Ward No.45",
+        "3. Laying of HDPE pipeline at project STP RCF Jalal Bhulana and Repair of Pipeline Motors "
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Provision of 01 No. New Tube well bore by DTH Machine at Sector-21A near Green Belt H.N",
-        "2. Providing and Laying RMC M-25 Grade in GBL School wali gali and H No. 1844 to 1846A, Bl",
-        "3. Dismantling of Existing Street Lighting Infrastructure and Execution of Associated Mino"
+        "1. Maintenance of street Lights in Zone-III, M.C. Jind.",
+        "2. Maintenance of street Lights in Zone-II, M.C. Jind.",
+        "3. Maintenance of street Lights in Zone-I, M.C. Jind."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of RCC trough wall lining within RD 9200m to 9300m along with Right side P",
-        "2. Construction of fall at RD 975m and 1050m of  Dehundi Minor for the year 2026-27",
-        "3. Raising and strengthening of left bank with approved barrow earth on vulnerable filling"
+        "1. Renovation of RCC Box Cell VRB at RD 260m including construction of RCC Trough wall at ",
+        "2. Construction of RCC trough wall in between RD 480m to 975m and repair of CD at RD 480m ",
+        "3. Raising of existing trough wall and construction of outlets in between RD 1440m to RD 1"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Food, Grains, Vegitable and Other Various Materials in District Jail, Latehar",
-        "2. Printing and Supply of Textbooks for Class IX to XII",
-        "3. GRAM - AURU, PANCHAYAT- AURU, BLOCK- HUNTERGUNJ MEIN NIMIYATANR RAJENDRA YADAV  KE GHAR"
+        "1. Rate Contract for General Printing Works",
+        "2. Strengthening of existing earthing system of Power transformers by special type deep bo",
+        "3. Supply of Food, Grains, Vegitable and Other Various Materials in District Jail, Latehar"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Lot No. 05.2025.26.Chil.Una",
+        "1. As per SBD",
         "2. Lot No. 01.2025.26.Chil.Una",
-        "3. Lot No. 06.2025.26.Chil.Una"
+        "3. Providing I and D Infrastructure by laying DI pipes (Sewer lines) and C/O manhole chamb"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of a road using interlocking tiles at Geeta Enclave Phase-2 Ramni Aansingh",
-        "2. Scheme for the repair of chains, railings, and flooring at various ghats located in the",
-        "3. DETAILED PROJECT REPORT OF STORM WATER DRAINAGE MASTER PLAN OF GOPESHWAR TOWN , DISTT. "
+        "1. Construction of double-lane, Class A loading bridges (Phase I) to replace the existing ",
+        "2. Construction of double-lane, Class A loading bridges (Phase I) to replace the existing ",
+        "3. Proposal For Improvement of Performance Upgradation Works of Existing 1.50 MLD STP At P"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7cb6448410>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f80bc63ed90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,8 +153,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Earth Filling at Plastic Park, Tinsukia.",
-        "2. Construction of gravel approach road to the plot of M/s Fermbox Bio Pvt Ltd. at IE Digh",
+        "1. Construction of gravel approach road to the plot of M/s Fermbox Bio Pvt Ltd. at IE Digh",
+        "2. Earth Filling at Plastic Park, Tinsukia.",
         "3. Supply, Configuration and Commissioning of the Assam Incident Response and Information "
       ]
     },
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supplying Omni van/equivalent vehicle for the use of Electrical Section, Olai under Ele",
-        "2. Annual Plan-Choondal G P 2026-27 Thayamkavu Vellatheri road maintenance W- 17-Pr. No. 7",
-        "3. Kunnutharapadi Mathiyanchira Road Renovation"
+        "1. Kulamada Pachayil Veetuvathukkal to Achuthan veetuvathukkal  Kadambattukonam Ela Road R",
+        "2. Selection of System Integrator For ICT Components Project",
+        "3. Supplying Omni van/equivalent vehicle for the use of Electrical Section, Olai under Ele"
       ]
     },
     {
@@ -179,11 +175,11 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. S.C.S-4 (RJB S.D)",
-        "2. S.C.S-8 (RMB S.D)",
-        "3. S.C.S-3 (RJB S.D)"
+        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Dedmaribagh",
+        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Utligam",
+        "3. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Doulatpora"
       ]
     }
   ],
-  "new_matches_found": 1
+  "new_matches_found": 0
 }
