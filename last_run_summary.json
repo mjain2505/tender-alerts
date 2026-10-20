@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-20 14:05:46",
+  "checked_at_utc": "2026-10-20 18:55:21",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -15,9 +15,13 @@
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://etender.up.nic.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Beautification work of Park infront of H.No-235/1550 in Ratanpur Coloney Under ward 50 ",
+        "2. Improvement work and Horticultural Development in Mahaveer Park Under ward 57 Zone-5.",
+        "3. Construction of Chabutra in Mahua Park under ward 57 Zone-5."
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,8 +29,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTING SABHA MANDAP",
-        "2. WORK UNDER SBM AND 15TH FINANCE COMMISION",
+        "1. WORK UNDER SBM AND 15TH FINANCE COMMISION",
+        "2. CONSTRUCTING SABHA MANDAP",
         "3. WORK UNDER SBM AND 15TH FINANCE COMMISION"
       ]
     },
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of a CC road from Dhaniram house to Krishna Dhudia house Ward No 9",
-        "2. Construction and repair of drains and culverts at various locations in Ward Nos 1 to 12",
-        "3. Construction and repair of drains and culverts at various locations in Ward Nos 13 to 2"
+        "1. Construction and repair of drains and culverts at various locations in Ward Nos 13 to 2",
+        "2. Construction of CC roads at various locations in Ward No25",
+        "3. Construction of a CC road from Mohan Saharan house to Nihla Chawla house Ward No 20"
       ]
     },
     {
@@ -47,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. FOR DISMENTLING AND REMOVAL OF EXISTING DAMAGED 3 NOS SLAB FROM MANDAKINI RIVER BED INC",
-        "2. FOURTH CALL FOR ONLINE SHOP NO. 02 FOR SCHEDULE CASTE CATEGORY IN COMMERCIAL COMPLEX NE",
-        "3. SIXTH CALL FOR ONLINE SHOP NO. 02 AT BACK SIDE FOR ALL CATEGORY IN COMMERCIAL COMPLEX N"
+        "1. SIXTH CALL FOR ONLINE SHOP NO. 02 AT BACK SIDE FOR ALL CATEGORY IN COMMERCIAL COMPLEX N",
+        "2. FOR DISMENTLING AND REMOVAL OF EXISTING DAMAGED 3 NOS SLAB FROM MANDAKINI RIVER BED INC",
+        "3. FOURTH CALL FOR ONLINE SHOP NO. 02 FOR SCHEDULE CASTE CATEGORY IN COMMERCIAL COMPLEX NE"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. WBMAD/ULB/RSM/WS/395/26-27",
-        "2. Supervision, Rectification and Breakdown Maintenance of 02 Nos. 125/25 Ton EOT Cranes i",
-        "3. NIe-T-89/Sl.No.35/2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -69,7 +69,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. COLLECTION OF FOOD WASTE AND RELATED PACKING MATERIAL AND DISPOSING OUTSIDE THE FACTORY",
+        "1. Fabrication and Erection of PVC/CPVC/FRP Pipes and Fittings in HWFL, CBP 2, 3 and Clo2 ",
         "2. BT ROAD PATCH WORKS FROM HOUSING COLONY TO ALAMPATTIPUTHUR RIVER BRIDGE AT TNPL UNIT-II",
         "3. COBWEB CLEANING IN HIGH RISE BUILDINGS AND GODOWNS AT TNPL UNIT-II TRICHY"
       ]
@@ -81,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. INVITATION FOR THE APPOINTMENT OF SUPER STOCKIST FOR VERKA MILK PRODUCTS.",
-        "2. P/L I/L Tiles in Raman Patwari wali gali in Ward No.45",
-        "3. Laying of HDPE pipeline at project STP RCF Jalal Bhulana and Repair of Pipeline Motors "
+        "2. Laying of HDPE pipeline at project STP RCF Jalal Bhulana and Repair of Pipeline Motors ",
+        "3. P/L I/L Tiles in Raman Patwari wali gali in Ward No.45"
       ]
     },
     {
@@ -92,8 +92,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Maintenance of street Lights in Zone-III, M.C. Jind.",
-        "2. Maintenance of street Lights in Zone-II, M.C. Jind.",
-        "3. Maintenance of street Lights in Zone-I, M.C. Jind."
+        "2. Maintenance of street Lights in Zone-I, M.C. Jind.",
+        "3. Maintenance of street Lights in Zone-II, M.C. Jind."
       ]
     },
     {
@@ -102,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation of RCC Box Cell VRB at RD 260m including construction of RCC Trough wall at ",
-        "2. Construction of RCC trough wall in between RD 480m to 975m and repair of CD at RD 480m ",
-        "3. Raising of existing trough wall and construction of outlets in between RD 1440m to RD 1"
+        "1. Construction of cement concrete trough wall in between RD 00 to 300m of Dhaner Sub-Mino",
+        "2. Construction of fall at RD 975m and 1050m of  Dehundi Minor for the year 2026-27",
+        "3. Improvement of Trough wall in between RD 2250m to RD 2350m of Nandagaon Minor-I"
       ]
     },
     {
@@ -137,14 +137,14 @@
       "sample_titles": [
         "1. Construction of double-lane, Class A loading bridges (Phase I) to replace the existing ",
         "2. Construction of double-lane, Class A loading bridges (Phase I) to replace the existing ",
-        "3. Proposal For Improvement of Performance Upgradation Works of Existing 1.50 MLD STP At P"
+        "3. Construction of double-lane, Class A loading bridges (Phase I) to replace the existing "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f80bc63ed90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6b824fcb90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -176,8 +176,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Dedmaribagh",
-        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Utligam",
-        "3. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Doulatpora"
+        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Doulatpora",
+        "3. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Gopalpora"
       ]
     }
   ],
