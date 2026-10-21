@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-10-21 11:09:42",
+  "checked_at_utc": "2026-10-21 16:35:59",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. AMC for Work contract management system software (WCMS) of NRB, BARCF, Kalpakkam for th",
-        "2. Annual Repair and Maintenance of 10 Nos BOPs Buildings of 77 BN BSF under SHQ BSF Kolka",
-        "3. Modernization/Upgradation of existing parks/green belts."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Kendriya Vidyalaya, Siwan, Bihar",
-        "2. Widening and strengthening work of Kadipur-Akhandnagar Road (Other District Road) from ",
-        "3. Widening and Strengthening Work of the Tanda to Bodha road till the border of district "
+        "1. New Construction work of Masum Nagar (Maholi) to Tarsi (Talvan) link road",
+        "2. Reconstruction work of damaged Minor Bridge 2x5.00 mtr. clear span over the drain locat",
+        "3. New Construction work of Maholi to Mukundpur Road via Birju ki Dharamshala"
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Under Magasvargiya Nidhi, laying a 100 mm MS water pipeline in the hilly area behind Sa",
-        "2. Portable X Ray Machine (RTVS)",
-        "3. Regarding the establishment of an annual rate contract (for a period of 2 years) for th"
+        "1. C.N.B. AT DAKHHAN  DHANGARWADI SARVAJANIK VIHIRIJAVAL, TAL - SANGMESHWAR, DIST - RATNAG",
+        "2. Improvement of passage and drainage system at Kamgar Nagar",
+        "3. Improvement of passage and drainage system and SWD at Fejulla Mukadam"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Additional work of Aluminium Windows with DGU Glass in CCB at Jhunjhunu",
-        "2. Construction of a security wall in Pipalda Samel Bagli, Laban Chhappanpura, Rebarpura U",
-        "3. Pipalda Samel Bagli, Laban Chhappanpura, Rebarpura Upto, S.H. 29 Construction of a culv"
+        "1. Repair of Residential Building of Police Station Sankara District Jaisalmer",
+        "2. Supply work of Unskilled Cleaning Labour.",
+        "3. Repairing and Rewinding of CF Pump Sub Dn Bhopalgarh Under Distt Dn Ist"
       ]
     },
     {
@@ -51,17 +47,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. VEHICL ON RENT",
-        "2. Hirring of 1 No Mahendra Bolero BS6 Jeep Model 2026-27",
-        "3. Office Stationery"
+        "1. Balance works for Improvement to Water Supply Services in Pansemal Nagar Parishad in Ba",
+        "2. RENOVATION WORK NRC BUILDING AT DH SINGRAULI(WAIDHAN) AND CHC CHITRANGI DISTRICT SINGRA",
+        "3. RENOVATION WORK NRC BUILDING AT DH SIDHI CHC KUSMI,AND PHC AMILIYA  BARIGAWA AND BANJAR"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Deputation of Expert Service Engineer during Unit 6 Air Preheater Overhauling under BMD",
+        "2. PROCUREMENT OF ROLLER BEARINGS FOR ZGM113G MILL OF UNIT - 7",
+        "3. Book Supply"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and Fixing of Survey Stones for Temple Lands Belongs to the Temples of Arulmigu ",
-        "2. General fund Construction of Drain at 13th ward Kannapatti Main Road to Kannimar Kovil ",
-        "3. Construction of Waiting Shed with GI Sheet Roofing at Infront of Community Hall Panchay"
+        "1. Vellore District  Construction of New  Drainage Solavaram at Sloavaram Panchayat  Kaniy",
+        "2. Execution  of  Capital, Improvement and DCW Work in UGCable Subdivision in  Urban Tirun",
+        "3. CONSTRUCTION OF NEW CABIN AND BODY BUILDING FOR ONE NO. NEW 10 TON DIESEL DRIVEN HEAVY "
       ]
     },
     {
@@ -80,17 +80,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Diet for Player in District Ropar",
-        "2. Providing Facility Management Operation and Maintenance Services at Bhagwan Valmiki Ji ",
-        "3. EDL Drugs"
+        "1. Civil Works for Augmentation of 100 to 160 MVA 220/66 kV Transformer, Additional 20 MVA",
+        "2. Pf Il Tiles Ravidass Gurudwara Sahib To Balmik Mandir Near Mangarh Road Wno 13 Mc Amloh",
+        "3. Pf Il Tiles Rg From Near Cold Store To Pipe Factoury Near Beer Park Nabha Road Amloh Wn"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Kairu-I and Kairu-II - Est...",
+        "2. SIDHAN- Estimate for provi...",
+        "3. Jitakheri-Upgradation of w..."
+      ]
     },
     {
       "name": "Odisha",
@@ -98,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, erection, testing and commissioning of a capsule type electric traction elevato",
-        "2. Repair and Renovation of KRC and B Division Office Building at Basudevpur under KIP",
-        "3. Providing Power Supply to Birikala Munda Sahi by Installation of 11 kV Line, LT Distrib"
+        "1. Strengthening and Furnishing of office of SE (Agril), Central Zone, Bhubaneswar",
+        "2. PROCUREMENT OF AI POWERED FINANCIAL INVESTIGATION TOOL FOR COMMISSIONERATE POLICE BHUBA",
+        "3. Construction of Conference Hall on first floor of ADO Office Tangi"
       ]
     },
     {
@@ -109,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rate Contract for Ortho Machine Uakanra With All Equipment and Others Items",
-        "2. IRQP work of Road from Singh More to Latma (total length -2.35km) for the year 2026-27.",
-        "3. CONSTRUCTION OF RCC DRAIN WITH SLAB FROM (1)  RAJU SHOP TO AANDLIP HOUSE  (3)MALIRAM HO"
+        "1. Supply of Spare Parts for Standard Deep well hand pump IM II/IM III under D.W.and  S. D",
+        "2. Consultancy Services for Preparation of Detailed Land Acquisition Proposal, Detailed Re",
+        "3. Rate Contract for Ortho Machine Uakanra With All Equipment and Others Items"
       ]
     },
     {
@@ -120,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C.O link road from NH.05 to Community centre at Badhal Km. 0.000 to 1.350",
-        "2. C/O Ambulance road from Galore Pahal main road to village Khorar in Khasra No. 131  115",
-        "3. Restoration of rain damages on Nadaun Bangana road"
+        "1. Repair of rain damages of GWSS Jadoon Dakoon in G.P. Jadoon in tehsil Kumarsain, Distt.",
+        "2. C/O Separate LWSS to 9 Nos. Gram Panchayats of Hamirpur Constituency from River Satluj ",
+        "3. (2015-306-1179) Providing LIS for Horticulture Land at Kuthar and Adj. village in G.P. "
       ]
     },
     {
@@ -131,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF PROPOSED DISTRICT LIBRARY AT RACE COURSE, DEHRADUN",
-        "2. Repair work on buildings within the ITI New Tehri campus.",
-        "3. Construction of CC road in Gangotri Vihar of Ward number 2 Bhupatwala in constituency H"
+        "1. Renewal work by S.D.B.C at Kemptyfall Bypass motor road  under Annual Maintenance year ",
+        "2. SITC OF 60 NOs CCTV CAMERAS WITH ALLIED ACCESSORIES WITH 01-YEAR COMPREHENSIVE WARRANTY",
+        "3. Construction work to widen the road from Chutki village to Junaija Farm to a width of 3"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f91a6d50610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f5742fcce90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -171,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R and  M of Distribution Sub Stations for various Divisions of KPDCL falling under the ",
-        "2. Construction of Two Bed Room Hut at Sitharan Base Camp of Tosamaidan ( Balance work).",
-        "3. Establishment of Art Museums at Stone Building Old Secretariat Srinagar (Completion of "
+        "1. RDDDC2627104321 -(IMPROVEMENT OF LANE ROAD WITH CULVERT FROM HOUSE OF BASHIR AHMAD SHAH",
+        "2. RDDDC2627105476 -(RENOVATION OF PYT GHR WITH FURNITURE AT KAMRAZIPORA (SHADIM))",
+        "3. RDDDC2627104312 -(CONST OF LANE DRAIN FROM HOUSE OF SHABIR AHMAD SHAH TO HAJI GH MOHD D"
       ]
     }
   ],
