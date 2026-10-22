@@ -1,19 +1,27 @@
 {
-  "checked_at_utc": "2026-10-22 16:37:34",
+  "checked_at_utc": "2026-10-22 21:12:01",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1.  SS/C050-1P39A-YA-MR-1660/70  - ANALYSER SYSTEMS for Polypropylene Unit (PPU) Project a",
+        "2. Repair and maintenance residential quarter type-II -11 Nos (40-44, and 53-58) qtr  unde",
+        "3. SITC of new 60 MT capacity fully electronic Lorry Weighbridge with cabin at Railhead Fa"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Coverd RCC Drain Construction Work",
+        "2. Road Repair work of Sitapur Road to Faizullaganj- Altafkhera- Tikwanala- Datingra Road ",
+        "3. CC Road Construction Work"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -21,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of RCC Cover at various Location in E Ward",
-        "2. Improvement of Passage and Draiage System Near HBT at Bhartiya Kamla Nagar sion Koliwad",
-        "3. ETENDER NOTICE NO 6"
+        "1. Improvement of sewer line of, plot no. 394-B Gupta Niwas, Bhaudaji road, Matunga in bea",
+        "2. Supply of RCC Cover at various Location in E Ward",
+        "3. Improvement of sewer line of, Plot mo. 316, Mohan Niwas, chandravarkar road, Matunga in"
       ]
     },
     {
@@ -32,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Gift Hampers",
-        "2. CONSTRUCTION OF UIT OFFICE BUILDING  AT PALI",
-        "3. Annual Rate Contract for the Work of M.S. fabrication, Providing and fixing of MS Speci"
+        "1. CONSTRUCTION OF UIT OFFICE BUILDING  AT PALI",
+        "2. Procurement of Gift Hampers",
+        "3. Annual Rate Contract for the Work of Providing, laying, Jointing, Testing and Commissio"
       ]
     },
     {
@@ -43,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RENOVATION WORK NRC BUILDING  BLOCK SIRMAUR AT DISTRICT REWA (M.P.)",
-        "2. Inviting proposals for Hiring of Light Commercial Vehicle i e Bolero camper gold pickup",
-        "3. Repairing of Handpump Set Labour Charges With Handpump Technician in Different Villages"
+        "1. RENNOVATION WORK  OF NRC BUILDING  CHC RAJENDRGRAM AND CHC PUSHPRAJGARH  DISTRICT ANUPP",
+        "2. MODIFICATION / SHIFTING OF 220 KV DCDS INDORE (400 KV) MANGLIYA / JAITPURA LINE FROM LO",
+        "3. RENOVATION WORK NRC BUILDING  BLOCK SIRMAUR AT DISTRICT REWA (M.P.)"
       ]
     },
     {
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Raw Water Shortage Alternative arrangements Drilling of Bore wells Type 1, 2, 3, 4, 5 a",
-        "2. Temporaray Restoration of Potholes of V.P Sithan Nagar to Vishvanathanagar Road Km 0/0-",
-        "3. CNT/LT/SEW/MWB/236/2026-27"
+        "1. OT 26",
+        "2.  Construction of Compound wall at Sundaram Street in ward no 72 West Zone",
+        "3. OT 29 Screw conveyor"
       ]
     },
     {
@@ -76,8 +84,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Installation and commissioning",
-        "2. Renovation/Upgradation of Indo-Israel Centre of Excellence",
+        "1. Renovation/Upgradation of Indo-Israel Centre of Excellence",
+        "2. Supply, Installation and commissioning",
         "3. Providing and Supplying Placing furnishing Items for of 01 No. Temporary Court at Derab"
       ]
     },
@@ -120,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages on Chhailla Neripul Yashwant nagar Oachghat Kumarhatti road",
-        "2. C/o Rajeev Gandhi Day boading school Kandaghat",
-        "3. Improvement of LIS Baleta Kalan and Baleta khurd from Kunah khad in Tehsil Nadaun Distt"
+        "1. C/o Rajeev Gandhi Day boading school Kandaghat",
+        "2. Restoration of rain damages on link road to civil hospital Kandaghat Distt. Solan km 0/",
+        "3. Restoration of rain damages on Kufri Chail Kandaghat road km 25/0 to 57/0"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f0ce1b11dd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff50d5fd510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,13 +165,9 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. LAC  ADS  Kyip  LAC ADS 2025 26 Construction of Mangottupara  Peedikakandi canal road n",
-        "2. P.No.308/AKD -Drainage work in Panchayathu kinar Potta Colony road in WARD NO. 2",
-        "3. P.No.327/AKD - Paving Interlocking tiles at 141 NO. Anganwadi Road in Ward NO.1"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -171,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction/Improvement of Phase II of P Bund at Nallah Dubji near the H/O Ab Majeed a",
+        "1. Construction of road from Malik Provision store passing Trunk House turn towards North ",
         "2. Rendering of Service for Preparation of DPR and Providing of Architectural Drawings of ",
-        "3. Macadamization of road from Manda to Koyli (3rd Call)"
+        "3. Repair and Renovation of Quarter of SSP Rajouri (2nd Call)"
       ]
     }
   ],
