@@ -1,11 +1,11 @@
 {
-  "checked_at_utc": "2026-10-23 20:59:07",
+  "checked_at_utc": "2026-10-23 23:47:37",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f58477124d0>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7faf5983a150>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -14,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Gate on the Entrance road of Industrial  Sector 15  Gida Gorakhpur",
-        "2. Magh Mela 2026-27 hetu Extra 1 Pantoon Pul pahuch Marg ke Nirmad Rakh Rakhaw ewam Disme",
-        "3. PATULKI KANEHTI DAILAPUR GIRDHARPUR JHAJHARI BABUGANJ HOTE HUWE BAGAI MARG ODR KE KM 4 "
+        "1. Magh Mela 2026-27 hetu Extra 2 Pantoon Pul pahuch Marg ke Nirmad Rakh Rakhaw ewam Disme",
+        "2. PAIGAMBERPUR SAMPARK MARG PAR 2 CELL 3X3 MTR ISPAN RCC LAGHU SETU KA NIRMAD KARYA",
+        "3. Construction of Gate on the Entrance road of Residential Scheme of Gida Sector 11 Gida "
       ]
     },
     {
@@ -26,8 +26,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Repair work of toilet blocks situated",
-        "2. Providing New Streetlight at Ganeshwadi and various location in Shiravane Ward No.21 Ne",
-        "3. Chandivali Vidhansabha beat no.162 L Ward"
+        "2. Providing Viewing Deck,Banner and Other Miscellaneous Arrangments for Devi Immersion 20",
+        "3. Removing Leaves and Plants (Jalparni) Form Rivr at Godavari River Madsangvi to Laranjga"
       ]
     },
     {
@@ -36,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Deployment of PWD Chowki staff at PWD Chowki, Janana Hospital JHALAWAR",
+        "1. REHABILITATION OF VARIOUS ROADS UNDER BUDGET ANNOUNCEMENT 295.00/2026-27 UNDER PACKAGE ",
         "2. SAMUDAIK BHAWAN CHARDIWARI AND ROOM KARY",
-        "3. REHABILITATION OF VARIOUS ROADS UNDER BUDGET ANNOUNCEMENT 295.00/2026-27 UNDER PACKAGE "
+        "3. Deployment of PWD Chowki staff at PWD Chowki, Janana Hospital JHALAWAR"
       ]
     },
     {
@@ -58,8 +58,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/ULB/HM/3308/NIT-2583 Dt-13.08.2026",
-        "2. WBMAD/ULB/HM/3307/NIT-2582 Dt-13.08.2026",
+        "1. WBMAD/ULB/HM/3307/NIT-2582 Dt-13.08.2026",
+        "2. WBMAD/ULB/HM/3308/NIT-2583 Dt-13.08.2026",
         "3. Job of Measurement of Flue gas parameters at ESP of 300 MW Unit 7 at DPPS DPL under AHP"
       ]
     },
@@ -80,8 +80,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Laying 60 mm Interlocking Tiles Farid nagar(Adjacent to Shani dev mandir)",
-        "2. Repair/Renovation etc. work at Kishanpura Masjid.",
+        "1. Providing and Laying 60 mm Interlocking Tile in Haripura Basti (Opposite to Hanuman Man",
+        "2. Repair/Renovation etc. work at Jama Masjid.",
         "3. Repair/Renovation etc. work at Station Masjid."
       ]
     },
@@ -92,8 +92,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Improvement of Road from To...",
-        "2. Providing and Laying 80mm thick M-40 grade inter locking tiles at various street in blo",
-        "3. Job No 47 A/mtc of L/S work in"
+        "2. Repairing/ White Washing and Painting at Staff Quarter allotted to Sh. Surender Payla (",
+        "3. RFP for Door to Door collection, segregation, transportation as well as processing of w"
       ]
     },
     {
@@ -102,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Cluster of Constn. of 120 Men Barrack with provision of Dining-cum Kitchen (Block-I), (",
-        "2. Construction of 6 nos. E type Qtrs. at Kundheigola PS, Debagarh",
-        "3. Construction of 8 nos. F type staff Qtrs. at Kosagumuda Fire Station, Nawarangpur"
+        "1. Construction of 8 nos. F type staff Qtrs. at Umerkote Fire Station, Nawarangpur",
+        "2. Construction of 6 nos. F type staff Qtrs. at Tentulikhunti Fire Station, Nawarangpur.",
+        "3. Construction of Atal Bus Stand(A-Type) at Phulbani under Phulbani Municipality Block, K"
       ]
     },
     {
@@ -125,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Swimming Pool at Rajiv Gandhi Govt. Model  Day Boarding School at Kalpa",
-        "2. Construction of Pulli in village Upper Sadoh on Lahar Nallah near the land of Sh. Sures",
-        "3. Balance work of road from Bhatta to Reori Patte 0/00 to 0/250"
+        "2. C/O link road and Pulli from main road Charoon to the house of Chander Kuamr in village",
+        "3. Landscaping and Beautification of Track infield and slopes at Rajiv Gandhi Government M"
       ]
     },
     {
@@ -144,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f584733ef50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7faf5951ad10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -161,9 +161,13 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://etenders.kerala.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. MP-LADS 2025-26 - Renovation of East Kodur- Chakirimill Edattupara road, ward-9, Kodur ",
+        "2. MP-LADS 2026-27 - Construction of East Kodur- Madathilpadi-Poyyil road, Ward-09, Kodur ",
+        "3. MP-LADS-2026-27-Construction of Pelathodi Road/pathway-Ward no.23 Kodur GP -(Work Code-"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -171,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627103909 CO LANESTEPS  FROM NISAR CHAICHI TO MASJID  SHAREEF CHAICHI MOHALLA  SA",
+        "1. Construction Pacca Path from House of showket Ahmed to H O Parviz ahmed and others w no",
         "2. Permanent Restoration of Water Supply Scheme Sarhutti.",
-        "3. Construction of Walling near graveyard sehari ward no. 5 Pyt Tuli Lower-A Block Chassan"
+        "3. construction of T Road PMGSY Road Manudarman to Piro Road Pyt Tuli Upper-A Block Chassa"
       ]
     }
   ],
