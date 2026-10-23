@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-22 21:12:01",
+  "checked_at_utc": "2026-10-23 03:18:39",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Coverd RCC Drain Construction Work",
-        "2. Road Repair work of Sitapur Road to Faizullaganj- Altafkhera- Tikwanala- Datingra Road ",
-        "3. CC Road Construction Work"
+        "1. PAINTING AND REPAIR WORK OF CHAUDHARY CHARAN SINGH WRESTLING STADIUM, SADARPUR, GHAZIAB",
+        "2. Coverd RCC Drain Construction Work",
+        "3. Road signage Work under the Road Safety Scheme on Mohd Shaukat Ali Road."
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of sewer line of, plot no. 394-B Gupta Niwas, Bhaudaji road, Matunga in bea",
-        "2. Supply of RCC Cover at various Location in E Ward",
-        "3. Improvement of sewer line of, Plot mo. 316, Mohan Niwas, chandravarkar road, Matunga in"
+        "1. ETENDER NOTICE NO 6",
+        "2. Repair work at mastan talav ground compound wall in beat no 213 E ward",
+        "3. Improvement of sewer line of, plot no.252, Bhagirathi Bhuvan, U U Bhatt road, Matunga i"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "sample_titles": [
         "1. CONSTRUCTION OF UIT OFFICE BUILDING  AT PALI",
         "2. Procurement of Gift Hampers",
-        "3. Annual Rate Contract for the Work of Providing, laying, Jointing, Testing and Commissio"
+        "3. Annual Rate Contract for the Work of M.S. fabrication, Providing and fixing of MS Speci"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RENNOVATION WORK  OF NRC BUILDING  CHC RAJENDRGRAM AND CHC PUSHPRAJGARH  DISTRICT ANUPP",
-        "2. MODIFICATION / SHIFTING OF 220 KV DCDS INDORE (400 KV) MANGLIYA / JAITPURA LINE FROM LO",
-        "3. RENOVATION WORK NRC BUILDING  BLOCK SIRMAUR AT DISTRICT REWA (M.P.)"
+        "1. RENOVATION WORK NRC BUILDING  BLOCK SIRMAUR AT DISTRICT REWA (M.P.)",
+        "2. Inviting proposals for Hiring of Light Commercial Vehicle i e Bolero camper gold pickup",
+        "3. Procurement of Various spares for Mill Reject, Ash handling, CW pump house             "
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. OT 26",
-        "2.  Construction of Compound wall at Sundaram Street in ward no 72 West Zone",
-        "3. OT 29 Screw conveyor"
+        "1.  Formation of Open Gym at Balaji Nagar in Ward No 38 West Zone",
+        "2. Providing Pipeline from 60000 lit OHT near Panchayat office to Kulathumedu(610m) at Vad",
+        "3. Restoration   of Pot holes and patches ( BT AND CC )  at ward 1 to 15 in NaduvattamTown"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "sample_titles": [
         "1. Tender for Renovation of Pond-2, Stone pitching at Gairatpurbass in Sohna Range, Distri",
         "2. Construction of RCC Precast Boundary Wall at Gairatpurbass, Aravalli Forest Area in Soh",
-        "3. Special Repair of the Service Road and Master Road along the Sector 3/5 Dividing Road, "
+        "3. Repair and maintenance of park road berms N.H to Golf club Sector 3, Ward No. 13, Panch"
       ]
     },
     {
@@ -108,7 +108,7 @@
       "sample_titles": [
         "1. SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF 250 TR. COOLING TOWER ALONG WITH ASS",
         "2. Construction of staff Quarter 4 nos E Type at Aul Court in the district of Kendrapara f",
-        "3. WORKS"
+        "3. Construction of H.L. bridge over Vecta Jora on Pataparia to Balungapatia road in the Di"
       ]
     },
     {
@@ -118,7 +118,7 @@
       "status": "ok",
       "sample_titles": [
         "1. CONSTRUCTION OF TWO SPAN R.C.C BRIDGE (2X7.4X6.0) ON LOCAL NALA IN VILLAGE KOJRAM, PANC",
-        "2. GIR-3",
+        "2. Design, supply, installation, testing, commissioning, integration, training, operation ",
         "3. GIR-4"
       ]
     },
@@ -128,7 +128,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/o Rajeev Gandhi Day boading school Kandaghat",
+        "1. Restoration of rain damages on Chhob to Bhuira road km 0/0 to 3/500",
         "2. Restoration of rain damages on link road to civil hospital Kandaghat Distt. Solan km 0/",
         "3. Restoration of rain damages on Kufri Chail Kandaghat road km 25/0 to 57/0"
       ]
@@ -148,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff50d5fd510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f1ad5c054d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,9 +165,13 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. P.No.327/AKD - Paving Interlocking tiles at 141 NO. Anganwadi Road in Ward NO.1",
+        "2. LAC  ADS  Kyip  LAC ADS 2025 26 Construction of Mangottupara  Peedikakandi canal road n",
+        "3. P.No.308/AKD -Drainage work in Panchayathu kinar Potta Colony road in WARD NO. 2"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -176,8 +180,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of road from Malik Provision store passing Trunk House turn towards North ",
-        "2. Rendering of Service for Preparation of DPR and Providing of Architectural Drawings of ",
-        "3. Repair and Renovation of Quarter of SSP Rajouri (2nd Call)"
+        "2. RDDC2627106651 CONSTRUCTION OF BUND AT KANTHASRI NEAR LANDS OF PREM NATH AND ORS AT HAR",
+        "3. Construction of Community Borewell NLO Mumtaza Akhter, Iqbal Ahmad Shah, Sona Ullah Sha"
       ]
     }
   ],
