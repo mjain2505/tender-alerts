@@ -1,27 +1,19 @@
 {
-  "checked_at_utc": "2026-10-23 10:59:37",
+  "checked_at_utc": "2026-10-23 16:27:20",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Empanelment of Vendors for Supply of Medical Books and CDs",
-        "2. M/o Completed scheme under N/A-II Hort. Zone",
-        "3. Electrical work for providing essential power supply and installation, wiring, illumina"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fbde4be62d0>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. HANDLING WORK AT THE BAHRAICH MANDI",
-        "2. Ward No. 07 Shivaji Nagar Construction of a CC road and drain from Chunni Cycle house t",
-        "3. Ward No. 13 Shivpuri Construction of CC road from Maitha Road to Pataleshwar Temple"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +21,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing and Fixing Roller Blinds in various committe offices at Main Building of MHO.",
-        "2. Improvement of drainage at mangli Kanduri Chawl plot No 68 B   R.S.Nimkar Marg in beat ",
-        "3. Ulhasnagar Diwali Bazaar in the city for Camp No. 1,2 and 3 at Gol Maidan and for Camp "
+        "1. Chandivali Vidhansabha beat no.159 L Ward",
+        "2. Repair work of toilet blocks situated",
+        "3. Check Dam at Aashpur-4  Range Office sinnar"
       ]
     },
     {
@@ -40,9 +32,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Road Works",
-        "2. Replacement of Electric cable at Various locations of Amber Palace, Jaipur",
-        "3. Construction of Entry Gate Mohan Niwas Colony Station Road, Kota"
+        "1. Repair of MS Header of Budhsinghpura OHSR and Pump House, including Repair of Valve Cha",
+        "2. Deployment of PWD Chowki staff at PWD Chowki, SRG Hospital JHALAWAR",
+        "3. Construction of Drain in Ramsarovar Colony, Chandresal Road."
       ]
     },
     {
@@ -51,9 +43,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SUPPLY and SERVICE OF FLEX , VIDEOGRAPHY and OTHER ITEM  FOR DIFFERENT SPORTS TOURNAMEN",
-        "2. REPAIR WORK OF SLUICE AND CANAL OF SATIGHAT TANK",
-        "3. FISH MARKET FIRST FLOOR SHOP NO 222"
+        "1. SHIFTING AND CONNECTIONS OF ALL 11 KV SERVICE LINES ON 33 KV SUBSTATION INCLUDING OF NE",
+        "2. SUPPLYING, INSTALLATION, COMMISSIONING AND TESTING OF 2 NOS STRECHER LIFT AND 1 NOS BED",
+        "3. Supply of different type motor, pumps and starter at WTP vidisha"
       ]
     },
     {
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBMAD/ULB/HM/3535/NIT-2601 Dt- 29.08.2026.",
-        "2. WBMAD/ULB/HM/4370/NIT-2699 Dt-21.10.2026",
-        "3. WBMAD/ULB/HM/4395/NIT-2645 Dt- 21.10.2026"
+        "1. WBMAD/ULB/HM/3307/NIT-2582 Dt-13.08.2026",
+        "2. WBMAD/ULB/HM/3308/NIT-2583 Dt-13.08.2026",
+        "3. Job of Measurement of Flue gas parameters at ESP of 300 MW Unit 7 at DPPS DPL under AHP"
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of RCC  Culvert  at Polampatti to Maguthupatti Salai Ch - 0 / 600",
-        "2. Purchase of Single Part  Double and Trible Paper",
-        "3. Repair and Renovation works Providing Cutstone flooring and Construction of Suttrupragh"
+        "1. TENDER NOTICE No 01 2026 27 SDO Dated 05.10.2026",
+        "2. TENDER NOTICE No 01 2026 27 SDO Dated 05.10.2026",
+        "3. 1. PROVIDING NEW 2HP SUBMERSIBLE MOTOR  FOR OPENWELL  AT ELUMATHUR WEEKLY MARKET TOILET"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Prov./Installation of 25 Hp New Submersible T/well at  New Angad Dev Colony  street no.",
-        "2. Prov./Installation of 25 Hp New Submersible T/well at  Dashmesh Nagar near OK Bakery  w",
-        "3. Prov./Laying 4 inch  id DIK-7 water supply line and 10 inch id UPVC sewer line at Dalba"
+        "1. P/L of 60 mm interlocking tile in Gali No.4 to # F-191, C-223 to Dead End, F-298 to F-3",
+        "2. Repair/Renovation etc. work at Station Masjid.",
+        "3. P/L of 60 mm interlocking tile  from thanedar to Satpal di chaki(adjacent to railway li"
       ]
     },
     {
@@ -95,9 +87,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. HEW-597 Wiring Recall",
-        "2. Kachhwa Const. of Hall for ...",
-        "3. 29.92- Const. of field ras..."
+        "1. Providing and Laying 80mm thick M-40 grade inter locking tiles at various street in blo",
+        "2. Repairing/ White Washing and Painting at Staff Quarter allotted to Sh. Surender Payla (",
+        "3. Improvement of Road from To..."
       ]
     },
     {
@@ -106,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Construction of RD road (Ardaulia pump house) to Duduranta Bhageswari Girls High Schoo",
-        "2. Construction of NH-20 (Chhachina Mohapatra Sahi) to Dahikhai temple Chhaka Via Chhachin",
-        "3. Execution for laying of water supply distribution  pipeline  in the land alloted to var"
+        "1. Construction of 6 Nos. E type Qtr. at Gaisilet PS, Bargarh",
+        "2. Construction of 6 nos. E type Qtrs. at Kundheigola PS, Debagarh",
+        "3. Cluster for 1.Construction of 8 nos. F type staff Qtrs. 2.Constn. of Boundary Wall at D"
       ]
     },
     {
@@ -117,9 +109,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Boundary Wall for the New Primary School at Jangaludih Tola, under Babu",
-        "2. BOQ FOR REAPAIRING AND INSTALLATION  OF OLD SCHEME (ST/SC/PVGT) UNDER DUMKA DUMKA DIST.",
-        "3. Construction of Boundary Wall of Upgraded Middle School, Chas-3 Dhandabar Panchayat Alk"
+        "1. Operation and Maintenance of 1.5 MLD WTP Intake Well at Kansjor Viilage River Barakar R",
+        "2. Construction of Boundary wall in Seemabad madhy vidhyalya at Pundru Panchayat in Chas B",
+        "3. Operation and Maintenance of 1.0 MLD WTP Intake Well at Manjlitand Joriya RW and CWRM D"
       ]
     },
     {
@@ -128,9 +120,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain/snow damages to WSS Jobrang in GP Jobrang, Distt. Lahaul  Spiti (HP",
-        "2.  HED/130/2026-27",
-        "3. E19-26-27"
+        "1. Construction of Swimming Pool at Rajiv Gandhi Govt. Model  Day Boarding School at Kalpa",
+        "2. HPSEBL/LPH/CMDT/DB-8/2026-065",
+        "3. Construction of Pulli in village Upper Sadoh on Lahar Nallah near the land of Sh. Sures"
       ]
     },
     {
@@ -139,16 +131,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EDC(H)/60/2025-26",
-        "2. EDC(H)/59/2025-26",
-        "3. Under the State Sector, the work of covering the drain constructed on Malviya Road Hind"
+        "1. Legacy waste management through Bio Remediation of Existing waste at Dump site on Bages",
+        "2. Road furniture work from km 1 to 9 of Jaitpur Dhanauri road in Bazpur Assembly Constitu",
+        "3. Reconstruction from the main road in front of the RTO office to the paved road via the "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7efea0639690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fbde4af4250>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +149,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EOI for Selection of Partner for Conceptualization, Design, Development, Operationaliza",
-        "2. Tender for lab. Reagent and Consumables",
-        "3. Construction of  Toilet (3Nos) under Basugaon Municipal Board"
+        "1. Anti Erosion measures to protect Upendrapur village from the river Sankosh on Left Bank",
+        "2. Anti-erosion measures to protect village Gardenpur( Basuri) and its adjoining area from",
+        "3. Printing and supply of Modules and Facilitator Guides for State Level ToT for Integrate"
       ]
     },
     {
@@ -168,9 +160,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and Installation of furniture for Physiotherapy Clinic at Rajiv Gandhi Medicine ",
-        "2. GENERAL-AM 2026-27-Annual Maintenance of Kalpara LI Scheme in Heroor Village of Mangalp",
-        "3. Annual Plan- 2026-27 Keezhattur Grama Panchayath Mukhampadi Kokkad Road Renovation Proj"
+        "1. MP-LADS-2026-27-Construction of Pelathodi Road/pathway-Ward no.23 Kodur GP -(Work Code-",
+        "2. Concreting of Marath road, Ward-14, Othukkungal GP- (Project Code 12479)",
+        "3. Assistant Engineer office  Haripad group- Repairs and maintenance works to the toilet b"
       ]
     },
     {
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 06 additional class rooms, 01 hall and 02 toilets  including demolishin",
-        "2. Repair of Tehsil Office Complex Mahanpur. (Under Capex Budget 2026-27)",
-        "3. Restoration of Back Nine Golf Greens and Seedbed preparation for the year 2026-27 at Gu"
+        "1. construction of T Road PMGSY Road Manudarman to Piro Road Pyt Tuli Upper-A Block Chassa",
+        "2. Const of boundary wall near Panigana Masjid W.No. 3 Pyt Kunderdhan-B Block Chassana",
+        "3. Construction of Walling near graveyard sehari ward no. 5 Pyt Tuli Lower-A Block Chassan"
       ]
     }
   ],
