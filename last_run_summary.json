@@ -1,11 +1,11 @@
 {
-  "checked_at_utc": "2026-10-24 20:12:40",
+  "checked_at_utc": "2026-10-24 22:54:32",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fdfdc513010>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f88ac4d9b90>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -26,7 +26,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Chandivali Vidhansabha beat no.157 L Ward",
-        "2. Chandivali Vidhansabha beat no.159 L Ward",
+        "2. Improvement of Passage and Drainage system at Haji Chawl, Mohd. Umer Rajjab Road in E w",
         "3. Chandivali Vidhansabha beat no.159 L Ward"
       ]
     },
@@ -55,13 +55,9 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Overhauling of 03 Nos. 6.6kV Unit 8 CW Motors and 01 No. Unit 7 Fire Fighting Motor",
-        "2. KMC/LTG/Z-IV/BR-X/207/26-27",
-        "3. KMC/DG(C)/EE(C/HQ)/046/2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -82,7 +78,7 @@
       "sample_titles": [
         "1. Const. of Shed Shamshan Ghat Talwan road in ward no. 14, 15",
         "2. Purchase of one desktop with Printer and UPS.",
-        "3. Const. of Dharamshala near tubewell No.03 ward no 10 MC Phillaur."
+        "3. Const of Shed  Bhagwan Valmiki Dharamshala in ward no. 10 MC Phillaur"
       ]
     },
     {
@@ -102,9 +98,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Crematorium at Bhagabanpur in Ward No. 65, Bhubaneswar",
-        "2. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Malkangiri Cluster",
-        "3. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Sundargarh Cluster"
+        "1. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Sundargarh Cluster",
+        "2. Construction of Crematorium at Bhagabanpur in Ward No. 65, Bhubaneswar",
+        "3. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Kalahandi Cluster"
       ]
     },
     {
@@ -113,8 +109,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Request for Proposal (RFP) for selection of system Integrator for providing Managed Wi-",
-        "2. Construction of P.C.C Road and Drain  in  Vill- Darua  Block- Pandu in Palamu District",
+        "1. Construction of P.C.C Road and Drain  in  Vill- Darua  Block- Pandu in Palamu District",
+        "2. Request for Proposal (RFP) for selection of system Integrator for providing Managed Wi-",
         "3. District Superintendent of Education Officer, Latehar, invites Request for Proposal for"
       ]
     },
@@ -125,8 +121,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Stock storage",
-        "2. Additional work for landslide mitigation near Vishwakarma Temple at Mandi, Distt. Mandi",
-        "3. RR of GWSS Tharoach in GP Tharoch Tehsil Nerwa"
+        "2. Improvement and strengthening of Chail Gohar Pandoh road KM. 24/00 to 29/600. MDR-25 (S",
+        "3. Up-gradation of Jiana, Sukrala road km 0/0 to 3/0 including C/O 1 No. 30.00 mtr span Br"
       ]
     },
     {
@@ -144,7 +140,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fdfdc246710>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f88ac483090>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -161,9 +157,13 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. GENERAL NIP Action Plan 2026 27 DAM2610  Maintenance works at various chainages of RBC ",
+        "2. VB G RAM G/CGP/CHNR-02/2026",
+        "3. VB G RAM G/CGP/CHNR-02/2026"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -171,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627103874 const of borewell at jamia masjid wani mohalla bamnoo Block Achgoza",
-        "2. FINDC2627102647-INSTALLATION OF BOREWELL NLO MASTER MOHD IQBAL AND OTHERS AT GULZARPORA",
-        "3. RDDDC2627104325 -(INSTALLATION OF BOREWELL IN PREMISES OF GOVT MIDDLE SCHOOL GULSHANABA"
+        "1. RDDDC2627107138 -(IMP OF ROAD DRAIN NEAR JAMIA MASJID SHAREEF BUNPORA AT ROHMM B (SHADI",
+        "2. Urgent electrical repairs to the 63 KVA HT/LT Transformer at WSS Sidiq Colony Stage 2nd",
+        "3. RDDDC2627108482-(CO PUBLIC PARK AT JAMIA MASJID ZARIHARD MACHAMA A TRAL)"
       ]
     }
   ],
