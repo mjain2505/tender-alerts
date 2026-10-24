@@ -1,11 +1,11 @@
 {
-  "checked_at_utc": "2026-10-24 15:23:42",
+  "checked_at_utc": "2026-10-24 20:12:40",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f7b0ed88d10>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fdfdc513010>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -14,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Greater Bareilly Aawasiya Yojana ke Sector-2A mein bhukhand sankhya C-2/481 se C-2/489 ",
-        "2. Imp. Of Nali With C.C. Sarvice lane from Juhi Safade colony in Block No 1 to Block No 4",
-        "3. Repairing of link road Taus tilsairi marg to baradari"
+        "1. Repairing of link road Tikra dul marg to hetpur",
+        "2. Repairing of link road G T road markhara marg to gunnupurwa",
+        "3. Pilibhit Bypass Marg par Satellite Bus Adda se Trishul Tiraha/Barrier No. 2 tak sadak c"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Chandivali Vidhansabha beat no.157 L Ward",
-        "2. Improvement of Passage and Drainage system at Haji Chawl, Mohd. Umer Rajjab Road in E w",
+        "2. Chandivali Vidhansabha beat no.159 L Ward",
         "3. Chandivali Vidhansabha beat no.159 L Ward"
       ]
     },
@@ -44,9 +44,13 @@
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Under Ward 47, Zone 9, from behind Vijay Chakki in Gomas Fail Street No. 01 to Kabir Ch",
+        "2. MAINTANANCE AND REPAIRING WORK BLOCK-A AND B, AT J.P. HOSPITAL CAMPUS, BHOPAL (M.P.)",
+        "3. Provide of Vehicle"
+      ]
     },
     {
       "name": "West Bengal",
@@ -65,7 +69,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of 1 No LMV Tata Ace 1 MT, 1 No Front End Loader with back hoe and 2 Nos HMV Tip",
+        "1. Restoration of Patches  Potholes at Damaged CC and BT road for the Natural calamity Nor",
         "2. Hiring of 1 No LMV Tata Ace 1 MT, 1 No Front End Loader with back hoe and 2 Nos HMV Tip",
         "3. Hiring of 1 No LMV Tata Ace 1 MT, 1 No Front End Loader with back hoe and 2 Nos HMV Tip"
       ]
@@ -73,9 +77,13 @@
     {
       "name": "Punjab",
       "state": "Punjab",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.punjab.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Const. of Shed Shamshan Ghat Talwan road in ward no. 14, 15",
+        "2. Purchase of one desktop with Printer and UPS.",
+        "3. Const. of Dharamshala near tubewell No.03 ward no 10 MC Phillaur."
+      ]
     },
     {
       "name": "Haryana",
@@ -94,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Sundargarh Cluster",
-        "2. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Rayagada Cluster",
-        "3. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Malkangiri Cluster"
+        "1. Construction of Crematorium at Bhagabanpur in Ward No. 65, Bhubaneswar",
+        "2. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Malkangiri Cluster",
+        "3. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Sundargarh Cluster"
       ]
     },
     {
@@ -105,8 +113,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of P.C.C Road and Drain  in  Vill- Darua  Block- Pandu in Palamu District",
-        "2. Request for Proposal (RFP) for selection of system Integrator for providing Managed Wi-",
+        "1. Request for Proposal (RFP) for selection of system Integrator for providing Managed Wi-",
+        "2. Construction of P.C.C Road and Drain  in  Vill- Darua  Block- Pandu in Palamu District",
         "3. District Superintendent of Education Officer, Latehar, invites Request for Proposal for"
       ]
     },
@@ -117,7 +125,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Stock storage",
-        "2. RR of GWSS shiran in GP Paban Tehsil Nerwa Distt. shimla",
+        "2. Additional work for landslide mitigation near Vishwakarma Temple at Mandi, Distt. Mandi",
         "3. RR of GWSS Tharoach in GP Tharoch Tehsil Nerwa"
       ]
     },
@@ -136,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7b0eb30610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fdfdc246710>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -163,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement for key Construction Materials under the Material Component of MGNREGA for ",
-        "2. RDDDC2627104576 -(IMPROVEMENT OF DRAIN LANE FROM L O GH MOHD BHAT TO L O SAIF UD DIN DA",
-        "3. RDDDC2627106335 -(CONST OF LANE FROM SHOP OF GHULAM NABI SOFI TO MASTER ALI MOHD RATHER"
+        "1. RDDDC2627103874 const of borewell at jamia masjid wani mohalla bamnoo Block Achgoza",
+        "2. FINDC2627102647-INSTALLATION OF BOREWELL NLO MASTER MOHD IQBAL AND OTHERS AT GULZARPORA",
+        "3. RDDDC2627104325 -(INSTALLATION OF BOREWELL IN PREMISES OF GOVT MIDDLE SCHOOL GULSHANABA"
       ]
     }
   ],
