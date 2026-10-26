@@ -1,11 +1,11 @@
 {
-  "checked_at_utc": "2026-10-25 23:02:13",
+  "checked_at_utc": "2026-10-26 03:07:11",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f7f0d682290>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /eprocure/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fa6da422250>, 'Connection to eprocure.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -15,8 +15,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Constrauction of Ramp 05 Sugar GowdownFrom reputed Contractors",
-        "2. Special repair work on Andra Ibrahimpur Road",
-        "3. Special repair work on Atwa Muthiya to Nevada Lochan"
+        "2. Special repair work on Jamu Lumamau to Gosai Khera via Garind Khera and Bachhita",
+        "3. Special repair work on HPC Road to Salempur Road"
       ]
     },
     {
@@ -25,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Chandivali Vidhansabha beat no.159 L Ward",
-        "2. Chandivali Vidhansabha beat no.157 L Ward",
-        "3. Chandivali Vidhansabha beat no.159 L Ward"
+        "1. Improvement of Passage and Drainage system at Haji Chawl, Mohd. Umer Rajjab Road in E w",
+        "2. Chandivali Vidhansabha beat no.159 L Ward",
+        "3. Chandivali Vidhansabha beat no.157 L Ward"
       ]
     },
     {
@@ -36,8 +36,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation work of damages by biferjoy 9 Important roads sworks in Bali Dn. Package No.",
-        "2. Strenthening and widening work on MDR-413 Bhimana Danvarli Bijapur Balvana Jawai Bandh ",
+        "1. Strenthening and widening work on MDR-413 Bhimana Danvarli Bijapur Balvana Jawai Bandh ",
+        "2. Renovation work of damages by biferjoy 9 Important roads sworks in Bali Dn. Package No.",
         "3. Construction of Atal Pragati Path Desuri to Narlai Road with Puliya work Km 0/0 to 2/50"
       ]
     },
@@ -49,7 +49,7 @@
       "sample_titles": [
         "1. Laying a drainage line up to Janki Nagar Temple under Zone 18 Ward 63 in Agrawal Nagar,",
         "2. Repair Work",
-        "3. Provide of Vehicle"
+        "3. ESTABILISHMENT WORK OF 8 BEDED OBSTRECTIVE ICU AT DISTRICT HOSPITAL SEHORE, MP"
       ]
     },
     {
@@ -69,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 04/MDM-Renovation of Multi Purpose Evacuvation shelter and Toilet arrangements at Satha",
-        "2. 01/MDM-Renovation of Multi Purpose Evacuvation shelter and Toilet arrangements at Therb",
-        "3. 02/MDM-Renovation of Multi Purpose Evacuvation shelter and Toilet arrangements at Puthu"
+        "1. 01/MDM-Renovation of Multi Purpose Evacuvation shelter and Toilet arrangements at Therb",
+        "2. 06/MDM-Renovation of Multi Purpose Evacuvation shelter and Toilet arrangements at  Veth",
+        "3. 04/MDM-Renovation of Multi Purpose Evacuvation shelter and Toilet arrangements at Satha"
       ]
     },
     {
@@ -80,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Purchase of one desktop with Printer and UPS.",
-        "2. Const. of Shed Shamshan Ghat Talwan road in ward no. 14, 15",
-        "3. Const. of Roof  Flooring Mata Kalli Mandi Near Railway Station In ward no. 12 Phillaur."
+        "1. Const. of Shed Shamshan Ghat Talwan road in ward no. 14, 15",
+        "2. Purchase of one desktop with Printer and UPS.",
+        "3. Const. of Dharamshala Anandpuria Kotiya Mohalla Sheikhan in ward no. 09 MC Phillaur"
       ]
     },
     {
@@ -102,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Nabarangpurpur Cluster",
-        "2. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Sundargarh Cluster",
-        "3. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Kalahandi Cluster"
+        "1. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Kalahandi Cluster",
+        "2. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Rayagada Cluster",
+        "3. RFP for Upgradation of ITIs in Odisha under PM SETU Scheme Malkangiri Cluster"
       ]
     },
     {
@@ -113,8 +113,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of P.C.C Road and Drain  in  Vill- Darua  Block- Pandu in Palamu District",
-        "2. Request for Proposal (RFP) for selection of system Integrator for providing Managed Wi-",
+        "1. Request for Proposal (RFP) for selection of system Integrator for providing Managed Wi-",
+        "2. Construction of P.C.C Road and Drain  in  Vill- Darua  Block- Pandu in Palamu District",
         "3. District Superintendent of Education Officer, Latehar, invites Request for Proposal for"
       ]
     },
@@ -124,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AMPSALWAR BALH CHALOG 04",
-        "2. AMP GOACHER TO KALLAR 06",
-        "3. AMP BHAROLI KALLAN 03"
+        "1. AMP GOACHER TO KALLAR 06",
+        "2. AMP BHAROLI KALLAN 01",
+        "3. AMP BHAROLI KALLAN 02"
       ]
     },
     {
@@ -144,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7f0d3a6a90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa6da141090>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -176,8 +176,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Urban Amenity and Aesthetic Improvement Works SAMBA",
-        "2. FINDC2627102490-(CONSTRUCTION OF BOREWEL NEAR MASJID SHAREEF SAMKHAR AT HANJAN BALA (SH",
-        "3. Urgent Electrical Repairs to the 100KVA HT/LT Transformer at WSS Bohripora Hamdanabad u"
+        "2. FINDC2627102488-(CONSTRUCTION OF BOREWELL NEAR DARULL ALOOM SULTAN UL ARFEEN AT HANJAN ",
+        "3. RDDDC2627107138 -(IMP OF ROAD DRAIN NEAR JAMIA MASJID SHAREEF BUNPORA AT ROHMM B (SHADI"
       ]
     }
   ],
