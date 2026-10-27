@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-10-27 15:08:35",
+  "checked_at_utc": "2026-10-27 21:48:39",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. ANNUAL MAINTENANCE OF NAVIGATIONAL AIDS AT KADAMATH ISLAND FOR THE YEAR 2026-27",
+        "2. Annual Maintenance of Navigational aids at Kiltan, Chetlath and Bitra Island for the ye",
+        "3. Electrical safety audit for various buildings at ACTREC campus"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF 125 MT CAPACITY WEIGH BRIDGE CIVIL FOUNDATION",
-        "2. Construction of 45 Mtr Wide Road R 4 Drain and Culvert Box Culvert in Sector 6A Industr",
-        "3. Construction of 45 Mtr Wide Road R1 Drain and Culvert in Sector 6A Industrial Area Dhur"
+        "1. Special Repair of Pure Pangul sampark marg in FY-2026-27-1881-4",
+        "2.  Special Repair of Balapur se Parwatpur sampark marg in FY-2026-27-1881-5",
+        "3. Aluminum Painting work on molasses Tank No 2"
       ]
     },
     {
@@ -44,9 +48,13 @@
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Drilling Of 150/125/115 mm Dia Ordinary/Telescopic tubewell, Handpump installation, Con",
+        "2. Drilling Of 125/115 mm Dia Ordinary/Telescopic tubewell, Handpump installation, Constru",
+        "3. Drilling Of 125/115 mm Dia Ordinary/Telescopic tubewell, Handpump installation, Constru"
+      ]
     },
     {
       "name": "West Bengal",
@@ -54,8 +62,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Memo No    6785  /E-1556275 /NKDA/EE-E /Elect-04/2026-27- Upgradation of existing light",
-        "2. NIT No- 2151/PHE(C)/BMC, Dated- 27/10/2026",
+        "1. NIT No- 2151/PHE(C)/BMC, Dated- 27/10/2026",
+        "2. Memo No    6785  /E-1556275 /NKDA/EE-E /Elect-04/2026-27- Upgradation of existing light",
         "3. NIT No- 2151/PHE(C)/BMC, Dated- 27/10/2026"
       ]
     },
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Maintenance and Repair works to Muslim burial ground at Sugunapuram west in ward no. 9",
-        "2. Improvements works to Burial Ground at Raghavendra Garden, Konavaikkal palayam  in Ward",
-        "3. Additional Improvement works to crematorioum at Anbu Nagar, Chettipalayam main road in "
+        "1. Improvements works in burial ground (2 nos) at Maduraiveeran Kovil street, Edayarpalaya",
+        "2. Nagapattinam Municipality - Kandhuri Festival 2026 - General Fund work - Material Purch",
+        "3. Strengthening Works to the Main Structural Steel Column and Pedestals in Columns A11 to"
       ]
     },
     {
@@ -77,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Laying  Of Interlocking Tiles  in various streets of ward no 45.",
-        "2. laying  Of Interlocking Tiles on Adjoining Nestle Streets and other streets in ward no ",
-        "3. P/L 60mm th. I/Tiles in various streets of w-48"
+        "2. P/L 60mm th. I/Tiles in various streets of w-48",
+        "3. Laying  Of Interlocking Tiles on Zira Road streets and various streets in ward no 47."
       ]
     },
     {
@@ -87,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and Erection of laddis and electric LED gate on occassion of Diwali.",
-        "2. UPGRADATION OF CHAUDHARY SURENDER SINGH MEMORIAL SPORTS STADIUMTO A MODERN SPORTS COMPL",
-        "3. Plantation work at Manesar Block"
+        "1. UPGRADATION OF CHAUDHARY SURENDER SINGH MEMORIAL SPORTS STADIUMTO A MODERN SPORTS COMPL",
+        "2. Supply and Erection of laddis and electric LED gate on occassion of Diwali.",
+        "3. Plantation work at Gurugram Block"
       ]
     },
     {
@@ -99,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Improvement of Sakhigopal-Algum road from 0/000 Km to 10/039 Km in the district of Puri",
-        "2. Construction of New Office Of the Assistant Labour Office at Narla in the district of K",
-        "3. Construction of 4 nos of D type Quarters at Sales Tax Colony, Bhawanipatna"
+        "2. Construction of 4 nos of D type Quarters at Sales Tax Colony, Bhawanipatna",
+        "3. Construction of New Office Of the Assistant Labour Office at Narla in the district of K"
       ]
     },
     {
@@ -109,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 9 Seater Toilet Near Manbodh Mohalla Sonari Under Jamshedpur Notified A",
-        "2. Construction of 9 Seater Toilet Behind Blue Damond Hotel Sakchi Under Jamshedpur Notifi",
-        "3. Construction of PT (9 Seater) at Kud Road (near old dumping area)  under Municipal Corp"
+        "1. Construction of PT (9 Seater) near St. Columbus collage  under Municipal Corporation , ",
+        "2. Construction of 9 Seater Toilet Near JP Setu Bus Stand Under Jamshedpur Notified Area C",
+        "3. Construction of 9 Seater Toilet Near JP Setu Old  Bus Stand Under Jamshedpur Notified A"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f281de89650>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f7e9b3f5bd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-Trikkalangodu GP PRO NO 242/26-27-Vattamthala 2 road concrete ward 22-Gener",
-        "2. Annual Plan-Thrikkalamgodu GP PRO NO 74/26-27-CHERUKULAM THARIPPIL ROAD RETARRING WARD ",
-        "3. Annual Plan-Trikkalangodu GP PRO NO 124/26-27-Kalladapoyil vennakkam palli road concret"
+        "1. Annual Plan-Thrikkalamkodu GP PRO NO 603/26-27- Valiyapoyil Malayilthodi Road Concrete ",
+        "2. Annual Plan-Thrikkalangodu GP PRO NO 243/26-27-Mele marathani thazhvaram road concrete ",
+        "3. Annual Plan-Trikkalangodu GP Pro NO 305/26-27-Charankaavu Nechiyal Road Tarring Ward 12"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Play ground at Hostels block by way of providing /fixing of interlockin",
-        "2. Construction of road from Dhar Gali to Cher via Souwala Nakka (2nd Call)",
-        "3. Upgradation of Tourism Building Patrara used at PH Manjakote (2nd Call)"
+        "1. Electric repair and renovation of  Block-H Room No-107 New BC, Jammu. CNo-353 NP (2nd C",
+        "2. Development of road from nadpora to julypora at kalshipora",
+        "3. Installation of Borewell NLO Farooq Ahmad Sheikh S/O Mohd Abdullah Sheikh and others at"
       ]
     }
   ],
