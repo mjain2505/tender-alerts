@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-28 03:55:04",
+  "checked_at_utc": "2026-10-28 12:06:17",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REPAIR AND MAINTENANCE OF KITCHEN OF DIG RESIDENCE AT SHQ BSF BHP",
-        "2. M/o various colonies under Nazul A/c-II, Dwarka Zone.SH Cleaning and Sweeping of roads,",
-        "3. M/o Completed Scheme Under Nazul A/C-II Horticulture Zone."
+        "1. Roof Insulation and Water Proofing work for the FFP Filter bank area roof terrace in bu",
+        "2. REQUEST FOR PROPOSAL (RFP) for Appointment as Custodian of Securities for SWFS funds",
+        "3. Engagement of Consultancy Services for Feasibility Study, Detailed Design, Preparation "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ward No. 02 Mohalla Bhiti ke hanuman nagar me purvanchal hospital se men interlocking r",
-        "2. Special Repair work of  approach road of 6x3.00 M span culvert on Kashipur Allipur road",
-        "3. FY 2026-27 me BBSC Marg se zila panchayat karyalay hote hue KVS Vidyalay tak Marg ke Vi"
+        "1. CONSTRUCTION OF SHED At Hailet Hospital kanpur nagar",
+        "2. T-32/HGD/2026-27",
+        "3. Widening and strengthening work of Kenduki Gopali Rajupur Zaheerpur other district road"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of  single seated toilet for public use at Juhu beach during Chhat Puja 2026",
-        "2. Construction of New Grampanchayat Office Building at Chatale",
-        "3. E TENDER NOTICE 2026-27"
+        "1. Construction of Grampanchayat Bhavan",
+        "2. Request for Proposal for Operation of Floating Dry Dock (FDD) for Shipbuilding / Ship R",
+        "3. Constructing Of Anganwadi Buiding Kumbharwadi at Ghatshiras Tal.Pathardi   Dist.Ahilyan"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. The task of capturing stray dogs from the municipal council area and relocating them to",
-        "2. Curd/Dahi Cup for Packing 200gm Curd/Dahi",
-        "3. Cleaning Work Zone B Nagar Parishad Karauli"
+        "1. Construction of CC road from Jindal Bike Care Center to Lawaniya Sadan, from Madan Mast",
+        "2. Providing  Fixing of LED Street Lights With Phase Wire at Various Places in Nagar Palik",
+        "3. lightwork01to65"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Various repair works at Maharani Laxmibai Girls School.",
-        "2. E-AUCTION OF 30-YEAR LEASE BY REWA MUNICPAL CORPORATION FOR THE CONSTRUCTION AND OPERAT",
-        "3. SANITON ITMES"
+        "1. Construction work of Park Boundary Wall and Paver Block at Panchvati Vastra Nagar Ward ",
+        "2. Construction work of BT Road and Drain at Nadi Santar Morar Ward No.27 Zone No.09.File ",
+        "3. Construction of PCC Road in Ward No. 05 Ramroop Patel House to Santosh Bhujwa House"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. KMC/S_D/MSCDS/2026_27/16/1st Call",
-        "2. Service Contract for Round the Clock Paddle Feeder, Mobile Tipper operation, checking o",
-        "3. Tail Channel cleaning at Bakreswar dam."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by NameResolutionError(\"HTTPSConnection(host='wbtenders.gov.in', port=443): Failed to resolve 'wbtenders.gov.in' ([Errno -5] No address associated with hostname)\"))",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. contract Empanelment of contractors for repair of pot holes during North East Moon-soon",
-        "2. Construction of Kalaiarangam Building at Ambethkar colony (V.P.R Nagar) in Melarajakula",
-        "3. Dismantling of Compound wall at Ariyagoundampatty PUM School H/O Namagiripet Town Panch"
+        "1. DRILLING OF NEW BORE WELL WITH  POWER PUMP, SINTEX TANK, EB BOX, AND  LAYING OF PVC PIP",
+        "2. 6th Finance Scheme 2026-27Construction of New Anganvadi Building Centre(33609030228) in",
+        "3. General Fund - 2026-27 - Providing Cement Concrete road at Sathavilaithoppu to Patakakk"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and Renovation of Dharmshala in Kabir Nagar",
-        "2. P/L 60mm Thick Interlocking Tiles in Kabir Nagar and other Streets of w-15",
-        "3. Dismentuling the Eo Residence building in Mc Office"
+        "1. Supply of Loading transportation and unloading of fresh loose bagasse",
+        "2. Rate Contract for Tyres of staff cars of various make and models",
+        "3. Supply of Loose Bagasse"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Plantation work at Gairatpurbass Block",
-        "2. Work of 2 nos Roads  (1) Wi...",
-        "3. BAGASSE"
+        "1. Construction of Langar Hall near Mira Mai in ward no 13",
+        "2. Door to Door Collection Segregation Transportation as well as Processing of Waste  MC A",
+        "3. Purchase of Required Size of Solid and Sleeve of Gun Metal"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Appointment of Level-II Transport Contractor KIRMIRA BLOCK",
-        "2. S/R to Ganesh bazar chowk to Sri Aurobinda school mundamal Such as PMC and Seal coat an",
-        "3. Appointment of Level II Transport Contractor Brajrajnagar MPL"
+        "1. SHIFTING AND MODIFICATION OF 11KV NETWORK FOR ROAD WIDENING BY RandB DEPARTMENT NEAR DU",
+        "2. Repair and restoration of internal road of Green corridor adjacent to Mahanadi Ring Roa",
+        "3. Repair and restoration of internal road adjacent to Mahanadi Ring Road, Kataka (Restora"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction Of PCC Road From Munna Singh to muslim Basti in village Tasrar Under Danda",
-        "2. CONSTRUCTION OF PCC ROAD FROM PITCH ROAD TO SAMUDAYIK BHAWAN AT VILLAGE  DIRIDAG, PANCH",
-        "3. Construction of PCC Road from Ambakhoreya Talab to Basant Singh More  in  Village Ambak"
+        "1. Operation, Maintenance and Management of 5000 MT Cold Storage Dumka (Jama)",
+        "2. Construction of a Marriage Hall at Mandal Tola under Ramkanali Panchayat.",
+        "3. SELECTION OF AGENCY(IES) FOR PROVIDING PARAMEDICAL TECHNICAL AND  NON TECHNICAL STAFFS "
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Sewerage System to Ribba Village in Tehsil Moorang Distt Kinnaur Himachal Pra",
-        "2. RR damages on link road Awahdevi Bohan Dadlyan km 000 to 200",
-        "3. CO Ambulance road main road Karah to the House of Sh Banku Ram Sharma GP Karha"
+        "1. Running and Maintenance of LWSS Duhak Dhaniyara 2nd stage Pump House for One Year under",
+        "2. Running, Operation and maintenance of Water Treatment Plant (WTP) i/c cleaning of sourc",
+        "3. Running, Operation and maintenance of scheme for One year"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Liquid Notrogen containers",
-        "2. Reconstruction of 110 M Motor Bridge at Bhakuna Nachni over Ramganga river in Bageshwar",
-        "3. TD14"
+        "1. Upgradation of the Existing Motor Bridge from Class B to Class A on Thal Satsiling moto",
+        "2. Annual Maintenance of Unit-A of Dhalipur Power Station Dehradun",
+        "3. Design build operate and transfer of pollution abatement works for Bhilangana river con"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fe6fcae6150>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fc5d5830d90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of flood wall to save Gohpur area from flood inundation of River Chatrang ",
-        "2. A/E measures to Protect Silchar Town at Pachimgram area from the erosion of river Borak",
-        "3. Construction of Sadhbhav Mandap at village Bashdahar II under Bondukmara Barhailakandi "
+        "1. Construction of Auditorium at Dibrugarh Hanumanbax Surajmall Kanoi College, Ph III.",
+        "2. HIRING OF MAN MANAGEMENT SERVICES FOR ASSISTANCE IN OPERATION/C n P/TS DEPARTMENT OF AS",
+        "3. Construction of Assam Type Barrack"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. nilappura metunkal road renovation in ward 3",
-        "2. KUNJUPILLA HAJI ROAD RENOVATION IN WARD 12",
-        "3. Purappillikavu Purapillipady road drain renovation ward 6"
+        "1. Supply of Vitamin A and D Premix at Thiruvananthapuram, Kollam and Pathanamthitta Dairi",
+        "2. GENERALREVISED BUDGET 2026 27 20  PROVISION  Peroorkkada Mannanthala Road  Improvements",
+        "3. Purchase of High energy linear accelerator for Department of Radiotherapy"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Constt Of P work and allied  works at masjid wno 04  hatyatpura",
-        "2. WSS P/L Fitting of GI/HDPE Pipes (Cost for Providing , Laying and Fitting of pipes for ",
-        "3. Toilet Bathroom Nho Mohd  Yaseen Shrief Mohallah Pyt  Hyat Pura W No 5"
+        "1. Construction of Foot Bridge at Gunddaji D Cut NLO Gh Hassan Bafanda at Nowgam A",
+        "2. Construction of Sumps, intake channels including providing of Trash Guards and allied w",
+        "3. Construction of Cement concrete drain near Orchard of Mohammad Sidiq Malik towards land"
       ]
     }
   ],
