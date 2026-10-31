@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-31 00:23:12",
+  "checked_at_utc": "2026-10-31 09:16:34",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NISER/IWD-ELECT /SL/2026-27/06",
-        "2. SS/C050-000-EB-T-0020/1014 - 66kV GAS INSULATED SUBSTATION PACKAGE FOR POLYPROPYLENE PR",
-        "3.  Improvement of Hospital Medical Store Room for use as X Ray Room of 59 Bn BSF Seemanag"
+        "1. M/o various colonies under Nazul A/c-II, Dwarka Zone.",
+        "2. ISO re-certification in FACT UC Fertiliser Plants (FACT-UD) in accordance with ISO 9001",
+        "3. Minor Conservation and Maintenance Works, Including Re-Toning, Lime Plastering, Repoint"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Mauaima Maudostpur Sampark Marg",
-        "2. Design Engineering and Procurement for Construction work of New District Jail 1056 pris",
-        "3. Construction of Chabutra with Shed for ShamShan Sthal in village-Amipur Bangar, YEA. Wc"
+        "1. STAGE LIGHT AND PA SOUND SYSTEM",
+        "2. LINK ROAD ALLAHABAD BADA MARG SE PHULWARIYA MARG TAK ROAD REPAIR WORK 05 YEAR DEFEACT L",
+        "3. Construction of Cement Concrete Road at Gorakhnath Mandir to h/o Suraj Behind Sought an"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Compound Wall repairs to Z P School in Kulkarni Tanda at Hattur Tq Sout",
-        "2. PROVIDING PAVER BLOCK",
-        "3. Fixing of chamber covers in Kadambari area in ward no. 06 C under Lokmanya Savarkarnaga"
+        "1. Pr.kr.40 wonder city javlil yoga hallchi ardhavat kame purn karne.",
+        "2. Pandit Dindayal upadhyay engraji madhyamik shala erandwane vadhiv vargkholya bhandhane",
+        "3. Pr.kr.21 d mukunad nagar-sylisbri park madhe vividha thikani navin hajeri koti bandhne "
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NOTICE INVITING TENDERS FOR SUPPLY OF CATTLE FEED RAW MATERIALS TO CATTLE FEED PLANT, B",
-        "2. NOTICE INVITING TENDERS FOR SUPPLY OF CATTLE FEED RAW MATERIALS TO CATTLE FEED PLANT, B",
-        "3. SUPPLY OF CATTLE FEED RAW MATERIALES UNDER RM-844"
+        "1. HIRING OF AN AGNECY FOR FIRE ELECTRICAL SAFETY AUDIT AND PREPARATION OF SLD FOR SSBH KO",
+        "2. HIRING OF AN AGNECY FOR FIRE SAFETY AUDIT/ DESIGN OF SSBH, KOTA",
+        "3. Construction work of Security Boundary Wall of Dumping Yard of Municipal area."
       ]
     },
     {
@@ -51,17 +51,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. supply of bedding item for police department vidisha",
-        "2. Leveling and Beautification Work of Mokshdham in Ward No. 15, Nagar Parishad, Lanji",
-        "3. RCA for Procurement of  33 KV (45 KN) Polymer Disc Insulators"
+        "1. CONSTRUCTION OF RCC DRAIN AT NEAR 12 DUKAN SQUARE MULLA COLONY PANDIT JI HOUSE TO GOPAL",
+        "2. REPAIRING AND MAINTAINENCE WORK IN MULLA COLONY GOVT.SCHOOL WARD 77 ZONE 17",
+        "3. Procurement and fabrication of fire brigade chassis at nagar palika Raisen"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. XI/104/009/2026-27/R/UPHC",
+        "2. WS/BBPS/26-27/01R",
+        "3. KMC/LTG/58/WD27/IV/ZII/26-27"
+      ]
     },
     {
       "name": "Tamil Nadu",
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renewal of worn out AC units IRCU (GF) and Refrigerant Pipe to the 5.5 TR Ductable AC u",
-        "2. Mill Plant Unit IV Dismantling the eroded M S bends with eroded coal pipes and eroded 6",
-        "3. Strengthening of Power Mains for AC units in the Cardiac ICU Right side (1st Floor) in "
+        "1. Providing New 10 KVA generator and Installation to the Existing Godown campus at Namakk",
+        "2. KORADACHERY TOWN PANCHAYAT GENERAL FUND 2026-2027",
+        "3. TTPS Operation Circle CAD ACWPH Unit II Dismantling and Replacement of wornout, 600 NB "
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing laying Interlock at tiles and Road gully Chamber in Street No-4 Ghadduan Road",
-        "2. Providing laying Interlock at tiles and Road gully Chamber Shri Harkrishan Nagar Raikot",
-        "3. Providing laying Interlock at tiles and Road gully Chamber and Siver PipeLine Gobind Bi"
+        "1. Providing Laying interlocking tiles in ever green colony Barnala",
+        "2. Operation and Maintenance of Water Supply and Sewerage Scheme at Phillaur, Distt. Jalan",
+        "3. Installation of Tubewell in various location of city Barnala"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ORDINARY REPAIR OF VARIOUS ...",
-        "2. ORDINARY REPAIR OF VARIOUS ...",
-        "3. JOBNO.HSVP/AMB/2026-27/E-713"
+        "1. Development works in Baje Bhagat Sain community Center Bahadurgarh. Recall",
+        "2. Special repair of house No.35 Civil Judge (Sr. Divn.) in Revenue Officers/Officials Rev",
+        "3. Repair of House No.12-J/17,13,14,57,66,85 in PGIMS, Rohtak (Reinvited 2nd time)"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of D-Type Quarter Building at Tikiri PHC(N) of Kashipur  Block in the Dist",
-        "2. Aurangabad_V TW",
-        "3. Mirzapur _A_Bad_I TW"
+        "1. Construction of Community Center at Talasahi in Ward No-20. (CMSA)",
+        "2. Development of Ward No-21 Park. (CMSA)",
+        "3. Construction of Drain and Slab from Sethi Sahi Chhaka to Medical Chhaka in Ward No-07.("
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Culvert near Pradhan House in River Jhapaniya Village - Jhapaniya, G.P ",
-        "2. Construction of Approach P.C.C Road at New Bridge Village - Bhatta, G.P - Dhapra under ",
-        "3. 291/PR/JBVNL/2026-27"
+        "1. renovation of ward vikash kendra as urban health and wellness centre at ward no-21 unde",
+        "2. renovation of ward vikash kendra as urban health and wellness centre at ward no-28 unde",
+        "3. Rate contract for supply installation testing commissioning of 6000 led street light wi"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special repair to Employee sick Female room at Fourth Floor of Block D in IGMC SH C.O t",
-        "2. Restoration of rain damages to WSS Gojra Khakhnal GP Gojra in Tehsil Manali Distt Kullu",
-        "3. Providing Sewerage scheme to Baddi Town in Tehsil Baddi District Solan (HP)"
+        "1. HPSEBL/GPHD/DB-9/2026-27-120",
+        "2. Construction of Forest Guard Hut at Matehal in Kamand Beat, of Karsog Block of Karsog R",
+        "3. Supply of Library books"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 04_PAU_Dhuroli_2.244 ha",
-        "2. 4- PAUR-Nail patti udaypurrr-3.00  ha",
-        "3. Comprehensive annual maintenance contract for 84 CCTV camara and their monitoring syste"
+        "1. KHATYARI TO SOMESHWAR",
+        "2. HALDWANI TO BAGWALIPOKHAR",
+        "3. HALDWANI TO DANYA"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa6a774c090>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff96d4696d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,17 +157,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. supply of surgical and consumable",
-        "2. Handling and Transport Contractor and fixation of Rate in Hojai District for the year 2",
-        "3. Supply of computer parts for the Dept. of Instrumentation and USIC, Gauhati University"
+        "1. Construction of Additional classroom at Pub Chaul Dhuwa LP School, Bordoloni, Dhemaji u",
+        "2. Construction of 100MT capacity community godown under PM-RKVY for the year, 2026-27",
+        "3. Construction of Ground Floor with provision for three storied RCC Building Forest Guard"
       ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Deposit Sree Chithra Home Thiruvananthapuram Re-construction and maintenance of boundar",
+        "2. KHRWS - Urgent cleaning of Sumps for the old and delux paywards, setting up of water ta",
+        "3. P.NO-180/27 IRISH DRAIN CONSTRUCTION IN PALLAM VALAPOTH ROAD SIDES-IN UDMA GP"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/O Community Sanitary Complex  Near Darasgah Mir Mohallah  Watmagam.",
-        "2. LAYING OF LT EXTENSION IN VARIOUS LOCATIONS IN DIFFERENT PANCHAYATS OF VIJAYPUR ASSEMBL",
-        "3. Construction Of Community Sanitary  Complex Near Masjid Sharief At  Hamkhal Sitharan"
+        "1. Installation of 25 KVA Transformer at Badran,Peth Dradhun under MPLADS falling under th",
+        "2. AS PER BOQ",
+        "3. Repairment of Dysfunctional Toilets at 1. PS BADRA BALA, 2. UPS MONGWALPORA, 3. PS SAFA"
       ]
     }
   ],
