@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-30 19:51:23",
+  "checked_at_utc": "2026-10-31 00:23:12",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. NISER/IWD-ELECT /SL/2026-27/06",
-        "2. Supply and Installation of Thermogravimetric Differential Thermal Analysis TG DTA with ",
-        "3. FOR ANNUAL REPAIR TO DHANK CAVES, JUNAGADH FOR THE YEAR 2026-27 AS SPECIFIED IN THE BOQ"
+        "2. SS/C050-000-EB-T-0020/1014 - 66kV GAS INSULATED SUBSTATION PACKAGE FOR POLYPROPYLENE PR",
+        "3.  Improvement of Hospital Medical Store Room for use as X Ray Room of 59 Bn BSF Seemanag"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ward no. 18 labour colony me sh. Nishant sharma ji (shaheed) smriti me park ka nirman k",
-        "2. Operation and Maintenance of Horticulture and Landscaping Works in Parks under the Juri",
-        "3. Providing and Laying Interlocking tiles from main road to Shiv Mandir at Village Chowki"
+        "1. Mauaima Maudostpur Sampark Marg",
+        "2. Design Engineering and Procurement for Construction work of New District Jail 1056 pris",
+        "3. Construction of Chabutra with Shed for ShamShan Sthal in village-Amipur Bangar, YEA. Wc"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of Compound Wall repairs to Z P School in Kulkarni Tanda at Hattur Tq Sout",
-        "2. Supply of RCC Cover at various Location in E Ward",
-        "3. Fixing of chamber covers in Laxmi Park area in ward no. 06 C under Lokmanya Savarkarnag"
+        "2. PROVIDING PAVER BLOCK",
+        "3. Fixing of chamber covers in Kadambari area in ward no. 06 C under Lokmanya Savarkarnaga"
       ]
     },
     {
@@ -59,13 +59,9 @@
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. 1.\tIntending tenderers should produce credentials of a similar nature of work of the mi",
-        "2. NIe-T-91/Sl.-10/2026-27",
-        "3. NIT No- 753/PWD/ROAD/BMC (2nd Call) of 233/PWD/ROAD/BMC , Dated- 30/10/2026"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tirupathur District-Prepartion of Detailed Project Report for Formation of Road  (MRL-1",
-        "2. Renewal of Worn out Light Fittings, Fan,Exhaust Fan, Street Lights, Flood Lights, AC an",
-        "3. Renewal of 3 KVA UPS in Biochemistry Lab in OP Block in Government Medical College Hosp"
+        "1. Renewal of worn out AC units IRCU (GF) and Refrigerant Pipe to the 5.5 TR Ductable AC u",
+        "2. Mill Plant Unit IV Dismantling the eroded M S bends with eroded coal pipes and eroded 6",
+        "3. Strengthening of Power Mains for AC units in the Cardiac ICU Right side (1st Floor) in "
       ]
     },
     {
@@ -85,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing laying Interlock at tiles and Road gully Chamber in Street No-4 Ghadduan Road",
-        "2. Upgrading of park under the bridge near Shakti Nagar and widening of the roads near the",
-        "3. Providing laying Interlock at tiles and Road gully Chamber Near Babu Chand Guru Ghar St"
+        "2. Providing laying Interlock at tiles and Road gully Chamber Shri Harkrishan Nagar Raikot",
+        "3. Providing laying Interlock at tiles and Road gully Chamber and Siver PipeLine Gobind Bi"
       ]
     },
     {
@@ -108,7 +104,7 @@
       "sample_titles": [
         "1. Construction of D-Type Quarter Building at Tikiri PHC(N) of Kashipur  Block in the Dist",
         "2. Aurangabad_V TW",
-        "3. Aurangabad_VI TW"
+        "3. Mirzapur _A_Bad_I TW"
       ]
     },
     {
@@ -117,8 +113,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Approach P.C.C Road at New Bridge Village - Bhatta, G.P - Dhapra under ",
-        "2. Construction of Culvert near Pradhan House in River Jhapaniya Village - Jhapaniya, G.P ",
+        "1. Construction of Culvert near Pradhan House in River Jhapaniya Village - Jhapaniya, G.P ",
+        "2. Construction of Approach P.C.C Road at New Bridge Village - Bhatta, G.P - Dhapra under ",
         "3. 291/PR/JBVNL/2026-27"
       ]
     },
@@ -129,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Special repair to Employee sick Female room at Fourth Floor of Block D in IGMC SH C.O t",
-        "2. Restoration of rain Damages on Dharatu to Toru Road Km 0/00 to 2/00",
-        "3. Restoration of rain damages to WSS Gojra Khakhnal GP Gojra in Tehsil Manali Distt Kullu"
+        "2. Restoration of rain damages to WSS Gojra Khakhnal GP Gojra in Tehsil Manali Distt Kullu",
+        "3. Providing Sewerage scheme to Baddi Town in Tehsil Baddi District Solan (HP)"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f31916e1610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7fa6a774c090>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,13 +161,9 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. State Plan scheme 2026- 27- Construction of Drainage for Rainwater in Basement floor of",
-        "2. Urgent construction of Leading drain to avoid accidents at 46-050 Konampara Reach of NH",
-        "3. PR NO 282/26 27 MORKKUNNU WATER AUTHORITY ROAD RE TARRING"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. C/O Community Sanitary Complex  Near Masjid Sharief Hardpora Nagam  B",
-        "2. Procurement of Key Materials for VBGRAMG Works for Panchayat Halqa Aripal",
-        "3. Construction Of Community Sanitary  Complex Near Jamia Masjid Gotpora"
+        "1. C/O Community Sanitary Complex  Near Darasgah Mir Mohallah  Watmagam.",
+        "2. LAYING OF LT EXTENSION IN VARIOUS LOCATIONS IN DIFFERENT PANCHAYATS OF VIJAYPUR ASSEMBL",
+        "3. Construction Of Community Sanitary  Complex Near Masjid Sharief At  Hamkhal Sitharan"
       ]
     }
   ],
