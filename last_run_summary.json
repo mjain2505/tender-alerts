@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-31 16:49:17",
+  "checked_at_utc": "2026-10-31 20:58:18",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -15,9 +15,13 @@
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Road safety work at Dhakiya Chauraha on SRPBN Road (MDR-103C)",
+        "2. Road safety work of Bansi Itwa Belwa road (SH-159).",
+        "3. Repair work of Runway of Andhau Airport Ghazipur"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -26,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Providing services of housekeeping management of Household affairs  and catering (inclu",
-        "2. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN AT DHARKANHA",
-        "3. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN AND RAPTTA AT DONGARGAON"
+        "2. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN AND RAPTTA AT DONGARGAON",
+        "3. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN AT DHARKANHA"
       ]
     },
     {
@@ -44,9 +48,13 @@
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of CC road in street no. 3 in Manas Chowk under ward no. 72 and constructi",
+        "2. Construction of M30 CC road from Shri Ram Park to Sanjay Dixit house under Ward No. 72.",
+        "3. Food Suppliments 2026 Ist Call"
+      ]
     },
     {
       "name": "West Bengal",
@@ -56,7 +64,7 @@
       "sample_titles": [
         "1. Supply of 20 Ltr RO treated packaged drinking water at water kiosk installed at differe",
         "2. Supply of 20 Ltr RO treated packaged drinking water at water kiosk installed at differe",
-        "3. WBNKDA/01/EE-(WD and S)/NKDAOF 2026-27"
+        "3. Supply of 20 Ltr RO treated packaged drinking water at water kiosk installed at differe"
       ]
     },
     {
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and Maintenance Works to the inside D Store in Central Store Ware House at TTPS",
-        "2. Clearing the Sand and Silt deposit in and around the Storm Water Drain in Type  2, Type",
-        "3. Improvement Works to the Barbed Wire Fencing over the Compound Wall from Transformer Ya"
+        "1. Construction of  Mini CSC at Kattoorani Panchayat union Elementary school in Peravoor P",
+        "2. Repair and Maintenance Works to the inside D Store in Central Store Ware House at TTPS",
+        "3. Repair and Maintenance Works by Stone Pitching in East side of Secondary Pond in Ash Dy"
       ]
     },
     {
@@ -77,7 +85,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Estimate for restoration of water course at outlet RD 36000/L of Ibban Minor by laying ",
-        "2. Construction of road back side Shiva Resort and Dhaab Area Nabipur Cut Drain Gurdaspur",
+        "2. Purchase of conveyor Belt for Manual Sorting of Dry waste in MC Gurdaspur",
         "3. Purchase and Installation of CCTV Cameras In MC Office Gurdaspur and various Secondary "
       ]
     },
@@ -87,17 +95,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of service road on both side from Subhash Chowk to Hero Honda Chowk, Gurug",
-        "2. Estimate for provision of Two Nos. New Tubewell Bore by reverse rotary machine in 1. Ne",
+        "1. Estimate for provision of Two Nos. New Tubewell Bore by reverse rotary machine in 1. Ne",
+        "2. Day to day Civil maintenance work i.e. Raising of manhole, construction of x-ing slabs,",
         "3. Hiring of services to solve day to day leakage and dirty water complaints in ward no. 0"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Development of Tourism Infrastructure like Streetscape and Beautification at Jiranga, D",
+        "2. Engagement cum Empanelment of Agency for Undertaking DRONE DGPS Survey Work of Odisha I",
+        "3. Construction and Infrastructure Development of Mahapurusha Achyutananda Mahavidyalaya, "
+      ]
     },
     {
       "name": "Jharkhand",
@@ -107,7 +119,7 @@
       "sample_titles": [
         "1. CONSTRUCTION OF C.L.F BUILDING AT PRATAPPUR IN VILL- KAURA, GP- EGHARA, BLOCK-  PRATAPP",
         "2. DWSD/HEADWORKS/-10/2026-27",
-        "3. Construction of P.C.C. Road from Bhimedih Bajranbali Mandir to H/O Sushanto Thakur  und"
+        "3. TOIRAJ-03"
       ]
     },
     {
@@ -116,8 +128,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LWSS Kasiri Mahadev",
-        "2. LWSS Bhaleth",
+        "1. LWSS Bhaleth",
+        "2. LWSS Kasiri Mahadev",
         "3. Restoration of rain damages of LWSS Samtana 1st Phase in Tehsil Barsar Distt. Hamirpur "
       ]
     },
@@ -136,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f66e46ee850>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f72a02b8c50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -167,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Structural and Architectural consultancy for Construction of motorable bridge",
-        "2. RDDDC2627107167 -(CONST OF ROAD FROM MR TO HOUSE OF AMIR SUHAIL AT BUNPORA TUJAN (SHADI",
-        "3. RDDDC2627105476 -(RENOVATION OF PYT GHR WITH FURNITURE AT KAMRAZIPORA (SHADIM))"
+        "1. Kiosk No. 07 Near Bus stand Arnia",
+        "2. RDDDC2627104321 -(IMPROVEMENT OF LANE ROAD WITH CULVERT FROM HOUSE OF BASHIR AHMAD SHAH",
+        "3. Providing Structural and Architectural consultancy for Construction of motorable bridge"
       ]
     }
   ],
