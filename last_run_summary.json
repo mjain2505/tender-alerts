@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-31 09:16:34",
+  "checked_at_utc": "2026-10-31 16:49:17",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. M/o various colonies under Nazul A/c-II, Dwarka Zone.",
-        "2. ISO re-certification in FACT UC Fertiliser Plants (FACT-UD) in accordance with ISO 9001",
-        "3. Minor Conservation and Maintenance Works, Including Re-Toning, Lime Plastering, Repoint"
+        "1. M/o Various Colonies under South Zone.",
+        "2. Repair and maintenance of officers institute from electrical side of SHQ BSF Jaisalmer ",
+        "3. Expression of Interest (EoI)"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. STAGE LIGHT AND PA SOUND SYSTEM",
-        "2. LINK ROAD ALLAHABAD BADA MARG SE PHULWARIYA MARG TAK ROAD REPAIR WORK 05 YEAR DEFEACT L",
-        "3. Construction of Cement Concrete Road at Gorakhnath Mandir to h/o Suraj Behind Sought an"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Pr.kr.40 wonder city javlil yoga hallchi ardhavat kame purn karne.",
-        "2. Pandit Dindayal upadhyay engraji madhyamik shala erandwane vadhiv vargkholya bhandhane",
-        "3. Pr.kr.21 d mukunad nagar-sylisbri park madhe vividha thikani navin hajeri koti bandhne "
+        "1. Providing services of housekeeping management of Household affairs  and catering (inclu",
+        "2. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN AT DHARKANHA",
+        "3. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN AND RAPTTA AT DONGARGAON"
       ]
     },
     {
@@ -40,21 +36,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. HIRING OF AN AGNECY FOR FIRE ELECTRICAL SAFETY AUDIT AND PREPARATION OF SLD FOR SSBH KO",
-        "2. HIRING OF AN AGNECY FOR FIRE SAFETY AUDIT/ DESIGN OF SSBH, KOTA",
-        "3. Construction work of Security Boundary Wall of Dumping Yard of Municipal area."
+        "1. BEAUTYFICATION OF  SANT SAROVER GARDEN NEAR Delwara TEMPLE  AT MOUNT ABU,",
+        "2. SUPPLY OF CATTLE FEED RAW MATERIALS UNDER RM-844",
+        "3. Orthopedic Implants"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. CONSTRUCTION OF RCC DRAIN AT NEAR 12 DUKAN SQUARE MULLA COLONY PANDIT JI HOUSE TO GOPAL",
-        "2. REPAIRING AND MAINTAINENCE WORK IN MULLA COLONY GOVT.SCHOOL WARD 77 ZONE 17",
-        "3. Procurement and fabrication of fire brigade chassis at nagar palika Raisen"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +54,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. XI/104/009/2026-27/R/UPHC",
-        "2. WS/BBPS/26-27/01R",
-        "3. KMC/LTG/58/WD27/IV/ZII/26-27"
+        "1. Supply of 20 Ltr RO treated packaged drinking water at water kiosk installed at differe",
+        "2. Supply of 20 Ltr RO treated packaged drinking water at water kiosk installed at differe",
+        "3. WBNKDA/01/EE-(WD and S)/NKDAOF 2026-27"
       ]
     },
     {
@@ -73,9 +65,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing New 10 KVA generator and Installation to the Existing Godown campus at Namakk",
-        "2. KORADACHERY TOWN PANCHAYAT GENERAL FUND 2026-2027",
-        "3. TTPS Operation Circle CAD ACWPH Unit II Dismantling and Replacement of wornout, 600 NB "
+        "1. Repair and Maintenance Works to the inside D Store in Central Store Ware House at TTPS",
+        "2. Clearing the Sand and Silt deposit in and around the Storm Water Drain in Type  2, Type",
+        "3. Improvement Works to the Barbed Wire Fencing over the Compound Wall from Transformer Ya"
       ]
     },
     {
@@ -84,9 +76,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Laying interlocking tiles in ever green colony Barnala",
-        "2. Operation and Maintenance of Water Supply and Sewerage Scheme at Phillaur, Distt. Jalan",
-        "3. Installation of Tubewell in various location of city Barnala"
+        "1. Estimate for restoration of water course at outlet RD 36000/L of Ibban Minor by laying ",
+        "2. Construction of road back side Shiva Resort and Dhaab Area Nabipur Cut Drain Gurdaspur",
+        "3. Purchase and Installation of CCTV Cameras In MC Office Gurdaspur and various Secondary "
       ]
     },
     {
@@ -95,21 +87,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development works in Baje Bhagat Sain community Center Bahadurgarh. Recall",
-        "2. Special repair of house No.35 Civil Judge (Sr. Divn.) in Revenue Officers/Officials Rev",
-        "3. Repair of House No.12-J/17,13,14,57,66,85 in PGIMS, Rohtak (Reinvited 2nd time)"
+        "1. Construction of service road on both side from Subhash Chowk to Hero Honda Chowk, Gurug",
+        "2. Estimate for provision of Two Nos. New Tubewell Bore by reverse rotary machine in 1. Ne",
+        "3. Hiring of services to solve day to day leakage and dirty water complaints in ward no. 0"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Construction of Community Center at Talasahi in Ward No-20. (CMSA)",
-        "2. Development of Ward No-21 Park. (CMSA)",
-        "3. Construction of Drain and Slab from Sethi Sahi Chhaka to Medical Chhaka in Ward No-07.("
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
@@ -117,9 +105,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. renovation of ward vikash kendra as urban health and wellness centre at ward no-21 unde",
-        "2. renovation of ward vikash kendra as urban health and wellness centre at ward no-28 unde",
-        "3. Rate contract for supply installation testing commissioning of 6000 led street light wi"
+        "1. CONSTRUCTION OF C.L.F BUILDING AT PRATAPPUR IN VILL- KAURA, GP- EGHARA, BLOCK-  PRATAPP",
+        "2. DWSD/HEADWORKS/-10/2026-27",
+        "3. Construction of P.C.C. Road from Bhimedih Bajranbali Mandir to H/O Sushanto Thakur  und"
       ]
     },
     {
@@ -128,9 +116,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. HPSEBL/GPHD/DB-9/2026-27-120",
-        "2. Construction of Forest Guard Hut at Matehal in Kamand Beat, of Karsog Block of Karsog R",
-        "3. Supply of Library books"
+        "1. LWSS Kasiri Mahadev",
+        "2. LWSS Bhaleth",
+        "3. Restoration of rain damages of LWSS Samtana 1st Phase in Tehsil Barsar Distt. Hamirpur "
       ]
     },
     {
@@ -139,16 +127,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KHATYARI TO SOMESHWAR",
-        "2. HALDWANI TO BAGWALIPOKHAR",
-        "3. HALDWANI TO DANYA"
+        "1. Upgradation work of 15 meter RCC Bridge for one lane to two lane at Km 26 of Badethi-Ba",
+        "2. UPGRADATION OF BRIDGE FROM SINGLE LANE TO TWO LANE SILKYARA BANGAWN CHAPDA SAROT MOTAR ",
+        "3. UPGRADATION OF BRIDGE FROM SINGLE LANE TO TWO LANE SILKYARA BANGAWN CHAPDA SAROT MOTAR "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff96d4696d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f66e46ee850>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +145,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Additional classroom at Pub Chaul Dhuwa LP School, Bordoloni, Dhemaji u",
-        "2. Construction of 100MT capacity community godown under PM-RKVY for the year, 2026-27",
-        "3. Construction of Ground Floor with provision for three storied RCC Building Forest Guard"
+        "1. Supply and installation of  machinery for the MRF centre including const. of office cum",
+        "2. LIS Schemes at Sarupathar LAC under RIDF XXXII (NABARD) for the year 2026-27 (3 points)",
+        "3. ELIS from Kulshi River at Makeli, Palasbari LAC under RIDF-XXXII (NABARD) for the year "
       ]
     },
     {
@@ -168,9 +156,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Deposit Sree Chithra Home Thiruvananthapuram Re-construction and maintenance of boundar",
-        "2. KHRWS - Urgent cleaning of Sumps for the old and delux paywards, setting up of water ta",
-        "3. P.NO-180/27 IRISH DRAIN CONSTRUCTION IN PALLAM VALAPOTH ROAD SIDES-IN UDMA GP"
+        "1. GENERAL-Annual running maintenance at Sainik School Kazhakkuttom-2026-Annual running ma",
+        "2. GENERAL-Annual Maintenance contract of AC units in Stroke ICU cath lab at MCH Tvpm-Annu",
+        "3. KAP 5 Battalion -State Plan Scheme 2026-27 -Roofing work of quarter guard at Detachment"
       ]
     },
     {
@@ -179,9 +167,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of 25 KVA Transformer at Badran,Peth Dradhun under MPLADS falling under th",
-        "2. AS PER BOQ",
-        "3. Repairment of Dysfunctional Toilets at 1. PS BADRA BALA, 2. UPS MONGWALPORA, 3. PS SAFA"
+        "1. Providing Structural and Architectural consultancy for Construction of motorable bridge",
+        "2. RDDDC2627107167 -(CONST OF ROAD FROM MR TO HOUSE OF AMIR SUHAIL AT BUNPORA TUJAN (SHADI",
+        "3. RDDDC2627105476 -(RENOVATION OF PYT GHR WITH FURNITURE AT KAMRAZIPORA (SHADIM))"
       ]
     }
   ],
