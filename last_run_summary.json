@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-11-02 10:31:19",
+  "checked_at_utc": "2026-11-02 21:23:54",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Electrical Repair and Maintenance Work at Sub Post office Bldg Kartarpur (Punjab)",
-        "2. M/o Various parks (296.38) Acres under North Zone and East Zone.",
-        "3. Supply, installation, testing and commissioning of IP based telephone exchange system a"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Multipurpose Seed Store and Technology Dissemination Centre (Kisan Kaly",
-        "2. Construction of Community Centre at Nagar Panchayat Narora Distt-Bulandshahr",
-        "3. Painting and whitewashing work of towers walls boundary walls and in front of Swargadwa"
+        "1. Resurfacing work of Kishorpur to Banwariwas road, YEA. Wc-06",
+        "2. Repairing work of 05 MVA power transformers installed at 33/11 KV substation Dilippur, ",
+        "3. Imp. R.C.C. Nala from T.P. Nagar in  Hamirpur road to Hanuman Mandir   in ward 39 Zone "
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supplying and Installation LED Street Lights in Prabhag No. 19 B Zone No. 6 NWCMC Nande",
-        "2. Dismentling and shifting Tubular pole from Maniyar Galli to Relegious places (8 no) amd",
-        "3. GPP/ET/04/2026"
+        "1. Repair To Pipeline At Village Mudza",
+        "2. 1)Construction Of CC Road  2)Providing Pipeline 3)Providing And Laying NP Pipes",
+        "3. Construction of Internal C.C. Road (PART B) at Village Dudhagaon. Tq. Sonpeth and Dist."
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E TENDER FOR REPAIR AND RENOVATION WORK IN SANDEEPANI GUEST HOUSE OF BOARD COLONY AJMER",
-        "2. nagar nigam kota room no 2 ch 9 door shater lagane and finishing work  2 nit 33",
-        "3. Deepening and Commissioning 2 Nos of 200 MM Dia Defunctional Tubewells UWSS Hindoli of "
+        "1. NIT-41/2026-27/MPIH Deedwana",
+        "2. NIT-40/2026-27/Upgradation work at VDN",
+        "3. NIT-39/2026-27/Swimming Pool Work at VDN"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing service cables, auto switches, panel contacts, bearings, oil, tape for the op",
-        "2. Installation of 50 kV DG set starter service cable,voltmeter, and MCB for the operation",
-        "3. Microbiological testing of pure water supplied to Indore city at Devdharam Filter Plant"
+        "1. Procurement of Mounted Blade with wear plates for paddle Mixer installed at Silo in Ash",
+        "2. OFFER FOR SHOP NO. 13 UNRESERVED, AT JAGATPUR TIRAHA PUL KE PASS KOLARAS, UNDER NAGAR P",
+        "3. Construction work of C.C.Road at ward no 23 Swarnkar colony bharat steel shop to RK rat"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIQ-38-(EL) of 2026-2027 (SL NO 15)",
-        "2. NIQ-38-(EL) of 2026-2027 (SL NO 12)",
-        "3. NIQ-38-(EL) of 2026-2027 (SL NO 08)"
+        "1. NIT/BM/00098/ENG/EO/2026",
+        "2. 13(2ND CALL) OF 2026-27 OF SE/WBSWC",
+        "3. NM/PWDT/NIT-027-02e/2026-2027"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NAMAKKAL CITY MUNICIPAL CORPORATION - Bus Stand First Floor Shop No. 04",
-        "2.  Repair and Maintenance Work for Existing Sump, Erection of Motor and Water Supply arra",
-        "3. NAMAKKAL CITY MUNICIPAL CORPORATION - Perunthalaivar Kamarajar First Floor Shop No. 15"
+        "1. Reconstruction of existing  storm water drain and Culvert  at Ramar kovil  street near ",
+        "2. Replacement of existing damaged electrical wires, circuits and allied electrical works ",
+        "3. Maintenance and Repair to the  Corporation Middle School at Sanganoor in Ward No.32, Ce"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Online Coaching for UPSC Civil Services",
-        "2. Providing Fixing Testing and Commissioning of Probe type OCMS as per Specifications alo",
-        "3. Ree laying and Providing Interlocking Tile in Tower basti gali, Neharu basti galis, Gir"
+        "1. Outsourcing of Labour Part for Erection, Testing Commissioning of New 11KVLT/HTLines on",
+        "2. Phosphoric Acid",
+        "3. Outsourcing of Labour Part for Erection, Testing Commissioning of New 11KVLT/HTLines on"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special estimate for augmentation of 132 kV substation Bhattu Kalan from 1x20/25 MVA, 1",
-        "2. Construction of Uninterrupted Connectivity from Eastern to Western Faridabad (Badkhal R",
-        "3. INSTALLATION TILES AT FOOTPATH, CONST. OF GATE AND IPB IN FORM OF GATE AND SWINGS IN KR"
+        "1. JOBNO.HSVP/AMB/2026-27/E-727",
+        "2. Jind town- Estimate for pr...",
+        "3. Jind town- Estimate for pr..."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF VSS BUILDING AT PENDRAGUMMA, TABARSING GRAM PANCHAYAT",
-        "2. Construction of Block level stadium(with indoor hall) in Kukudakhandi Block under Ganja",
-        "3. Patch and Major Pothole repair on Fulnakhara-Niali-Madhab Road (SH-60) from 9/000 Km to"
+        "1. Automation of water supply system of 9.0 MLD WTP under Bhabanipatana Municipality",
+        "2. Automation of water supply system of 9.0 MLD WTP under Bhabanipatana Municipality",
+        "3. Laying of Distribution network , construction of recycle pond and supply, installation,"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Road from Bishunpur Gomoh, Durga Mandir to Laxmipur (L-1.600 Km.)",
-        "2. Construction of 01 no tube well of 125/115 mm dia with 120.00 mtrs deep drilled tube we",
-        "3. Request for Proposal for Selection of a Logistics Partner for End-to-End Travel, Accomm"
+        "1. Const. of SVS Scheme with 1.0 HP DC Solar motor pump complete set and Const. of HYDT in",
+        "2. Const of  SVS Sch with 1.0 HP DC Solar motor pump comp set and Const of HYDT in differe",
+        "3. Const. of SVS Scheme with 1.0 HP DC Solar motor pump comp. set Const. of HYDT in differ"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. DED-113/2026-27",
-        "2. Improvement o link road Dabar to Galchu km 0/00 to 1/126",
-        "3. C/O Kitchen Shed of GSSS at Saraswatinagar in Tehsil Jubbal Distt. Shimla HP"
+        "1. Repair  Construction work on Sh. Naina Devi Ji Toba road",
+        "2. SED-59/2026-27",
+        "3. Restoration of rain damages of GWSS Bassi Salar in Tehsil Baddi District Solan (HP)"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ward No. 8 c c road construction work",
-        "2. Improvement work by PC main Chauraha to South Patkot at Village Patikot in Constituency",
-        "3. Reconstruction and Improvement Works Raintoli to Danoli motor road and as part of the p"
+        "1.  Supply of Bailey bridge for the construction of pedestrian Bailey bridge over Mayapur ",
+        "2. SUPPLY OF CONSUMABLES FOR DENTAL DEPARTMENT",
+        "3. T02 SE TandC R 2026 27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f3d7809b610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6fc15e5390>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Sakrahi Padma Ata Community Hall at Ward No.4 Narayanpur",
-        "2. Repair/Renovation of the Swahid Kamala Miri Civil Hospital, Bokakhat",
-        "3. Supply, Installation and Commissioning of ESE type Lightning Arrester for Assam State D"
+        "1. Supply and erection of 415 V LT ACDB panel at 220KV Sarusajai GSS",
+        "2. Items for NICU",
+        "3. SUPPLY OF INDUSTRIAL GRADE SAFETY SHOE FOR AGCL"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL-Sabarimala Festival 2026-27(KRSA)-Providing road safety works for various roads",
-        "2. GENERAL Urgent tree cutting at approach of Kulappurakkadavu Bridge-2026-Urgent tree cut",
-        "3. DEPOSIT Augmentation of water supply schemes- Supply installation and commissioning of "
+        "1.  Annual Plan-Karivellur Peralam GP Improvement works  at Buds School -235/25-26 (SO 284",
+        "2. Annual Plan-Karivellur Peralam GP Kozhummal  Kandambathchal Road Retarring-146/26-27",
+        "3.  Annual Plan-Karivellur Peralam GP Muchilot Kottambath  Veedu road retarring-307/26-27"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation of  Tuberculosis office, Bathroom and Almunium partition in the interest of ",
-        "2. Macadamsiation of Wasoora-Shohoora to Lasipora road.",
-        "3. Repair and Renovation of Primary School Dakhan Panchyat Kallar Mohra Block Balakote Dis"
+        "1. Construction of Two Lanes at Ganaie Mohalla, Noorpora, Awantipora, Block Dadsara.",
+        "2. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Doulatpora",
+        "3. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  Gowharpora"
       ]
     }
   ],
