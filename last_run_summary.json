@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-11-01 19:22:53",
+  "checked_at_utc": "2026-11-02 00:13:57",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. M/o Various Colonies under South Zone.",
+        "2. Repair and maintenance of officers institute from electrical side of SHQ BSF Jaisalmer ",
+        "3. Expression of Interest (EoI)"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of new Panghat in Municipal area ward No. 1 to 40,  Nathdwara",
-        "2. Annual Rate Contract for Hiring / Temporary Electric work for Various VVIP VISIT under ",
-        "3. Annual Rate Contract for LED/Sound etc.  Various VVIP VISIT under Electric Div. BIKANER"
+        "1. Annual Rate Contract for Hiring / Temporary Electric work for Various VVIP VISIT under ",
+        "2. Annual Rate Contract for LED/Sound etc.  Various VVIP VISIT under Electric Div. BIKANER",
+        "3. Installation of new Panghat in Municipal area ward No. 1 to 40,  Nathdwara"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Clearing the Sand and Silt deposit in and around the Storm Water Drain in Type  2, Type",
-        "2. Repair and Maintenance Works by Stone Pitching in East side of Secondary Pond in Ash Dy",
-        "3. Repair and Maintenance Works to the inside D Store in Central Store Ware House at TTPS"
+        "1. Repair and Maintenance Works to the inside D Store in Central Store Ware House at TTPS",
+        "2. Improvement Works to the Barbed Wire Fencing over the Compound Wall from Transformer Ya",
+        "3. Clearing the Sand and Silt deposit in and around the Storm Water Drain in Type  2, Type"
       ]
     },
     {
@@ -92,8 +96,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Restoration of road cut on Nizampur Narnaul Mahendergarh Dadri road (In front of Pancha",
-        "2. Estimate for provision of Two Nos. New Tubewell Bore by reverse rotary machine in 1. Ne",
-        "3. Estimate for Providing and Laying RMC M-25 grade and Providing and Laying 80mm thick M-"
+        "2. Construction of service road on both side from Subhash Chowk to Hero Honda Chowk, Gurug",
+        "3. Estimate for Providing and laying 300 mm dia sewer line and 100 mm dia PVC pipe water s"
       ]
     },
     {
@@ -104,7 +108,7 @@
       "sample_titles": [
         "1. Development of Tourism Infrastructure like Streetscape and Beautification at Jiranga, D",
         "2. Engagement cum Empanelment of Agency for Undertaking DRONE DGPS Survey Work of Odisha I",
-        "3. Construction of Fatki to Dadiapda in the District of Nawarangpur under Mukhya Mantri Sa"
+        "3. Construction of Single D type Quarter Building for Doctors at Loising PHC of Jharsuguda"
       ]
     },
     {
@@ -115,7 +119,7 @@
       "sample_titles": [
         "1. CONSTRUCTION OF C.L.F BUILDING AT PRATAPPUR IN VILL- KAURA, GP- EGHARA, BLOCK-  PRATAPP",
         "2. DWSD/HEADWORKS/-10/2026-27",
-        "3. Construction Of PCC Road And Laying Of Paver Block From Kishunpur Tola Mango Tree To H/"
+        "3. CONSTRUCTION OF PCC ROAD FROM BAJRANGBALI TO HOUSE OF BINOD TIWARI BHANDAR IN VILL- SAL"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. BBC Road 05",
-        "2. Bharoli Kallan 06",
-        "3. Gehrwin Behna Jattan Road 09"
+        "1. BBC road 03",
+        "2. BBC road 02",
+        "3. Marotan Bagchal road 01"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f9c3fd04110>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7ff603859510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E-Auction of shop No 1 shopping complex New Bus Stand Bhaderwah",
-        "2. E-Auction of Kiosk No 01 (Reserve for Handicapped) at New Bus stand bhaderwah.",
-        "3. E-Auction of Kiosk No 12 at New Bus stand Bhaderwah"
+        "1. E-Auction of Kiosk No 13 at New Bus stand Bhaderwah",
+        "2. E-Auction of Kiosk No 19 at New Bus stand Bhaderwah",
+        "3. E-Auction of Kiosk No 03 (Reserve for Ex-serviceman) at New Bus stand Bhaderwah."
       ]
     }
   ],
