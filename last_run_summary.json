@@ -1,19 +1,27 @@
 {
-  "checked_at_utc": "2026-11-04 19:20:52",
+  "checked_at_utc": "2026-11-05 01:18:07",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Civil Maintenance / Renovation work in laboratories and offices of Architecture and Ear",
+        "2. Provision of day to day maintenance of Postal staff quarters, AO buildings and PO build",
+        "3. Provision of day to day maintenance of Postal staff quarters, AO buildings and PO build"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. TRANSPORT WORK FOR CMR 2026-2027 FOR MS SHIV SHAKTI TRADERS DISTRICT GHAZIPUR",
+        "2. TRANSPORT WORK FOR CMR 2026-2027 FOR SRI BHRIGUJI RICE DAL AND OIL MILS DISTRICT GHAZIP",
+        "3. TRANSPORT WORK FOR CMR 2026-2027 FOR JYOTI RICE MILL ATRASUA NANDGANJ GHAZIPUR DISTRICT"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -21,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Improvement of passage and drainage system at Himmat Nagar munna pandey Chawl in beat n",
-        "2. Repairs to Common House gully at 184,Rahim Bldg., M. A. Road in E Ward",
-        "3. To remove the BRT lane along with the bus stand on Pune Alandi Road and to construct a "
+        "1. Fabrication of Artifical Pond and Miscellaneoius Arrangements for Chat Puja 2026 at Ant",
+        "2. Improvement of passage and drainage system at Himmat Nagar munna pandey Chawl in beat n",
+        "3. Providing aFlex Banners, Watch tower for Police and Other Miscellaneous Arrangements fo"
       ]
     },
     {
@@ -32,7 +40,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CC Road Construction Work Ganesh Gate Choraha to Sitabari Jain Mandir via Bhoodara.",
+        "1. CC Road Construction Work Ganesh Gate Choraha to Mela Gate",
         "2. Jaal Construction Work in Nagar Parishad Area Karauli.",
         "3. CC Road Construction Work Kunwar Ji Shop to Hindaun Gate"
       ]
@@ -43,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and Installation of CCTV Camera, Display Device and Power Backup Equipment",
-        "2. Repairing work of Badminton court in Sivariya Colony at SSTPP, Dongalia Distt. Khandwa ",
-        "3. Supply of Remaining Cleaning Items for F.Y. 2026-27 in Nagar Palika Parishad Narsinghpu"
+        "1. Wall Writing/Painting Work/Colour Washing and Other Remaining Work at Nagar Palika Pari",
+        "2. Supply and Installation of CCTV Camera, Display Device and Power Backup Equipment",
+        "3. Castration and anti-rabies vaccination of strays dogs in Nagar Palika Parishad, Narsing"
       ]
     },
     {
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. General Fund 2026-2027- Road Patch Works",
-        "2. Construction of CC road with side Drain at Kondur Panchayat in Cuddalore Block.(500m)",
-        "3. TTPS Mech II BM Unit IV Certain specified works to be carried out in different location"
+        "1. Construction of  Bus Shelter at Thiyagesaralai Hr Sec School near Usilampatti in  Panch",
+        "2.  Annual Housekeeping maintenance work to Knowledge study centre for the period of  12 m",
+        "3. Strengthening of BT road at Vellappakkam village road  Vellappakkam Panchayat in Cuddal"
       ]
     },
     {
@@ -76,8 +84,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of various street at colony backside sks gym verowal road at  jandiala guru",
-        "2. Const. of various street at Baba deep singh colony  SKS gym at MC Jandiala guru",
+        "1. Const. of various street at Baba deep singh colony  SKS gym at MC Jandiala guru",
+        "2. Const. of various street at colony backside sks gym verowal road at  jandiala guru",
         "3. Const. of various street at  Bagh wala khuh at MC Jandiala guru"
       ]
     },
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Atal Bus Stand(B-Type) at Champua under Champua NAC Block, Keonjhar",
-        "2. Construction of Police Station Bldg. at Andirakanch,  Rayagada (Rural PS)",
-        "3. Sadangi to Ankudi_Road_SDBC, Road Furniture_0.000 to 2.280"
+        "1. Sadangi to Ankudi_Road_SDBC, Road Furniture_0.000 to 2.280",
+        "2. Construction of 6 Nos. E type Qtrs. at Balianta PS, DCP, Bhubaneswar, Khurda",
+        "3. Construction of Cyber Crime and Economic Offence PS at Kalahandi"
       ]
     },
     {
@@ -109,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 306/PR/JBVNL/2026-27 Supply Of Electrical Line Materials under ADP Head for F.Y. 2026-2",
-        "2. 312/PR/JBVNL/2026-27 Supply Of Electrical Line Materials under ADP Head for F.Y. 2026-2",
-        "3. 305/PR/JBVNL/2026-27 Supply Of Electrical Line Materials under ADP Head for F.Y. 2026-2"
+        "1. 303/PR/JBVNL/2026-27 Supply Of Electrical Line Materials under ADP Head for F.Y. 2026-2",
+        "2. 309/PR/JBVNL/2026-27 Supply Of Electrical Line Materials under ADP Head for F.Y. 2026-2",
+        "3. 311/PR/JBVNL/2026-27 Supply Of Electrical Line Materials under ADP Head for F.Y. 2026-2"
       ]
     },
     {
@@ -120,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R R of GWSS to village kanda Banah GP Kanda Banah, Tehsil Kupvi Distt. Shimla HP",
-        "2. R R of GWSS Bag. Loan Dhar, mahrain  Kulag  taprola Gar charoli, Manjholi Tehsil Kupvi ",
-        "3. R R of GWSS Dhar in GP Dharchandna Tehsil Kupvi Distt. Shima HP"
+        "1. R M of GWSS Nalti Dogri in GP Dharchana Tehsil Kupvi Distt. Shimla HP",
+        "2.  R R of FIS Kupvi in GP Juru shalal Tehsil Kupvi Distt. Shimla HP",
+        "3. Providing lift irrigation scheme to village Telkar  Bharial Sanahi Kalan and Sanahi Khu"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f6a98741150>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7f67306df650>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -149,8 +157,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Suklai R/B embankment from Bhola Batabari to Suklai Head works.",
-        "2. Construction of R.C.C flood wall along B/B of Khanajan Channel in between NH 27 to outf",
+        "1. Construction of R.C.C flood wall along B/B of Khanajan Channel in between NH 27 to outf",
+        "2. Construction of Suklai R/B embankment from Bhola Batabari to Suklai Head works.",
         "3. Supply/ Procurement of 5 nos. E-Rickshaw Tipper"
       ]
     },
@@ -160,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan 2026-27 Pulpatta GP (Proj. No 141/27)- Improvement works to Pulpatta Kallac",
-        "2. Annual Plan 2026-27 Pulpatta GP (Proj. No 112/27)- Improvement works to Lakshamveedu Ka",
-        "3. Annual Plan 2026-27 Pulpatta GP (Proj. No 152/27)- Improvement Works To Thadikunnu Thaz"
+        "1. Annual Plan 2026-27 Pulpatta GP (Proj No 389/27)-Side  Protection for Palod Patteeri Ro",
+        "2. Annual Plan 2026-27 Pulpatta GP (Proj. No 177/27) Improvement Work To Poovathichaal Kum",
+        "3. Annual Plan 2026-27 Pulpatta GP (374/27) -Pagodam Andikkad Road Concrete-General Civil "
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROCUREMENT OF KEY MATERIALS FOR MGNREGA WORKS FOR PANCHAYAT HALQA WULERHAMA",
-        "2. Construction of protection bund PCC at Ganie Nambal near land of M. Ashraf Dar, M. Shaf",
-        "3. Installation of Borewell in the Orchard of Ashiq Ahmad Dar S/O Mohd Jabbar Dar and othe"
+        "1. Restoration of Cement Concrete Lining of Main Ravi Canal from RD 37400M to 37900M and R",
+        "2. PROCUREMENT OF KEY MATERIALS FOR MGNREGA WORKS FOR PANCHAYAT HALQA ADHALL MIDDLE",
+        "3. Remodelling/ Improvement of the MRC between RD 19200 to 19600M by providing cement conc"
       ]
     }
   ],
