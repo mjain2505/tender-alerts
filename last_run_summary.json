@@ -1,27 +1,27 @@
 {
-  "checked_at_utc": "2026-11-05 19:30:13",
+  "checked_at_utc": "2026-11-06 01:21:59",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)",
-      "sample_titles": [],
-      "diagnostic": {
-        "final_url": "https://eprocure.gov.in/Announcement.html",
-        "status_code": 200,
-        "html_length": 1676,
-        "page_title": "Under Maintenance",
-        "total_links_on_page": 0,
-        "sample_links": []
-      }
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Maintenance of Banda to Karwi (Chitrakoot) section of NH-35 from Km 37.000 to Km. 107.0",
+        "2. NFC/EP/9-A/2026",
+        "3. Improvements to SH-215 from Km. 17.00 to 27.00 Melinakanive SH-131 to Nagatibsapura SH "
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. ELECTRICAL WORK",
+        "2. Laying of Sewer Line in Ward 10 Raj Enclave",
+        "3. CONSTRUCTION OF PET FRIENDLY CAFE AT SARNATH"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of concrete gutters on both sides of internal roads at Block No. 145, Ward",
-        "2. Constructing Cement Concrete Road in Prabhag No.12 (D) House of Husain Bhai to House of",
-        "3. Construction of cement concrete Patchwork at lane no. 26 in Prabhag no. 14 Indira Nagar"
+        "1. Repairs To Drain (From Shree. atmaram Jengate To Kashinath Gavture House) At Village Sh",
+        "2. To construct RCC sewerage and asphalting of road from Waghmare to Jadhavar in Ward No. ",
+        "3. Electrification of Govt Tribal Ashram School Kapra Tq Dist Yavatmal"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of dog shelter for Sri Ganganagar city under the Chief Ministers budget an",
-        "2. SITC of Passenger Lifts work in Second Floor Construction on Existing Court Building at",
-        "3. Complete Rewinding Repairing Of Three Single Phase Repair And Rewinding Of Submersible "
+        "1. SITC of Passenger Lifts work in Second Floor Construction on Existing Court Building at",
+        "2. Construction of dog shelter for Sri Ganganagar city under the Chief Ministers budget an",
+        "3. Repairing and Rewinding of CF Pump Sub Dn Pipar City Under Distt Dn Ist  Jodhpur"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Helipad Ground Road, Bhopal Length-0.70 K.M Two lane, Renewal and Impro",
+        "2. Jointing Sleeves Suitable for 100 sqmm AI Eq AAAC Conductor",
+        "3. Annual maintenance, watch and ward of Existing gardens and lawns at various locations i"
+      ]
     },
     {
       "name": "West Bengal",
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MTPS I Mill Plant Unit I Complete dismantling and assembling of Mill internals recondit",
-        "2. Air Pre Heater Tubes for Boiler 7",
-        "3. E1-5792-2026-6-ERODE CITY MUNICIPAL CORPORATION"
+        "1. OT 46",
+        "2. Renewal of CC  Roads at Kalangar Nagar 3rd Street  013004R35,Karpaga vinayagar kovil st",
+        "3. Supply of TAPPING CHANNEL CROSS ARM 11 KV AS PER RESPECTIVE SPECIFICATIONS"
       ]
     },
     {
@@ -81,8 +85,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Assistance in taking over leftover manpower, T and P, consumable and transportation etc",
-        "2. Water Supply Scheme Bazigar Basti Salani, Block Amloh, District Fatehgarh Sahib",
-        "3. Improvement Sustainability of Existing Rural Water Supply Scheme for Village Neor Block"
+        "2. Improvement Sustainability of Existing Rural Water Supply Scheme for Village Neor Block",
+        "3. Water Supply Scheme Bazigar Basti Salani, Block Amloh, District Fatehgarh Sahib"
       ]
     },
     {
@@ -92,8 +96,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Special repair of external ...",
-        "2. Special repair of external ...",
-        "3. Providing wire fencing with..."
+        "2. Providing wire fencing with...",
+        "3. Special repair of external ..."
       ]
     },
     {
@@ -103,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of CC Road from NH to Jora Mala Sahi under DMF in the District Anugola",
-        "2. Supplying and Installation of Testing and commissioning Water Purifier and Cooler with ",
-        "3. Construction and Development Works of Godabarisha Mishra Adarsha Prathamika Vidyalaya a"
+        "2. Construction and Development Works of Godabarisha Mishra Adarsha Prathamika Vidyalaya a",
+        "3. Supplying and Installation of Testing and commissioning Water Purifier and Cooler with "
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of RCC Drain and Bituminous Road from Iqra Masjid to Sarfaraj Chowk under ",
-        "2. Construction of Road from Damodarpur Main Road Shri Lav Mandal Plot to Shri Tarani Pras",
-        "3. Construction of PCC Road and RCC Drain in Aman Green City Road No-02 under Ward No-36"
+        "1. Construction of PCC Road and RCC Drain in Aman Green City Road No-02 under Ward No-36",
+        "2. Construction of RCC Drain and Bituminous Road from Iqra Masjid to Sarfaraj Chowk under ",
+        "3. Construction of Road from Damodarpur Main Road Shri Lav Mandal Plot to Shri Tarani Pras"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Periodical  Maintenance  on Chandigarh Mandi Manali road",
-        "2. Restoration of rain damages on Link Road to village Trimoond KM 0/0 to 0/650 (UNDER PDN",
-        "3. Construction of Indoor Stadium at Salooni, Tehsil Salooni District Chamba HP (SH Buildi"
+        "1. Construction of Indoor Stadium at Salooni, Tehsil Salooni District Chamba HP (SH Buildi",
+        "2. Periodical  Maintenance  on Chandigarh Mandi Manali road",
+        "3. Restoration of rain damages on Link Road to village Trimoond KM 0/0 to 0/650 (UNDER PDN"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x777f2b318450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x74eda18a4f90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,8 +169,8 @@
       "status": "ok",
       "sample_titles": [
         "1. MLA-SDF-2025 2026 Construction of dining hall for little flower UP school  Mananthavady",
-        "2. NALUMUKKU KAIRALIMUKKU ROAD MAINTENANCE IN WARD 14",
-        "3. Thonnalloor chakkalamukku road maintenanace in war 17"
+        "2. KOZHIMUKKU CHEMMATHUMUKKU ROAD RENOVATION WARD 10",
+        "3. Annual Plan-2026-27-MULLURKKARA GP 41/27-PANANJIKKAL KSHETHRAM ROAD RENOVATION WARD-9"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Kakapora A",
-        "2. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Dadsara A",
-        "3. Execution of Civil and Mechanical works for Improvement of conveyance efficiency of can"
+        "1. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Sonabanger",
+        "2. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Larmooh",
+        "3. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Panjren"
       ]
     }
   ],
