@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-06 18:53:18",
+  "checked_at_utc": "2026-11-07 00:37:37",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. Repair Maintenance and replacement of defective aluminium armoured XLPE cable in BOP  M",
         "2. LAUNCHING OF A-FRAME BARGE STATIONED AT MINICOY",
-        "3. M/o completed scheme under NA-II Hort. Zone"
+        "3. SR TO REPAIR AND CONSERVATION OF BOOTHNATH TEMPLE AND ADJOINING SHRINES IN THE TEMPLE C"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repair of Allipur Link Road",
-        "2. Special repair of Chachapurwa link road.",
-        "3. Special repair work of the Meerut Baghpat Road to Baghu road in Baghpat district in the"
+        "1. Special Repair of Nawalpur to Nawalpur Ghat link Road CC",
+        "2. DEVELOPMENT AND BEATIFICATION OF RAVINDRA PURI PARK BASED ON VANDE BHARAT THEME",
+        "3. Special repair of  damaged 1000 mm Hume pipe culvert on the Lalpur link road off the Pa"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Current Repairs (CR) to Government Tribal Ashram School Shahada, Tal. Shahada, Dist. Na",
-        "2. LIFELINE DAVAKHANA SHEJARIL BHAGAT V VIVIDH THIKANI VIDYUT VISHAYAK KAME KARNE.",
-        "3. PRBHAG KR 40 A MADHIL DNYANESHWAR NAGR DRAINAGE LINE TAKANE."
+        "1. pr.kr.15ae manjari bu. sai home meadows mhasoba vasti parisar concrete road karane",
+        "2. pr.kr.15 A manjari bu. sai home midos amit deshmukh te nana abanave concret road karane",
+        "3. PRA.KR.18 SWAMI VIVEKANAND NAGAR PARISARAT V VIVIDH THIKANI DRAINAGE VISHAYAK KAME KARN"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of road in indira colony gali no 04 ward no 59 surender sirohiya house to ",
-        "2. Repair work in house number KR 02 and 03 located under Kota Police Station Kotwali Kota",
-        "3. Civil and sanitary repair work in administrative building of Circle Office III (West) K"
+        "2. Civil Building Maintenance work in DICC, Kota",
+        "3. Special repair work related to floor repair in government quarters located in Civil Lin"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBHOUSING/AE/KSSD-I/e-NIT-09 OF 2026-27",
-        "2. WBHOUSING/AE/KSSD-I/e-NIT-09 OF 2026-27",
-        "3. NIe-T- 24(Sl-06)/2026-27(2nd Call)"
+        "1. NIT/BM/00101/Eng/EO/2026-27  3rd Call 06.11.2026",
+        "2. 7088/NKDA/Engg/EE (R and B)/600/2026 ( SL No. 03)",
+        "3. NIe-T- 24(Sl-02)/2026-27(2nd Call)"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  Improvement works to Science park at Alagappa Road in Ward No.68, Central Zone.",
-        "2. Providing Mini High Mass Light in Narasingapuram Madha Kovil Near    at Kilvillivalam  ",
-        "3. Providing Rain water harvesting and additional amenities and front elevation for the wo"
+        "1. Proposed Development of OSR land by Providing Compound wall, walkway, water supply faci",
+        "2. Tirupur Division - Maintanance Works 2026-2027",
+        "3. Providing Road Side Echo Block Rainwater Harvesting Structure at Samyappan Street,Chekk"
       ]
     },
     {
@@ -84,17 +84,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/L RCC PIPE SEWER LINE CONTS. OF MAINHOLE AND CONTS. OF STREET IN SHIV MANDIR RAOD MAN",
-        "2. P/L RCC PIPE SEWER LINE CONTS. OF MAINHOLE AND CONTS. OF STREET IN STREET OF MEHMW WALA",
-        "3. REPAIR OF OPEN NALLAH AND LAYIUNG RCCPIPE FROM RAIKOT CHOWK TOWARDS JAGROAN RAOD"
+        "1. P/L RCC PIPE SEWER LINE CONTS. OF MAINHOLE AND CONTS. OF STREET IN PREM IN WARD NO.3",
+        "2. REPAIR OF OPEN NALLAH AND LAYIUNG RCCPIPE FROM RAIKOT CHOWK TOWARDS JAGROAN RAOD",
+        "3. P/L INTERLOCKING TILES IN THE STREET OF GURSHARN KALAN BHAWAN IN WARD NO.7"
       ]
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.hry.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Estimate for special repair and maintenance of Canal Rest House, Tauru",
+        "2. Chakerian- Providing and laying Water Supply Pipeline from H/o Gurmel Singh S/o Mukund ",
+        "3. Raghuana- Construction of Shed on Crossing of Daultatpur Khera Road at Village Raghuana"
+      ]
     },
     {
       "name": "Odisha",
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF BOUNDRY WALL AT DPEP N.P.S BALI (CODE-20030606101) VILL-BALI, PANCHAYAT",
-        "2. CONSTRUCTION OF BOUNDRY WALL AT UPG P.S PURANA GONDA (CODE-20030605502) VILL-PURANA GON",
-        "3. CONSTRUCTION OF BOUNDRY WALL AT UPG P.S 122-GHOURA (CODE-20030609909) VILL-122-GHOURA, "
+        "1. CONSTRUCTION OF BOUNDRY WALL AT UPG P.S HEMANDAG (CODE-20030610202) VILL-HEMANDAG, PANC",
+        "2. CONSTRUCTION OF BOUNDRY WALL AT UPG P.S BACHRATANR (CODE-20030609913) VILL-BACHRATANR, ",
+        "3. CONSTRUCTION OF BOUNDRY WALL AT UPG P.S PARSATARI (CODE-20030606003) VILL-PARSATARI, PA"
       ]
     },
     {
@@ -126,7 +130,7 @@
       "sample_titles": [
         "1. EDS-19/2026-24",
         "2. (T2021-306-197) Prov. LWSS to P.C habitation of Theog Block in Chopal Consty. In Tehsil",
-        "3. Restoration of Rain Damages to LWSS Sua Faugla in Tehsil Kasauli Distt Solan HP"
+        "3. 28/2026-27 Dhumadevi"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x718d5f8e4fd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7c9ec2a20a50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -154,20 +158,16 @@
       "status": "ok",
       "sample_titles": [
         "1. Protection of Khatalguri and Sutimukh areas from the flood devastation of river Charika",
-        "2. supplying of Ration Feed Materials for Zoo captives under Group A (Vegetables) to Assam",
-        "3. Supply, Installation and Commissioning of Electro- Hydraulic Operating Table for AMCH, "
+        "2. Supply, Installation and Commissioning of Electro- Hydraulic Operating Table for AMCH, ",
+        "3. supplying of Ration Feed Materials for Zoo captives under Group A (Vegetables) to Assam"
       ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Annual Plan- 2026-2027 PRO NO-440- URAKATHODI ROAD RENNOVATION IN WARD NO 2 AT PERINTHA",
-        "2. Annual Plan-XIVth Plan 2026-27 of Wandoor BP-36 Eattathu SC Nagar Comprehensive Develop",
-        "3. Annual Plan-XIV-th Plan 2026-27 of Wandoor BP- 54 Vallikkaaparamb Pariyaarath SC Nagar "
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of lane from house of mohd akbar najar to House of mohd subhan with protec",
+        "1. Construction of Borewell near the house of Bashir Ahmad Bhat, Abdul Gani Bhat and other",
         "2. Restoration of road from Mori Mohalla to near House of Sardar Shafiq Khan Village Balak",
-        "3. Installation of Borewell NHO Ashiq Majeed Tantray S/O Ab Majeed Tantray and others at A"
+        "3. Installation of Borewell NHO Shamim Ah Sheikh at Sheikh Mohalla Arihal A"
       ]
     }
   ],
