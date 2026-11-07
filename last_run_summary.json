@@ -1,27 +1,27 @@
 {
-  "checked_at_utc": "2026-11-07 17:27:24",
+  "checked_at_utc": "2026-11-07 21:26:07",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "0 results (check URL / site structure)",
-      "sample_titles": [],
-      "diagnostic": {
-        "final_url": "https://eprocure.gov.in/Announcement.html",
-        "status_code": 200,
-        "html_length": 1676,
-        "page_title": "Under Maintenance",
-        "total_links_on_page": 0,
-        "sample_links": []
-      }
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Providing and Fixing of Chain link fencing and gates in surrounding area of BSF Primary",
+        "2. Pur-1/71/26-27/ Procurement of Indigenous coal 4000 MT through Rail mode",
+        "3. Providing and laying cement concrete work at Katarbain-Bhaledh road (RD 2760-3260)"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Ward No. 13 Moh. Bhardwaji (Chauksy)  me Ramotar Verma se Pappu Pandey tak, Phoolmati M",
+        "2. Construction of a connecting road from Mitihiniya Devi Dham to the main road in Gram Sa",
+        "3. Construction of village of Chatarwar stretching from Ram Tahals house to Managers house"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -30,8 +30,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Specified repairs at Government Tribal Ashram School Complex Devgaon (M) Tal. Trymbakes",
-        "2. SDR to Government Tribal Ashram School Complex at Khed Ta. Igatpuri Dist. Nashik (Drain",
-        "3. Specified Repairs to Government Tribal Boys Hostel, Thepanpada Tal. Dindori. Dist. Nash"
+        "2. Repairs to Boys Hostel At Govt. Tribal Ashram School Complex Ganore, Tal. Kalwan Dist. ",
+        "3. SLR to Government Tribal Ashram School Complex at Pimparkhed (Boys Hostel Building) Tal"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. INSTALLATION OF SWING, GYM EQUIPMENT AND OTHER REPAIR WORK IN SHIV HANUMAN PARK AND SHR",
-        "2. VARIOUS DEVELOPMENT AND REPAIR WORK IN ATAL UDYAN IN WARD NO. 22 OF VIDYADHAR NAGAR ZON",
-        "3. INSTALLATION OF SWINGS AND OTHER REPAIR DEVELOPMENT WORK IN PARSHURAM PARK, NANDGAON PA"
+        "1. INSTALLATION OF SWINGS, GYM EQUIPMENT AND OTHER REPAIR WORK IN BAHUBALI NAGAR PARK, JAI",
+        "2. INSTALLATION OF RAILING, GYM AND SWING AND OTHER REPAIR WORKS IN E.W.S. PARK, TWO PARKS",
+        "3. INSTALLATION OF RAILING, GYM AND SWING AND OTHER REPAIR WORKS IN SHIV PARK, GANESH PARK"
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of drain covered in different places Pauranik Tola and Master Plan Ward No",
+        "2. Construction of 100 seated Boys, 60 seated Girls Hostel, 06 Units F-type Staff Quarter ",
+        "3. Procurement of spares of 220KV Bus Bar differential protection system installed at     "
+      ]
     },
     {
       "name": "West Bengal",
@@ -59,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. KMC/LTG/Z-IV/BR-X/259/26-27",
-        "2. WBMAD/ULB/SDDM/NIT402/11/26sl1",
-        "3. WBMAD/ULB/SDDM/NIT402/11/26sl2"
+        "2. WBMAD/ULB/SDDM/NIT402/11/26sl4",
+        "3. KMC/LTG/Z-IV/BR-X/257/26-27"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Ordinary Maintenance work for the Other District Roads of Sivakasi (H) C and M Sub Divi",
-        "2. Ordinary Maintenance work for the Major District Roads of Sivakasi (H) C and M Sub Divi",
-        "3. Ordinary Maintenance work for the Other District Roads of Srivilliputtur (H) C and M Su"
+        "1. Maintenance works for the Government Roads of Kannivadi (H) CandM Sub Division, Kanniva",
+        "2. RELAYING 23 NOS OF INTERIOR BT ROADS IN ZONE-8",
+        "3. Ordinary Maintenance work for the Major District Roads of Rajapalayam (H) C and M Sub D"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/L interlocking tiles ward No. 9 MC Sri hargobindpur sahib",
-        "2. Const. of Park ward No .2 Near BSNL Exchange",
-        "3. Supply and errection of street light point in different Area in ward No 1 to 11"
+        "1. Const. of Park ward No .2 Near BSNL Exchange",
+        "2. Supply and errection of street light point in different Area in ward No 1 to 11",
+        "3. P/L interlocking tiles ward No. 8 MC Sri hargobindpur sahib"
       ]
     },
     {
@@ -92,16 +96,20 @@
       "status": "ok",
       "sample_titles": [
         "1. Transportation of MSW from the Secondary Collection Points  Khandsa  to Bhandwari Landf",
-        "2. Mtc of Plantation at Khillanwala in Kalesar WLS",
-        "3. Special repair of App. Road..."
+        "2. Purchase of Deluxe Diary, Pocket Diary, Visiting Card Case and Ordinary Diary",
+        "3. installation of statue of Sh.Atal bihari vajpayi at Atal park in f block ward no 28, mc"
       ]
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='tendersodisha.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Development of Ro-Pax Jetty and Allied Infrastructures at Bahakuda, Dis",
+        "2. Sinking of 15 Fifteen Nos. 125mm x 100mm dia Tube-Well with Platform through DTH Drilli",
+        "3. Construction of Development of Ro-Pax Jetty and Allied Infrastructures at Musadiha, Dis"
+      ]
     },
     {
       "name": "Jharkhand",
@@ -109,8 +117,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF PRIMARY HEALTH CENTRE KARAMDIH IN PANCHAYAT SARUAA BLOCK- DUMKA",
-        "2. Repair / Renovation / Beautification work of  Nepura Panchayat Bhawan, Block- Godda Dis",
+        "1. Repair / Renovation / Beautification work of  Nepura Panchayat Bhawan, Block- Godda Dis",
+        "2. CONSTRUCTION OF PRIMARY HEALTH CENTRE KARAMDIH IN PANCHAYAT SARUAA BLOCK- DUMKA",
         "3. Repair / Renovation / Beautification work of  Singhari Panchayat Bhawan, Block- Meharma"
       ]
     },
@@ -120,23 +128,27 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Tralla to Brehi Km. 0/0 to 2/000 (SH Formation cutting work in Km. 0/05",
-        "2. Restoration of Rain Damages on Chamba Tissa road Km. 0/0 to 5/500 (SH Construction of D",
+        "1. Restoration of Rain Damages on Chamba Tissa road Km. 0/0 to 5/500 (SH Construction of D",
+        "2. Construction of Tralla to Brehi Km. 0/0 to 2/000 (SH Formation cutting work in Km. 0/05",
         "3. Restoration of Rain Damages on Chamba Tissa road Km. 0/0 to 5/500 (SH Formation cutting"
       ]
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='uktenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Arrangement of Tentage Furniture Light Sound and Barricading etc in District Almora for",
+        "2. Interlocking Tiles work on Baburkhola to Machhalia Motor Road in Someshwar Assembly Con",
+        "3. Design, RE and SITC of Pelton Turbine Shaft and Other Miscellaneous Works at Urgam SHP,"
+      ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x71cb527beb50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x74cf4932bf10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -145,8 +157,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of new embankment on  left bank of Sessa river from Sessa PWD bridge to PW",
-        "2. Procurement of flood fighting materials (Geo-textile sheets) for Water Resources Depart",
+        "1. Procurement of flood fighting materials (Geo-textile sheets) for Water Resources Depart",
+        "2. Construction of new embankment on  left bank of Sessa river from Sessa PWD bridge to PW",
         "3. Construction of new embankment on  left bank of Sessa river from Sessa PWD bridge to PW"
       ]
     },
@@ -156,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. GENERAL-Annual plan 257/27.Panayil mamkunnu colony Road  of Mylom GP  - RETENDER",
+        "1. DRISTRIBUTION OF H D P E GROW POT (Project No 20/27)",
         "2. GENERAL-Annual plan 110/27.Kaleeluvila Ithala Ela Road in  Mylom GP - RETENDER",
-        "3. DISTRIBUTION OF HYBRID VEGETABLE SEEDS (Project No 21/27)"
+        "3. GENERAL-Annual plan 275/27.Thayelathu bhagam 135 no.anganwadi Road  - RETENDER"
       ]
     },
     {
@@ -167,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Khangund",
-        "2. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Tengpuna",
-        "3. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Pinglish A"
+        "1. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Gutroo",
+        "2. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Putrigam A",
+        "3. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Lalpora B"
       ]
     }
   ],
