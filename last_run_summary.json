@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-11-10 14:18:03",
+  "checked_at_utc": "2026-11-10 21:12:53",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Consultancy Services for AE for supervision of Construction of new 2/4- Lane Major brid",
-        "2. Third party quality supervision/control/assurance services for the work Providing drain",
-        "3. \tNHIDCL/RO-Imphal/Ccpur Tuivai/NH102B/26"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dismantling, Site Clearance Upto Ground Level And Dispose of 41 NOS. Aaganwadi Centres ",
-        "2. Complete erection work of 01 No. 132KV and 01 No. 33KV feeder bay for additional 50MVA ",
-        "3. Dismantling, Site Clearance Upto Ground Level And Dispose of 37 NOS. Aaganwadi Centres "
+        "1. Dismantling, Site Clearance Upto Ground Level And Dispose of 29 NOS. Aaganwadi Centres ",
+        "2. Dismantling, Site Clearance Upto Ground Level And Dispose of 49 NOS. Aaganwadi Centres ",
+        "3. Installation of solar system"
       ]
     },
     {
@@ -62,8 +58,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Delivery and Installation of Gymnasium Equipment /Articles for District Police ",
-        "2. Supply, Delivery and Installation of Gymnasium Equipment /Articles for 26 Police Statio",
+        "1. Supply, Delivery and Installation of Gymnasium Equipment /Articles for 26 Police Statio",
+        "2. Supply, Delivery and Installation of Gymnasium Equipment /Articles for District Police ",
         "3. BIENNIAL MAINTENANCE CONTRACT TO CARRY OUT MAINTENANCE JOB OF AC MACHINES INCLUDING SUP"
       ]
     },
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. BRR.C.No.B4 /3575 /2026-4",
-        "2. Construction of Public Toilet  Ward No 06 in Kalakad Municipality.",
-        "3. Comprehensive Annual Maintenance for DG Genset At CPS  RV Nagar(Div-139),  CHSS Govinda"
+        "1. IPt Am Ele various building",
+        "2. Replacing of Damaged  Manhole Doors and Silt Catch Pits at various Streets in Division-",
+        "3. Construction of Bath Tub at Ward No 08 in  Kalakad Municipality."
       ]
     },
     {
@@ -86,7 +82,7 @@
       "sample_titles": [
         "1. Construction of New Shed for Finish Goods Store of PAGREXCO Distt Hoshiarpur",
         "2. Construction of Scarp Shed in Plant of PAGREXCO Distt Hoshiarpur",
-        "3. Outsourcing of Labour Part for Erection, Testing Commissioning of New 11KVLT/HTLines on"
+        "3. Laying of underground pipeline"
       ]
     },
     {
@@ -96,8 +92,8 @@
       "status": "ok",
       "sample_titles": [
         "1. stone mansonary boundary wall 885 metre",
-        "2. Providing and installing of Cast Iron Bench in different Parks of Sector 37, Ahoka Encl",
-        "3. Providing and installing of Multi Play Station in Park near H.no 659, Ram Park, sector "
+        "2. Estimate for Construction of Boundary Wall and Grassing in Front of House No. 1939, Sec",
+        "3. Name of Work- Bugana Opera..."
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Precast RCC Box Cell Bridge Over Danro River Including 80 m PCC Approac",
-        "2. CONSTRUCTION OF 6 NOS. ACR (3 GF 3 FF) CLASSROOM   IN ST RESIDENTIAL HIGH SCHOOL, KISKO",
-        "3. Construction of Teacher Staff Quarter (G2) in ST Residential  High School Kisko, Lohard"
+        "1. CONSTRUCTION OF 6 NOS. ACR (3 GF 3 FF) CLASSROOM   IN ST RESIDENTIAL HIGH SCHOOL, KISKO",
+        "2. Construction of Precast RCC Box Cell Bridge Over Danro River Including 80 m PCC Approac",
+        "3. EE/RDSD/LATEHAR/30/2026-27 (2nd call)"
       ]
     },
     {
@@ -129,8 +125,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Lot No. 12/2027-28 Kullu RA Haripur society to 15 mile",
-        "2. Construction of Forest Guard Hut at Matehal in Kamand Beat, of Karsog Block of Karsog R",
-        "3. Lot No 2026-27 Dangerous to life and property Rumsu Beat"
+        "2. Repair and Maintenance of Water Supply Scheme Gondpur Jai Chand in Tehsil Haroli Distt.",
+        "3. Lot No. 3/2027-28 Seraj RA Khabal To Khatal"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x74ef21fdc910>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7bf56aa16010>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 110kV Substation Cherupuzha- Extension of control                                      ",
-        "2. Annual Plan-163/2026-27-Variam veedu Ashari colony KT Thazham Punathil near by Road Rep",
-        "3. NALLEPILLY G P P R OP30 T H O D A M P P A L L A M R O A D RENOVATION"
+        "1. Annual Plan-163/2026-27-Variam veedu Ashari colony KT Thazham Punathil near by Road Rep",
+        "2. 110kV Substation Cherupuzha- Extension of control                                      ",
+        "3. RETENDER- TOILET MAINTENANCE AT PANCHAYATH OFFICE -IN KUMMIL GP PROJ NO 273/25-26"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of irrigation channel near H/o Gh Nabi Dar and others at Akhal",
-        "2. Fencing of graveyard Phase-II near Jamia Masjid Monghama",
-        "3. Construction of borewell at Mukdoomi Colony Qasbayar"
+        "1. Construction of Drain from Masjid Sharief Ganie Mohalla Drabgam Payan.",
+        "2. Construction of culvert near H/o Ab Qayoom Nengroo near Grid Station Mitrigam",
+        "3. Construction of Dandi NLO Ismail Lone at Kulpora"
       ]
     }
   ],
