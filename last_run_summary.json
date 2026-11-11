@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-11-10 21:12:53",
+  "checked_at_utc": "2026-11-11 04:37:58",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. supply and installation of 06 Nos 02 ton AC",
+        "2. Laying of underground cables, illumination and internal electrification wherever requir",
+        "3. Drilling of New Boreholes and Making Arrangements for Rock Mechanics Investigations, In"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special repair of Hajipur Bundki road to village Sikandarpur road",
-        "2. Coverd RCC Drain Construction Work",
-        "3. DSP SELECTION UNDER CSC 4.0 VARANASI DISTRICT"
+        "1. Retender Lot No 13 Silt Clearance",
+        "2. Special Repair of LB Road Km-487 to Jashanpur Barenda Nahar Culvert Via Nagla Jaaju Lin",
+        "3. Special Repair of Kurriyakalan to Linthra Link Road"
       ]
     },
     {
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROVIDING AND INSTALLATION OF 1 HP SOLAR BASED DUAL PUMP ON EXISTING BOARE WELL/WELL AT",
-        "2. Supply of Various Types Construction Material",
-        "3. Providing And Installation Of 1HP Solar based Dual Pump"
+        "1. sale of land total area out of 0.32 R land gut. No. 836 the whole land sale of Agricult",
+        "2. SUPPLYING MATERIAL OF FHTC CONECTION AT KARANDI KHEBA TAL BHOR",
+        "3. Providing Material For 1. Constructing Road at MDR 08 Kokangaon to Ingle Wasti Road VR "
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Purane Disha Nirdesh Boardon par painting ka kary.",
-        "2. Kayad Vishram Sthali par Asthayi Shochalaye lagane ka kary.",
-        "3. Crane kiraye par aapurti ka kary."
+        "1. Repair and Maintenance Work in ADR Building Ajmer",
+        "2. Repair and Maintenance Work at Sub Treasury Merta City Nagaur",
+        "3. RATE CONTRACT SUPPLY OF SANITARY MATERIALS IN RESIDENTIAL and NON RESIDENTIAL BUILDING "
       ]
     },
     {
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Dismantling, Site Clearance Upto Ground Level And Dispose of 29 NOS. Aaganwadi Centres ",
-        "2. Dismantling, Site Clearance Upto Ground Level And Dispose of 49 NOS. Aaganwadi Centres ",
-        "3. Installation of solar system"
+        "1. Invitation for e-Tenders by the Office of the Municipal Council, Harda (M.P.), to empan",
+        "2. ASPHALTIC ROAD AT DHANMANDI ROAD   POLYTECHNIC CHOURAHA TO COLONY INDIRA COLONY MAIN RO",
+        "3. For purchasing dresses for employees for the financial year 2026-27"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Delivery and Installation of Gymnasium Equipment /Articles for 26 Police Statio",
-        "2. Supply, Delivery and Installation of Gymnasium Equipment /Articles for District Police ",
-        "3. BIENNIAL MAINTENANCE CONTRACT TO CARRY OUT MAINTENANCE JOB OF AC MACHINES INCLUDING SUP"
+        "1. 04-TN/EE/PANDD/25-26/02",
+        "2. 04-TN/EE/PANDD/25-26/07",
+        "3. 04-TN/EE/PANDD/25-26/06"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. IPt Am Ele various building",
-        "2. Replacing of Damaged  Manhole Doors and Silt Catch Pits at various Streets in Division-",
-        "3. Construction of Bath Tub at Ward No 08 in  Kalakad Municipality."
+        "1. Provision of EI arrangements to the Yoganaturopathy Building at Kulithalai in Karur Dis",
+        "2. Provision of Internal and External Electrical arrangements to the One Class Room under ",
+        "3. Provision of Ceiling Fan to the Auditorium Block and Students Study Hall in Government "
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of New Shed for Finish Goods Store of PAGREXCO Distt Hoshiarpur",
-        "2. Construction of Scarp Shed in Plant of PAGREXCO Distt Hoshiarpur",
-        "3. Laying of underground pipeline"
+        "1. Supply, Installation, Configuration, Testing, Commissioning and Comprehensive support o",
+        "2. PROVIDING REFRESHMENT TO DAY SCHOLAR PLAYERS OF BATHINDA",
+        "3. Construction of Boundary wall and other civil works at NP Land near Gandhi Nagar at NP "
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. stone mansonary boundary wall 885 metre",
-        "2. Estimate for Construction of Boundary Wall and Grassing in Front of House No. 1939, Sec",
-        "3. Name of Work- Bugana Opera..."
+        "1. Renovation of Saket College of Physiotherapy, Chandi mandir Panchkula (Pdg. LAN, EPABX ",
+        "2. PAPOSA -Upgradation of w/s...",
+        "3. Construction of structure/foundation for Sh.Atal Bihari Vajpayee Ji Statue under CM Ann"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of PWD road (Kendeiposi) to Khajuraposi road with construction of bridge (",
-        "2.  Construction of 100 seated Girls Hostel at Sunabeda Womens Degree College Building Dis",
-        "3. Construction of Godabarisha Mishra Adarsh Prathamik Vidyalaya at Sikaramaha UGHSS, Taju"
+        "1. Construction of Talaksahi Check Dam near village Kukuda Anda of Sankhabhanga G.P. in Sa",
+        "2. mprovement to Jambani MIP Res. in Saraskana Block of Mayurbhanj District under Impt. to",
+        "3. Improvement to Kasipani MIP DW at Kasipani in Bisoi Block of Mayurbhanj District under "
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF 6 NOS. ACR (3 GF 3 FF) CLASSROOM   IN ST RESIDENTIAL HIGH SCHOOL, KISKO",
-        "2. Construction of Precast RCC Box Cell Bridge Over Danro River Including 80 m PCC Approac",
-        "3. EE/RDSD/LATEHAR/30/2026-27 (2nd call)"
+        "1. CONSTRUCTION OF BOUNDRY WALL M.S MATHURAPUR IN  VILLAGE-MATHURAPUR, G.P.-GHORI GHAT, BL",
+        "2. CONSTRUCTION OF BOUNDRY WALL AT UPG MS  MASILAUNG(CODE-20030605301) AND KGBV TANDWA IN ",
+        "3. 1CONST. OF BOUNDRY WALL AT UPG TETARWAR,2CONST. OF BOUNDRY WALL AT UPG MS MANGARA,3CONS"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Lot No. 12/2027-28 Kullu RA Haripur society to 15 mile",
-        "2. Repair and Maintenance of Water Supply Scheme Gondpur Jai Chand in Tehsil Haroli Distt.",
-        "3. Lot No. 3/2027-28 Seraj RA Khabal To Khatal"
+        "1. R.R damages on link road from Nigulsari to Tranda 0.0 to 5.555.SH.C.O Cause way at RD 3",
+        "2. Restoration of Rain Damages of various roads under HPPWD Sub Division Kangra Under Head",
+        "3. R R damages on link road Ponda to Bari km 0.0 to 5.200. SH. C.O  R.wall  at RD 4.380 to"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7bf56aa16010>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x73451af952d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Sports Equipment for Archery and Boxing",
-        "2. Construction  of  Bankal-Path  IS,  LIS  from River    Diyung    at   Diyungbra    area",
-        "3. Integrated Kamalpur ELIS (5 Pts.) under SOPD-G for the 2026-27 Rangia- Kamalpur Divisio"
+        "1. Supply of 01 (one) no. of New Cartridge Assembly for KSB Limited make Condensate Extrac",
+        "2.  Deployment of manpower for Three (03) Years for assistance in Implementation of transm",
+        "3. Procurement of Sports Equipment for Archery and Boxing"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan-163/2026-27-Variam veedu Ashari colony KT Thazham Punathil near by Road Rep",
-        "2. 110kV Substation Cherupuzha- Extension of control                                      ",
-        "3. RETENDER- TOILET MAINTENANCE AT PANCHAYATH OFFICE -IN KUMMIL GP PROJ NO 273/25-26"
+        "1. Annual Plan-2026-27 NILAMBUR BP PRO.NO. 95/27-CHEMBRA ST NAGAR SAMAGRAVIKASANAM IN POTH",
+        "2. Annual Plan-2026-27 NILAMBUR BP PRO.NO.92/27-KAMBALAKKALLU MUKKILALAPPALI MAMANKARA LP ",
+        "3. AYAKKONAM - LAND SLIDE AREA STABILIZATION SCHEME (Phase  1)"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Drain from Masjid Sharief Ganie Mohalla Drabgam Payan.",
-        "2. Construction of culvert near H/o Ab Qayoom Nengroo near Grid Station Mitrigam",
-        "3. Construction of Dandi NLO Ismail Lone at Kulpora"
+        "1. Construction of Toilets at Receiving Stations 1X10 MVA 66/11 KV Nanan in respect of Sub",
+        "2. Fabrication Supply Installation and Fixing of Wire Mesh Fencing on Nallahs and Culverts",
+        "3. RATE CONTRACT FOR HIRING OF VEHICLE"
       ]
     }
   ],
