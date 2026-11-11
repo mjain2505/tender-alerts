@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-11 13:31:43",
+  "checked_at_utc": "2026-11-11 21:44:50",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -8,8 +8,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Special Repair Works of road from Km 148.150 to 149.450 Holalkere Town Limits of NH-173",
-        "2. Tender for Deployment of Security Manpower at HFL Factory Land, Rudraram",
-        "3. Supply and Installation of Critical Point Dryer at IIT Bhilai"
+        "2. Supply and Installation of Critical Point Dryer at IIT Bhilai",
+        "3. Tender for Deployment of Security Manpower at HFL Factory Land, Rudraram"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. supplying  nal saman for municipal water supply department",
-        "2. AMC of water department work",
-        "3.  e Tender Notice No 14 For 2026-27"
+        "1. AMC of water department work",
+        "2. supplying  nal saman for municipal water supply department",
+        "3. e Tender Notice No 3 For 2026-27"
       ]
     },
     {
@@ -48,13 +48,9 @@
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1.  \tArrangement of flex, banners, hoardings in Shri Shri 1008 Baba Mathardev Maharaj Mela",
-        "2. Rates for supply of souvenirs to the employees involved in various programs and executi",
-        "3. Construction of Balance work of Narayanpura Minor and sub Minor of Pawai Medium Project"
-      ]
+      "tenders_seen": 0,
+      "status": "503 Server Error: Service Unavailable for url: https://mptenders.gov.in/nicgep/app",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Notice Inviting Tender for the job of Comprehensive Occupational Health Checkup of 2200",
-        "2. Supply, Delivery and Installation of Gymnasium Equipment /Articles for District Police ",
-        "3. Supply, Delivery and Installation of Gymnasium Equipment /Articles for 10 Police Statio"
+        "1. Supply, Delivery and Installation of Gymnasium Equipment /Articles for 10 Police Statio",
+        "2. Notice Inviting Tender for the job of Comprehensive Occupational Health Checkup of 2200",
+        "3. Supply, Delivery and Installation of Gymnasium Equipment /Articles for District Police "
       ]
     },
     {
@@ -74,8 +70,8 @@
       "status": "ok",
       "sample_titles": [
         "1. NCTPS I SE MI circle Boiler Maintenance Division Annual Overhaul work for the year 26 2",
-        "2. NCTPS I SE MI circle Boiler Maintenance Division Annual Overhaul work for the year 26 2",
-        "3. Koliyanur/MPLADS 2026-27/Veliyampakam"
+        "2. Koliyanur/MPLADS 2026-27/Thogaipadi",
+        "3.  Supply and installation of  GPS Tracking  Device  for  Solid waste management Vehicles"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF DHARMSHALA HALL IN JAI JAWAN COLONY WARD NO. 54 Est Cost Rs. 9.25 lacs ",
-        "2. Laying Shed and other infrastructure in Ravidass Dharamshala ward no.41 Est Cost Rs. 09",
-        "3. Renovation of Chotta Arai Majra Dharamshala Ward no.36 Est Cost Rs. 09.00 lacs dt 19/20"
+        "1. Repair and renovation of Dhanka mohalla ward no. 51  Est Cost Rs. 8.00 lacs dt 19/20.11",
+        "2. Renovation of Prajapati Dharamshala ward no. 47 Est Cost Rs. 05.00 lacs dt 19/20.11.202",
+        "3. RECARPETING OF ROADS IN PUNCHMUKHI MANDIR STREET WARD-16 Est Cost Rs. 3.92 lacs dt 19/2"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Bir Baraktabad DNIT for construction of Boosting Station i.e. CLEAR WATER TANK 1 no. 9.",
-        "2. DNIT for Providing LPIC Drain Pipe Video Pipe Inspection Self leveling Camera System wi",
-        "3. Nuna Majra DNIT for Const. of 1.00 MLD WTP at W.W. Nuna Majra, repair of existing pump "
+        "1. Lowa Khurd DNIT for laying of 100mm i/ D.I. pipe balance,in place of damaged,irreparabl",
+        "2. Nuna Majra DNIT for Const. of 1.00 MLD WTP at W.W. Nuna Majra, repair of existing pump ",
+        "3. DNIT for Providing LPIC Drain Pipe Video Pipe Inspection Self leveling Camera System wi"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Cluster for 1.Constn. of  Police Station Bldg. at Bansada, Bhadrak (Rural PS) and 2.Con",
-        "2. Improvement of Tusura PWD Road to Kharda via Nagaon Colony (ODR) from 0/00 KM to 1/807 ",
-        "3. Provision for Urban Sewerage System at Khariar Road for the financial Year 2026-27"
+        "1. Construction of SP, Special Branch Post at Boudh",
+        "2. Construction of 18 Nos. E type Qtrs. at 5th IR Bn., Boudh",
+        "3. Construction of 200 Men Barrack at BTI, Burla, Sambalpur"
       ]
     },
     {
@@ -128,8 +124,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/R damages on  various roads under HP.PWD Sub Division  Dilman under HP.PWD Division S",
-        "2. R/R damages on Maryog Narag Dharyar road Km 0/0 to 38/200  (SH- C/O PCC  R/wall at Rd 1",
+        "1. R/R damages on Maryog Narag Dharyar road Km 0/0 to 38/200  (SH- C/O PCC  R/wall at Rd 1",
+        "2. R/R damages on  various roads under HP.PWD Sub Division  Dilman under HP.PWD Division S",
         "3. R/R damages on Maryog Narag Dharyar road Km 0/0 to 38/200  (SH- C/O PCC  R/wall at Rd 6"
       ]
     },
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7c69df8bd7d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x798e679f6050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -169,8 +165,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Tender 164/27 MUTHUKULAM GP - Maintenance of Apsaras Jn. - Kottur Jn. road, Ward 5",
-        "2. Annual Plan-Project No- 409-27 Ambedkar Sanketham road rennovation in Muthalamada GP Wa",
-        "3. Annual Plan-Project No 326-27 Para Eripadam road maintenance in Muthalamada GP ward No "
+        "2. Annual Plan-Project No- 189-27 NILAMPATHI MUTHAL PARAKULAMBU VARE ROAD MAINTENANCE IN M",
+        "3. Annual Plan-Project No 360-27 AMBEDKAR COLONY DRAINAGE CONSTRUCTION IN MUTHALAMADA GP W"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of an Irrigation Borewell near the land of Sh Sheikh Suhail and others at ",
-        "2. Installation of Borewell NLO Fayaz Ahmad Khan and others at Newa",
-        "3. RDDDC2627105148-CO DRAIN FROM HO MOHD AMIN KHAN TO MASJID SHARIF AT NARBAL BLOCK NEWA"
+        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  CG DHAR",
+        "2. FINDC2627101829 (CONSTRUCTION OF IRRIGATION CHANNEL FROM LO ALI MOHD. SHEIKH NIYAZ AHMA",
+        "3. Installation of Borewell at Koil near CRPF Alpha 182 BN."
       ]
     }
   ],
