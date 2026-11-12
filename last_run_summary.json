@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-11 21:44:50",
+  "checked_at_utc": "2026-11-12 05:41:29",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,9 +7,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Special Repair Works of road from Km 148.150 to 149.450 Holalkere Town Limits of NH-173",
-        "2. Supply and Installation of Critical Point Dryer at IIT Bhilai",
-        "3. Tender for Deployment of Security Manpower at HFL Factory Land, Rudraram"
+        "1. INVITATION TO PRE-TENDER MEET MACHINE ASSET MANAGEMENT AND ANALYSIS SYSTEM FOR BPCL, BI",
+        "2. Short Term Maintenance contract STMC Estimate from km. 109660 to km 162700 km 178400 to",
+        "3. REPAIR AND IMPROVEMENT AND ESTABLISHMENT OF TOILET BLOCK NEAR ADM BLOCK OF 1055 ARTY HQ"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/M of Link road From Dhakiya chaurahe centre bagh to chediya purab harish chandra hous",
-        "2. R/M of Link road From Sumernagar to main road (L-1.20KM)",
-        "3. Connecting road from km 17 of the Ahda Birsinghpur Diyara Lambhua road Major District R"
+        "1. Special repair of Bondra to Lalyana road",
+        "2. Construction of 2x2 Box culvert Kharkhali Link road branching off from the right side a",
+        "3. Construction of a road and drain using cement concrete (CC) in the lane near Rajesh pla"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AMC of water department work",
-        "2. supplying  nal saman for municipal water supply department",
-        "3. e Tender Notice No 3 For 2026-27"
+        "1. Repairs to Malegaon Nasarapur K.T. Weir on  Shivganga river Tal. Bhor Dist. Pune",
+        "2. Construction of a protective Compound  Wall  around  the  Water  Resources  Department ",
+        "3. Providing and constructing new escape gate At km 62.380 on PRBC. (UEE)"
       ]
     },
     {
@@ -40,17 +40,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. E-NIT No. 05/2026-27/Stationery Samagri",
-        "2. E-NIT No. 73/2026-27/Nirman w11",
-        "3. Road Repair work on Jaipur Bhilwara Road (SH 12) Km. 0/00 to 72/00"
+        "1. Upgradation of 10 Bedded Aayush Hospital Work (PHASE-III) at Behror Distt Kotputli-Behr",
+        "2. Repair Work of Govt. Savitri Bai Phule ST Girls Hostel, Kishangarh Bass Distt Khairthal",
+        "3. Upgradation of 10 Bedded Ayush Hospital Work (Phase-II) at Ramgarh, District Alwar."
       ]
     },
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 0,
-      "status": "503 Server Error: Service Unavailable for url: https://mptenders.gov.in/nicgep/app",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Construction of Anganwadi Building at ward no 03 bagli",
+        "2. Solar Off Grid",
+        "3. Inviting rate for given on rent Samudayak Bhavan at ward no 01 (IInd Call)"
+      ]
     },
     {
       "name": "West Bengal",
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Delivery and Installation of Gymnasium Equipment /Articles for 10 Police Statio",
-        "2. Notice Inviting Tender for the job of Comprehensive Occupational Health Checkup of 2200",
-        "3. Supply, Delivery and Installation of Gymnasium Equipment /Articles for District Police "
+        "1. Procurement of Motor Bearings(Super-critical category) for Stage 1 (2X300MW) under AHP,",
+        "2. Procurement of Motor Bearings(Rest category) for Stage 1 (2X300MW) under AHP, SgTPP.",
+        "3. Procurement of Motor Bearings(Critical category) for Stage 1 (2X300MW) under AHPEM, SgT"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NCTPS I SE MI circle Boiler Maintenance Division Annual Overhaul work for the year 26 2",
-        "2. Koliyanur/MPLADS 2026-27/Thogaipadi",
-        "3.  Supply and installation of  GPS Tracking  Device  for  Solid waste management Vehicles"
+        "1. Provision of Lights, Fittings, Fans and Plug Points to the  GHS Bommiampatty,GHS Deevat",
+        "2. Renewal of  Electrical Installations, Fittings,Fans and Plug Points to the GBHSS Thamma",
+        "3. NCTPS I SE MI circle Mill Plant Maintenance Division Annual Overhaul work for the year "
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair and renovation of Dhanka mohalla ward no. 51  Est Cost Rs. 8.00 lacs dt 19/20.11",
-        "2. Renovation of Prajapati Dharamshala ward no. 47 Est Cost Rs. 05.00 lacs dt 19/20.11.202",
-        "3. RECARPETING OF ROADS IN PUNCHMUKHI MANDIR STREET WARD-16 Est Cost Rs. 3.92 lacs dt 19/2"
+        "1. PROVINDING AND LAYING PREMIX CARPETING WITH SDBC ON STREET NO.13 and 14 OLD BISHAN NAGA",
+        "2. P/F water coller kanchiyan chowk in MC Bareta",
+        "3. P/F Street light Point in various Places in MC Bareta"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Lowa Khurd DNIT for laying of 100mm i/ D.I. pipe balance,in place of damaged,irreparabl",
-        "2. Nuna Majra DNIT for Const. of 1.00 MLD WTP at W.W. Nuna Majra, repair of existing pump ",
-        "3. DNIT for Providing LPIC Drain Pipe Video Pipe Inspection Self leveling Camera System wi"
+        "1. Estimate for Providing and laying 600mm dia. RCC NP-3 sewer line and making connection ",
+        "2. Ellenabad Town - Providing...",
+        "3. Sirsa Town- Operation and ..."
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of SP, Special Branch Post at Boudh",
-        "2. Construction of 18 Nos. E type Qtrs. at 5th IR Bn., Boudh",
-        "3. Construction of 200 Men Barrack at BTI, Burla, Sambalpur"
+        "1. (29) Improvement to service road of Tie-Bandha from RD 00 to RD 1.500Km",
+        "2. (28) Improvement to service embankment of Malipur Gherry",
+        "3. Protection to scoured bank on Mahanadi right near village upper Bhadimula"
       ]
     },
     {
@@ -113,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation and Beautification of Park Near Sitarampur Dam under Adityapur Municipal Com",
-        "2. Procurement of Thermovision Camera with Calibration and Servicing for the Period of 03 ",
-        "3. TESTING EQUIPMENTS"
+        "1. Special Repair work of  old  existing bridges/culverts (Bridge on Akto River of Telaiya",
+        "2. CONSTRUCTION OF R.C.C. DRAIN IN BETWEEN TRIBLE CULTURAL CENTRE AND CHIYANKI PARK BOUNDA",
+        "3. CONSTRUCTION OF COVERED NALA FROM USHA NAG HOUSE VIA AMIT TIWARI HOUSE TO TALAB AT VILL"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/R damages on Maryog Narag Dharyar road Km 0/0 to 38/200  (SH- C/O PCC  R/wall at Rd 1",
-        "2. R/R damages on  various roads under HP.PWD Sub Division  Dilman under HP.PWD Division S",
-        "3. R/R damages on Maryog Narag Dharyar road Km 0/0 to 38/200  (SH- C/O PCC  R/wall at Rd 6"
+        "1. E tender for the procurement of ND YAG Laser Department of Ophthalmology at DYSPGMC",
+        "2. C o path from  Smt Shakuntala  Devi House to Near  Smt. Sardarao House  no 8  NP Amb Ph",
+        "3. Repair of path in ward no 2 Devi Mandir from the main road Hamirpur to near house of Sh"
       ]
     },
     {
@@ -135,16 +139,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of  Stationery items  Computer Stationery  Consumable  etc for day to day  opera",
-        "2. web streaming through IP based webcams and also for GPS GPRS tracking of vehicles as pe",
-        "3. Construction of Govind Mandir/Dharmshala in Vill Rambagh, Mashit Mandir/Dharmshala in V"
+        "1. Printing of various types of forms for use by the District Election Office and at polli",
+        "2. Supply of various types of stationery toner cartridges etc. for use by the District Ele",
+        "3. Arrangements for tents, furniture, lighting, sound and barricading etc. are made from t"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x798e679f6050>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7193ae0f86d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -153,9 +157,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. EOI for Engagement of Agency/NGO/SHG for Salary Disbursement and Manpower Support Servi",
-        "2. Development of Rupamoni Bathou Thansali at Ransaidham, Basugaon, in Chirang District, B",
-        "3. Construction of Siddu Kanhu Murmu Memorial Community Hall at Amguri, (Phase-I), Distric"
+        "1. Defect correction in Construction of Road from Alengi Chungi to Dhodar Ali including Cr",
+        "2. Vertical extension of floor lift duct and staircase block upto 4th floor from the floor",
+        "3. Non Sparking Tools"
       ]
     },
     {
@@ -164,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Tender 164/27 MUTHUKULAM GP - Maintenance of Apsaras Jn. - Kottur Jn. road, Ward 5",
-        "2. Annual Plan-Project No- 189-27 NILAMPATHI MUTHAL PARAKULAMBU VARE ROAD MAINTENANCE IN M",
-        "3. Annual Plan-Project No 360-27 AMBEDKAR COLONY DRAINAGE CONSTRUCTION IN MUTHALAMADA GP W"
+        "1. Purchase of Thermal Imaging Camera for 220 kV Substation Edamon",
+        "2. Annual Plan-Annual Plan 2026-27 Renovation of Pa  nchayath meeting hall Pr.No.86/2026-2",
+        "3. KAVU ROAD RETARRING"
       ]
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Procurement of Key Materials for VB-G RAM G Works for Panchayat Halqa  CG DHAR",
-        "2. FINDC2627101829 (CONSTRUCTION OF IRRIGATION CHANNEL FROM LO ALI MOHD. SHEIKH NIYAZ AHMA",
-        "3. Installation of Borewell at Koil near CRPF Alpha 182 BN."
+        "1. T BATHROOM W NO 7 ANWAR MOHALLA",
+        "2. DEVELOPMENT OF LAND  LEVELLING WITH PROTECTION  WALL NEAR LAND OF LATE HAJI  SHAFI HALQ",
+        "3. TRACTOR ROAD FROM PEO  MANYALAN ROAD TO MOHRA  JABRA UPTO THE HOUSE OF  MOHD IQBAL W NO"
       ]
     }
   ],
