@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-14 04:51:43",
+  "checked_at_utc": "2026-11-14 12:57:48",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Static water tank at FSD Betul.",
-        "2. C/O Log Bridge for LRP/SRP in AOR of 48th Bn ITB Police Katihar, located in East Sikkim",
-        "3. Providing Static water tank at FSD Harpalpur."
+        "1. Maintenance of Hari Nagar Sports Complex, DDA.",
+        "2. FIRST-TIME Exporter Handholding, Pre-Shipment and Post-Shipment Facilitation",
+        "3. CONSTRUCTION OF SWABHIMAN BHAVAN AT GGV  CAMPUS, BILASPUR (C.G.)"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1.  Precast boundary wall work for the protection of Municipal land plot Gata number 1596 ",
-        "2. CONSTRUCTION OF STP PLANT AT PILIBHIT MEDICAL COLLEGE DISTRICT- PILIBHIT (U.P.)",
-        "3. Construction of a connecting road in Katari Basti in Visahar village of Karma developme"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Underground Drainage Line At Wadner Tanda Under 15th Finance Commission G P Level 2025 ",
-        "2. Underground Drainage Line At Wadner Tanda Under 15th Finance Commission G P Level 2023 ",
-        "3. (99959) Reinstatement of trenches excavated by various agencies in Belapur ward in Navi"
+        "1. Construction of ZP School One Class Room at Umbarkon Tal Igatpuri Dist Nashik",
+        "2. Construction of ZP School One Class Room at daundat Tal Igatpuri Dist Nashik",
+        "3. Improvement to Kayare to Rajbari Road Km 0.00 to 1.00 Tal Peth Dist Nashik"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. BID Invitation for hiring of godown on lease at Bikaner district headquater.",
-        "2. BID Invitation for hiring of godown on lease at Ajmer Makhupura district headquater.",
-        "3. BID Invitation for hiring of godown on lease at Udaipur Balicha  district headquater."
+        "1. PRINTING WORK",
+        "2. Supply of Cattle Feed Raw Material Items for RM-845",
+        "3. Division Office Maitenance Work"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Annual Comprehensive and Maint. of 1No Orbis Ambulance Lift for 3Yrs at MY Ho",
-        "2. Providing Annual Comprehensive Maint. of 04 No Lift at New OPD Building, M.Y. Hospital ",
-        "3. HIRING OF VEHICLE"
+        "1. Repairing work of 2000 MT Godown, Construction of Toilet Block, Borewell and CC Road An",
+        "2. Renovation/Repairing work of 1165 MT Godown No.07, 1165 MT Godown No.08, Construction o",
+        "3. Construction Work of CC Approch Road for 1000 MT Godown of Markfed Storage Center at Bh"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Boundary Fencing for Dry Solvent Injection System (DSI) Project, KTPS.",
-        "2. Rate contract for Procurement of 18 (Eighteen) items of Lubricants on emergency basis u",
-        "3. Rectification and Replacement of damaged Expansion Joint of Penstock Pipe just behind t"
+        "1. WB-19/TN/ED/EOB/26-27/07",
+        "2. WB-20/TN/ED/EOB/26-27/02",
+        "3. WB-19/TN/ED/EOB/26-27/06"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ARAKKONAM MUNICIPALITY- POT HOLES",
-        "2. Supply of LCVs Tipper Hire basis Including of Driver Maintenance Fuel and Lubricants fo",
-        "3. Special Repairs to damaged flooring and painting arrangements in Government Boys Higher"
+        "1. General Fund 2026 - 27 Annual Maintenance of Water supply Pumpsets in Aralvoimozhi Town",
+        "2. CMIUDM 2026-2027 in Balasamudram Town Panchayat",
+        "3. General Fund 2026 27 Restoration of Pot holes and Patches  at ward no  1 to 15 Area in "
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and erection of Sugar bins",
-        "2. Laying Sewerline at Ram Janki Mandir Rattan Nagar under Ward  61",
-        "3. Laying Sewerline near Disposal Surgical Complex including Repair of Disposal under Ward"
+        "1. Bio remediation of Legacy Waste of Khanna",
+        "2. 2 nos. Vehicle truck mounted transformer  oil tanker capacity 30kl with six compartment",
+        "3. E-TENDER FOR ENGAGEMENT OF OUTSOURCING AGENCY TO PROVIDE MANPOWER FOR CARRYING OUT AADH"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Running and Maintenance of Lawn Tennis and Badminton Hall in GymKhana Club Sector 17-A ",
-        "2. Hiring of agency for Providing of Taxies Commercial Vehicles on daily need and rent bas",
-        "3. Tile trassing on 3 rd floor of Zila yuva shakti sangathan in shalimar estate Mc Naraing"
+        "1. JOBNO.HSVP/AMB/2026-27/E-771",
+        "2. Providing and laying sewer line in Shivaji colony of Ward no.16, M.C. Karnal. (Only for",
+        "3. Job No. 84. A/mtc of L/s work in Sector..."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KID-303-Protection to scoured bank on Paika left embankment from RD 3.50 Km to 3.565 Km",
-        "2. Construction of New Subcentre building at Gundri in the District of Kalahandi .",
-        "3. KID-304-Protection to scoured bank on Chitrotpala right embankment near village Talasan"
+        "1. Construction of 100 seated ST Girls Hostel at Krushnapur (SSD) Girls High School in Tel",
+        "2. Construction of 100 seated ST Boys Hostel at Jagannathpur (B) Ashram School in Kendujha",
+        "3. Construction of 100 seated ST Girls Hostel at Chilida (SSD) Girls High School in Patna "
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repair at Arvind middle school kalyan gurukul Hostel Building Patratu in Ramgarh Distri",
-        "2. Construction of P.C.C Road from Main Road to Salim Khan House in ward No 01(One) in Fir",
-        "3. Construction of New RCC cover drain From H/O Late KM Jha to H/O Mahadev Saw Anandpuri i"
+        "1. 321/PR/JBVNL/26-27",
+        "2. Rejuvination/Development of Pandu Talab under Municipal Corporation, Hazaribag",
+        "3. 322/PR/JBVNL/26-27"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Prov., Fixing of new 22/11 kV GO Switch and Replacement of Existing 22/11 kV GO Switch ",
-        "2. Lot No 60/2026-27/Chil/HMR",
-        "3. Lot No 48/2026-27/Chil/Khair/HMR"
+        "1. A/R and M/O on Mashobra to Cragnano Road Km. 0/00 to 4/420",
+        "2. A/R and M/O  on Baldeyan to Shenal road Km 0/0000 to 4/220",
+        "3. A/R and M/O on Bangapani to Chatog Road Km. 0/00 to 3/00"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Seed Prodction and Marketing in Bihar",
-        "2. Renovation of 5 KW Off Grid Solar PV power Plants  at various places of  Distt. Almora ",
-        "3. Renewal and  reconstruction work on the Dhung se Dhung-Khabogi motor road, from km 0.01"
+        "1. Selection of Implementing Agency for Sanitation Monitoring System for Nagar Nigam Harid",
+        "2. EDC(R)-87/2026-27",
+        "3. EDC(R)-86/2026-27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x722de071d190>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x75a061b27490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of ICBP road from Umananda Kawaimari road near Leka Boro house to Railway ",
-        "2. Third Party Monitoring and Quality Control for the Work Construction of ROB near Hawaip",
-        "3. Hiring of Services for Supply of Manpower"
+        "1. Development of Goreswar Fish Seed Farm at No.1 Goreswar(Mangal Chowk) in Tamulpur Distr",
+        "2. Construction of District Fishery Training Centre at Tamulpur District.",
+        "3. Development of Poduguri Fish Seed Farm in Udalguri District"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. LAC-ADS-MLA ADF-2025-26- Improvements to Velimuttam kalari Temple Road in Punnapra Sout",
-        "2. Plan 2026 27 Chelannur BP Pro No 73 CHC Thalakkulathur Attakutta panikal",
-        "3. GENERAL- Annual Plan-PNR BLK 2026-27 Pro No. 228/27- Maintenence works Basic facility d"
+        "1. SALE OF 5,000MT OVERBURDEN DUST AT MINE SITE OF MALABAR CEMENTS LIMITED,WALAYAR",
+        "2. The security service by deploying security personnel on piece rate, principal to princi",
+        "3. MLGP 167 27 Community Hall Maintenence in Ward No11 of Malayalapuzha Grama Panchayath u"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Lane at Khwajapora Syedpora Rainawari from house of Mohammad Shafi Shah",
-        "2. Fixation of rate contract for supply of Key Construction Material for various works of ",
-        "3. Restoration maintenance of Road from Samote to Targain L4.50 kms, Road from Kewal Morh "
+        "1. ESTABLISHMENT/ IMPROVEMENT OF PYT GHAR ALIED ITEMS AT GONIPORA (HALQA GONIPORA, BLOCK K",
+        "2. Construction of Fire and Emergency Station M.R Gunj Srinagar.",
+        "3. Construction of Community Compost Pit at Ganie Mohalla Repora-A  Block Lar SBM"
       ]
     }
   ],
