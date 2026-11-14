@@ -1,23 +1,23 @@
 {
-  "checked_at_utc": "2026-11-14 12:57:48",
+  "checked_at_utc": "2026-11-14 19:42:33",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Maintenance of Hari Nagar Sports Complex, DDA.",
-        "2. FIRST-TIME Exporter Handholding, Pre-Shipment and Post-Shipment Facilitation",
-        "3. CONSTRUCTION OF SWABHIMAN BHAVAN AT GGV  CAMPUS, BILASPUR (C.G.)"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for SHIVANSH SIDDHARTHNAGAR AGRI",
+        "2. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for LAXMI GROUP OF INDUSTRISE, D",
+        "3. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for PRISHA INTERPRISES, DISTRICT"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of ZP School One Class Room at Umbarkon Tal Igatpuri Dist Nashik",
-        "2. Construction of ZP School One Class Room at daundat Tal Igatpuri Dist Nashik",
-        "3. Improvement to Kayare to Rajbari Road Km 0.00 to 1.00 Tal Peth Dist Nashik"
+        "1. Removing grass bushes, debris, repairs and other development of 200 bedded hospital bui",
+        "2. Construction of Police Station Cum SDPO Office and Traffic Branch Building at Gandhi Ch",
+        "3. Repairs To Water Supply Scheme At.Ukalipen Tq Washim Dt Washim Under Fifteen Finance Co"
       ]
     },
     {
@@ -36,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PRINTING WORK",
-        "2. Supply of Cattle Feed Raw Material Items for RM-845",
-        "3. Division Office Maitenance Work"
+        "1. Soil Testing Lab Balotra Under Shyam prashad Mukharji Yojana (Equipment)",
+        "2. SUPPLY OF CATTLE FEED RAW MATERIALS UNDER RM-844-A",
+        "3. SUPPLY OF CATTLE FEED RAW MATERIALS UNDER RM-845"
       ]
     },
     {
@@ -47,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairing work of 2000 MT Godown, Construction of Toilet Block, Borewell and CC Road An",
-        "2. Renovation/Repairing work of 1165 MT Godown No.07, 1165 MT Godown No.08, Construction o",
-        "3. Construction Work of CC Approch Road for 1000 MT Godown of Markfed Storage Center at Bh"
+        "1. Renovation/Repairing work of 1165 MT Godown No.07, 1165 MT Godown No.08, Construction o",
+        "2. 31/26 PASSENGR LIFT AT HOSPITAL GOVT HOMEOPATHY COLLEGE",
+        "3. Construction Work of CC Approch Road for 1000 MT Godown of Markfed Storage Center at Mu"
       ]
     },
     {
@@ -58,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WB-19/TN/ED/EOB/26-27/07",
-        "2. WB-20/TN/ED/EOB/26-27/02",
-        "3. WB-19/TN/ED/EOB/26-27/06"
+        "1. NIT No- 801/PWD/ROAD/BMC (2nd Call) of 504/PWD/ROAD/BMC  , Dated- 14/11/2026",
+        "2. NIT No-  800/PWD/ROAD/BMC  , Dated-  14/11/2026",
+        "3. WB-21/TN/ED/EOB/26-27/02"
       ]
     },
     {
@@ -69,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. General Fund 2026 - 27 Annual Maintenance of Water supply Pumpsets in Aralvoimozhi Town",
-        "2. CMIUDM 2026-2027 in Balasamudram Town Panchayat",
-        "3. General Fund 2026 27 Restoration of Pot holes and Patches  at ward no  1 to 15 Area in "
+        "1. Restoration of BT Surface using CMP with paver finisher at Ramakrishna Garden - Cross s",
+        "2. Relaying of Cement Concrete Pavement in ward Nos.32,33,49 and 50",
+        "3. Restoration of Cement Concrete Pavement Keela Kosa Street areas in ward No.51"
       ]
     },
     {
@@ -80,7 +80,7 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Bio remediation of Legacy Waste of Khanna",
+        "1. Fresh Loose Bagasse",
         "2. 2 nos. Vehicle truck mounted transformer  oil tanker capacity 30kl with six compartment",
         "3. E-TENDER FOR ENGAGEMENT OF OUTSOURCING AGENCY TO PROVIDE MANPOWER FOR CARRYING OUT AADH"
       ]
@@ -91,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. JOBNO.HSVP/AMB/2026-27/E-771",
-        "2. Providing and laying sewer line in Shivaji colony of Ward no.16, M.C. Karnal. (Only for",
-        "3. Job No. 84. A/mtc of L/s work in Sector..."
+        "1. Hiring of 01 No. of Generator Set 250 KVA for Lakkarpur Boosting and 01 No.125 KVA for ",
+        "2. Estimate for Providing and Laying 100mm dia water supply line P.V.C Pipe 6kg/cum at var",
+        "3. Estimate for Const. Both side drain type 1st Ajay House to Bottlr Factory Shiv Durga vi"
       ]
     },
     {
@@ -102,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 100 seated ST Girls Hostel at Krushnapur (SSD) Girls High School in Tel",
-        "2. Construction of 100 seated ST Boys Hostel at Jagannathpur (B) Ashram School in Kendujha",
-        "3. Construction of 100 seated ST Girls Hostel at Chilida (SSD) Girls High School in Patna "
+        "1. Construction of 50 seated ST  Hostel at Uper Kusumita PSH in Kendujhar Block",
+        "2. Construction of 100 seated ST Girls Hostel at Chilida (SSD) Girls High School in Patna ",
+        "3. Construction of 100 seated ST Girls Hostel at Kanheigola Ashram School in Harichandanpu"
       ]
     },
     {
@@ -113,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 321/PR/JBVNL/26-27",
-        "2. Rejuvination/Development of Pandu Talab under Municipal Corporation, Hazaribag",
-        "3. 322/PR/JBVNL/26-27"
+        "1. Construction of PCC Road from in Habibi Nagar Gali no no. 02 in Ward No. 32 (Thirty two",
+        "2. Renovation and Beautification of Gandhi Samarak at Kumhartoli par nala  in Ward No. - 2",
+        "3. Construction of FSTP Plant in Mauja Bada Pichhadi Under DMC, Dhanbad."
       ]
     },
     {
@@ -124,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. A/R and M/O on Mashobra to Cragnano Road Km. 0/00 to 4/420",
-        "2. A/R and M/O  on Baldeyan to Shenal road Km 0/0000 to 4/220",
-        "3. A/R and M/O on Bangapani to Chatog Road Km. 0/00 to 3/00"
+        "1. Restoration of rain damages of DWSS Solan Town from Giri River.",
+        "2. Restoration of rain damages of LWSS Lagwasan Tehsil and Distt. Solan.",
+        "3. Upgradation of sewerage treatment plant of Solan Town."
       ]
     },
     {
@@ -144,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x75a061b27490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7c3f5091cdd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -164,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. SALE OF 5,000MT OVERBURDEN DUST AT MINE SITE OF MALABAR CEMENTS LIMITED,WALAYAR",
-        "2. The security service by deploying security personnel on piece rate, principal to princi",
-        "3. MLGP 167 27 Community Hall Maintenence in Ward No11 of Malayalapuzha Grama Panchayath u"
+        "1. 1202 ME RETENDER FOR EMPLOYING HOUSE KEEPING STAFFS",
+        "2. SALE OF 5,000MT OVERBURDEN DUST AT MINE SITE OF MALABAR CEMENTS LIMITED,WALAYAR",
+        "3. The security service by deploying security personnel on piece rate, principal to princi"
       ]
     },
     {
@@ -175,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ESTABLISHMENT/ IMPROVEMENT OF PYT GHAR ALIED ITEMS AT GONIPORA (HALQA GONIPORA, BLOCK K",
-        "2. Construction of Fire and Emergency Station M.R Gunj Srinagar.",
-        "3. Construction of Community Compost Pit at Ganie Mohalla Repora-A  Block Lar SBM"
+        "1. Installation of Borewell at Karewa Gulzarpora Batapora NLO Farooq Ahmad Sheikh S/o Ghul",
+        "2. Construction of P-Bund from H/O Ghulam Hassan Wani to the H/O Muzaffar Ahmad Wani at La",
+        "3. Digging of a Borewell near H/O Riyaz Ahmad S/o Gh Hassan Bandh at Chakhad, RenziPora, B"
       ]
     }
   ],
