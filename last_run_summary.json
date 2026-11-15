@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-11-14 19:42:33",
+  "checked_at_utc": "2026-11-15 00:44:25",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Maintenance of Hari Nagar Sports Complex, DDA.",
+        "2. CONSTRUCTION OF SWABHIMAN BHAVAN AT GGV  CAMPUS, BILASPUR (C.G.)",
+        "3. Proposal for Protective Ceramic Coating on Spiral Casing, Stay Vanes, Stay Ring and Inn"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -14,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for SHIVANSH SIDDHARTHNAGAR AGRI",
-        "2. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for LAXMI GROUP OF INDUSTRISE, D",
-        "3. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for PRISHA INTERPRISES, DISTRICT"
+        "1. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for JAI SHRI KANHA RICE MILL, DI",
+        "2. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for PRISHA INTERPRISES, DISTRICT",
+        "3. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for SHIVANSH SIDDHARTHNAGAR AGRI"
       ]
     },
     {
@@ -25,8 +29,8 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Removing grass bushes, debris, repairs and other development of 200 bedded hospital bui",
-        "2. Construction of Police Station Cum SDPO Office and Traffic Branch Building at Gandhi Ch",
+        "1. Construction of Police Station Cum SDPO Office and Traffic Branch Building at Gandhi Ch",
+        "2. Removing grass bushes, debris, repairs and other development of 200 bedded hospital bui",
         "3. Repairs To Water Supply Scheme At.Ukalipen Tq Washim Dt Washim Under Fifteen Finance Co"
       ]
     },
@@ -59,8 +63,8 @@
       "status": "ok",
       "sample_titles": [
         "1. NIT No- 801/PWD/ROAD/BMC (2nd Call) of 504/PWD/ROAD/BMC  , Dated- 14/11/2026",
-        "2. NIT No-  800/PWD/ROAD/BMC  , Dated-  14/11/2026",
-        "3. WB-21/TN/ED/EOB/26-27/02"
+        "2. WB-21/TN/ED/EOB/26-27/02",
+        "3. WB-21/TN/ED/EOB/26-27/01"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of BT Surface using CMP with paver finisher at Ramakrishna Garden - Cross s",
+        "1. Restoration of BT Surface bt Using CMP Paver Finished Machine at Ganapathi Nagar East E",
         "2. Relaying of Cement Concrete Pavement in ward Nos.32,33,49 and 50",
-        "3. Restoration of Cement Concrete Pavement Keela Kosa Street areas in ward No.51"
+        "3. Procurement of SS Tube Bundle for Shell and Tube Heat Exchanger"
       ]
     },
     {
@@ -82,7 +86,7 @@
       "sample_titles": [
         "1. Fresh Loose Bagasse",
         "2. 2 nos. Vehicle truck mounted transformer  oil tanker capacity 30kl with six compartment",
-        "3. E-TENDER FOR ENGAGEMENT OF OUTSOURCING AGENCY TO PROVIDE MANPOWER FOR CARRYING OUT AADH"
+        "3. Bio remediation of Legacy Waste of Khanna"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of 01 No. of Generator Set 250 KVA for Lakkarpur Boosting and 01 No.125 KVA for ",
-        "2. Estimate for Providing and Laying 100mm dia water supply line P.V.C Pipe 6kg/cum at var",
-        "3. Estimate for Const. Both side drain type 1st Ajay House to Bottlr Factory Shiv Durga vi"
+        "1. Estimate for Providing and laying 80mm thick I.P.B C1 TO C70, D64 TO ST COLMBUS, ST COL",
+        "2. Operation and Maintenance of intermediate sewerage pumping station and storm water disp",
+        "3. Manpower for operation of Lakkapur Boosting and Katan Pahadi Disposal in Ward no.-22 (N"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 50 seated ST  Hostel at Uper Kusumita PSH in Kendujhar Block",
-        "2. Construction of 100 seated ST Girls Hostel at Chilida (SSD) Girls High School in Patna ",
-        "3. Construction of 100 seated ST Girls Hostel at Kanheigola Ashram School in Harichandanpu"
+        "1. Construction of 100 seated ST Boys Hostel at Jagannathpur (B) Ashram School in Kendujha",
+        "2. Construction of 100 seated ST Girls Hostel at Krushnapur (SSD) Girls High School in Tel",
+        "3. Construction of 100 seated ST Girls Hostel at Chilida (SSD) Girls High School in Patna "
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of rain damages of DWSS Solan Town from Giri River.",
-        "2. Restoration of rain damages of LWSS Lagwasan Tehsil and Distt. Solan.",
-        "3. Upgradation of sewerage treatment plant of Solan Town."
+        "1. A/R and  M/O to various road under Sub Division No.1",
+        "2. A/R and M/O  on  Shoghi Mehli Junga Sadhupul Road Km. 12/375 to 48/925",
+        "3. A/R and M/O on Mashobra to Cregnano road Km 0/000 to 4/000"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7c3f5091cdd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7c24910c9490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -175,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Installation of Borewell at Karewa Gulzarpora Batapora NLO Farooq Ahmad Sheikh S/o Ghul",
-        "2. Construction of P-Bund from H/O Ghulam Hassan Wani to the H/O Muzaffar Ahmad Wani at La",
-        "3. Digging of a Borewell near H/O Riyaz Ahmad S/o Gh Hassan Bandh at Chakhad, RenziPora, B"
+        "1. Additional civil works of 1x10 MVA receiving station at Zewan Zawoora",
+        "2. DEVELOPMENT OF ROAD FROM MR TO LO GH MOHI UD DIN BHAT AT PETHGAM PINGLENA",
+        "3. Installation of Borewell at Token Wader near Airport NLO Ghulam Nabi Malik S/o Mohd Sub"
       ]
     }
   ],
