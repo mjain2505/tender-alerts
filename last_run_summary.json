@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-15 00:44:25",
+  "checked_at_utc": "2026-11-15 10:23:37",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -9,7 +9,7 @@
       "sample_titles": [
         "1. Maintenance of Hari Nagar Sports Complex, DDA.",
         "2. CONSTRUCTION OF SWABHIMAN BHAVAN AT GGV  CAMPUS, BILASPUR (C.G.)",
-        "3. Proposal for Protective Ceramic Coating on Spiral Casing, Stay Vanes, Stay Ring and Inn"
+        "3. FIRST-TIME Exporter Handholding, Pre-Shipment and Post-Shipment Facilitation"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for JAI SHRI KANHA RICE MILL, DI",
-        "2. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for PRISHA INTERPRISES, DISTRICT",
-        "3. KMS 2026-27 Transport Work of Custom Milled Rice (CMR) for SHIVANSH SIDDHARTHNAGAR AGRI"
+        "1.  Dariyapur PWD Marg se Mauhara se Jai Prakash Master ke ghar tak CC Road ka Nirman Kary",
+        "2. Tejpur Tileswardham marg se Pawarjot tak Rabarmold Interlocking ka Nirman Karya",
+        "3. Maskanwa me Vedprakash Shuklapurva tak Rabarmold Interlocking ka Nirman Karya"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Police Station Cum SDPO Office and Traffic Branch Building at Gandhi Ch",
-        "2. Removing grass bushes, debris, repairs and other development of 200 bedded hospital bui",
-        "3. Repairs To Water Supply Scheme At.Ukalipen Tq Washim Dt Washim Under Fifteen Finance Co"
+        "1. Concretasion of Road at Khidakali Goan Raja Patil to Budheshwar Mandir area in ward No.",
+        "2. Concretization of the road in the vicinity of the houses of Avinash Kumbhar and Yashwan",
+        "3. Grampanchayat Ghoti"
       ]
     },
     {
@@ -51,21 +51,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation/Repairing work of 1165 MT Godown No.07, 1165 MT Godown No.08, Construction o",
-        "2. 31/26 PASSENGR LIFT AT HOSPITAL GOVT HOMEOPATHY COLLEGE",
-        "3. Construction Work of CC Approch Road for 1000 MT Godown of Markfed Storage Center at Mu"
+        "1. Supply of All-in-One Desktop , Laptop Computer as per technical specifications in tende",
+        "2. Repairing work of 1000 MT Godown, Construction of Toilet Block, Borewell and CC Road An",
+        "3. Repairing work of 1000 MT Godown, Construction of Toilet Block, Borewell and CC Road An"
       ]
     },
     {
       "name": "West Bengal",
       "state": "West Bengal",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. NIT No- 801/PWD/ROAD/BMC (2nd Call) of 504/PWD/ROAD/BMC  , Dated- 14/11/2026",
-        "2. WB-21/TN/ED/EOB/26-27/02",
-        "3. WB-21/TN/ED/EOB/26-27/01"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='wbtenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Tamil Nadu",
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Restoration of BT Surface bt Using CMP Paver Finished Machine at Ganapathi Nagar East E",
-        "2. Relaying of Cement Concrete Pavement in ward Nos.32,33,49 and 50",
-        "3. Procurement of SS Tube Bundle for Shell and Tube Heat Exchanger"
+        "1. Restoration of Cement Concrete Pavement Keela Kosa Street areas in ward No.51",
+        "2. Procurement of SS Tube Bundle for Shell and Tube Heat Exchanger",
+        "3. Restoration of BT Surface using CMP with paver finisher at Ramakrishna Garden - Cross s"
       ]
     },
     {
@@ -85,8 +81,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Fresh Loose Bagasse",
-        "2. 2 nos. Vehicle truck mounted transformer  oil tanker capacity 30kl with six compartment",
-        "3. Bio remediation of Legacy Waste of Khanna"
+        "2. Bio remediation of Legacy Waste of Khanna",
+        "3. E-TENDER FOR ENGAGEMENT OF OUTSOURCING AGENCY TO PROVIDE MANPOWER FOR CARRYING OUT AADH"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Estimate for Providing and laying 80mm thick I.P.B C1 TO C70, D64 TO ST COLMBUS, ST COL",
-        "2. Operation and Maintenance of intermediate sewerage pumping station and storm water disp",
-        "3. Manpower for operation of Lakkapur Boosting and Katan Pahadi Disposal in Ward no.-22 (N"
+        "1. Manpower for operation of Lakkapur Boosting and Katan Pahadi Disposal in Ward no.-22 (N",
+        "2. Estimate for Providing and laying 80mm thick I.P.B C1 TO C70, D64 TO ST COLMBUS, ST COL",
+        "3. Construction of New Building for Ward Office in Lakkarpur Boosting Station Ward No.22 ("
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of 100 seated ST Boys Hostel at Jagannathpur (B) Ashram School in Kendujha",
-        "2. Construction of 100 seated ST Girls Hostel at Krushnapur (SSD) Girls High School in Tel",
-        "3. Construction of 100 seated ST Girls Hostel at Chilida (SSD) Girls High School in Patna "
+        "1. Construction of 100 seated ST Girls Hostel at Kanheigola Ashram School in Harichandanpu",
+        "2. Construction of 50 seated ST  Hostel at Uper Kusumita PSH in Kendujhar Block",
+        "3. Construction of 100 seated ST Boys Hostel at Jagannathpur (B) Ashram School in Kendujha"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. A/R and  M/O to various road under Sub Division No.1",
-        "2. A/R and M/O  on  Shoghi Mehli Junga Sadhupul Road Km. 12/375 to 48/925",
-        "3. A/R and M/O on Mashobra to Cregnano road Km 0/000 to 4/000"
+        "1. C/O R/Wall for the protection of Existing GSSS building at Delgi",
+        "2. C/O bridge on Chandryani Khad to Kath Ka Pul road in Km. 0/00 to 3/00",
+        "3. C/o link road from Gahi to Jabli in Km. 0/00 to 2/405.("
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7c24910c9490>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7eae0e176450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Additional civil works of 1x10 MVA receiving station at Zewan Zawoora",
-        "2. DEVELOPMENT OF ROAD FROM MR TO LO GH MOHI UD DIN BHAT AT PETHGAM PINGLENA",
-        "3. Installation of Borewell at Token Wader near Airport NLO Ghulam Nabi Malik S/o Mohd Sub"
+        "1. Improvement of Lanes Drains at Ward Number 03 and Ward Number 04 at G.A.Naik",
+        "2. Construction of Lane at Ward No.07 Gojrah Jawalapora",
+        "3. Construction of draun from mohd Afzal Parra to Anim Khul phase 2nd at Gager pora"
       ]
     }
   ],
