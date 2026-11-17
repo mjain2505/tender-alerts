@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-11-17 06:27:07",
+  "checked_at_utc": "2026-11-17 18:09:48",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Comprehensive Annual Operation and Maintenance Contract for various type of air conditi",
-        "2. Manufacturing and supply of Chain Mill Rotor assembly for Ammonium Phosphate Plants-FAC",
-        "3. Annual maintenance contract of civil work including repairs to rolling shutter, floorin"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1.  S/F of LED Semi High Mast Light with 9.0 mtr  G.I Octagonal  pole and 4 No. 170-200 Wa",
-        "2. Widening   Strengthening work of Pahasu Danpur   road   ODR Ch  000  to 13 700 tak  in ",
-        "3. Ishapuram mein Arjun ke Ghar Se Sushil ke Makan Tak CC dwara sadak V nali Nirman karya"
+        "1. Construction of  1x3 Mtr RCC Box Culvert in Place of Damage Minor Bridge of Budhai ka P",
+        "2. Special repair of Gogmau link road",
+        "3. Special repair of Pure Chitai gram Pure thakurain link road"
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Under the Hinduhrudaysamrat Balasaheb Thackeray Nagari Lokkalyan Abhiyan Proposed site ",
-        "2. Annual Maintainance To 1 Vashi Vadhav Kaleshri Road MDR 23 Km.0.000 to 8.450 2 Pen Hadd",
-        "3. CONSTRUCTION OF COMMUNITY SANITARY COMPLEX AT SONKHAS TQ MALEGAON DIST WASHIM"
+        "1. Chandivali Vidhansabha beat no.159 L Ward",
+        "2. Chandivali Vidhansabha beat no.159 L Ward",
+        "3. Improvements to Najikpimpari Shejbabhulgaon Ankoli Kothale Yenaki Jamgaon Korwali Haral"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. ward no 16 radheshyam sahu ki dukam main market se omprakash sahu tak or vibhinn sthano",
-        "2. REPAIR OF FOUNTAINS AND WORK OF INSTALLING NEW ONES INSTALLED IN TALKATORA LAKE",
-        "3. Supply and Fixing of Single Phase Motor at Various Places at M.C. Bundi"
+        "1. Construction work of drain and cc road at various site in w.no. 09",
+        "2. Construction work of drain and cc road at various site in w.no. 01",
+        "3. Construction work of drain and cc road at various site in w.no. 02"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. STRENGTHENING OF KHOKHARI TO SUHIRA ROAD LENGTH 3.50 KM. BLOCK WAIDHAN, DISTTI- SINGRAU",
-        "2. BOUNDRY WALL AT PARMAR DHARMSHALA W N 2",
-        "3. construction of ghat under state finance narmada tat"
+        "1. Supply of Stay Set 20 mm (Painted)",
+        "2. OXYGEN PIPE LINE WORK(PIPE LINE CONNECTIVITY FROM SNCU TO HDU , OXYGEN POINT FOR LABOUR",
+        "3. Construction of Shopping Complex in front of Muktidham in Ram Ward, Nagar Palika Parish"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIe-T- 82(2nd Call) /2026-27",
-        "2. NIe-T- 83(Sl No. 10)/2026-27(2nd Call)",
-        "3. LT distribution KIOSK for 63KVA TRNF"
+        "1. 22 OF 2026-27 OF SSE/WBSWC",
+        "2. NIET 12 of 2026-27, Sl 2 Jungle Clearance and Removal of Accumulated Sludge, Slit and G",
+        "3. 21 OF 2026-27 OF SSE/WBSWC"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Puthalam Town Panchayat - General Fund (Patches and Potholes) - 2026-2027",
-        "2. Standard Fire and Special Perils Insurance Policy for Road, Bridges, Public Liability a",
-        "3. Food Items"
+        "1. OT 137 boiler fill pump",
+        "2. Construction of Strom Water Drain at Manjuvilai main road North side at Ward No 02 in K",
+        "3. OT 136 ESP C pass"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Purchase of Formaldehyde Solution",
-        "2. Purchase of Ferrous Sulphate",
-        "3. HIRING OF INSULATED ROAD MILK TANKERS FOR TRANSPORTATION OF MIXED MILK FROM MILK CHILLI"
+        "1. Providing Laying Interlock Tile Bhola Singh to Dara Singh house Nirmal Kutia ward no. 5",
+        "2. Providing Laying Interlock tile and sewar Rajinder wali Gali ward no.13 MC Dhanaula",
+        "3. Providing Laying Sewer line Ajay Mc wali Gali ward no. 6 MC Dhanaula"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply and installation of Shri Atal Bihari vajpayee ji statue in Khera Park at MC Ladw",
-        "2. Rehabilitation of Watercourse at Outlet RD 39526/R Chirana Minor",
-        "3. Online bids are invited on behalf of Shri Mata Mansa Devi Shrine  Booard, Panchkula fro"
+        "1. Providing and Installation of Statue of Shri Atal Bihari Vajpayee Ji along with Pedesta",
+        "2. Capturing and Transportation of Stray Cattle, Municipal Corporation Hisar",
+        "3. TENDER FOR THE SUPPLY OF VARIOUS (47 ITEMS) EQUIPMENTS REQUIRED FOR UPGRADATION OF DIST"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Additional building and 2nos of attached Toilet of RW Division Dhenkana",
-        "2. Improvement to  Head works of  Jamankiara MIP (D/W) in Jamankira Block of Sambalpur Dis",
-        "3. Supply, Installation, Testing, Commissioning, Training and Maintenance of 01 No of Non-"
+        "1. NBCC/SBG/ODISHA/NIT/26-27/75",
+        "2. NBCC/SBG/ODISHA/NIT/26-27/76",
+        "3. S/R to ASI Qr 1 no at Khaprakhol for the year 2026-27"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Foods ,Potato, Vegitables, Fruits and Other Various Materials in District Jai",
-        "2. Digital Notice Board",
-        "3. Construction of PCC Road from in Habibi Nagar Gali no no. 02 in Ward No. 32 (Thirty two"
+        "1. EE/RDSD/LATEHAR/09/2026-27 (3rd call)",
+        "2.  Construction of PCC Road in Kendua Bazar from mahendra gupta shop to arun khandelwal s",
+        "3. Construction of  Drain in Chhatatand Road NH 18 to Hatia, 1. Ganju Prasad Gupta Shop to"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Execution of sweeping and  cleaning work of the various areas and floors of Larji Power",
-        "2. R/R damages on Himatpur Dabli Kheel road in Km. 0/00 to 6/165",
-        "3. Construction of Tarring of road from Central Park, water Tank to Chowk and road from H."
+        "1. Maintenance of Bridle Path from Beludhar to Barola in Niharinal beat of Seri Forest Blo",
+        "2. DED 120-2026-27",
+        "3. DED 119-2026-27"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Videography/Photography Work of various arrangements for General Assembly Elections 202",
-        "2. Repair, Renovation and Ongrid conversion with Testing,Commissioning of existing OffGrid",
-        "3. Development and Allotment of Land for Mixed-Use Purpose in Bansowali, Haridwar"
+        "1. Construction of Kharanja road from Mr Rizwan field towards Mr Sonu field from Mr Habib ",
+        "2. Construction of internal streets using CC interlocking tiles at village Paniyala Chanda",
+        "3. Construction of Kharanja road from Eidgah chauraha to Shri Gayur fields via Shri Pahal "
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x700e80b79750>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x74e96b641450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,32 +153,24 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Anti-Erosion measures to protect Ghumaijhar area from the erosion of river Ajagar.",
-        "2. Rejuvenation and Bioremediation of Silsako Beel, Guwahati, Assam under PMKSY HKKP RRR C",
-        "3. Construction of Mibo Okum at Biswanath Chariali under Tourism Deptt. of MAC, for the ye"
+        "1. Construction of Brahmaputra Dyke from Kasohilla to Narasingha hillock.",
+        "2. Anti-Erosion measures to protect Desang bund Right Bank from AT Road to Dhaiali at Koib",
+        "3. supply of Ration feed materials under Group G (Herbivore Feed) for the Zoo captives of "
       ]
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Miscellaneous MS structural repair works for a period of one year",
-        "2. Epoxy recoating of floors at SCP Plant",
-        "3. Re tender Oorakam GP 2026 27 Improvement works to kodalikund road (project no 49/27  in"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. P WALL NEAR ZYARAT SYED  DEWAN SHAW PYT PANJGRIAN  LOWER A W NO 1 BLOCK  PANJGRIAN",
-        "2. Construction and Strengthening of Kulhama Embankment of Wular Lake",
-        "3. Providing water supply to village Lolipora from water supply scheme nehama Under UT Cap"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='jktenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     }
   ],
   "new_matches_found": 0
