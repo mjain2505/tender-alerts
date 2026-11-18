@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-11-17 18:09:48",
+  "checked_at_utc": "2026-11-18 02:44:32",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Renovation of toilet block of visitor rooms at BOP Kapasipara, Angratoli of 144 Bn, BOP",
+        "2. SS/C050-000-CI-T-8106/1018 - BALANCE RCC, UG AND STRUCTURAL STEEL WORKS FOR POLYPROPYLE",
+        "3. Provn of sewage cleaning and toilet block at Tac HQ Noklak COB Chokla and COB Dan of 32"
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Chandivali Vidhansabha beat no.159 L Ward",
-        "2. Chandivali Vidhansabha beat no.159 L Ward",
-        "3. Improvements to Najikpimpari Shejbabhulgaon Ankoli Kothale Yenaki Jamgaon Korwali Haral"
+        "1. Construction of Police Station Building at Gondi for S. P. Jalna including all infrastr",
+        "2. Improvement of Passage and Drainage  Between Bldg no D and E, 666 Transist Camp in E Wa",
+        "3. Chandivali Vidhansabha beat no.159 L Ward"
       ]
     },
     {
@@ -36,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of drain and cc road at various site in w.no. 09",
-        "2. Construction work of drain and cc road at various site in w.no. 01",
-        "3. Construction work of drain and cc road at various site in w.no. 02"
+        "1. Construction work of drain and cc road at various site in w.no. 11",
+        "2. Construction work of drain and cc road at various site in w.no. 03",
+        "3. Construction work of drain and cc road at various site in w.no. 12"
       ]
     },
     {
@@ -58,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 22 OF 2026-27 OF SSE/WBSWC",
-        "2. NIET 12 of 2026-27, Sl 2 Jungle Clearance and Removal of Accumulated Sludge, Slit and G",
-        "3. 21 OF 2026-27 OF SSE/WBSWC"
+        "1. 21 OF 2026-27 OF SSE/WBSWC",
+        "2. 22 OF 2026-27 OF SSE/WBSWC",
+        "3. NIET 12 of 2026-27, Sl no. 1 Repairing of Asbestos including fixing of 2mm thick Water "
       ]
     },
     {
@@ -70,8 +74,8 @@
       "status": "ok",
       "sample_titles": [
         "1. OT 137 boiler fill pump",
-        "2. Construction of Strom Water Drain at Manjuvilai main road North side at Ward No 02 in K",
-        "3. OT 136 ESP C pass"
+        "2. Providing lane Marking, Road studs, Road safety measures and Kerb wall painting in Nort",
+        "3. Mannargudi Municipality - Providing and Installation of Street Light Fittings on the Ne"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing Laying Interlock Tile Bhola Singh to Dara Singh house Nirmal Kutia ward no. 5",
-        "2. Providing Laying Interlock tile and sewar Rajinder wali Gali ward no.13 MC Dhanaula",
-        "3. Providing Laying Sewer line Ajay Mc wali Gali ward no. 6 MC Dhanaula"
+        "1. Development Work of  Mazbi singh dharmshala  Jawandha Patti W no. 5 Dhanaula",
+        "2. Supply of 50 H.P and 15 H.P motor fans for disposal motor MC Dhanaula",
+        "3. Providing Laying various works Bhola Singh to Balvir Singh house at ChannaRoad ward no."
       ]
     },
     {
@@ -93,7 +97,7 @@
       "sample_titles": [
         "1. Providing and Installation of Statue of Shri Atal Bihari Vajpayee Ji along with Pedesta",
         "2. Capturing and Transportation of Stray Cattle, Municipal Corporation Hisar",
-        "3. TENDER FOR THE SUPPLY OF VARIOUS (47 ITEMS) EQUIPMENTS REQUIRED FOR UPGRADATION OF DIST"
+        "3. Job No. 88 A/MTC OF L/S WORK IN..."
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NBCC/SBG/ODISHA/NIT/26-27/75",
-        "2. NBCC/SBG/ODISHA/NIT/26-27/76",
-        "3. S/R to ASI Qr 1 no at Khaprakhol for the year 2026-27"
+        "1. NBCC/SBG/ODISHA/NIT/26-27/76",
+        "2. S/R to ASI Qr 1 no at Khaprakhol for the year 2026-27",
+        "3. NBCC/SBG/ODISHA/NIT/26-27/75"
       ]
     },
     {
@@ -114,7 +118,7 @@
       "status": "ok",
       "sample_titles": [
         "1. EE/RDSD/LATEHAR/09/2026-27 (3rd call)",
-        "2.  Construction of PCC Road in Kendua Bazar from mahendra gupta shop to arun khandelwal s",
+        "2. Construction of a Road and Drain in Alkusha GP camp from Raju Rajbhar house to  Pappu S",
         "3. Construction of  Drain in Chhatatand Road NH 18 to Hatia, 1. Ganju Prasad Gupta Shop to"
       ]
     },
@@ -125,8 +129,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Maintenance of Bridle Path from Beludhar to Barola in Niharinal beat of Seri Forest Blo",
-        "2. DED 120-2026-27",
-        "3. DED 119-2026-27"
+        "2. DED 119-2026-27",
+        "3. DED 116-2026-27"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x74e96b641450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7029516bec10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -161,16 +165,24 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. PROJECT NO 607 26 27 EENGAYIL PEEDIKA VALIYA PARAMBATH ROAD RE TARRING WARD 25",
+        "2. GENERAL-Providing AC units in Meter testing Lab Sreekaryam-Providing AC units in Meter ",
+        "3. MLA-SDF-Reconstruction of Social Service Library- Kannanthura - Sankhumugham Phase - I-"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='jktenders.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Drabgam A",
+        "2. Procurement of Key Materials for MGNREGA Works For Panchayat Halqa Rahmoo A",
+        "3. C/O COMMUNITY BATH ROOM NHO MOHD AMIN MARGAY AT CHOWGAM CHITTERGUL"
+      ]
     }
   ],
   "new_matches_found": 0
