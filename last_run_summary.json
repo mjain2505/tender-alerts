@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-18 11:06:03",
+  "checked_at_utc": "2026-11-18 19:58:19",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,21 +7,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of a Gas Bank and Waste Bin Sheds at the Hostels of NIT Meghalaya Saitsohp",
-        "2. Special Repairs (SR) works for Soil Stabilization of Collapsed hillock along the NH-566",
-        "3. TENDER FOR RUNNING A GENERAL STORE AND STATIONERY SHOP"
+        "1. Refilling and hydraulic pressure testing of fire extinguishers installed at various pla",
+        "2. SS/C050-1P39A-WC-MR-3112/80 - FLANGES-CS, AS AND SS for Polypropylene Unit (PPU) Projec",
+        "3. Construction of Power house and Associated Works for 640 MW ISP OSP Pumped Storage Proj"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. S/I/T/C of fire pump, fire panel, piping and fire alarm system etc. works. at Kisan Man",
-        "2. Construction of single story switch gear room boundry wall collection room and others m",
-        "3. Construction work of CC road in the populated part of Gram Sabha Karela Ajgarha link ro"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REPAIRS, DEVELOPMENT AND REMOVING GRASS BUSHESH, DEBRIES IN THE PREMISES OF GIRLS AND B",
-        "2. Annual Maintenance Contract for Telang Hostel at C Road, Churchgate, Mumbai.",
-        "3. Annual Maintenance of Old Secretariat Annex Building, Mumbai. (Repairs to doors and win"
+        "1. Proposed Estimate of Hotmix road in Jotiba mandir opp Chavan plot intarnal road at WN 1",
+        "2. Construction Of PCC Gutter in Vijaynagar kranti Society near Dipak Adsare House in Ward",
+        "3. KARYAKARI ABHIYANTA KR.1 SWARGATE PANIPURVTHA VIBHAG ANTARGT YENARYA TANKER POINT YETHE"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CC road and drain ward 27",
-        "2. Construction of Tube-well ,Supply and fixing of water Tank,Submersible Pump with cable ",
-        "3. CC road and drain ward 32"
+        "1. Electrical Utility (11kV/ 33kV) Shifting work for Widening and Strengthening of Balaji ",
+        "2. Electrical Utility (11kV  33kV) Shifting work for Widening and Strengthening of Kethun-",
+        "3. Supply of Lab and Xray Equipment at SDH Mangrol Distt. Baran"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. For Hiring of 01 No Mahindra Bolero BS6",
-        "2. Online Tender for Providing 01 No Hiring Of Vehicle Tower Ladder jeep for Tikamgarh tow",
-        "3. ESTIMATE FOR UPGRADATION OF VARRIOUS CIVIL WORK AMENITIES FROM MATA MADIR TO MANIT TIRA"
+        "1. Laying/Fixing of Paver Block at Govt Girls Middle School and Govt. Girls Higher Seconda",
+        "2. Construction of Drain and Paver Block Fixing work from Julekha Khan house to Firoz Tent",
+        "3. Beautification, Drain Construction, Paver Block, Repairing Work of Public Toilet at Pat"
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. WBSDB/EE/CED-I/NIeT-04/2026-27 SL-2",
-        "2. WBSDB/EE/ CED-IV/NIT-05(e)/2026-27 SL-01",
-        "3. WBSDB/EE/ CED-IV/NIT-04(e)/2026-27 SL-01"
+        "1. 1292/Genl./O (IV)-291/SWC",
+        "2. WBMAD/NDDM/PWD/NIeT308/26-27_1",
+        "3. NIT No- 827/PWD/ROAD/BMC (2nd Call) Of 302/PWD/ROAD/BMC , Dated- 17/11/2026"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AEE Quarters Dharmapuri",
-        "2. TTPS Operation Circle Providing 3 Nos of 30 KW Dewatering pump in the sump of storm wat",
-        "3. Thanjavur District Kumbakonam- Renovation of Panchayat Union Office Building at Palavan"
+        "1. Special Repairs to Leaky Roof, Flooring, Painting and Toilet repairs in Government High",
+        "2. OT 132 worn out bend ABCD",
+        "3. Special Repairs to Faculty Block Building in Government Sivagangai Medical College Hosp"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. IT/M/ ICT Items/2026-27/NCB-5",
-        "2. Hiring of Seven Seater Car ( Ertiga or its equivalent )",
-        "3. CONSTRUCTION OF NEW COMMUNITY HALL IN GAZIPUR, ADAMPUR DISTRICT JALANDHAR"
+        "1. Providing External Public Health Services  in construction of Sant Attar Singh Maharaj ",
+        "2. MQP 280",
+        "3. SPECIFICATION FOR MANUFACTURE, TESTING SUPPLY and DELIVERY OF 100 MT HOT DIP GALVANISED"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction work of Phase ...",
-        "2. Re-construction of cement concrete road from Arjun Gate to Gurudwara,Sector-14-II (Shiv",
-        "3. Providing and Laying Thermoplastic paint for Road marking at Various roads in Ward no(1"
+        "1. Daboda Kalan Construction of one RCC Storage cum Sedimentation Tank two RCC Clear Water",
+        "2. MEHANDIPUR DNIT FOR CONSTRUCTION OF ONE NO RCC STORAGE CUM SEDIMENTATION TANK OF SIZE 1",
+        "3. Mattan DNIT for Construction of RCC Storage and Sedimentation Tank of Size Fifty Six Po"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Sarbejatrumandap to Kenadhipa weekly market Road",
-        "2. Construction of Community center at Madhubannagar near Ganesh Mandap W.No.13.",
-        "3. Construction of IPHS day careSub Centre building at Chachanbeda under Umarkot block in "
+        "1. NBCC/SBG/Odisha/NIT/26-27/72",
+        "2. NBCC/SBG/Odisha/NIT/26-27/69",
+        "3. Construction of Block Level Stadium in Rayagada Block without Indoor Hall under Rayagad"
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of PCC road and RCC drain in Hirapur Mada colony Krishna Nagar from Geeta ",
-        "2.  Construction of PCC  Road  in  Near Simaldih law College More and different location i",
-        "3. e-Quotation 05/2026-27"
+        "1. Construction of RCC Drain in (a) Barmasiya near foot ball ground stendra kr.house to ma",
+        "2. Construction of Shed for Manufacturing of Coconut Coir Rope near Shelter home Jagarnath",
+        "3. Construction of PCC road at Khunti  road, Hawai Nagar,  Road No-05 from Shiv  Mandir to"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/O rain damages on Swarghat Ramshehar road in km 0/0 to 11/00 (SHP/L patch work in BC ",
-        "2. MMSY  2026 27 Construction Of link road Uleharian Peer Baba Shamshan Ghat road Km. 0.00",
-        "3. MMSY  2026 27  Construction Of Pucca Path to Shamshan Ghat Dhiman Mohalla Ward No. 01 V"
+        "1. System Automation Works under World Bank",
+        "2. Estimate for providing L.T. extension to left out houses from 25 KVA,SubStn Satyanidhar",
+        "3. Providing of Drinking water supply scheme to Up Mandi Naka Chowki Antrawali Tehsil Nerw"
       ]
     },
     {
@@ -139,16 +135,16 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Renovation work on the Chamba Dharasu motor road to Navgaon under the OTM scheme Transf",
-        "2. 29/2026-27 EDD Sitarganj",
-        "3. 28/2026-27 EDD Sitarganj"
+        "1.  \tConstruction work of Ramlila stage in Dugnakuri of Kapkot Block.",
+        "2. Construction of Sonprayag water supply scheme under NABARD",
+        "3. 64/EDCC(K)/2026-27"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x78871e26bb10>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x73b499279350>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Assam Type Prisoners ward with a capacity of 100 nos of Prisoners at Di",
-        "2. EOI from reputed Developer, Promoter for Sarusajai Area Development Project, Guwahati, ",
-        "3. Rejuvenation and Beautification of Nahar Pukhuri in Ward No 2B, North Lakhimpur Under 1"
+        "1. Anti-Erosion Measures to protect B/Dyke at Bhogerpar Area from the erosion of River Bra",
+        "2. Re-Juvenation of Sarkari Pond at Karimganj College, Sribhumi Town under 15th FC (Tied G",
+        "3. Infrastructure Development (Construction of New School Building) of 44 Schools in 35 Di"
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of Handheld GPS for Hydrographic Survey Wing",
-        "2. Supply, Installation and Geotagging of House Hold Ring Compost",
-        "3. Rehabiltation and rennovation of Padipparambil WSS,Kattyanpara WSS,Kandappikkunnu WS,Pa"
+        "1. Annual Plan- 2026-27 Puthur Grama Panchayath Asadheepam Dwss filter unit-pro no477/PTR-",
+        "2. Pr No 341/26-27 Aasarikandiyil Road in CGP",
+        "3. Construction of DFO Building and Timber Depot Office - Thalakode Division"
       ]
     },
     {
@@ -179,11 +175,11 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Basanter Devak River installation of display boards and allied works along River Basant",
-        "2. Karan Nagar Sub Division-II",
-        "3. Shifting/Extraction of Wind-Fallen, Snow-Fallen and Seized Timber lying at different lo"
+        "1. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Wagam",
+        "2. Procurement of Key Materials for VBGRAMG Works For Panchayat Halqa Wahibugh",
+        "3. INSTALLATION OF A BOREWELL NEAR THE LAND OF ZAHIDA BANO, FRUIT MANDI, GANGOO, BLOCK PUL"
       ]
     }
   ],
-  "new_matches_found": 1
+  "new_matches_found": 0
 }
