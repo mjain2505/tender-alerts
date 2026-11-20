@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-19 19:56:58",
+  "checked_at_utc": "2026-11-20 02:01:17",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -7,17 +7,21 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Buoy Vent Valve",
-        "2. PBMC work from Km103.865 to Km167.465 (GayaJi_Daudnagar) and Km170.917 to Km 181.465 (D",
-        "3. Repair Rewinding of 3 phase, 11 /0.433 KV, 500 KVA oil immersed distribution transforme"
+        "1. Supply and Installation of Infrared Structured Light Generator at IIT Bhilai",
+        "2. Repair Rewinding of 3 phase, 11 /0.433 KV, 500 KVA oil immersed distribution transforme",
+        "3. PBMC work from Km103.865 to Km167.465 (GayaJi_Daudnagar) and Km170.917 to Km 181.465 (D"
       ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Special repair CBN road to Bhopatpur lalapurwa  link road",
+        "2. Construction of Interlocking Road from Rohit Ji House to Nand Ram Ji House at Vill. -Mo",
+        "3. Road safety work on Ganeshpur Chauraha at Laharpur Khairabad Road (ODR)"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -25,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Gutter adjacent to Surayya Building in Bombay Colony in Ward No. 26 D u",
-        "2. Repairs to Toilet in Siddharth Nagar building, Bapty Road in E ward.",
-        "3. PRABHAG KR.12 THORAT CHAUK TE LAKAKI ROAD SADLELE POL BADALANE."
+        "1. Repairs of ZP School building in Koyna Nagar, Tal North Solapur",
+        "2. PRABHAG KR.12 THORAT CHAUK TE LAKAKI ROAD SADLELE POL BADALANE.",
+        "3. Construction of New Chowky at pathan chawl BMC Chwoky  in  E Ward"
       ]
     },
     {
@@ -47,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of Box Culvert and Ramp at Bhadbhada Nala, Infront of Gudda Pathan and Beh",
-        "2. Construction of Boundary Wall and Beautification Work of Rajeev Gandhi Park near Bus St",
-        "3. Extension of Teen Shade, False Ceiling and Electrification Work of Community Hall in Wa"
+        "1. Extension of Teen Shade, False Ceiling and Electrification Work of Community Hall in Wa",
+        "2. Color Washing Work of Nagar Parishad Office Bhavan in Ward No. 05, Nagar Parishad, Kata",
+        "3. Construction of Teen Shade at Mandir Bada in Ward No. 05, Nagar Parishad, Katangi Under"
       ]
     },
     {
@@ -69,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Circuit House at Cuddalore",
+        "1. SR to Doors, Windows etc in Library-GPC at S.Kollur",
         "2. Inspection Bungalow at Chidambaram",
-        "3. MPLAD / 2026-27 Construction of Ritual Waiting Shed Siruvanthadu Panchayat"
+        "3. Restoration of Pot holes and patches ( BT and CC )  at ward 1 to 15 in Annur Town Panch"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of room/shed at park, (basant nagar) ward no. 43",
-        "2. Providing and fixing Open gym at akaal stadium, ward no. 49",
-        "3. Construction of streets in asha park and new vishakarma nagar with Interlocking tiles, "
+        "1. Construction of Streets in Narangshahpur, Hadiabad Ward no. 46",
+        "2. Construction of Toilet Block at Bus stand toward Railway Road, Phagwara",
+        "3. Construction of various street Roads at Gobindpura, ward no. 38, 43"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Jakhoda DNIT for Construction of 1 No. RCC SandS Tank having Size 88.00X33.00X1.22 Mtr,",
-        "2. Barahi DNIT for Construction of 1 No. RCC Storage and Sedimentation Tank of size 183 x ",
-        "3. Chhudani DNIT for providing raw water by pumping from Dulhera Distributory at RD R incl"
+        "1. Barahi DNIT for Construction of 1 No. RCC Storage and Sedimentation Tank of size 183 x ",
+        "2. Chhudani DNIT for providing raw water by pumping from Dulhera Distributory at RD R incl",
+        "3. Jakhoda DNIT for Construction of 1 No. RCC SandS Tank having Size 88.00X33.00X1.22 Mtr,"
       ]
     },
     {
@@ -103,8 +107,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Poibadi to Bateni_Road_Pothole repair, SDBC_0.000 to 3.900",
-        "2. CONSTRUCTION OF MULTI PURPOSE COMMUNITY-CUM-CULTURAL CENTRE BUILDING AT MATABAJ VILLAGE",
-        "3.  Short Term Maintenance Contract STMC work for 7 Nos. of Roads for an aggregated length"
+        "2. NBCC/SBG/ODISHA/NIT/26-27/77",
+        "3. CONSTRUCTION OF MULTI PURPOSE COMMUNITY-CUM-CULTURAL CENTRE BUILDING AT MATABAJ VILLAGE"
       ]
     },
     {
@@ -124,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PED-79/2026-27",
-        "2. PED-81/2026-27",
-        "3. PED-78/2026-27"
+        "1. PED-78/2026-27",
+        "2. PED-76/2026-27",
+        "3. PED-84/2026-27"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x78bcb7c59710>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x725303472610>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,7 +169,7 @@
       "status": "ok",
       "sample_titles": [
         "1. Right to running Parking area fee collection infront of southern Breakwater and jenkar ",
-        "2. GENERAL-KHRI-UTI Machine Room-Supply installation Testing and Commissioning of AC Unit ",
+        "2. DEPOSIT-KHRI Cell - Setting up of RMMS Cell at Third Floor -KHRI Cell - Setting up of R",
         "3. DEPOSIT-KHRI Cell - Setting up of RMMS Cell at Third Floor -KHRI Cell - Setting up of R"
       ]
     },
@@ -176,8 +180,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Construction of lane from Main Road to H/o Ab Ahad Sofi to H/o Ab Ahad Sheikh at Saloor",
-        "2. Construction of crate work at Bridge near H/o Sh. Nazir Tehsil Surankote District Poonc",
-        "3. construction of P-Bund near house of Farooq Ahmad Dar near PMGSY Road at Jedden"
+        "2. Construction of culvert near H/o Kiser wani s/o Aziz wani at Qamar Sahab Link Road",
+        "3. Development of Drain Behind BDO Office Ghousia Colony Sector 1 Bk Pora A and Constructi"
       ]
     }
   ],
