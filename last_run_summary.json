@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-11-20 10:54:23",
+  "checked_at_utc": "2026-11-20 19:37:30",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. M/o Various colonies under Nazul A/c-II, Dwarka Zone.",
-        "2. Providing and Installation of drinking water filtration station at key locations in the",
-        "3. Repairing and replacement of acrylic sheet of Sky light at terrace of DOMS Building."
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. AS PER NIT Sr. No.- 2",
-        "2. AS PER NIT Sr. No.- 3",
-        "3. LUCKNOW NAGAR MEIN VIBHINN ESTHANO PAR BONSAI AND ORNAMENTAL PLANTS KA GOMLOIN SAHIT AP"
+        "1. 04 Mrat Pashu Shav Nistaran 27-28 Block Moth",
+        "2. civil work",
+        "3. thatheritola me marhum mehdihasan ke makan se jameel ahmad ke makan tk nali intorlockin"
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Repairing and maintenance of existing drainage line, repairing of drainage chambers in ",
-        "2. Providing MS Platform for Operation and Maintenance of Air Valve and scour valve on 240",
-        "3. Providing lowering laying and jointing of hdpe pipeline at prabhag No 5 Gadchandur"
+        "1. unicipal Council to request quotes for non-CSR items for various artistic development w",
+        "2. DOT/E-Tender/Works/162/02/2026",
+        "3. Repairs to Common House gully at 184,Rahim Bldg., M. A. Road in E Ward"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. MAINTENACE WORK FOR LIGHTS INSTALLED IN WARD NO. 14, 15, 16 OF THE VIDYADHAR NAGAR ZONE",
-        "2. MAINTENACE WORK FOR LIGHTS INSTALLED IN WARD NO. 11 AND 12 OF THE MURLIPURA ZONE AREA O",
-        "3. MAINTENACE WORK FOR LIGHTS INSTALLED IN WARD NO. 3 OF THE MURLIPURA ZONE AREA OF JAIPUR"
+        "1. Construction of internal roads upto GSB level in various approved Schemes in zone prn -",
+        "2. Construction of a 1000 running meter long wall 6 feet in height in the Sukha Shila fore",
+        "3. Patch repair work in zone PRN (North) JDA Jaipur (2026-27) ARC"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. PROVIDING AND FIXING OF JHULLAS AT ANAMIKA PARK AND KARUNA DHAM PARK WARD 50 ZONE 10 (P",
-        "2. SUPPLY OF KIRANA",
-        "3. ONLINE TENDER FOR PROVIDING 01 NO HIRING OF  VEHICLE  BOLERO  MAXIMUM 5 YEARS OLD"
+        "1. Supply of Firewood for Nagar Palika Parishad Panagar - 3rd Call",
+        "2. Allotment of Shop No. 04 of Under construction shopping complex at New Bus Stand in War",
+        "3. Replacing the damaged sewer line from Anup Nagar N.-85 to the main roads drainage line "
       ]
     },
     {
@@ -62,9 +58,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIe-T- 16(Sl No. 13)/2026-27(2nd Call)",
-        "2. KMC/LTGV/118/26-27/LR3",
-        "3. WBMAD/PRL/NIeT-275,277/26-27"
+        "1. NIT/BM/00106/Eng/EO/2026-27",
+        "2. KMC/LTG/Z-III/VII/26-27/94/R1 (2ND CALL)",
+        "3. NIT/BM/00106/Eng/EO/2026-27"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Providing   Volley Ball Court to Survey no 51 at Pungathur Village Mahaveer Colony Ward",
-        "2. Schhol Improvement_Nemilitp_Ranipet",
-        "3. SALE OF CONDEMNED VEHICLES"
+        "1. Renewal of Worn out Street Lights and Flood Light for District Muncif Cum Judicial Magi",
+        "2. Special Repairs to Flooring, Leaky Roof, Repairs Doors and Windows and Painting Arrange",
+        "3. Special Repairs to Leaky Roof, Flooring, Repairs Doors and Windows, Wall cracking and P"
       ]
     },
     {
@@ -84,9 +80,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply, Installation, Commissioning  and Testing of New Cream Separator Capacity 10KLPH",
-        "2. Upgradation of 30 Bedded CHC to 50 Bedded SDH at Ahmedgarh District Malerkotla",
-        "3. Construction of 30 Bedded CHC at Apra District Jalandhar"
+        "1. Construction of Streets and Drains at Village Baba Langah, Block and Distt. Tam Taran.",
+        "2. Construction of Taxi/Auto Stand back side of New bus stand at MC Rajpura.",
+        "3. Construction of Shed in Valmiki bhawan old mirch Mandi  W.No 24 at MC Rajpura"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF WATER TANK WITH LAYING OF PIPELINE 200-METER IN MAHAVIR STADIUM, HISAR.",
-        "2. Pur-DNIT for Augmentation ...",
-        "3. Repair of CNG based crematorium for animals at Kail Kachra  plant in MC Yamunanagar Rec"
+        "1. Rewari Khera DNIT for construction of one Storage and Sedimentation Tank of size thirty",
+        "2. Imp. By Pdg. Wdg. and Stg. of Jagsi to Gangana road (Road ID-6184) in Sonepat Distt. un",
+        "3. Appointment of Firmsof Chartered Accountants empanelled with Comptroller and Auditor Ge"
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1) Boudh Dhalpur RD Road to Paragalpur Road OR0610 and 2) PWD Road SH14 to Mathura Road",
-        "2. 1) Talagaon to Jabar Road OR0666  _Clubbing Package no OR-03-BDH/01/2026-27",
-        "3. 1) PWD road to Rundhimahal Road OR0604 and 2) PWD road to  Kodibahal Road OR0617 and 3)"
+        "1. Shifting of Subdstations, 11kv lines and LT lines for improvement and widening of Road ",
+        "2. Improvement of Dhenkanal Korian Chhak to bhojdeipur Sasan Siva Mandir via Ranapasi Road",
+        "3. Construction of Bus Stop at near Ambika Nursery galli."
       ]
     },
     {
@@ -117,9 +113,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF BOUNDRY WALL AT UPG. P.S. JORDAG G.P.-RIMI,  VILL-JORDAG (20031002504),",
-        "2. CONSTRUCTION OF BOUNDRY WALL AT UPG. P.S. KOTARI G.P.-RIMI,  VILL-RIMI (20031003601), B",
-        "3. CONSTRUCTION OF BOUNDRY WALL AT UPG. P.S. KALGI G.P.-RIMI,  VILL-RIMI (20031002903), BL"
+        "1. 05-Renovation of Anganbari Centre Building, Jer and Civil Works, Plumbing and Electrifi",
+        "2. 02-Repair of Ukramit Middle School, Janho at Vill- Janho, Panchayat-Janho of Block-Mani",
+        "3. 03-Repair of Primary School, Lukumkharh at Vill- Lukumkharh, Panchayat-Kerh of Block- B"
       ]
     },
     {
@@ -128,9 +124,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CEKZ-TEN-198/SP/2026-27",
-        "2. Providing and fixing M.S. BP sheet 1mm  thick on ceiling of battery room, PLCC room and",
-        "3. CEKZ-TEN-197/SP/2026-27"
+        "1. A/R  M/O WSS Patarna to Khotu Jaan in Gp Karad in Anni Block Distt. Kullu HP",
+        "2. Restoration of Rain Damages to FIS Sindri kuhl at Sidhbari in Tehsil Dharamshala Distt.",
+        "3. Laying  jointing  and testing of   ductile iron  DI K7150mm  dia pipes and   constructi"
       ]
     },
     {
@@ -141,14 +137,14 @@
       "sample_titles": [
         "1. Repair of S.G.R. building, Construction of Retaining wall  and Boundary wall and other ",
         "2. Construction of new store shed STORE-1 16m x 14m for UPCL store ramnagar and other Misc",
-        "3. Necessary Civil Works For Electricity Electronic Meter Test Lab at UPCL Campus, 18 E.C."
+        "3. Misc. Civil Works for Electronic Meter test lab at Sidcul ( Jwalapur -II ) Campus Harid"
       ]
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x72ad77d81450>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x72710745af90>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -157,9 +153,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Development of Office Campus of GMC Office at Betkuchi, Guwahati-35",
-        "2. Construction of HP Culvert, De-silting of Internal drain and Development of Side berm b",
-        "3. Construction of Kitchen and Dining Hall of District Jail, Golaghat"
+        "1. Supply and Installation of Porcupines in four subproject areas (Dhemaji and Lakhimpur, ",
+        "2. Construction of RCC and Masonary Drain at Balajan PHC Kokrajhar.TN_64",
+        "3. Supply and Installation of Porcupines in four subproject areas (Dhemaji and Lakhimpur, "
       ]
     },
     {
@@ -168,9 +164,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Bockashi Bucket",
-        "2. Empanelment of Digital Advertising and Performance Marketing Partners for a period of t",
-        "3. Improvement of trek path from Valavetty amala plath meenmutty utharamkayam ayiramkal in"
+        "1. -Pr No 424/26-27 Ambalappad pambooryam para panchayath athirthi Roas in CGP",
+        "2. -Pr No 425/26-27 Iruvallur GUP School Koottakkil Road in CGP",
+        "3. -Pr No 369/26-27 Oottukulam 7/6 Road in CGP"
       ]
     },
     {
@@ -179,9 +175,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. supply of firewood Baghati duly chopped Bukhari size dry",
-        "2. Constt of wooden foot bridge over Dalwas Nallah  in Co 21 Kesh  of Thakrai Range under ",
-        "3. Construction of R/Wall Nr. Nazama Parveen and others W.No. 02 Banwat Pyt. Banwat Dhokri"
+        "1. Digging of a borewell near the house of Mohd Abdullah Ganie and on the land of Bashir A",
+        "2. Digging of a borewell near the land of Gh. Hassan Ganie S/o Gh. Qadir Ganie and others ",
+        "3. Construction of borewell at Gabar Pora Tower Mohalla near H/o Gh Mohd Bhat"
       ]
     }
   ],
