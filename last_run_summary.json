@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-11-22 10:42:17",
+  "checked_at_utc": "2026-11-22 19:02:18",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Maintenance of various colonies under Nazul A/C-II, Dwarka Zone.SH-Providing services o",
-        "2. Renovation/Modernization work of Auditorium at IIT Roorkee Saharanpur Campus.",
-        "3. CAMC of ELWB of FSDs under DO Kapurthala"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Gulamganj se Harsunagla Marg",
-        "2. Construction of a culvert 1 x 6 m span  and  its approach road at km 1 of  Bijarkhata S",
-        "3. Balkheda to Bholapur Road"
+        "1. Manunagar Chandela Road Km 3 to Nasratnagar Road",
+        "2. Swar Bilaspur Marg se Mukrampur Marg",
+        "3. Construction of a culvert 1 x 6 m span  and  its approach road at km 1 of  Bijarkhata S"
       ]
     },
     {
@@ -29,9 +25,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Grampanchayat Ambetalao",
-        "2. Special Repairs To Z.P. Primary School Building At Ijani Tq Mahagaon Dist Yavatmal",
-        "3. LIQUID WASTE MANAGEMENT PROJECT AT GANORI TQ. PHULAMBRI DIST. CHHATRAPATI SAMBHAJINAGAR"
+        "1. Grampanchayat Kurhadi",
+        "2. Grampanchayat MohgaonBZ",
+        "3. Grampanchayat Kurhadi"
       ]
     },
     {
@@ -40,9 +36,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Arrangement Food and residential for 922 participants Teacher (Training class 1-5 PM Sh",
-        "2. Supply of L and T Make Four Bodied HP Pumps (Unit 5 to 7) and Two Bodied HP Pump (B and",
-        "3. Supply, intallation, testing and commissioning of online monitoring system for Effluent"
+        "1. SITC of Lift works in 100 Beded Satellite Hospital in Jhotwara Panchayat Samiti Campus,",
+        "2. Arrangement Food and residential for 922 participants Teacher (Training class 1-5 PM Sh",
+        "3. Supply of L and T Make Four Bodied HP Pumps (Unit 5 to 7) and Two Bodied HP Pump (B and"
       ]
     },
     {
@@ -51,9 +47,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. APRF10 poradhar  e-tender cum Auction",
-        "2. APRF10 poradhar  Group e-tender",
-        "3. Supply Erection and Commissioning of Energy Chain system for side Arm Charger Installed"
+        "1. APRF10 poradhar  Group e-tender",
+        "2. APRF10 poradhar  e-tender cum Auction",
+        "3. GENERAL REPAIR AND MAINTENANCE WORK IN RESIDENTIAL QUARTERS RAJAT JAYANTI COMPLEX SUKHL"
       ]
     },
     {
@@ -73,9 +69,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintanance and Repairs to School building at Corporation Elementry School Tennur East,",
-        "2. Tiruvannamalai City Municipal Corporation Providing BT surface for restoration of patch",
-        "3. Procurement of  ECF Pump SP 500 SR-V-EP, Part no.577 1000 829 for CBFL BSW1 and ECF POW"
+        "1. Procurement of  ECF Pump SP 500 SR-V-EP, Part no.577 1000 829 for CBFL BSW1 and ECF POW",
+        "2. Licence to Operate festival Temporary Shops",
+        "3. Tiruvannamalai City Municipal Corporation Providing BT surface for restoration of patch"
       ]
     },
     {
@@ -86,7 +82,7 @@
       "sample_titles": [
         "1. Hiring of Manpower through Service Provider for Cleaning and Sweeping in the areas of R",
         "2. TENDER FOR THE SUPPLY OF 2000 MT INDONESIAN STEAM COAL",
-        "3. P/R/L Interlocking tiles For  Laying RCC Pipe Line for Dosposal of Rain Watar Jaswant S"
+        "3. P/L interlocking tiles road gully officer colony to major singh kamboj house satwara fi"
       ]
     },
     {
@@ -95,9 +91,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const. of CC street near Shri Radhey Enterprises via Nehra park (road id_05632),Jagdish",
-        "2. Construction Of IPB ShamShaan Ghaat Road In Ward No-05 Rohtak",
-        "3. Construction of CC street near H/o Khurana via Raj Malhotra and S.K Jain(ULB_RTK_05078)"
+        "1. Construction of CC street near H/o Khurana via Raj Malhotra and S.K Jain(ULB_RTK_05078)",
+        "2. Const. of CC streets form meenu makeover to kripal kriyana store, around indra colony p",
+        "3. Estimate for Repair and Maintenance of Community Center in J.P Colony Ward no. 01, M.C."
       ]
     },
     {
@@ -106,9 +102,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of health building infrastructure at PHC Ranjabadi of Tikabali block.",
+        "1. Upgradation of health building infrastructure at PHC Arapaju of phulbani block",
         "2. Upgradation of health building infratsructure at PHC Sugudabadi of Raikia block.",
-        "3. Upgradation of health building infrastucture at PHC Khariapada of G.Udaygiri block."
+        "3. Construction of Play ground in Odisha Adarsha Vidyalaya at Suanpada under Ghasipura Blo"
       ]
     },
     {
@@ -119,7 +115,7 @@
       "sample_titles": [
         "1. E-Quotation for 1 NO. V.T. PUMPSET AND OTHER ALLIED ACCESSORIES ALONG WITH ASSOCIATED W",
         "2. Current Market Rate Supply of Materials/Equipment for Preparation of Estimate and Tende",
-        "3. Construction of 09 Seater toilet Near Sohrai Jatra Bada Ghagra under Ward No-48 under R"
+        "3. WSSIPB, Construction of 400mm x120 M deep high yield Gravel packed Tube well, 5000 lite"
       ]
     },
     {
@@ -148,7 +144,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7dc1404ada50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x73158419ef50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -165,13 +161,9 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Annual Plan-2026-27 VALANCHERY KANKANAM ROAD RE TARRING WARD 5 Proj no  51 in MAMPAD GR",
-        "2. Annual Plan-MAMPAD GP 2026-27 KURATHIYARPOYIL CHEMMARAM ROAD RE TARRING WARD 12 PRJ NO.",
-        "3. Annual Plan-MAMPAD GP 2026-27 OLAVANNA KRISHNAN ROAD CONCRETE WARD 16 Proj no 154/27 in"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
@@ -179,9 +171,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627113985 -C/O WATER DIVERSION STRUCTURE (WEIR) WITH REGULATED CONVEYANCE ARRANGE",
-        "2. Establishment of Kindergarden at BHS Pandrathan.",
-        "3. Establishment of Kindergarden at PS Khonmoh Check"
+        "1. RDDDC2627105148-CO DRAIN FROM HO MOHD AMIN KHAN TO MASJID SHARIF AT NARBAL BLOCK NEWA",
+        "2. RDDDC2627116183 Constt of drain at Spot NHO 1) Muneer Ahmad Malik 2) Dilber lateef and ",
+        "3. Establishment of Kindergarden at BHS Batwara."
       ]
     }
   ],
