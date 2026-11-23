@@ -1,12 +1,16 @@
 {
-  "checked_at_utc": "2026-11-22 19:02:18",
+  "checked_at_utc": "2026-11-23 01:24:07",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Maintenance of various colonies under Nazul A/C-II, Dwarka Zone.SH-Providing services o",
+        "2. Renovation/Modernization work of Auditorium at IIT Roorkee Saharanpur Campus.",
+        "3. Maintenance of Various Sports complexes."
+      ]
     },
     {
       "name": "Uttar Pradesh",
@@ -15,8 +19,8 @@
       "status": "ok",
       "sample_titles": [
         "1. Manunagar Chandela Road Km 3 to Nasratnagar Road",
-        "2. Swar Bilaspur Marg se Mukrampur Marg",
-        "3. Construction of a culvert 1 x 6 m span  and  its approach road at km 1 of  Bijarkhata S"
+        "2. Construction of a culvert 1 x 6 m span  and  its approach road at km 1 of  Bijarkhata S",
+        "3. Gulamganj se Harsunagla Marg"
       ]
     },
     {
@@ -80,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Hiring of Manpower through Service Provider for Cleaning and Sweeping in the areas of R",
-        "2. TENDER FOR THE SUPPLY OF 2000 MT INDONESIAN STEAM COAL",
-        "3. P/L interlocking tiles road gully officer colony to major singh kamboj house satwara fi"
+        "1. TENDER FOR THE SUPPLY OF 2000 MT INDONESIAN STEAM COAL",
+        "2. Hiring of Manpower through Service Provider for Cleaning and Sweeping in the areas of R",
+        "3. Repair of various street w.no.13 at mc banur"
       ]
     },
     {
@@ -91,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Construction of CC street near H/o Khurana via Raj Malhotra and S.K Jain(ULB_RTK_05078)",
-        "2. Const. of CC streets form meenu makeover to kripal kriyana store, around indra colony p",
-        "3. Estimate for Repair and Maintenance of Community Center in J.P Colony Ward no. 01, M.C."
+        "1. Constuction of CC street near Raj Furniture, Shyam Atta Chakki (ULB_RTK_07521) and near",
+        "2. Const. of CC streets in Nand colony, Gopalpura,Ambedkar Nagar,Kua Mohalla and Garhi Moh",
+        "3. Const. Of CC and IPB Sadanand Library road revenue rasta In Ward No-05 MC Rohtak"
       ]
     },
     {
@@ -102,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Upgradation of health building infrastructure at PHC Arapaju of phulbani block",
-        "2. Upgradation of health building infratsructure at PHC Sugudabadi of Raikia block.",
-        "3. Construction of Play ground in Odisha Adarsha Vidyalaya at Suanpada under Ghasipura Blo"
+        "1. Construction of Play ground in Odisha Adarsha Vidyalaya at Suanpada under Ghasipura Blo",
+        "2. UPgradatio  of health building infratructure at PHC Badagada of Raikia block.",
+        "3. Upgradation of health building infrastructure at PHC Guttingia of Tikabali block."
       ]
     },
     {
@@ -115,7 +119,7 @@
       "sample_titles": [
         "1. E-Quotation for 1 NO. V.T. PUMPSET AND OTHER ALLIED ACCESSORIES ALONG WITH ASSOCIATED W",
         "2. Current Market Rate Supply of Materials/Equipment for Preparation of Estimate and Tende",
-        "3. WSSIPB, Construction of 400mm x120 M deep high yield Gravel packed Tube well, 5000 lite"
+        "3. BALA PANTING (Building As Learning Aid)"
       ]
     },
     {
@@ -144,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x73158419ef50>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7dd9f41b4350>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -161,9 +165,13 @@
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etenders.kerala.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Annual Plan-2026-27 MAMPAD GP CHEMBANKAD SHAMEER ROAD CONCRETE WARD 16 Proj no. 466/27-",
+        "2. Annual Plan-MAMPAD GP Proj no. 136/2026-27 MADASSERI IBRAHEEM ROAD- RENOVATION WARD 16 ",
+        "3. Annual Plan-MAMPAD GP 2026-27 KUNDOOR RAJAN ROAD CONCRETE WARD 16 Proj no. 158/26)-in M"
+      ]
     },
     {
       "name": "Jammu and Kashmir",
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RDDDC2627105148-CO DRAIN FROM HO MOHD AMIN KHAN TO MASJID SHARIF AT NARBAL BLOCK NEWA",
-        "2. RDDDC2627116183 Constt of drain at Spot NHO 1) Muneer Ahmad Malik 2) Dilber lateef and ",
-        "3. Establishment of Kindergarden at BHS Batwara."
+        "1. Installation of Borewell NLO Fayaz Ahmad Khan and others at Newa",
+        "2. RDDDC2627104594 -(CONST OF LANE FROM MOHD ALTAF ALIE TO MASJID SHARIEF AT SHADIMARG (SH",
+        "3. Digging of a borewell at Chakher Kha near the land of Muzafar Ahmad Magray S/O Gh Mohd "
       ]
     }
   ],
