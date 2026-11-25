@@ -1,19 +1,27 @@
 {
-  "checked_at_utc": "2026-11-24 19:57:41",
+  "checked_at_utc": "2026-11-25 03:57:24",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Improvement of toilet block at HQ and various Bops of 67 Bn BSF under SHQ BSF Krishnana",
+        "2. SITC of 1200 mm Ceiling fans against condemnation of 67 Bn Dhubulia campus under SHQ BS",
+        "3. ZC/NFC/Inst/374"
+      ]
     },
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
-      "sample_titles": []
+      "tenders_seen": 23,
+      "status": "ok",
+      "sample_titles": [
+        "1. Sr of Belawa me Mataru ke dukan se Mohana sc basti link road",
+        "2. Sr of Lamhan link road",
+        "3. Sr of Dugauli kala link road"
+      ]
     },
     {
       "name": "Maharashtra",
@@ -21,9 +29,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Maintenance and Repairs for One Year to Nandale to Borkund Mandal Dhadara Dhadari Purme",
-        "2. Yearly Maintenance and Repairs to SH-14 to Varsa Zakraibari to State Border Road MDR-36",
-        "3. Maintenance and Repairs for One Year to Nashik District Border to Nandale Bu. Tarwade N"
+        "1. P/F Play Equipment for Small Children and Beautification work at Ward No. 151, Nana Nan",
+        "2. Const. of Jogging Track and Beautification work at Ward No. 89, New Ekta Krida Mandal, ",
+        "3. Beautification work and P/F Open Gym at Ward No. 89, Pandit Dindayal Upadhyay Udyan, Va"
       ]
     },
     {
@@ -32,9 +40,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Cleaning work in Ward No. 19 to 25 and transportation of collected garbage to the desig",
-        "2. Cleaning work in Ward No. 13 to 18 and transportation of collected garbage to the desig",
-        "3. Providing and erection direction and place identification retro-reflectorised sign boar"
+        "1. Providing and Fixing Closed Combistion Cremation Furnace (CCF) at Dungarpur.",
+        "2. NIT No 97/2026-27",
+        "3. NIT No 92/2026-27"
       ]
     },
     {
@@ -43,9 +51,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Auction for allotment of  shop no 45  located in Ward 42 Civic Center Bilaunji",
-        "2.  Road construction work and other related works in Sethi Nagar located within the Girir",
-        "3. Road and culvert construction and other works in Giriraj Kishore Ward (Rampur area) spe"
+        "1. TENDER CUM AUCTION OF SHOPS NO. 15  RESERVED FOR   Other Backward Classes (OBC)",
+        "2. Construction of  50-seater SC girls hostel at Nainpur, District - Mandla (M.P.) With El",
+        "3. Construction Work of 02 Sub Health Center Village Barbet Block Petlawad and Village Tal"
       ]
     },
     {
@@ -54,9 +62,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. REMOVAL THE GANGWAY ALONGWITH PONTOON OF LOT-8 JETTY NO.1 TO FACILITATE THE DREDGING WO",
-        "2. supply Miscellaneous Articles General Articles Plumbing Articles Articles",
-        "3. SUPPLY OF LIFE JACKET UNDER W.B.S.T.C. LTD."
+        "1. Strengthening of entire earthing network of CT-4 and Tit-Bit welding, cutting and asso-",
+        "2. ANTI-CORROSION COATING (CORRO-COATING) OF 6 NOS. (MAXIMUM) CW PUMP WETTED STATIONARY PA",
+        "3. ANNUAL RATE CONTRACT FOR OVERHAULING OF LT MOTORS 415V 90KW-160KW,BKTPS"
       ]
     },
     {
@@ -65,9 +73,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. RE TENDER-GENERAL FUND WORKS 2026-27 Unnamalaikadai TP-Restoration Patches and Potholes",
-        "2. Special Repair to  Leaky Roof, Painting and Other repair works for Four Class room in A",
-        "3. Palapallam TP - Restoration patches and potholes on Cement Concrete Roads for various a"
+        "1. PROVIDING  POTHOLES / PATCHES IN WARD NO 1 TO 13 ZONE 01 IN THANJAVUR CITY MUNICIPAL CO",
+        "2. PROVIDING  POTHOLES / PATCHES IN WARD NO 29 TO 41 ZONE 03 IN THANJAVUR CITY MUNICIPAL C",
+        "3. Special Repairs by Renewal of LTUG Cables and Power mains to the Annex Building and to "
       ]
     },
     {
@@ -76,9 +84,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Rough Cost Estimate for Construction of Side berm at Jodhpur Road both side at MC Tarn ",
-        "2. Rough Cost Estimate For Construction of Gali Dr Lauka Wali Noordi Bazar Ward No 21 at M",
-        "3. Rough Cost Estimate for Construction of side berm at Deep Avenue Road both side at MC T"
+        "1. Repair,reconstruction providing and laying interlocking tile and construction of road g",
+        "2. Providing and laying interlocking tile and construction of road gully chamber in street",
+        "3. Construction of road gully chamber, pipe line and Repair,reconstruction   Street Pancha"
       ]
     },
     {
@@ -87,9 +95,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. JOBNO.HSVP/AMB/2026-27/E-811",
-        "2. JOBNO.HSVP/AMB/2026-27/E-809",
-        "3. JOBNO.HSVP/AMB/2026-27/E-810"
+        "1. Providing and fixing of 90 watt LED Street Lights from Jain Chowk to Sardaron ka Dera W",
+        "2. QDP-1532 NIT 1412 for procuremnt of un-armoured copper control cable as rate contract o",
+        "3. REPAIR OF IPB STREET FROM H..."
       ]
     },
     {
@@ -98,9 +106,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. 1) L047Jankia to Mundamba Road OR18152Clubbing Package no PM_BBSR_78",
+        "1. Procurement, Supply, Installation, Commissioning and Maintenance of LED Billboard Displ",
         "2. 1) RD road Kotari Road OR18102BClubbing Package no PM_BBSR_77",
-        "3. 1) L062Kendupalli to Godipokhari Road OR18ADB22 and 2) T03Begunia Chatua to Lodhachua M"
+        "3. 1) L047Jankia to Mundamba Road OR18152Clubbing Package no PM_BBSR_78"
       ]
     },
     {
@@ -109,9 +117,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Const of HYDT  with Inst of  Deep IM II HP with prov of 1HP Solar motor Steel str frame",
-        "2. Constr of DT of 125-115mm dia 90 mtrs deep with installation of IM II Hand Pump Under D",
-        "3. Constr of DT of 125-115mm dia 90 mtrs deep with installation of IM II Hand Pump Under D"
+        "1. Selection of Agency(ies) for providing Housekeeping Services in Medical Facilities in a",
+        "2. REQUEST FOR QUALIFICATION FOR SELECTION OF AGENCY(IES) FOR PROVIDING PARAMEDICAL TECHNI",
+        "3. Construction of PCC Road And Drain at Vikas Nagar From H/o Ratan Baraik  Ward No. 06, C"
       ]
     },
     {
@@ -120,9 +128,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. R/R damages on Sarkali Kyari Shillan road km. 0/0 to 10/105",
-        "2. R/R damages on Neoty to Lakhawati road km. 0/0 to 3/800",
-        "3. Improvement of Sarain to Bijat Maharaj Temple km. 0/0 to 1/0."
+        "1. CO Ambulance road from main road Bassi Tatahar from House of Sh Prem Chand to Bhukkar v",
+        "2. RR damages to link road to village Dalalar km 0 00 to 0900 SH CO Rwall from RD 0750 to ",
+        "3. Balance work for C/O Link Road Dagruhi to Trinda Theru Khola Chandron road Km 0/00 to 2"
       ]
     },
     {
@@ -140,7 +148,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x73cfff0390d0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x780f51458bd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
@@ -160,9 +168,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Annual Plan- MAMPAD GP PROJ No. 174/2026-27 IMPROVEMENT OF BASIC FACILITIES IN GMLP SCH",
-        "2. DEPOSIT-SITC of Lift at SAT A Block-Supply Installation Testing and Comissioning of Bed",
-        "3. MP-LADS-KYIP-2025 -26 Construction of Bridge across left bank main canal near Valoor at"
+        "1. MP-LADS-2025-26 Work proposed by Shri Haris Beeran MP(RS)Construction work for the wait",
+        "2.  Annual Plan-MRDY 222/2027 MVIP Canal Road Renovation Ward 11-Marady GP-General Civil W",
+        "3. Annual Plan-Kuruvattur GP-117-2026-2027-Unniyechan Kandi Komatu Chalil Road"
       ]
     },
     {
@@ -171,9 +179,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Protection Work R Wall Graveyard W No 6 Pyt. Bedar Block Mandi Under PRI Grant Year 202",
-        "2. Construction of Water Tank nr Makhianwala Galota Charangary W.No. 1 Pyt. Mankote Upper ",
-        "3. P/Work/R/Wall Nr. H/o Shahid Iqbal Farouqi at W.No. 05 Pyt. Chungan Choudhrian Block Me"
+        "1. CONSTT OF P PATH FROM LINK ROAD TO MS TANOONI",
+        "2. C/O TILE PATH FROM LINK ROAD TO H/O KHURSHID AH LONE AND TILE PATH FROM H/O MOHD SHAHBA",
+        "3. C/O R/ WALL NEAR HOUSE OF MOHAMMAD YOUNIS GANIE AT TANG MOHALLAH AT SK BALA B"
       ]
     }
   ],
