@@ -1,16 +1,12 @@
 {
-  "checked_at_utc": "2026-11-25 03:57:24",
+  "checked_at_utc": "2026-11-25 16:47:07",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
       "state": "Central",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Improvement of toilet block at HQ and various Bops of 67 Bn BSF under SHQ BSF Krishnana",
-        "2. SITC of 1200 mm Ceiling fans against condemnation of 67 Bn Dhubulia campus under SHQ BS",
-        "3. ZC/NFC/Inst/374"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Uttar Pradesh",
@@ -18,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Sr of Belawa me Mataru ke dukan se Mohana sc basti link road",
-        "2. Sr of Lamhan link road",
-        "3. Sr of Dugauli kala link road"
+        "1. TD-576/26",
+        "2. Construction of SAS based 2x40 MVA, 132/33KV Substation Jiyanpur, Azamgaeh on double Ma",
+        "3. SKSCM CIVIL WORK/ RECONSTRUCTION WORK OF WEAK AND DAMAGED BOUNDRYWALL OF GM BUNGLOW/202"
       ]
     },
     {
@@ -29,21 +25,17 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. P/F Play Equipment for Small Children and Beautification work at Ward No. 151, Nana Nan",
-        "2. Const. of Jogging Track and Beautification work at Ward No. 89, New Ekta Krida Mandal, ",
-        "3. Beautification work and P/F Open Gym at Ward No. 89, Pandit Dindayal Upadhyay Udyan, Va"
+        "1. Supply of Pavilion, stage, decoration lighting, sound system and other materials for re",
+        "2. Repairs to Hinduhridaysamrat Balasaheb Thackeray Aapla dawakhana Millat nagar Dispensar",
+        "3. Providing erecting and commissioning Led street light on Pole at Ishwarnagar Tanda-1 GP"
       ]
     },
     {
       "name": "Rajasthan",
       "state": "Rajasthan",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Providing and Fixing Closed Combistion Cremation Furnace (CCF) at Dungarpur.",
-        "2. NIT No 97/2026-27",
-        "3. NIT No 92/2026-27"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Madhya Pradesh",
@@ -51,9 +43,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. TENDER CUM AUCTION OF SHOPS NO. 15  RESERVED FOR   Other Backward Classes (OBC)",
-        "2. Construction of  50-seater SC girls hostel at Nainpur, District - Mandla (M.P.) With El",
-        "3. Construction Work of 02 Sub Health Center Village Barbet Block Petlawad and Village Tal"
+        "1. Procurement of High Pressure Hydraulic hoses along with complete end fittings including",
+        "2. Auction for allotment of  shop no 72  located in Ward 42 Civic Center Bilaunji",
+        "3. CONSTRUCTION OF CEMENT ROAD AND RCC DRAIN IN TEKDI WARD PANDHURNA"
       ]
     },
     {
@@ -62,127 +54,87 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Strengthening of entire earthing network of CT-4 and Tit-Bit welding, cutting and asso-",
-        "2. ANTI-CORROSION COATING (CORRO-COATING) OF 6 NOS. (MAXIMUM) CW PUMP WETTED STATIONARY PA",
-        "3. ANNUAL RATE CONTRACT FOR OVERHAULING OF LT MOTORS 415V 90KW-160KW,BKTPS"
+        "1. 04/MZRMC/SECY/2026-27",
+        "2. EO_GBDA_151_2026_27",
+        "3. 05/MZRMC/SECY/2026-27"
       ]
     },
     {
       "name": "Tamil Nadu",
       "state": "Tamil Nadu",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. PROVIDING  POTHOLES / PATCHES IN WARD NO 1 TO 13 ZONE 01 IN THANJAVUR CITY MUNICIPAL CO",
-        "2. PROVIDING  POTHOLES / PATCHES IN WARD NO 29 TO 41 ZONE 03 IN THANJAVUR CITY MUNICIPAL C",
-        "3. Special Repairs by Renewal of LTUG Cables and Power mains to the Annex Building and to "
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Punjab",
       "state": "Punjab",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Repair,reconstruction providing and laying interlocking tile and construction of road g",
-        "2. Providing and laying interlocking tile and construction of road gully chamber in street",
-        "3. Construction of road gully chamber, pipe line and Repair,reconstruction   Street Pancha"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Haryana",
       "state": "Haryana",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Providing and fixing of 90 watt LED Street Lights from Jain Chowk to Sardaron ka Dera W",
-        "2. QDP-1532 NIT 1412 for procuremnt of un-armoured copper control cable as rate contract o",
-        "3. REPAIR OF IPB STREET FROM H..."
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Odisha",
       "state": "Odisha",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Procurement, Supply, Installation, Commissioning and Maintenance of LED Billboard Displ",
-        "2. 1) RD road Kotari Road OR18102BClubbing Package no PM_BBSR_77",
-        "3. 1) L047Jankia to Mundamba Road OR18152Clubbing Package no PM_BBSR_78"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Jharkhand",
       "state": "Jharkhand",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Selection of Agency(ies) for providing Housekeeping Services in Medical Facilities in a",
-        "2. REQUEST FOR QUALIFICATION FOR SELECTION OF AGENCY(IES) FOR PROVIDING PARAMEDICAL TECHNI",
-        "3. Construction of PCC Road And Drain at Vikas Nagar From H/o Ratan Baraik  Ward No. 06, C"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Himachal Pradesh",
       "state": "Himachal Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. CO Ambulance road from main road Bassi Tatahar from House of Sh Prem Chand to Bhukkar v",
-        "2. RR damages to link road to village Dalalar km 0 00 to 0900 SH CO Rwall from RD 0750 to ",
-        "3. Balance work for C/O Link Road Dagruhi to Trinda Theru Khola Chandron road Km 0/00 to 2"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Uttarakhand",
       "state": "Uttarakhand",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Supply of electrical consumables",
-        "2. Improvement of road from Canal road to Helipad Sahastradhara road leading to Chalang, t",
-        "3. SE/EDC-RKE/2026-27/61"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x780f51458bd0>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x73339a0c2690>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
       "name": "Assam",
       "state": "Assam",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. PROCUREMENT AND SUPPLY OF MEDICAL TEXTBOOKS ON TURNKEY BASIS FOR LAKHIMPUR MEDICAL COLL",
-        "2. Construction of Anti-Poaching Camp at Bonoria Chapori Under CAMPA Scheme in Jengraimukh",
-        "3. Turnkey Construction of 01 (one) no. of 33kV OIL Feeder Bay (Charigaon) at 132 kV Garmu"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Kerala",
       "state": "Kerala",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. MP-LADS-2025-26 Work proposed by Shri Haris Beeran MP(RS)Construction work for the wait",
-        "2.  Annual Plan-MRDY 222/2027 MVIP Canal Road Renovation Ward 11-Marady GP-General Civil W",
-        "3. Annual Plan-Kuruvattur GP-117-2026-2027-Unniyechan Kandi Komatu Chalil Road"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     },
     {
       "name": "Jammu and Kashmir",
       "state": "Jammu and Kashmir",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. CONSTT OF P PATH FROM LINK ROAD TO MS TANOONI",
-        "2. C/O TILE PATH FROM LINK ROAD TO H/O KHURSHID AH LONE AND TILE PATH FROM H/O MOHD SHAHBA",
-        "3. C/O R/ WALL NEAR HOUSE OF MOHAMMAD YOUNIS GANIE AT TANG MOHALLAH AT SK BALA B"
-      ]
+      "tenders_seen": 0,
+      "status": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "sample_titles": []
     }
   ],
   "new_matches_found": 0
