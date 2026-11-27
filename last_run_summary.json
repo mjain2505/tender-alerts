@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-26 20:55:42",
+  "checked_at_utc": "2026-11-27 03:29:43",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -14,9 +14,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Balance work in village Mohammadpur Gujjar YEIDA WC-06",
+        "1. Resurfacing work of internal road of Pocket - C , Sector -20 YEA WC-02",
         "2. Construction of C.C. Road and Laying of Interlocking Tiles on Both Sides Along the Main",
-        "3. Line Nu.05"
+        "3. Development works at the Kali Devi Temple (Kali Bari), located in the Sadar assembly co"
       ]
     },
     {
@@ -26,8 +26,8 @@
       "status": "ok",
       "sample_titles": [
         "1. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN GP SAWARGAON GORE TQ PUSAD DIST YAVAT",
-        "2. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN GP SAWARGAON GORE TQ PUSAD DIST YAVAT",
-        "3. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN AND RAPTA GP SAWARGAON GORE TQ PUSAD "
+        "2. PRABHAG KR 12 K MADHYE VIVIDH THIKANI BHINTIVAR SWACHH ABHIYAN MOHIMEANTARGAT PANIRODHA",
+        "3. Development of Staff Quarters and Ancillary Police Facilities at Panvel, Navi Mumbai, u"
       ]
     },
     {
@@ -43,9 +43,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. Supply of P-way material for maintenance of railway track (60 Kg Rail) from Surgaon Ban",
-        "2. Work contract for Assistance in account related work and proper filling arrangement /bi",
-        "3. Hotel Tender"
+        "1. Procurement of 01 no. Portable Turbidity meter and 02 nos. Benchtop Turbidity metar for",
+        "2. Work of Transportation and Shifting of 01 No. Locomotive along with loading and unloadi",
+        "3. Procurement of recommended mandatory spares of Voith make hydraulic coupling Type- R18-"
       ]
     },
     {
@@ -56,7 +56,7 @@
       "sample_titles": [
         "1. NIET 13 of 2026-27 Development of cluster for Green Firecracker manufacturing and selli",
         "2. HIDCO/GM (Elec)_eNIT-72/2026-27",
-        "3. WBMAD/UM/220/e-Tender/2026-27 sl 14"
+        "3. AIC/PD/EE/NIeT-15(2nd Call)/26-27"
       ]
     },
     {
@@ -112,7 +112,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7b81f24b6310>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7762370be310>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
