@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-27 03:29:43",
+  "checked_at_utc": "2026-11-27 16:07:53",
   "portals": [
     {
       "name": "CPPP - Central Government (all ministries)",
@@ -11,13 +11,9 @@
     {
       "name": "Uttar Pradesh",
       "state": "Uttar Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Resurfacing work of internal road of Pocket - C , Sector -20 YEA WC-02",
-        "2. Construction of C.C. Road and Laying of Interlocking Tiles on Both Sides Along the Main",
-        "3. Development works at the Kali Devi Temple (Kali Bari), located in the Sadar assembly co"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='etender.up.nic.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "Maharashtra",
@@ -25,9 +21,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. CONSTRUCTION OF UNDERGROUND CEMENT CONCRETE DRAIN GP SAWARGAON GORE TQ PUSAD DIST YAVAT",
-        "2. PRABHAG KR 12 K MADHYE VIVIDH THIKANI BHINTIVAR SWACHH ABHIYAN MOHIMEANTARGAT PANIRODHA",
-        "3. Development of Staff Quarters and Ancillary Police Facilities at Panvel, Navi Mumbai, u"
+        "1. WORK NO 7 AKBAR MOHALLA ANTARGAT ABHISHEK PATIL GHAR TE GAWANDI GHAR WA NADAF BOL DRENE",
+        "2. Improvement of Passage and Drainage System at Building No 38 Sahakar Nagar Wadala (W) i",
+        "3. Providing and Fixing Bollard at Various Location in beat No 178 in F/north Ward"
       ]
     },
     {
@@ -40,13 +36,9 @@
     {
       "name": "Madhya Pradesh",
       "state": "Madhya Pradesh",
-      "tenders_seen": 23,
-      "status": "ok",
-      "sample_titles": [
-        "1. Procurement of 01 no. Portable Turbidity meter and 02 nos. Benchtop Turbidity metar for",
-        "2. Work of Transportation and Shifting of 01 No. Locomotive along with loading and unloadi",
-        "3. Procurement of recommended mandatory spares of Voith make hydraulic coupling Type- R18-"
-      ]
+      "tenders_seen": 0,
+      "status": "HTTPSConnectionPool(host='mptenders.gov.in', port=443): Read timed out. (read timeout=25)",
+      "sample_titles": []
     },
     {
       "name": "West Bengal",
@@ -54,9 +46,9 @@
       "tenders_seen": 23,
       "status": "ok",
       "sample_titles": [
-        "1. NIET 13 of 2026-27 Development of cluster for Green Firecracker manufacturing and selli",
-        "2. HIDCO/GM (Elec)_eNIT-72/2026-27",
-        "3. AIC/PD/EE/NIeT-15(2nd Call)/26-27"
+        "1. WBKP/CP/NIT- 268/ PA and SOUND SYSTEM Annual Tender Hiring /TEN,  Dated . 27.11.2026",
+        "2. 7358 /NKDA/Engg/EE (R and B)/ 606/2026",
+        "3. WBKP/CP/NIT- 267/ Electrical (Annual Tender Hiring)/ TEN, Dated- 27.11.2026"
       ]
     },
     {
@@ -112,7 +104,7 @@
       "name": "Chhattisgarh",
       "state": "Chhattisgarh",
       "tenders_seen": 0,
-      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7762370be310>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
+      "status": "HTTPSConnectionPool(host='eproc.cgstate.gov.in', port=443): Max retries exceeded with url: /nicgep/app (Caused by ConnectTimeoutError(<HTTPSConnection(host='eproc.cgstate.gov.in', port=443) at 0x7a4deb7a9510>, 'Connection to eproc.cgstate.gov.in timed out. (connect timeout=25)'))",
       "sample_titles": []
     },
     {
